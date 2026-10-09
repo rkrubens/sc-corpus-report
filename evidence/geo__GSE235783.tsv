@@ -1,0 +1,205 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7509503	geo:GSE235783:GSM7509503	donor_id	RRMM1	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM1_T1	True
+GSM7509503	geo:GSE235783:GSM7509503	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509503	geo:GSE235783:GSM7509503	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509503	geo:GSE235783:GSM7509503	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509503	geo:GSE235783:GSM7509503	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509503	geo:GSE235783:GSM7509503	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509504	geo:GSE235783:GSM7509504	donor_id	RRMM1	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM1_T2	True
+GSM7509504	geo:GSE235783:GSM7509504	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509504	geo:GSE235783:GSM7509504	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509504	geo:GSE235783:GSM7509504	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509504	geo:GSE235783:GSM7509504	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509504	geo:GSE235783:GSM7509504	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509505	geo:GSE235783:GSM7509505	donor_id	RRMM2	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM2_T2	True
+GSM7509505	geo:GSE235783:GSM7509505	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509505	geo:GSE235783:GSM7509505	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509505	geo:GSE235783:GSM7509505	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509505	geo:GSE235783:GSM7509505	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509505	geo:GSE235783:GSM7509505	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509506	geo:GSE235783:GSM7509506	donor_id	RRMM3	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM3_T1	True
+GSM7509506	geo:GSE235783:GSM7509506	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509506	geo:GSE235783:GSM7509506	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509506	geo:GSE235783:GSM7509506	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509506	geo:GSE235783:GSM7509506	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509506	geo:GSE235783:GSM7509506	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509507	geo:GSE235783:GSM7509507	donor_id	RRMM3	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM3_T2	True
+GSM7509507	geo:GSE235783:GSM7509507	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509507	geo:GSE235783:GSM7509507	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509507	geo:GSE235783:GSM7509507	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509507	geo:GSE235783:GSM7509507	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509507	geo:GSE235783:GSM7509507	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509508	geo:GSE235783:GSM7509508	donor_id	RRMM5	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM5_T2	True
+GSM7509508	geo:GSE235783:GSM7509508	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509508	geo:GSE235783:GSM7509508	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509508	geo:GSE235783:GSM7509508	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509508	geo:GSE235783:GSM7509508	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509508	geo:GSE235783:GSM7509508	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509509	geo:GSE235783:GSM7509509	donor_id	RRMM6	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM6_T1	True
+GSM7509509	geo:GSE235783:GSM7509509	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509509	geo:GSE235783:GSM7509509	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509509	geo:GSE235783:GSM7509509	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509509	geo:GSE235783:GSM7509509	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509509	geo:GSE235783:GSM7509509	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509510	geo:GSE235783:GSM7509510	donor_id	RRMM6	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM6_T2	True
+GSM7509510	geo:GSE235783:GSM7509510	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509510	geo:GSE235783:GSM7509510	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509510	geo:GSE235783:GSM7509510	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509510	geo:GSE235783:GSM7509510	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509510	geo:GSE235783:GSM7509510	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509511	geo:GSE235783:GSM7509511	donor_id	RRMM7	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM7_T1	True
+GSM7509511	geo:GSE235783:GSM7509511	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509511	geo:GSE235783:GSM7509511	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509511	geo:GSE235783:GSM7509511	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509511	geo:GSE235783:GSM7509511	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509511	geo:GSE235783:GSM7509511	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509512	geo:GSE235783:GSM7509512	donor_id	RRMM7	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM7_T2	True
+GSM7509512	geo:GSE235783:GSM7509512	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509512	geo:GSE235783:GSM7509512	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509512	geo:GSE235783:GSM7509512	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509512	geo:GSE235783:GSM7509512	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509512	geo:GSE235783:GSM7509512	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509513	geo:GSE235783:GSM7509513	donor_id	RRMM7	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM7_BME1	True
+GSM7509513	geo:GSE235783:GSM7509513	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509513	geo:GSE235783:GSM7509513	cell_enrichment	CD138-negative fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-negative fraction	True
+GSM7509513	geo:GSE235783:GSM7509513	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509513	geo:GSE235783:GSM7509513	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509513	geo:GSE235783:GSM7509513	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509514	geo:GSE235783:GSM7509514	donor_id	RRMM7	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM7_BME2	True
+GSM7509514	geo:GSE235783:GSM7509514	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509514	geo:GSE235783:GSM7509514	cell_enrichment	CD138-negative fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-negative fraction	True
+GSM7509514	geo:GSE235783:GSM7509514	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509514	geo:GSE235783:GSM7509514	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509514	geo:GSE235783:GSM7509514	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509515	geo:GSE235783:GSM7509515	donor_id	RRMM9	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM9_T1	True
+GSM7509515	geo:GSE235783:GSM7509515	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509515	geo:GSE235783:GSM7509515	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509515	geo:GSE235783:GSM7509515	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509515	geo:GSE235783:GSM7509515	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509515	geo:GSE235783:GSM7509515	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509516	geo:GSE235783:GSM7509516	donor_id	RRMM9	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM9_T2	True
+GSM7509516	geo:GSE235783:GSM7509516	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509516	geo:GSE235783:GSM7509516	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509516	geo:GSE235783:GSM7509516	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509516	geo:GSE235783:GSM7509516	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509516	geo:GSE235783:GSM7509516	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509517	geo:GSE235783:GSM7509517	donor_id	RRMM10	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM10_T1	True
+GSM7509517	geo:GSE235783:GSM7509517	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509517	geo:GSE235783:GSM7509517	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509517	geo:GSE235783:GSM7509517	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509517	geo:GSE235783:GSM7509517	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509517	geo:GSE235783:GSM7509517	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509518	geo:GSE235783:GSM7509518	donor_id	RRMM10	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM10_T2	True
+GSM7509518	geo:GSE235783:GSM7509518	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509518	geo:GSE235783:GSM7509518	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509518	geo:GSE235783:GSM7509518	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509518	geo:GSE235783:GSM7509518	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509518	geo:GSE235783:GSM7509518	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509519	geo:GSE235783:GSM7509519	donor_id	RRMM15	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM15_T1	True
+GSM7509519	geo:GSE235783:GSM7509519	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509519	geo:GSE235783:GSM7509519	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509519	geo:GSE235783:GSM7509519	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509519	geo:GSE235783:GSM7509519	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509519	geo:GSE235783:GSM7509519	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509520	geo:GSE235783:GSM7509520	donor_id	RRMM15	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM15_T2	True
+GSM7509520	geo:GSE235783:GSM7509520	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509520	geo:GSE235783:GSM7509520	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509520	geo:GSE235783:GSM7509520	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509520	geo:GSE235783:GSM7509520	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509520	geo:GSE235783:GSM7509520	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509521	geo:GSE235783:GSM7509521	donor_id	RRMM16	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM16_T1	True
+GSM7509521	geo:GSE235783:GSM7509521	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509521	geo:GSE235783:GSM7509521	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509521	geo:GSE235783:GSM7509521	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509521	geo:GSE235783:GSM7509521	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509521	geo:GSE235783:GSM7509521	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509522	geo:GSE235783:GSM7509522	donor_id	RRMM16	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM16_T2	True
+GSM7509522	geo:GSE235783:GSM7509522	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509522	geo:GSE235783:GSM7509522	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509522	geo:GSE235783:GSM7509522	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509522	geo:GSE235783:GSM7509522	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509522	geo:GSE235783:GSM7509522	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509523	geo:GSE235783:GSM7509523	donor_id	RRMM17	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM17_T2	True
+GSM7509523	geo:GSE235783:GSM7509523	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509523	geo:GSE235783:GSM7509523	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509523	geo:GSE235783:GSM7509523	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509523	geo:GSE235783:GSM7509523	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509523	geo:GSE235783:GSM7509523	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509524	geo:GSE235783:GSM7509524	donor_id	RRMM18	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM18_T1	True
+GSM7509524	geo:GSE235783:GSM7509524	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509524	geo:GSE235783:GSM7509524	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509524	geo:GSE235783:GSM7509524	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509524	geo:GSE235783:GSM7509524	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509524	geo:GSE235783:GSM7509524	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509525	geo:GSE235783:GSM7509525	donor_id	RRMM18	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM18_T2	True
+GSM7509525	geo:GSE235783:GSM7509525	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509525	geo:GSE235783:GSM7509525	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509525	geo:GSE235783:GSM7509525	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509525	geo:GSE235783:GSM7509525	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509525	geo:GSE235783:GSM7509525	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509526	geo:GSE235783:GSM7509526	donor_id	RRMM19	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM19_T1	True
+GSM7509526	geo:GSE235783:GSM7509526	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509526	geo:GSE235783:GSM7509526	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509526	geo:GSE235783:GSM7509526	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509526	geo:GSE235783:GSM7509526	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509526	geo:GSE235783:GSM7509526	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509527	geo:GSE235783:GSM7509527	donor_id	RRMM19	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM19_T2	True
+GSM7509527	geo:GSE235783:GSM7509527	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509527	geo:GSE235783:GSM7509527	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509527	geo:GSE235783:GSM7509527	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509527	geo:GSE235783:GSM7509527	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509527	geo:GSE235783:GSM7509527	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509528	geo:GSE235783:GSM7509528	donor_id	RRMM20	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM20_T1	True
+GSM7509528	geo:GSE235783:GSM7509528	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509528	geo:GSE235783:GSM7509528	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509528	geo:GSE235783:GSM7509528	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509528	geo:GSE235783:GSM7509528	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509528	geo:GSE235783:GSM7509528	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509529	geo:GSE235783:GSM7509529	donor_id	RRMM20	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM20_T2	True
+GSM7509529	geo:GSE235783:GSM7509529	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509529	geo:GSE235783:GSM7509529	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509529	geo:GSE235783:GSM7509529	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509529	geo:GSE235783:GSM7509529	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509529	geo:GSE235783:GSM7509529	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509530	geo:GSE235783:GSM7509530	donor_id	RRMM21	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM21_T1	True
+GSM7509530	geo:GSE235783:GSM7509530	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509530	geo:GSE235783:GSM7509530	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509530	geo:GSE235783:GSM7509530	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509530	geo:GSE235783:GSM7509530	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509530	geo:GSE235783:GSM7509530	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509531	geo:GSE235783:GSM7509531	donor_id	RRMM21	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_title = RRMM21_T2	True
+GSM7509531	geo:GSE235783:GSM7509531	tissue_free_text	bone marrow	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7509531	geo:GSE235783:GSM7509531	cell_enrichment	CD138-positive fraction	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138-positive fraction	True
+GSM7509531	geo:GSE235783:GSM7509531	disease_free_text	multiple myeloma	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Series_overall_design = Single cell ATAC-sequencing of relapsed/refractory multiple myeloma patients.	True
+GSM7509531	geo:GSE235783:GSM7509531	assay	10x scATAC-seq	file	raw/fp-8abf6cf689db/GSE235783_family.soft.gz		!Sample_extract_protocol_ch1 = Library was performed according to the manufactur's instructions (scATAC-seq, v1.0 protocol, 10X Genomics)	True
+GSM7509531	geo:GSE235783:GSM7509531	suspension_type	nucleus	file	evidence/PMC10733835.txt		Nuclei were resuspended in the nuclei buffer provided by 10x Genomics	True
+GSM7509503	geo:GSE235783:GSM7509503	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509503_RRMM1-T1_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509504	geo:GSE235783:GSM7509504	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509504_RRMM1-T2_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509505	geo:GSE235783:GSM7509505	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509505_RRMM2-T2_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509506	geo:GSE235783:GSM7509506	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509506_RRMM3-T1_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509507	geo:GSE235783:GSM7509507	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509507_RRMM3-T2_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509508	geo:GSE235783:GSM7509508	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509508_RRMM5-T2_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509509	geo:GSE235783:GSM7509509	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509509_RRMM6-T1_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509510	geo:GSE235783:GSM7509510	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509510_RRMM6-T2_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509511	geo:GSE235783:GSM7509511	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509511_RRMM7-T1_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509512	geo:GSE235783:GSM7509512	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509512_RRMM7-T2_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509513	geo:GSE235783:GSM7509513	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509513_RRMM7-BME1_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509514	geo:GSE235783:GSM7509514	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509514_RRMM7-BME2_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509515	geo:GSE235783:GSM7509515	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509515_RRMM9-T1_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509516	geo:GSE235783:GSM7509516	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509516_RRMM9-T2_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509517	geo:GSE235783:GSM7509517	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509517_RRMM10-T1_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509518	geo:GSE235783:GSM7509518	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509518_RRMM10-T2_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509519	geo:GSE235783:GSM7509519	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509519_RRMM15-T1_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509520	geo:GSE235783:GSM7509520	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509520_RRMM15-T2_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509521	geo:GSE235783:GSM7509521	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509521_RRMM16-T1_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509522	geo:GSE235783:GSM7509522	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509522_RRMM16-T2_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509523	geo:GSE235783:GSM7509523	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509523_RRMM17-T2_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509524	geo:GSE235783:GSM7509524	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509524_RRMM18-T1_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509525	geo:GSE235783:GSM7509525	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509525_RRMM18-T2_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509526	geo:GSE235783:GSM7509526	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509526_RRMM19-T1_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509527	geo:GSE235783:GSM7509527	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509527_RRMM19-T2_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509528	geo:GSE235783:GSM7509528	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509528_RRMM20-T1_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509529	geo:GSE235783:GSM7509529	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509529_RRMM20-T2_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509530	geo:GSE235783:GSM7509530	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509530_RRMM21-T1_raw_peak_bc_matrix.h5::features/genome			True
+GSM7509531	geo:GSE235783:GSM7509531	atac.genome_assembly	GRCh38	column	work/fp-8abf6cf689db/GSE235783_RAW/GSM7509531_RRMM21-T2_raw_peak_bc_matrix.h5::features/genome			True

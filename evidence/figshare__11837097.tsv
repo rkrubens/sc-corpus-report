@@ -1,0 +1,133 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+MM1	figshare:11837097:MM1	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+MM2	figshare:11837097:MM2	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+MM3	figshare:11837097:MM3	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+MM4	figshare:11837097:MM4	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+healthy1	figshare:11837097:healthy1	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+healthy2	figshare:11837097:healthy2	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+		organism	Homo sapiens	file	evidence/biorxiv_10.1101_421354v9.txt		we applied PopAlign to compare human PBMC samples from healthy donors to patients being treated for multiple myeloma (MM)	True
+		organism	Homo sapiens	file	evidence/biorxiv_10.1101_421354v9.txt		We apply PopAlign to analyze the impact of 40 different immunomodulatory compounds on a heterogeneous population of donor-derived human immune cells as well as patient-specific disease signatures in multiple myeloma	True
+MM1	figshare:11837097:MM1	tissue_free_text	peripheral blood mononuclear cells	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM1	figshare:11837097:MM1	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM1	figshare:11837097:MM1	tissue_ontology_term_id	UBERON:0000178	file	evidence/biorxiv_10.1101_421354v9.txt		we applied PopAlign to compare human PBMC samples from healthy donors to patients being treated for multiple myeloma (MM)	True
+MM1	figshare:11837097:MM1	tissue_type	tissue	file	evidence/biorxiv_10.1101_421354v9.txt		We obtained samples of frozen PBMCs from two healthy and four multiple myeloma patients undergoing various stages of treatment	True
+MM1	figshare:11837097:MM1	cell_enrichment	PBMC	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM1	figshare:11837097:MM1	cell_enrichment	PBMC	file	evidence/biorxiv_10.1101_421354v9.txt		Cryopreserved PBMCs (Hemacare) from healthy and multiple myeloma patients were thawed in a 37C waterbath	True
+MM1	figshare:11837097:MM1	suspension_type	cell	file	evidence/biorxiv_10.1101_421354v9.txt		17,400 cells were loaded into each TENX lane	True
+MM1	figshare:11837097:MM1	assay	10x 3' v2	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM1	figshare:11837097:MM1	assay	10x 3' v2	file	raw/fp-d21da767be5d/portal_metadata.json		Data collected using 10x 3' Gene Expression v2 kit.	True
+MM1	figshare:11837097:MM1	sample_preservation	cryopreserved	file	evidence/biorxiv_10.1101_421354v9.txt		Cryopreserved PBMCs (Hemacare) from healthy and multiple myeloma patients were thawed in a 37C waterbath	True
+MM1	figshare:11837097:MM1	sample_preservation	cryopreserved	file	evidence/biorxiv_10.1101_421354v9.txt		We obtained samples of frozen PBMCs from two healthy and four multiple myeloma patients undergoing various stages of treatment	True
+MM1	figshare:11837097:MM1	disease_free_text	multiple myeloma	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM1	figshare:11837097:MM1	disease_free_text	multiple myeloma	file	evidence/biorxiv_10.1101_421354v9.txt		Experimental single cell mRNA-seq data from two healthy donors and four multiple myeloma patients (MM1-4)	True
+MM1	figshare:11837097:MM1	disease_ontology_term_id	MONDO:0009693	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM1	figshare:11837097:MM1	disease_ontology_term_id	MONDO:0009693	file	evidence/biorxiv_10.1101_421354v9.txt		Experimental single cell mRNA-seq data from two healthy donors and four multiple myeloma patients (MM1-4)	True
+MM1	figshare:11837097:MM1	treatment_status	on treatment	file	evidence/biorxiv_10.1101_421354v9.txt		we applied PopAlign to compare human PBMC samples from healthy donors to patients being treated for multiple myeloma (MM)	True
+MM1	figshare:11837097:MM1	treatment_status	on treatment	file	evidence/biorxiv_10.1101_421354v9.txt		We obtained samples of frozen PBMCs from two healthy and four multiple myeloma patients undergoing various stages of treatment	True
+MM1	figshare:11837097:MM1	donor_id	MM1	file	raw/fp-d21da767be5d/portal_metadata.json		MM1-MM4:	True
+MM1	figshare:11837097:MM1	donor_id	MM1	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM1	figshare:11837097:MM1	donor_id	MM1	file	raw/fp-d21da767be5d/portal_metadata.json		Each data folder includes:	True
+MM1	figshare:11837097:MM1	donor_id	MM1	file	evidence/biorxiv_10.1101_421354v9.txt		Experimental single cell mRNA-seq data from two healthy donors and four multiple myeloma patients (MM1-4)	True
+MM2	figshare:11837097:MM2	tissue_free_text	peripheral blood mononuclear cells	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM2	figshare:11837097:MM2	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM2	figshare:11837097:MM2	tissue_ontology_term_id	UBERON:0000178	file	evidence/biorxiv_10.1101_421354v9.txt		we applied PopAlign to compare human PBMC samples from healthy donors to patients being treated for multiple myeloma (MM)	True
+MM2	figshare:11837097:MM2	tissue_type	tissue	file	evidence/biorxiv_10.1101_421354v9.txt		We obtained samples of frozen PBMCs from two healthy and four multiple myeloma patients undergoing various stages of treatment	True
+MM2	figshare:11837097:MM2	cell_enrichment	PBMC	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM2	figshare:11837097:MM2	cell_enrichment	PBMC	file	evidence/biorxiv_10.1101_421354v9.txt		Cryopreserved PBMCs (Hemacare) from healthy and multiple myeloma patients were thawed in a 37C waterbath	True
+MM2	figshare:11837097:MM2	suspension_type	cell	file	evidence/biorxiv_10.1101_421354v9.txt		17,400 cells were loaded into each TENX lane	True
+MM2	figshare:11837097:MM2	assay	10x 3' v2	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM2	figshare:11837097:MM2	assay	10x 3' v2	file	raw/fp-d21da767be5d/portal_metadata.json		Data collected using 10x 3' Gene Expression v2 kit.	True
+MM2	figshare:11837097:MM2	sample_preservation	cryopreserved	file	evidence/biorxiv_10.1101_421354v9.txt		Cryopreserved PBMCs (Hemacare) from healthy and multiple myeloma patients were thawed in a 37C waterbath	True
+MM2	figshare:11837097:MM2	sample_preservation	cryopreserved	file	evidence/biorxiv_10.1101_421354v9.txt		We obtained samples of frozen PBMCs from two healthy and four multiple myeloma patients undergoing various stages of treatment	True
+MM2	figshare:11837097:MM2	disease_free_text	multiple myeloma	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM2	figshare:11837097:MM2	disease_free_text	multiple myeloma	file	evidence/biorxiv_10.1101_421354v9.txt		Experimental single cell mRNA-seq data from two healthy donors and four multiple myeloma patients (MM1-4)	True
+MM2	figshare:11837097:MM2	disease_ontology_term_id	MONDO:0009693	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM2	figshare:11837097:MM2	disease_ontology_term_id	MONDO:0009693	file	evidence/biorxiv_10.1101_421354v9.txt		Experimental single cell mRNA-seq data from two healthy donors and four multiple myeloma patients (MM1-4)	True
+MM2	figshare:11837097:MM2	treatment_status	on treatment	file	evidence/biorxiv_10.1101_421354v9.txt		we applied PopAlign to compare human PBMC samples from healthy donors to patients being treated for multiple myeloma (MM)	True
+MM2	figshare:11837097:MM2	treatment_status	on treatment	file	evidence/biorxiv_10.1101_421354v9.txt		We obtained samples of frozen PBMCs from two healthy and four multiple myeloma patients undergoing various stages of treatment	True
+MM2	figshare:11837097:MM2	donor_id	MM2	file	raw/fp-d21da767be5d/portal_metadata.json		MM1-MM4:	True
+MM2	figshare:11837097:MM2	donor_id	MM2	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM2	figshare:11837097:MM2	donor_id	MM2	file	raw/fp-d21da767be5d/portal_metadata.json		Each data folder includes:	True
+MM2	figshare:11837097:MM2	donor_id	MM2	file	evidence/biorxiv_10.1101_421354v9.txt		Experimental single cell mRNA-seq data from two healthy donors and four multiple myeloma patients (MM1-4)	True
+MM3	figshare:11837097:MM3	tissue_free_text	peripheral blood mononuclear cells	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM3	figshare:11837097:MM3	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM3	figshare:11837097:MM3	tissue_ontology_term_id	UBERON:0000178	file	evidence/biorxiv_10.1101_421354v9.txt		we applied PopAlign to compare human PBMC samples from healthy donors to patients being treated for multiple myeloma (MM)	True
+MM3	figshare:11837097:MM3	tissue_type	tissue	file	evidence/biorxiv_10.1101_421354v9.txt		We obtained samples of frozen PBMCs from two healthy and four multiple myeloma patients undergoing various stages of treatment	True
+MM3	figshare:11837097:MM3	cell_enrichment	PBMC	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM3	figshare:11837097:MM3	cell_enrichment	PBMC	file	evidence/biorxiv_10.1101_421354v9.txt		Cryopreserved PBMCs (Hemacare) from healthy and multiple myeloma patients were thawed in a 37C waterbath	True
+MM3	figshare:11837097:MM3	suspension_type	cell	file	evidence/biorxiv_10.1101_421354v9.txt		17,400 cells were loaded into each TENX lane	True
+MM3	figshare:11837097:MM3	assay	10x 3' v2	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM3	figshare:11837097:MM3	assay	10x 3' v2	file	raw/fp-d21da767be5d/portal_metadata.json		Data collected using 10x 3' Gene Expression v2 kit.	True
+MM3	figshare:11837097:MM3	sample_preservation	cryopreserved	file	evidence/biorxiv_10.1101_421354v9.txt		Cryopreserved PBMCs (Hemacare) from healthy and multiple myeloma patients were thawed in a 37C waterbath	True
+MM3	figshare:11837097:MM3	sample_preservation	cryopreserved	file	evidence/biorxiv_10.1101_421354v9.txt		We obtained samples of frozen PBMCs from two healthy and four multiple myeloma patients undergoing various stages of treatment	True
+MM3	figshare:11837097:MM3	disease_free_text	multiple myeloma	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM3	figshare:11837097:MM3	disease_free_text	multiple myeloma	file	evidence/biorxiv_10.1101_421354v9.txt		Experimental single cell mRNA-seq data from two healthy donors and four multiple myeloma patients (MM1-4)	True
+MM3	figshare:11837097:MM3	disease_ontology_term_id	MONDO:0009693	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM3	figshare:11837097:MM3	disease_ontology_term_id	MONDO:0009693	file	evidence/biorxiv_10.1101_421354v9.txt		Experimental single cell mRNA-seq data from two healthy donors and four multiple myeloma patients (MM1-4)	True
+MM3	figshare:11837097:MM3	treatment_status	on treatment	file	evidence/biorxiv_10.1101_421354v9.txt		we applied PopAlign to compare human PBMC samples from healthy donors to patients being treated for multiple myeloma (MM)	True
+MM3	figshare:11837097:MM3	treatment_status	on treatment	file	evidence/biorxiv_10.1101_421354v9.txt		We obtained samples of frozen PBMCs from two healthy and four multiple myeloma patients undergoing various stages of treatment	True
+MM3	figshare:11837097:MM3	donor_id	MM3	file	raw/fp-d21da767be5d/portal_metadata.json		MM1-MM4:	True
+MM3	figshare:11837097:MM3	donor_id	MM3	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM3	figshare:11837097:MM3	donor_id	MM3	file	raw/fp-d21da767be5d/portal_metadata.json		Each data folder includes:	True
+MM3	figshare:11837097:MM3	donor_id	MM3	file	evidence/biorxiv_10.1101_421354v9.txt		Experimental single cell mRNA-seq data from two healthy donors and four multiple myeloma patients (MM1-4)	True
+MM4	figshare:11837097:MM4	tissue_free_text	peripheral blood mononuclear cells	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM4	figshare:11837097:MM4	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM4	figshare:11837097:MM4	tissue_ontology_term_id	UBERON:0000178	file	evidence/biorxiv_10.1101_421354v9.txt		we applied PopAlign to compare human PBMC samples from healthy donors to patients being treated for multiple myeloma (MM)	True
+MM4	figshare:11837097:MM4	tissue_type	tissue	file	evidence/biorxiv_10.1101_421354v9.txt		We obtained samples of frozen PBMCs from two healthy and four multiple myeloma patients undergoing various stages of treatment	True
+MM4	figshare:11837097:MM4	cell_enrichment	PBMC	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM4	figshare:11837097:MM4	cell_enrichment	PBMC	file	evidence/biorxiv_10.1101_421354v9.txt		Cryopreserved PBMCs (Hemacare) from healthy and multiple myeloma patients were thawed in a 37C waterbath	True
+MM4	figshare:11837097:MM4	suspension_type	cell	file	evidence/biorxiv_10.1101_421354v9.txt		17,400 cells were loaded into each TENX lane	True
+MM4	figshare:11837097:MM4	assay	10x 3' v2	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM4	figshare:11837097:MM4	assay	10x 3' v2	file	raw/fp-d21da767be5d/portal_metadata.json		Data collected using 10x 3' Gene Expression v2 kit.	True
+MM4	figshare:11837097:MM4	sample_preservation	cryopreserved	file	evidence/biorxiv_10.1101_421354v9.txt		Cryopreserved PBMCs (Hemacare) from healthy and multiple myeloma patients were thawed in a 37C waterbath	True
+MM4	figshare:11837097:MM4	sample_preservation	cryopreserved	file	evidence/biorxiv_10.1101_421354v9.txt		We obtained samples of frozen PBMCs from two healthy and four multiple myeloma patients undergoing various stages of treatment	True
+MM4	figshare:11837097:MM4	disease_free_text	multiple myeloma	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM4	figshare:11837097:MM4	disease_free_text	multiple myeloma	file	evidence/biorxiv_10.1101_421354v9.txt		Experimental single cell mRNA-seq data from two healthy donors and four multiple myeloma patients (MM1-4)	True
+MM4	figshare:11837097:MM4	disease_ontology_term_id	MONDO:0009693	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM4	figshare:11837097:MM4	disease_ontology_term_id	MONDO:0009693	file	evidence/biorxiv_10.1101_421354v9.txt		Experimental single cell mRNA-seq data from two healthy donors and four multiple myeloma patients (MM1-4)	True
+MM4	figshare:11837097:MM4	treatment_status	on treatment	file	evidence/biorxiv_10.1101_421354v9.txt		we applied PopAlign to compare human PBMC samples from healthy donors to patients being treated for multiple myeloma (MM)	True
+MM4	figshare:11837097:MM4	treatment_status	on treatment	file	evidence/biorxiv_10.1101_421354v9.txt		We obtained samples of frozen PBMCs from two healthy and four multiple myeloma patients undergoing various stages of treatment	True
+MM4	figshare:11837097:MM4	donor_id	MM4	file	raw/fp-d21da767be5d/portal_metadata.json		MM1-MM4:	True
+MM4	figshare:11837097:MM4	donor_id	MM4	file	raw/fp-d21da767be5d/portal_metadata.json		22,294 Peripheral Blood Mononuclear Cells (PBMCs) from four multiple myeloma patients.	True
+MM4	figshare:11837097:MM4	donor_id	MM4	file	raw/fp-d21da767be5d/portal_metadata.json		Each data folder includes:	True
+MM4	figshare:11837097:MM4	donor_id	MM4	file	evidence/biorxiv_10.1101_421354v9.txt		Experimental single cell mRNA-seq data from two healthy donors and four multiple myeloma patients (MM1-4)	True
+MM4	figshare:11837097:MM4	treatment	thalidomide-derived drug therapy	file	evidence/biorxiv_10.1101_421354v9.txt		outlier patient MM4 experiencing a large increase in effector T cell	True
+MM4	figshare:11837097:MM4	treatment	thalidomide-derived drug therapy	file	evidence/biorxiv_10.1101_421354v9.txt		For this patient, who was receiving a thalidomide-derived drug therapy	True
+healthy1	figshare:11837097:healthy1	tissue_free_text	peripheral blood mononuclear cells	file	raw/fp-d21da767be5d/portal_metadata.json		12,865 PBMCs from two healthy donors.	True
+healthy1	figshare:11837097:healthy1	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-d21da767be5d/portal_metadata.json		12,865 PBMCs from two healthy donors.	True
+healthy1	figshare:11837097:healthy1	tissue_ontology_term_id	UBERON:0000178	file	evidence/biorxiv_10.1101_421354v9.txt		we applied PopAlign to compare human PBMC samples from healthy donors to patients being treated for multiple myeloma (MM)	True
+healthy1	figshare:11837097:healthy1	tissue_type	tissue	file	evidence/biorxiv_10.1101_421354v9.txt		We obtained samples of frozen PBMCs from two healthy and four multiple myeloma patients undergoing various stages of treatment	True
+healthy1	figshare:11837097:healthy1	cell_enrichment	PBMC	file	raw/fp-d21da767be5d/portal_metadata.json		12,865 PBMCs from two healthy donors.	True
+healthy1	figshare:11837097:healthy1	cell_enrichment	PBMC	file	evidence/biorxiv_10.1101_421354v9.txt		Cryopreserved PBMCs (Hemacare) from healthy and multiple myeloma patients were thawed in a 37C waterbath	True
+healthy1	figshare:11837097:healthy1	suspension_type	cell	file	evidence/biorxiv_10.1101_421354v9.txt		17,400 cells were loaded into each TENX lane	True
+healthy1	figshare:11837097:healthy1	assay	10x 3' v2	file	raw/fp-d21da767be5d/portal_metadata.json		12,865 PBMCs from two healthy donors.	True
+healthy1	figshare:11837097:healthy1	assay	10x 3' v2	file	raw/fp-d21da767be5d/portal_metadata.json		Data collected using 10x 3' Gene Expression v2 kit.	True
+healthy1	figshare:11837097:healthy1	sample_preservation	cryopreserved	file	evidence/biorxiv_10.1101_421354v9.txt		Cryopreserved PBMCs (Hemacare) from healthy and multiple myeloma patients were thawed in a 37C waterbath	True
+healthy1	figshare:11837097:healthy1	sample_preservation	cryopreserved	file	evidence/biorxiv_10.1101_421354v9.txt		We obtained samples of frozen PBMCs from two healthy and four multiple myeloma patients undergoing various stages of treatment	True
+healthy1	figshare:11837097:healthy1	disease_free_text	normal	file	raw/fp-d21da767be5d/portal_metadata.json		12,865 PBMCs from two healthy donors.	True
+healthy1	figshare:11837097:healthy1	disease_free_text	normal	file	evidence/biorxiv_10.1101_421354v9.txt		we applied PopAlign to compare human PBMC samples from healthy donors to patients being treated for multiple myeloma (MM)	True
+healthy1	figshare:11837097:healthy1	disease_ontology_term_id	PATO:0000461	file	raw/fp-d21da767be5d/portal_metadata.json		12,865 PBMCs from two healthy donors.	True
+healthy1	figshare:11837097:healthy1	disease_ontology_term_id	PATO:0000461	file	evidence/biorxiv_10.1101_421354v9.txt		we applied PopAlign to compare human PBMC samples from healthy donors to patients being treated for multiple myeloma (MM)	True
+healthy1	figshare:11837097:healthy1	donor_id	healthy1	file	raw/fp-d21da767be5d/portal_metadata.json		healthy1/healthy2:	True
+healthy1	figshare:11837097:healthy1	donor_id	healthy1	file	raw/fp-d21da767be5d/portal_metadata.json		12,865 PBMCs from two healthy donors.	True
+healthy1	figshare:11837097:healthy1	donor_id	healthy1	file	raw/fp-d21da767be5d/portal_metadata.json		Each data folder includes:	True
+healthy1	figshare:11837097:healthy1	donor_id	healthy1	file	evidence/biorxiv_10.1101_421354v9.txt		relative to healthy1	True
+healthy2	figshare:11837097:healthy2	tissue_free_text	peripheral blood mononuclear cells	file	raw/fp-d21da767be5d/portal_metadata.json		12,865 PBMCs from two healthy donors.	True
+healthy2	figshare:11837097:healthy2	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-d21da767be5d/portal_metadata.json		12,865 PBMCs from two healthy donors.	True
+healthy2	figshare:11837097:healthy2	tissue_ontology_term_id	UBERON:0000178	file	evidence/biorxiv_10.1101_421354v9.txt		we applied PopAlign to compare human PBMC samples from healthy donors to patients being treated for multiple myeloma (MM)	True
+healthy2	figshare:11837097:healthy2	tissue_type	tissue	file	evidence/biorxiv_10.1101_421354v9.txt		We obtained samples of frozen PBMCs from two healthy and four multiple myeloma patients undergoing various stages of treatment	True
+healthy2	figshare:11837097:healthy2	cell_enrichment	PBMC	file	raw/fp-d21da767be5d/portal_metadata.json		12,865 PBMCs from two healthy donors.	True
+healthy2	figshare:11837097:healthy2	cell_enrichment	PBMC	file	evidence/biorxiv_10.1101_421354v9.txt		Cryopreserved PBMCs (Hemacare) from healthy and multiple myeloma patients were thawed in a 37C waterbath	True
+healthy2	figshare:11837097:healthy2	suspension_type	cell	file	evidence/biorxiv_10.1101_421354v9.txt		17,400 cells were loaded into each TENX lane	True
+healthy2	figshare:11837097:healthy2	assay	10x 3' v2	file	raw/fp-d21da767be5d/portal_metadata.json		12,865 PBMCs from two healthy donors.	True
+healthy2	figshare:11837097:healthy2	assay	10x 3' v2	file	raw/fp-d21da767be5d/portal_metadata.json		Data collected using 10x 3' Gene Expression v2 kit.	True
+healthy2	figshare:11837097:healthy2	sample_preservation	cryopreserved	file	evidence/biorxiv_10.1101_421354v9.txt		Cryopreserved PBMCs (Hemacare) from healthy and multiple myeloma patients were thawed in a 37C waterbath	True
+healthy2	figshare:11837097:healthy2	sample_preservation	cryopreserved	file	evidence/biorxiv_10.1101_421354v9.txt		We obtained samples of frozen PBMCs from two healthy and four multiple myeloma patients undergoing various stages of treatment	True
+healthy2	figshare:11837097:healthy2	disease_free_text	normal	file	raw/fp-d21da767be5d/portal_metadata.json		12,865 PBMCs from two healthy donors.	True
+healthy2	figshare:11837097:healthy2	disease_free_text	normal	file	evidence/biorxiv_10.1101_421354v9.txt		we applied PopAlign to compare human PBMC samples from healthy donors to patients being treated for multiple myeloma (MM)	True
+healthy2	figshare:11837097:healthy2	disease_ontology_term_id	PATO:0000461	file	raw/fp-d21da767be5d/portal_metadata.json		12,865 PBMCs from two healthy donors.	True
+healthy2	figshare:11837097:healthy2	disease_ontology_term_id	PATO:0000461	file	evidence/biorxiv_10.1101_421354v9.txt		we applied PopAlign to compare human PBMC samples from healthy donors to patients being treated for multiple myeloma (MM)	True
+healthy2	figshare:11837097:healthy2	donor_id	healthy2	file	raw/fp-d21da767be5d/portal_metadata.json		healthy1/healthy2:	True
+healthy2	figshare:11837097:healthy2	donor_id	healthy2	file	raw/fp-d21da767be5d/portal_metadata.json		12,865 PBMCs from two healthy donors.	True
+healthy2	figshare:11837097:healthy2	donor_id	healthy2	file	raw/fp-d21da767be5d/portal_metadata.json		Each data folder includes:	True
+healthy2	figshare:11837097:healthy2	donor_id	healthy2	file	evidence/biorxiv_10.1101_421354v9.txt		compared to T cells from our second healthy donor, healthy2	True

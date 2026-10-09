@@ -1,0 +1,159 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5013821	geo:GSE164551:GSM5013821	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM5013821	geo:GSE164551:GSM5013821	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM5013821	geo:GSE164551:GSM5013821	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+GSM5013822	geo:GSE164551:GSM5013822	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM5013822	geo:GSE164551:GSM5013822	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM5013822	geo:GSE164551:GSM5013822	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+GSM5013823	geo:GSE164551:GSM5013823	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM5013823	geo:GSE164551:GSM5013823	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM5013823	geo:GSE164551:GSM5013823	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+GSM5013824	geo:GSE164551:GSM5013824	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM5013824	geo:GSE164551:GSM5013824	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM5013824	geo:GSE164551:GSM5013824	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+GSM5013825	geo:GSE164551:GSM5013825	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM5013825	geo:GSE164551:GSM5013825	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM5013825	geo:GSE164551:GSM5013825	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+GSM5013826	geo:GSE164551:GSM5013826	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM5013826	geo:GSE164551:GSM5013826	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM5013826	geo:GSE164551:GSM5013826	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+GSM5013827	geo:GSE164551:GSM5013827	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM5013827	geo:GSE164551:GSM5013827	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM5013827	geo:GSE164551:GSM5013827	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+GSM5013828	geo:GSE164551:GSM5013828	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM5013828	geo:GSE164551:GSM5013828	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM5013828	geo:GSE164551:GSM5013828	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+		organism	Homo sapiens	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5013821	geo:GSE164551:GSM5013821	donor_id	index patient	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Series_overall_design = A single cell cell RNA sequencing has been done for 8 longititunal samples collected from the same patient.	True
+GSM5013821	geo:GSE164551:GSM5013821	donor_id	index patient	file	evidence/PMC7870932.txt		the index patient in this report	True
+GSM5013821	geo:GSE164551:GSM5013821	disease_free_text	Multiple Myeloma	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True
+GSM5013821	geo:GSE164551:GSM5013821	tissue_free_text	Bone Marrow	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM5013821	geo:GSE164551:GSM5013821	assay	10x 3' transcription profiling	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_description = scRNA sequencing with 10X 3' v2 kit	True
+GSM5013821	geo:GSE164551:GSM5013821	suspension_type	cell	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_source_name_ch1 = BM cells from a patient with MM	True
+GSM5013821	geo:GSE164551:GSM5013821	gene_annotation_version	GRCh38	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_data_processing = Genome_build: GRCh38	True
+GSM5013821	geo:GSE164551:GSM5013821	disease_stage	relapsed or refractory	file	evidence/PMC7870932.txt		The patient was enrolled in a Phase I trial (CRB-401 ClinicalTrials.gov number, NCT02658929	True
+GSM5013821	geo:GSE164551:GSM5013821	disease_stage	relapsed or refractory	file	evidence/PMC7870932.txt		of bb2121 involving patients with relapsed or refractory MM	True
+GSM5013821	geo:GSE164551:GSM5013821	timepoint	Pre-infusion	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_title = Pre-infusion	True
+GSM5013821	geo:GSE164551:GSM5013821	cell_enrichment	CD138-	file	evidence/PMC7870932.txt		The BM sample before the first infusion was depleted of CD138+ cells by cell selection.	True
+GSM5013821	geo:GSE164551:GSM5013821	treatment_status	pre-treatment (before the first CAR T-cell infusion; previously treated with four lines of therapy)	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_title = Pre-infusion	True
+GSM5013821	geo:GSE164551:GSM5013821	treatment_status	pre-treatment (before the first CAR T-cell infusion; previously treated with four lines of therapy)	file	evidence/PMC7870932.txt		treated with four lines of therapy including proteasome inhibitor, immunomodulatory agent, and anti-CD38 antibody before CAR T-cell therapy	True
+GSM5013821	geo:GSE164551:GSM5013821	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, sample taken before the first infusion	file	evidence/PMC7870932.txt		anti-BCMA CAR T-cell therapy with Idecabtagene Vicleucel (ide-cel)	True
+GSM5013821	geo:GSE164551:GSM5013821	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, sample taken before the first infusion	file	evidence/PMC7870932.txt		of bb2121 involving patients with relapsed or refractory MM	True
+GSM5013821	geo:GSE164551:GSM5013821	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, sample taken before the first infusion	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_title = Pre-infusion	True
+GSM5013822	geo:GSE164551:GSM5013822	donor_id	index patient	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Series_overall_design = A single cell cell RNA sequencing has been done for 8 longititunal samples collected from the same patient.	True
+GSM5013822	geo:GSE164551:GSM5013822	donor_id	index patient	file	evidence/PMC7870932.txt		the index patient in this report	True
+GSM5013822	geo:GSE164551:GSM5013822	disease_free_text	Multiple Myeloma	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True
+GSM5013822	geo:GSE164551:GSM5013822	tissue_free_text	Bone Marrow	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM5013822	geo:GSE164551:GSM5013822	assay	10x 3' transcription profiling	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_description = scRNA sequencing with 10X 3' v2 kit	True
+GSM5013822	geo:GSE164551:GSM5013822	suspension_type	cell	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_source_name_ch1 = BM cells from a patient with MM	True
+GSM5013822	geo:GSE164551:GSM5013822	gene_annotation_version	GRCh38	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_data_processing = Genome_build: GRCh38	True
+GSM5013822	geo:GSE164551:GSM5013822	disease_stage	relapsed or refractory	file	evidence/PMC7870932.txt		The patient was enrolled in a Phase I trial (CRB-401 ClinicalTrials.gov number, NCT02658929	True
+GSM5013822	geo:GSE164551:GSM5013822	disease_stage	relapsed or refractory	file	evidence/PMC7870932.txt		of bb2121 involving patients with relapsed or refractory MM	True
+GSM5013822	geo:GSE164551:GSM5013822	timepoint	2 weeks after first infusion	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_title = 2 weeks after first infusion	True
+GSM5013822	geo:GSE164551:GSM5013822	cell_enrichment	BM mononuclear cells	file	evidence/PMC7870932.txt		sample before the first infusion (S1) and BM mononuclear cells from S2 to S8	True
+GSM5013822	geo:GSE164551:GSM5013822	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, first infusion of 150 × 10^6 CAR+ T cells after fludarabine/cyclophosphamide lymphodepletion	file	evidence/PMC7870932.txt		anti-BCMA CAR T-cell therapy with Idecabtagene Vicleucel (ide-cel)	True
+GSM5013822	geo:GSE164551:GSM5013822	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, first infusion of 150 × 10^6 CAR+ T cells after fludarabine/cyclophosphamide lymphodepletion	file	evidence/PMC7870932.txt		of bb2121 involving patients with relapsed or refractory MM	True
+GSM5013822	geo:GSE164551:GSM5013822	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, first infusion of 150 × 10^6 CAR+ T cells after fludarabine/cyclophosphamide lymphodepletion	file	evidence/PMC7870932.txt		received 150 × 10 6 CAR+ T cells at day 0	True
+GSM5013822	geo:GSE164551:GSM5013822	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, first infusion of 150 × 10^6 CAR+ T cells after fludarabine/cyclophosphamide lymphodepletion	file	evidence/PMC7870932.txt		lymphodepletion with fludarabine	True
+GSM5013822	geo:GSE164551:GSM5013822	treatment_status	post-treatment (after the first CAR T-cell infusion)	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_title = 2 weeks after first infusion	True
+GSM5013823	geo:GSE164551:GSM5013823	donor_id	index patient	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Series_overall_design = A single cell cell RNA sequencing has been done for 8 longititunal samples collected from the same patient.	True
+GSM5013823	geo:GSE164551:GSM5013823	donor_id	index patient	file	evidence/PMC7870932.txt		the index patient in this report	True
+GSM5013823	geo:GSE164551:GSM5013823	disease_free_text	Multiple Myeloma	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True
+GSM5013823	geo:GSE164551:GSM5013823	tissue_free_text	Bone Marrow	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM5013823	geo:GSE164551:GSM5013823	assay	10x 3' transcription profiling	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_description = scRNA sequencing with 10X 3' v2 kit	True
+GSM5013823	geo:GSE164551:GSM5013823	suspension_type	cell	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_source_name_ch1 = BM cells from a patient with MM	True
+GSM5013823	geo:GSE164551:GSM5013823	gene_annotation_version	GRCh38	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_data_processing = Genome_build: GRCh38	True
+GSM5013823	geo:GSE164551:GSM5013823	disease_stage	relapsed or refractory	file	evidence/PMC7870932.txt		The patient was enrolled in a Phase I trial (CRB-401 ClinicalTrials.gov number, NCT02658929	True
+GSM5013823	geo:GSE164551:GSM5013823	disease_stage	relapsed or refractory	file	evidence/PMC7870932.txt		of bb2121 involving patients with relapsed or refractory MM	True
+GSM5013823	geo:GSE164551:GSM5013823	timepoint	1 month after first infusion	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_title = 1 month after first infusion	True
+GSM5013823	geo:GSE164551:GSM5013823	cell_enrichment	BM mononuclear cells	file	evidence/PMC7870932.txt		sample before the first infusion (S1) and BM mononuclear cells from S2 to S8	True
+GSM5013823	geo:GSE164551:GSM5013823	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, first infusion of 150 × 10^6 CAR+ T cells after fludarabine/cyclophosphamide lymphodepletion	file	evidence/PMC7870932.txt		anti-BCMA CAR T-cell therapy with Idecabtagene Vicleucel (ide-cel)	True
+GSM5013823	geo:GSE164551:GSM5013823	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, first infusion of 150 × 10^6 CAR+ T cells after fludarabine/cyclophosphamide lymphodepletion	file	evidence/PMC7870932.txt		of bb2121 involving patients with relapsed or refractory MM	True
+GSM5013823	geo:GSE164551:GSM5013823	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, first infusion of 150 × 10^6 CAR+ T cells after fludarabine/cyclophosphamide lymphodepletion	file	evidence/PMC7870932.txt		received 150 × 10 6 CAR+ T cells at day 0	True
+GSM5013823	geo:GSE164551:GSM5013823	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, first infusion of 150 × 10^6 CAR+ T cells after fludarabine/cyclophosphamide lymphodepletion	file	evidence/PMC7870932.txt		lymphodepletion with fludarabine	True
+GSM5013823	geo:GSE164551:GSM5013823	treatment_status	post-treatment (after the first CAR T-cell infusion)	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_title = 1 month after first infusion	True
+GSM5013824	geo:GSE164551:GSM5013824	donor_id	index patient	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Series_overall_design = A single cell cell RNA sequencing has been done for 8 longititunal samples collected from the same patient.	True
+GSM5013824	geo:GSE164551:GSM5013824	donor_id	index patient	file	evidence/PMC7870932.txt		the index patient in this report	True
+GSM5013824	geo:GSE164551:GSM5013824	disease_free_text	Multiple Myeloma	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True
+GSM5013824	geo:GSE164551:GSM5013824	tissue_free_text	Bone Marrow	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM5013824	geo:GSE164551:GSM5013824	assay	10x 3' transcription profiling	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_description = scRNA sequencing with 10X 3' v2 kit	True
+GSM5013824	geo:GSE164551:GSM5013824	suspension_type	cell	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_source_name_ch1 = BM cells from a patient with MM	True
+GSM5013824	geo:GSE164551:GSM5013824	gene_annotation_version	GRCh38	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_data_processing = Genome_build: GRCh38	True
+GSM5013824	geo:GSE164551:GSM5013824	disease_stage	relapsed or refractory	file	evidence/PMC7870932.txt		The patient was enrolled in a Phase I trial (CRB-401 ClinicalTrials.gov number, NCT02658929	True
+GSM5013824	geo:GSE164551:GSM5013824	disease_stage	relapsed or refractory	file	evidence/PMC7870932.txt		of bb2121 involving patients with relapsed or refractory MM	True
+GSM5013824	geo:GSE164551:GSM5013824	timepoint	3 months after first infusion	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_title = 3 months after first infusion	True
+GSM5013824	geo:GSE164551:GSM5013824	cell_enrichment	BM mononuclear cells	file	evidence/PMC7870932.txt		sample before the first infusion (S1) and BM mononuclear cells from S2 to S8	True
+GSM5013824	geo:GSE164551:GSM5013824	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, first infusion of 150 × 10^6 CAR+ T cells after fludarabine/cyclophosphamide lymphodepletion	file	evidence/PMC7870932.txt		anti-BCMA CAR T-cell therapy with Idecabtagene Vicleucel (ide-cel)	True
+GSM5013824	geo:GSE164551:GSM5013824	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, first infusion of 150 × 10^6 CAR+ T cells after fludarabine/cyclophosphamide lymphodepletion	file	evidence/PMC7870932.txt		of bb2121 involving patients with relapsed or refractory MM	True
+GSM5013824	geo:GSE164551:GSM5013824	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, first infusion of 150 × 10^6 CAR+ T cells after fludarabine/cyclophosphamide lymphodepletion	file	evidence/PMC7870932.txt		received 150 × 10 6 CAR+ T cells at day 0	True
+GSM5013824	geo:GSE164551:GSM5013824	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, first infusion of 150 × 10^6 CAR+ T cells after fludarabine/cyclophosphamide lymphodepletion	file	evidence/PMC7870932.txt		lymphodepletion with fludarabine	True
+GSM5013824	geo:GSE164551:GSM5013824	treatment_status	post-treatment (after the first CAR T-cell infusion)	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_title = 3 months after first infusion	True
+GSM5013824	geo:GSE164551:GSM5013824	response	partial response	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_title = 3 months after first infusion	True
+GSM5013824	geo:GSE164551:GSM5013824	response	partial response	file	evidence/PMC7870932.txt		achieved partial response by 3 months	True
+GSM5013825	geo:GSE164551:GSM5013825	donor_id	index patient	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Series_overall_design = A single cell cell RNA sequencing has been done for 8 longititunal samples collected from the same patient.	True
+GSM5013825	geo:GSE164551:GSM5013825	donor_id	index patient	file	evidence/PMC7870932.txt		the index patient in this report	True
+GSM5013825	geo:GSE164551:GSM5013825	disease_free_text	Multiple Myeloma	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True
+GSM5013825	geo:GSE164551:GSM5013825	tissue_free_text	Bone Marrow	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM5013825	geo:GSE164551:GSM5013825	assay	10x 3' transcription profiling	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_description = scRNA sequencing with 10X 3' v2 kit	True
+GSM5013825	geo:GSE164551:GSM5013825	suspension_type	cell	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_source_name_ch1 = BM cells from a patient with MM	True
+GSM5013825	geo:GSE164551:GSM5013825	gene_annotation_version	GRCh38	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_data_processing = Genome_build: GRCh38	True
+GSM5013825	geo:GSE164551:GSM5013825	disease_stage	relapsed or refractory	file	evidence/PMC7870932.txt		The patient was enrolled in a Phase I trial (CRB-401 ClinicalTrials.gov number, NCT02658929	True
+GSM5013825	geo:GSE164551:GSM5013825	disease_stage	relapsed or refractory	file	evidence/PMC7870932.txt		of bb2121 involving patients with relapsed or refractory MM	True
+GSM5013825	geo:GSE164551:GSM5013825	timepoint	8 months after first infusion	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_title = 8 months after first infusion	True
+GSM5013825	geo:GSE164551:GSM5013825	cell_enrichment	BM mononuclear cells	file	evidence/PMC7870932.txt		sample before the first infusion (S1) and BM mononuclear cells from S2 to S8	True
+GSM5013825	geo:GSE164551:GSM5013825	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, first infusion of 150 × 10^6 CAR+ T cells after fludarabine/cyclophosphamide lymphodepletion	file	evidence/PMC7870932.txt		anti-BCMA CAR T-cell therapy with Idecabtagene Vicleucel (ide-cel)	True
+GSM5013825	geo:GSE164551:GSM5013825	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, first infusion of 150 × 10^6 CAR+ T cells after fludarabine/cyclophosphamide lymphodepletion	file	evidence/PMC7870932.txt		of bb2121 involving patients with relapsed or refractory MM	True
+GSM5013825	geo:GSE164551:GSM5013825	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, first infusion of 150 × 10^6 CAR+ T cells after fludarabine/cyclophosphamide lymphodepletion	file	evidence/PMC7870932.txt		received 150 × 10 6 CAR+ T cells at day 0	True
+GSM5013825	geo:GSE164551:GSM5013825	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, first infusion of 150 × 10^6 CAR+ T cells after fludarabine/cyclophosphamide lymphodepletion	file	evidence/PMC7870932.txt		lymphodepletion with fludarabine	True
+GSM5013825	geo:GSE164551:GSM5013825	treatment_status	post-treatment (after the first CAR T-cell infusion)	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_title = 8 months after first infusion	True
+GSM5013826	geo:GSE164551:GSM5013826	donor_id	index patient	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Series_overall_design = A single cell cell RNA sequencing has been done for 8 longititunal samples collected from the same patient.	True
+GSM5013826	geo:GSE164551:GSM5013826	donor_id	index patient	file	evidence/PMC7870932.txt		the index patient in this report	True
+GSM5013826	geo:GSE164551:GSM5013826	disease_free_text	Multiple Myeloma	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True
+GSM5013826	geo:GSE164551:GSM5013826	tissue_free_text	Bone Marrow	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM5013826	geo:GSE164551:GSM5013826	assay	10x 3' transcription profiling	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_description = scRNA sequencing with 10X 3' v2 kit	True
+GSM5013826	geo:GSE164551:GSM5013826	suspension_type	cell	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_source_name_ch1 = BM cells from a patient with MM	True
+GSM5013826	geo:GSE164551:GSM5013826	gene_annotation_version	GRCh38	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_data_processing = Genome_build: GRCh38	True
+GSM5013826	geo:GSE164551:GSM5013826	disease_stage	relapsed or refractory	file	evidence/PMC7870932.txt		The patient was enrolled in a Phase I trial (CRB-401 ClinicalTrials.gov number, NCT02658929	True
+GSM5013826	geo:GSE164551:GSM5013826	disease_stage	relapsed or refractory	file	evidence/PMC7870932.txt		of bb2121 involving patients with relapsed or refractory MM	True
+GSM5013826	geo:GSE164551:GSM5013826	timepoint	Relapse after first infusion	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_title = Relapse after first infusion	True
+GSM5013826	geo:GSE164551:GSM5013826	cell_enrichment	BM mononuclear cells	file	evidence/PMC7870932.txt		sample before the first infusion (S1) and BM mononuclear cells from S2 to S8	True
+GSM5013826	geo:GSE164551:GSM5013826	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, first infusion of 150 × 10^6 CAR+ T cells after fludarabine/cyclophosphamide lymphodepletion	file	evidence/PMC7870932.txt		anti-BCMA CAR T-cell therapy with Idecabtagene Vicleucel (ide-cel)	True
+GSM5013826	geo:GSE164551:GSM5013826	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, first infusion of 150 × 10^6 CAR+ T cells after fludarabine/cyclophosphamide lymphodepletion	file	evidence/PMC7870932.txt		of bb2121 involving patients with relapsed or refractory MM	True
+GSM5013826	geo:GSE164551:GSM5013826	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, first infusion of 150 × 10^6 CAR+ T cells after fludarabine/cyclophosphamide lymphodepletion	file	evidence/PMC7870932.txt		received 150 × 10 6 CAR+ T cells at day 0	True
+GSM5013826	geo:GSE164551:GSM5013826	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, first infusion of 150 × 10^6 CAR+ T cells after fludarabine/cyclophosphamide lymphodepletion	file	evidence/PMC7870932.txt		lymphodepletion with fludarabine	True
+GSM5013826	geo:GSE164551:GSM5013826	treatment_status	post-treatment (relapse after the first CAR T-cell infusion, before retreatment)	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_title = Relapse after first infusion	True
+GSM5013826	geo:GSE164551:GSM5013826	treatment_status	post-treatment (relapse after the first CAR T-cell infusion, before retreatment)	file	evidence/PMC7870932.txt		Retreatment Screening is the relapse after first infusion	True
+GSM5013826	geo:GSE164551:GSM5013826	response	relapse	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_title = Relapse after first infusion	True
+GSM5013826	geo:GSE164551:GSM5013826	response	relapse	file	evidence/PMC7870932.txt		The patient relapsed 9 months after the first CAR T infusion	True
+GSM5013827	geo:GSE164551:GSM5013827	donor_id	index patient	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Series_overall_design = A single cell cell RNA sequencing has been done for 8 longititunal samples collected from the same patient.	True
+GSM5013827	geo:GSE164551:GSM5013827	donor_id	index patient	file	evidence/PMC7870932.txt		the index patient in this report	True
+GSM5013827	geo:GSE164551:GSM5013827	disease_free_text	Multiple Myeloma	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True
+GSM5013827	geo:GSE164551:GSM5013827	tissue_free_text	Bone Marrow	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM5013827	geo:GSE164551:GSM5013827	assay	10x 3' transcription profiling	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_description = scRNA sequencing with 10X 3' v2 kit	True
+GSM5013827	geo:GSE164551:GSM5013827	suspension_type	cell	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_source_name_ch1 = BM cells from a patient with MM	True
+GSM5013827	geo:GSE164551:GSM5013827	gene_annotation_version	GRCh38	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_data_processing = Genome_build: GRCh38	True
+GSM5013827	geo:GSE164551:GSM5013827	disease_stage	relapsed or refractory	file	evidence/PMC7870932.txt		The patient was enrolled in a Phase I trial (CRB-401 ClinicalTrials.gov number, NCT02658929	True
+GSM5013827	geo:GSE164551:GSM5013827	disease_stage	relapsed or refractory	file	evidence/PMC7870932.txt		of bb2121 involving patients with relapsed or refractory MM	True
+GSM5013827	geo:GSE164551:GSM5013827	timepoint	2 weeks after second infusion	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_title = 2 weeks after second infusion	True
+GSM5013827	geo:GSE164551:GSM5013827	cell_enrichment	BM mononuclear cells	file	evidence/PMC7870932.txt		sample before the first infusion (S1) and BM mononuclear cells from S2 to S8	True
+GSM5013827	geo:GSE164551:GSM5013827	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, second infusion of 450 × 10^6 CAR+ T cells after identical lymphodepletion	file	evidence/PMC7870932.txt		anti-BCMA CAR T-cell therapy with Idecabtagene Vicleucel (ide-cel)	True
+GSM5013827	geo:GSE164551:GSM5013827	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, second infusion of 450 × 10^6 CAR+ T cells after identical lymphodepletion	file	evidence/PMC7870932.txt		of bb2121 involving patients with relapsed or refractory MM	True
+GSM5013827	geo:GSE164551:GSM5013827	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, second infusion of 450 × 10^6 CAR+ T cells after identical lymphodepletion	file	evidence/PMC7870932.txt		was treated a second time with identical lymphodepletion and using the same CAR T-cell product as the first infusion but at a higher dose of 450 × 10 6 CAR+ T cells with no response	True
+GSM5013827	geo:GSE164551:GSM5013827	treatment_status	post-treatment (after the second CAR T-cell infusion)	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_title = 2 weeks after second infusion	True
+GSM5013827	geo:GSE164551:GSM5013827	response	no response to the second infusion	file	evidence/PMC7870932.txt		was treated a second time with identical lymphodepletion and using the same CAR T-cell product as the first infusion but at a higher dose of 450 × 10 6 CAR+ T cells with no response	True
+GSM5013828	geo:GSE164551:GSM5013828	donor_id	index patient	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Series_overall_design = A single cell cell RNA sequencing has been done for 8 longititunal samples collected from the same patient.	True
+GSM5013828	geo:GSE164551:GSM5013828	donor_id	index patient	file	evidence/PMC7870932.txt		the index patient in this report	True
+GSM5013828	geo:GSE164551:GSM5013828	disease_free_text	Multiple Myeloma	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True
+GSM5013828	geo:GSE164551:GSM5013828	tissue_free_text	Bone Marrow	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM5013828	geo:GSE164551:GSM5013828	assay	10x 3' transcription profiling	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_description = scRNA sequencing with 10X 3' v2 kit	True
+GSM5013828	geo:GSE164551:GSM5013828	suspension_type	cell	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_source_name_ch1 = BM cells from a patient with MM	True
+GSM5013828	geo:GSE164551:GSM5013828	gene_annotation_version	GRCh38	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_data_processing = Genome_build: GRCh38	True
+GSM5013828	geo:GSE164551:GSM5013828	disease_stage	relapsed or refractory	file	evidence/PMC7870932.txt		The patient was enrolled in a Phase I trial (CRB-401 ClinicalTrials.gov number, NCT02658929	True
+GSM5013828	geo:GSE164551:GSM5013828	disease_stage	relapsed or refractory	file	evidence/PMC7870932.txt		of bb2121 involving patients with relapsed or refractory MM	True
+GSM5013828	geo:GSE164551:GSM5013828	timepoint	1 month after second infusion	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_title = 1 month after second infusion	True
+GSM5013828	geo:GSE164551:GSM5013828	cell_enrichment	BM mononuclear cells	file	evidence/PMC7870932.txt		sample before the first infusion (S1) and BM mononuclear cells from S2 to S8	True
+GSM5013828	geo:GSE164551:GSM5013828	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, second infusion of 450 × 10^6 CAR+ T cells after identical lymphodepletion	file	evidence/PMC7870932.txt		anti-BCMA CAR T-cell therapy with Idecabtagene Vicleucel (ide-cel)	True
+GSM5013828	geo:GSE164551:GSM5013828	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, second infusion of 450 × 10^6 CAR+ T cells after identical lymphodepletion	file	evidence/PMC7870932.txt		of bb2121 involving patients with relapsed or refractory MM	True
+GSM5013828	geo:GSE164551:GSM5013828	treatment	idecabtagene vicleucel (ide-cel; bb2121) anti-BCMA CAR T-cell therapy, second infusion of 450 × 10^6 CAR+ T cells after identical lymphodepletion	file	evidence/PMC7870932.txt		was treated a second time with identical lymphodepletion and using the same CAR T-cell product as the first infusion but at a higher dose of 450 × 10 6 CAR+ T cells with no response	True
+GSM5013828	geo:GSE164551:GSM5013828	treatment_status	post-treatment (after the second CAR T-cell infusion)	file	raw/fp-6a6c738a6523/GSE164551_family.soft.gz		!Sample_title = 1 month after second infusion	True
+GSM5013828	geo:GSE164551:GSM5013828	response	no response to the second infusion	file	evidence/PMC7870932.txt		was treated a second time with identical lymphodepletion and using the same CAR T-cell product as the first infusion but at a higher dose of 450 × 10 6 CAR+ T cells with no response	True

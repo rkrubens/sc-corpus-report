@@ -1,0 +1,230 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8369863	geo:GSE271107:GSM8369863	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8369864	geo:GSE271107:GSM8369864	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8369865	geo:GSE271107:GSM8369865	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8369866	geo:GSE271107:GSM8369866	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8369867	geo:GSE271107:GSM8369867	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8369868	geo:GSE271107:GSM8369868	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of undetermined significance	True
+GSM8369869	geo:GSE271107:GSM8369869	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of undetermined significance	True
+GSM8369870	geo:GSE271107:GSM8369870	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of undetermined significance	True
+GSM8369871	geo:GSE271107:GSM8369871	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of undetermined significance	True
+GSM8369872	geo:GSE271107:GSM8369872	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of undetermined significance	True
+GSM8369873	geo:GSE271107:GSM8369873	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of undetermined significance	True
+GSM8369874	geo:GSE271107:GSM8369874	disease_ontology_term_id	MONDO:0005235	derived	ols:mondo		smoldering multiple myeloma	True
+GSM8369875	geo:GSE271107:GSM8369875	disease_ontology_term_id	MONDO:0005235	derived	ols:mondo		smoldering multiple myeloma	True
+GSM8369876	geo:GSE271107:GSM8369876	disease_ontology_term_id	MONDO:0005235	derived	ols:mondo		smoldering multiple myeloma	True
+GSM8369877	geo:GSE271107:GSM8369877	disease_ontology_term_id	MONDO:0005235	derived	ols:mondo		smoldering multiple myeloma	True
+		organism	Homo sapiens	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8369863	geo:GSE271107:GSM8369863	tissue_free_text	Bone marrow aspirate	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369863	geo:GSE271107:GSM8369863	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369863	geo:GSE271107:GSM8369863	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_source_name_ch1 = Bone marrow aspirate	True
+GSM8369863	geo:GSE271107:GSM8369863	tissue_type	tissue	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369863	geo:GSE271107:GSM8369863	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Cryopreserved BM mononuclear cells were rapidly thawed, washed twice with PBS	True
+GSM8369863	geo:GSE271107:GSM8369863	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		single-cell emulsions were generated with the Chromium Controller	True
+GSM8369863	geo:GSE271107:GSM8369863	assay_ontology_term_id	EFO:0009922	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		with the Chromium NextGEM Single Cell 3’ v3.1 kit (Part Number 1000121, 10x Genomics)	True
+GSM8369863	geo:GSE271107:GSM8369863	disease_free_text	normal	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8369863	geo:GSE271107:GSM8369863	disease_free_text	normal	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Bone marrow aspirate samples from 5 healthy donors were used as controls.	True
+GSM8369863	geo:GSE271107:GSM8369863	disease_free_text	normal	file	evidence/PMC11541562.txt		Healthy BM samples were obtained from donors without tumors.	True
+GSM8369863	geo:GSE271107:GSM8369863	sampled_site_condition	healthy	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8369863	geo:GSE271107:GSM8369863	donor_id	Healthy donor_1	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_title = Healthy donor_1	True
+GSM8369863	geo:GSE271107:GSM8369863	donor_id	Healthy donor_1	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Bone marrow aspirate samples from 5 healthy donors were used as controls.	True
+GSM8369864	geo:GSE271107:GSM8369864	tissue_free_text	Bone marrow aspirate	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369864	geo:GSE271107:GSM8369864	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369864	geo:GSE271107:GSM8369864	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_source_name_ch1 = Bone marrow aspirate	True
+GSM8369864	geo:GSE271107:GSM8369864	tissue_type	tissue	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369864	geo:GSE271107:GSM8369864	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Cryopreserved BM mononuclear cells were rapidly thawed, washed twice with PBS	True
+GSM8369864	geo:GSE271107:GSM8369864	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		single-cell emulsions were generated with the Chromium Controller	True
+GSM8369864	geo:GSE271107:GSM8369864	assay_ontology_term_id	EFO:0009922	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		with the Chromium NextGEM Single Cell 3’ v3.1 kit (Part Number 1000121, 10x Genomics)	True
+GSM8369864	geo:GSE271107:GSM8369864	disease_free_text	normal	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8369864	geo:GSE271107:GSM8369864	disease_free_text	normal	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Bone marrow aspirate samples from 5 healthy donors were used as controls.	True
+GSM8369864	geo:GSE271107:GSM8369864	disease_free_text	normal	file	evidence/PMC11541562.txt		Healthy BM samples were obtained from donors without tumors.	True
+GSM8369864	geo:GSE271107:GSM8369864	sampled_site_condition	healthy	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8369864	geo:GSE271107:GSM8369864	donor_id	Healthy donor_2	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_title = Healthy donor_2	True
+GSM8369864	geo:GSE271107:GSM8369864	donor_id	Healthy donor_2	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Bone marrow aspirate samples from 5 healthy donors were used as controls.	True
+GSM8369865	geo:GSE271107:GSM8369865	tissue_free_text	Bone marrow aspirate	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369865	geo:GSE271107:GSM8369865	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369865	geo:GSE271107:GSM8369865	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_source_name_ch1 = Bone marrow aspirate	True
+GSM8369865	geo:GSE271107:GSM8369865	tissue_type	tissue	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369865	geo:GSE271107:GSM8369865	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Cryopreserved BM mononuclear cells were rapidly thawed, washed twice with PBS	True
+GSM8369865	geo:GSE271107:GSM8369865	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		single-cell emulsions were generated with the Chromium Controller	True
+GSM8369865	geo:GSE271107:GSM8369865	assay_ontology_term_id	EFO:0009922	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		with the Chromium NextGEM Single Cell 3’ v3.1 kit (Part Number 1000121, 10x Genomics)	True
+GSM8369865	geo:GSE271107:GSM8369865	disease_free_text	normal	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8369865	geo:GSE271107:GSM8369865	disease_free_text	normal	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Bone marrow aspirate samples from 5 healthy donors were used as controls.	True
+GSM8369865	geo:GSE271107:GSM8369865	disease_free_text	normal	file	evidence/PMC11541562.txt		Healthy BM samples were obtained from donors without tumors.	True
+GSM8369865	geo:GSE271107:GSM8369865	sampled_site_condition	healthy	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8369865	geo:GSE271107:GSM8369865	donor_id	Healthy donor_3	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_title = Healthy donor_3	True
+GSM8369865	geo:GSE271107:GSM8369865	donor_id	Healthy donor_3	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Bone marrow aspirate samples from 5 healthy donors were used as controls.	True
+GSM8369866	geo:GSE271107:GSM8369866	tissue_free_text	Bone marrow aspirate	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369866	geo:GSE271107:GSM8369866	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369866	geo:GSE271107:GSM8369866	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_source_name_ch1 = Bone marrow aspirate	True
+GSM8369866	geo:GSE271107:GSM8369866	tissue_type	tissue	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369866	geo:GSE271107:GSM8369866	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Cryopreserved BM mononuclear cells were rapidly thawed, washed twice with PBS	True
+GSM8369866	geo:GSE271107:GSM8369866	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		single-cell emulsions were generated with the Chromium Controller	True
+GSM8369866	geo:GSE271107:GSM8369866	assay_ontology_term_id	EFO:0009922	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		with the Chromium NextGEM Single Cell 3’ v3.1 kit (Part Number 1000121, 10x Genomics)	True
+GSM8369866	geo:GSE271107:GSM8369866	disease_free_text	normal	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8369866	geo:GSE271107:GSM8369866	disease_free_text	normal	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Bone marrow aspirate samples from 5 healthy donors were used as controls.	True
+GSM8369866	geo:GSE271107:GSM8369866	disease_free_text	normal	file	evidence/PMC11541562.txt		Healthy BM samples were obtained from donors without tumors.	True
+GSM8369866	geo:GSE271107:GSM8369866	sampled_site_condition	healthy	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8369866	geo:GSE271107:GSM8369866	donor_id	Healthy donor_4	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_title = Healthy donor_4	True
+GSM8369866	geo:GSE271107:GSM8369866	donor_id	Healthy donor_4	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Bone marrow aspirate samples from 5 healthy donors were used as controls.	True
+GSM8369867	geo:GSE271107:GSM8369867	tissue_free_text	Bone marrow aspirate	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369867	geo:GSE271107:GSM8369867	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369867	geo:GSE271107:GSM8369867	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_source_name_ch1 = Bone marrow aspirate	True
+GSM8369867	geo:GSE271107:GSM8369867	tissue_type	tissue	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369867	geo:GSE271107:GSM8369867	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Cryopreserved BM mononuclear cells were rapidly thawed, washed twice with PBS	True
+GSM8369867	geo:GSE271107:GSM8369867	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		single-cell emulsions were generated with the Chromium Controller	True
+GSM8369867	geo:GSE271107:GSM8369867	assay_ontology_term_id	EFO:0009922	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		with the Chromium NextGEM Single Cell 3’ v3.1 kit (Part Number 1000121, 10x Genomics)	True
+GSM8369867	geo:GSE271107:GSM8369867	disease_free_text	normal	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8369867	geo:GSE271107:GSM8369867	disease_free_text	normal	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Bone marrow aspirate samples from 5 healthy donors were used as controls.	True
+GSM8369867	geo:GSE271107:GSM8369867	disease_free_text	normal	file	evidence/PMC11541562.txt		Healthy BM samples were obtained from donors without tumors.	True
+GSM8369867	geo:GSE271107:GSM8369867	sampled_site_condition	healthy	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8369867	geo:GSE271107:GSM8369867	donor_id	Healthy donor_5	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_title = Healthy donor_5	True
+GSM8369867	geo:GSE271107:GSM8369867	donor_id	Healthy donor_5	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Bone marrow aspirate samples from 5 healthy donors were used as controls.	True
+GSM8369868	geo:GSE271107:GSM8369868	tissue_free_text	Bone marrow aspirate	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369868	geo:GSE271107:GSM8369868	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369868	geo:GSE271107:GSM8369868	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_source_name_ch1 = Bone marrow aspirate	True
+GSM8369868	geo:GSE271107:GSM8369868	tissue_type	tissue	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369868	geo:GSE271107:GSM8369868	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Cryopreserved BM mononuclear cells were rapidly thawed, washed twice with PBS	True
+GSM8369868	geo:GSE271107:GSM8369868	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		single-cell emulsions were generated with the Chromium Controller	True
+GSM8369868	geo:GSE271107:GSM8369868	assay_ontology_term_id	EFO:0009922	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		with the Chromium NextGEM Single Cell 3’ v3.1 kit (Part Number 1000121, 10x Genomics)	True
+GSM8369868	geo:GSE271107:GSM8369868	disease_free_text	monoclonal gammopathy of undetermined significance	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: MGUS	True
+GSM8369868	geo:GSE271107:GSM8369868	disease_free_text	monoclonal gammopathy of undetermined significance	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		monoclonal gammopathy of undetermined significance (MGUS)	True
+GSM8369868	geo:GSE271107:GSM8369868	sampled_site_condition	diseased	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: MGUS	True
+GSM8369869	geo:GSE271107:GSM8369869	tissue_free_text	Bone marrow aspirate	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369869	geo:GSE271107:GSM8369869	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369869	geo:GSE271107:GSM8369869	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_source_name_ch1 = Bone marrow aspirate	True
+GSM8369869	geo:GSE271107:GSM8369869	tissue_type	tissue	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369869	geo:GSE271107:GSM8369869	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Cryopreserved BM mononuclear cells were rapidly thawed, washed twice with PBS	True
+GSM8369869	geo:GSE271107:GSM8369869	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		single-cell emulsions were generated with the Chromium Controller	True
+GSM8369869	geo:GSE271107:GSM8369869	assay_ontology_term_id	EFO:0009922	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		with the Chromium NextGEM Single Cell 3’ v3.1 kit (Part Number 1000121, 10x Genomics)	True
+GSM8369869	geo:GSE271107:GSM8369869	disease_free_text	monoclonal gammopathy of undetermined significance	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: MGUS	True
+GSM8369869	geo:GSE271107:GSM8369869	disease_free_text	monoclonal gammopathy of undetermined significance	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		monoclonal gammopathy of undetermined significance (MGUS)	True
+GSM8369869	geo:GSE271107:GSM8369869	sampled_site_condition	diseased	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: MGUS	True
+GSM8369870	geo:GSE271107:GSM8369870	tissue_free_text	Bone marrow aspirate	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369870	geo:GSE271107:GSM8369870	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369870	geo:GSE271107:GSM8369870	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_source_name_ch1 = Bone marrow aspirate	True
+GSM8369870	geo:GSE271107:GSM8369870	tissue_type	tissue	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369870	geo:GSE271107:GSM8369870	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Cryopreserved BM mononuclear cells were rapidly thawed, washed twice with PBS	True
+GSM8369870	geo:GSE271107:GSM8369870	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		single-cell emulsions were generated with the Chromium Controller	True
+GSM8369870	geo:GSE271107:GSM8369870	assay_ontology_term_id	EFO:0009922	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		with the Chromium NextGEM Single Cell 3’ v3.1 kit (Part Number 1000121, 10x Genomics)	True
+GSM8369870	geo:GSE271107:GSM8369870	disease_free_text	monoclonal gammopathy of undetermined significance	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: MGUS	True
+GSM8369870	geo:GSE271107:GSM8369870	disease_free_text	monoclonal gammopathy of undetermined significance	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		monoclonal gammopathy of undetermined significance (MGUS)	True
+GSM8369870	geo:GSE271107:GSM8369870	sampled_site_condition	diseased	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: MGUS	True
+GSM8369871	geo:GSE271107:GSM8369871	tissue_free_text	Bone marrow aspirate	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369871	geo:GSE271107:GSM8369871	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369871	geo:GSE271107:GSM8369871	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_source_name_ch1 = Bone marrow aspirate	True
+GSM8369871	geo:GSE271107:GSM8369871	tissue_type	tissue	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369871	geo:GSE271107:GSM8369871	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Cryopreserved BM mononuclear cells were rapidly thawed, washed twice with PBS	True
+GSM8369871	geo:GSE271107:GSM8369871	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		single-cell emulsions were generated with the Chromium Controller	True
+GSM8369871	geo:GSE271107:GSM8369871	assay_ontology_term_id	EFO:0009922	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		with the Chromium NextGEM Single Cell 3’ v3.1 kit (Part Number 1000121, 10x Genomics)	True
+GSM8369871	geo:GSE271107:GSM8369871	disease_free_text	monoclonal gammopathy of undetermined significance	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: MGUS	True
+GSM8369871	geo:GSE271107:GSM8369871	disease_free_text	monoclonal gammopathy of undetermined significance	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		monoclonal gammopathy of undetermined significance (MGUS)	True
+GSM8369871	geo:GSE271107:GSM8369871	sampled_site_condition	diseased	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: MGUS	True
+GSM8369872	geo:GSE271107:GSM8369872	tissue_free_text	Bone marrow aspirate	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369872	geo:GSE271107:GSM8369872	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369872	geo:GSE271107:GSM8369872	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_source_name_ch1 = Bone marrow aspirate	True
+GSM8369872	geo:GSE271107:GSM8369872	tissue_type	tissue	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369872	geo:GSE271107:GSM8369872	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Cryopreserved BM mononuclear cells were rapidly thawed, washed twice with PBS	True
+GSM8369872	geo:GSE271107:GSM8369872	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		single-cell emulsions were generated with the Chromium Controller	True
+GSM8369872	geo:GSE271107:GSM8369872	assay_ontology_term_id	EFO:0009922	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		with the Chromium NextGEM Single Cell 3’ v3.1 kit (Part Number 1000121, 10x Genomics)	True
+GSM8369872	geo:GSE271107:GSM8369872	disease_free_text	monoclonal gammopathy of undetermined significance	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: MGUS	True
+GSM8369872	geo:GSE271107:GSM8369872	disease_free_text	monoclonal gammopathy of undetermined significance	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		monoclonal gammopathy of undetermined significance (MGUS)	True
+GSM8369872	geo:GSE271107:GSM8369872	sampled_site_condition	diseased	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: MGUS	True
+GSM8369873	geo:GSE271107:GSM8369873	tissue_free_text	Bone marrow aspirate	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369873	geo:GSE271107:GSM8369873	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369873	geo:GSE271107:GSM8369873	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_source_name_ch1 = Bone marrow aspirate	True
+GSM8369873	geo:GSE271107:GSM8369873	tissue_type	tissue	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369873	geo:GSE271107:GSM8369873	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Cryopreserved BM mononuclear cells were rapidly thawed, washed twice with PBS	True
+GSM8369873	geo:GSE271107:GSM8369873	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		single-cell emulsions were generated with the Chromium Controller	True
+GSM8369873	geo:GSE271107:GSM8369873	assay_ontology_term_id	EFO:0009922	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		with the Chromium NextGEM Single Cell 3’ v3.1 kit (Part Number 1000121, 10x Genomics)	True
+GSM8369873	geo:GSE271107:GSM8369873	disease_free_text	monoclonal gammopathy of undetermined significance	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: MGUS	True
+GSM8369873	geo:GSE271107:GSM8369873	disease_free_text	monoclonal gammopathy of undetermined significance	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		monoclonal gammopathy of undetermined significance (MGUS)	True
+GSM8369873	geo:GSE271107:GSM8369873	sampled_site_condition	diseased	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: MGUS	True
+GSM8369874	geo:GSE271107:GSM8369874	tissue_free_text	Bone marrow aspirate	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369874	geo:GSE271107:GSM8369874	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369874	geo:GSE271107:GSM8369874	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_source_name_ch1 = Bone marrow aspirate	True
+GSM8369874	geo:GSE271107:GSM8369874	tissue_type	tissue	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369874	geo:GSE271107:GSM8369874	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Cryopreserved BM mononuclear cells were rapidly thawed, washed twice with PBS	True
+GSM8369874	geo:GSE271107:GSM8369874	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		single-cell emulsions were generated with the Chromium Controller	True
+GSM8369874	geo:GSE271107:GSM8369874	assay_ontology_term_id	EFO:0009922	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		with the Chromium NextGEM Single Cell 3’ v3.1 kit (Part Number 1000121, 10x Genomics)	True
+GSM8369874	geo:GSE271107:GSM8369874	disease_free_text	smoldering multiple myeloma	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: SMM	True
+GSM8369874	geo:GSE271107:GSM8369874	disease_free_text	smoldering multiple myeloma	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		smoldering multiple myeloma (SMM)	True
+GSM8369874	geo:GSE271107:GSM8369874	sampled_site_condition	diseased	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: SMM	True
+GSM8369875	geo:GSE271107:GSM8369875	tissue_free_text	Bone marrow aspirate	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369875	geo:GSE271107:GSM8369875	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369875	geo:GSE271107:GSM8369875	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_source_name_ch1 = Bone marrow aspirate	True
+GSM8369875	geo:GSE271107:GSM8369875	tissue_type	tissue	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369875	geo:GSE271107:GSM8369875	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Cryopreserved BM mononuclear cells were rapidly thawed, washed twice with PBS	True
+GSM8369875	geo:GSE271107:GSM8369875	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		single-cell emulsions were generated with the Chromium Controller	True
+GSM8369875	geo:GSE271107:GSM8369875	assay_ontology_term_id	EFO:0009922	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		with the Chromium NextGEM Single Cell 3’ v3.1 kit (Part Number 1000121, 10x Genomics)	True
+GSM8369875	geo:GSE271107:GSM8369875	disease_free_text	smoldering multiple myeloma	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: SMM	True
+GSM8369875	geo:GSE271107:GSM8369875	disease_free_text	smoldering multiple myeloma	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		smoldering multiple myeloma (SMM)	True
+GSM8369875	geo:GSE271107:GSM8369875	sampled_site_condition	diseased	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: SMM	True
+GSM8369876	geo:GSE271107:GSM8369876	tissue_free_text	Bone marrow aspirate	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369876	geo:GSE271107:GSM8369876	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369876	geo:GSE271107:GSM8369876	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_source_name_ch1 = Bone marrow aspirate	True
+GSM8369876	geo:GSE271107:GSM8369876	tissue_type	tissue	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369876	geo:GSE271107:GSM8369876	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Cryopreserved BM mononuclear cells were rapidly thawed, washed twice with PBS	True
+GSM8369876	geo:GSE271107:GSM8369876	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		single-cell emulsions were generated with the Chromium Controller	True
+GSM8369876	geo:GSE271107:GSM8369876	assay_ontology_term_id	EFO:0009922	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		with the Chromium NextGEM Single Cell 3’ v3.1 kit (Part Number 1000121, 10x Genomics)	True
+GSM8369876	geo:GSE271107:GSM8369876	disease_free_text	smoldering multiple myeloma	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: SMM	True
+GSM8369876	geo:GSE271107:GSM8369876	disease_free_text	smoldering multiple myeloma	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		smoldering multiple myeloma (SMM)	True
+GSM8369876	geo:GSE271107:GSM8369876	sampled_site_condition	diseased	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: SMM	True
+GSM8369877	geo:GSE271107:GSM8369877	tissue_free_text	Bone marrow aspirate	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369877	geo:GSE271107:GSM8369877	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369877	geo:GSE271107:GSM8369877	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_source_name_ch1 = Bone marrow aspirate	True
+GSM8369877	geo:GSE271107:GSM8369877	tissue_type	tissue	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369877	geo:GSE271107:GSM8369877	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Cryopreserved BM mononuclear cells were rapidly thawed, washed twice with PBS	True
+GSM8369877	geo:GSE271107:GSM8369877	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		single-cell emulsions were generated with the Chromium Controller	True
+GSM8369877	geo:GSE271107:GSM8369877	assay_ontology_term_id	EFO:0009922	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		with the Chromium NextGEM Single Cell 3’ v3.1 kit (Part Number 1000121, 10x Genomics)	True
+GSM8369877	geo:GSE271107:GSM8369877	disease_free_text	smoldering multiple myeloma	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: SMM	True
+GSM8369877	geo:GSE271107:GSM8369877	disease_free_text	smoldering multiple myeloma	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		smoldering multiple myeloma (SMM)	True
+GSM8369877	geo:GSE271107:GSM8369877	sampled_site_condition	diseased	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: SMM	True
+GSM8369878	geo:GSE271107:GSM8369878	tissue_free_text	Bone marrow aspirate	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369878	geo:GSE271107:GSM8369878	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369878	geo:GSE271107:GSM8369878	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_source_name_ch1 = Bone marrow aspirate	True
+GSM8369878	geo:GSE271107:GSM8369878	tissue_type	tissue	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369878	geo:GSE271107:GSM8369878	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Cryopreserved BM mononuclear cells were rapidly thawed, washed twice with PBS	True
+GSM8369878	geo:GSE271107:GSM8369878	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		single-cell emulsions were generated with the Chromium Controller	True
+GSM8369878	geo:GSE271107:GSM8369878	assay_ontology_term_id	EFO:0009922	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		with the Chromium NextGEM Single Cell 3’ v3.1 kit (Part Number 1000121, 10x Genomics)	True
+GSM8369878	geo:GSE271107:GSM8369878	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: NDMM	True
+GSM8369878	geo:GSE271107:GSM8369878	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		bone marrow aspirate samples from 4 newly diagnosed multiple myeloma, 6 MGUS and 4 SMM patients	True
+GSM8369878	geo:GSE271107:GSM8369878	disease_ontology_term_id	MONDO:0009693	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: NDMM	True
+GSM8369878	geo:GSE271107:GSM8369878	disease_ontology_term_id	MONDO:0009693	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		bone marrow aspirate samples from 4 newly diagnosed multiple myeloma, 6 MGUS and 4 SMM patients	True
+GSM8369878	geo:GSE271107:GSM8369878	sampled_site_condition	diseased	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: NDMM	True
+GSM8369879	geo:GSE271107:GSM8369879	tissue_free_text	Bone marrow aspirate	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369879	geo:GSE271107:GSM8369879	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369879	geo:GSE271107:GSM8369879	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_source_name_ch1 = Bone marrow aspirate	True
+GSM8369879	geo:GSE271107:GSM8369879	tissue_type	tissue	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369879	geo:GSE271107:GSM8369879	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Cryopreserved BM mononuclear cells were rapidly thawed, washed twice with PBS	True
+GSM8369879	geo:GSE271107:GSM8369879	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		single-cell emulsions were generated with the Chromium Controller	True
+GSM8369879	geo:GSE271107:GSM8369879	assay_ontology_term_id	EFO:0009922	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		with the Chromium NextGEM Single Cell 3’ v3.1 kit (Part Number 1000121, 10x Genomics)	True
+GSM8369879	geo:GSE271107:GSM8369879	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: NDMM	True
+GSM8369879	geo:GSE271107:GSM8369879	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		bone marrow aspirate samples from 4 newly diagnosed multiple myeloma, 6 MGUS and 4 SMM patients	True
+GSM8369879	geo:GSE271107:GSM8369879	disease_ontology_term_id	MONDO:0009693	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: NDMM	True
+GSM8369879	geo:GSE271107:GSM8369879	disease_ontology_term_id	MONDO:0009693	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		bone marrow aspirate samples from 4 newly diagnosed multiple myeloma, 6 MGUS and 4 SMM patients	True
+GSM8369879	geo:GSE271107:GSM8369879	sampled_site_condition	diseased	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: NDMM	True
+GSM8369880	geo:GSE271107:GSM8369880	tissue_free_text	Bone marrow aspirate	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369880	geo:GSE271107:GSM8369880	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369880	geo:GSE271107:GSM8369880	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_source_name_ch1 = Bone marrow aspirate	True
+GSM8369880	geo:GSE271107:GSM8369880	tissue_type	tissue	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369880	geo:GSE271107:GSM8369880	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Cryopreserved BM mononuclear cells were rapidly thawed, washed twice with PBS	True
+GSM8369880	geo:GSE271107:GSM8369880	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		single-cell emulsions were generated with the Chromium Controller	True
+GSM8369880	geo:GSE271107:GSM8369880	assay_ontology_term_id	EFO:0009922	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		with the Chromium NextGEM Single Cell 3’ v3.1 kit (Part Number 1000121, 10x Genomics)	True
+GSM8369880	geo:GSE271107:GSM8369880	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: NDMM	True
+GSM8369880	geo:GSE271107:GSM8369880	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		bone marrow aspirate samples from 4 newly diagnosed multiple myeloma, 6 MGUS and 4 SMM patients	True
+GSM8369880	geo:GSE271107:GSM8369880	disease_ontology_term_id	MONDO:0009693	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: NDMM	True
+GSM8369880	geo:GSE271107:GSM8369880	disease_ontology_term_id	MONDO:0009693	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		bone marrow aspirate samples from 4 newly diagnosed multiple myeloma, 6 MGUS and 4 SMM patients	True
+GSM8369880	geo:GSE271107:GSM8369880	sampled_site_condition	diseased	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: NDMM	True
+GSM8369881	geo:GSE271107:GSM8369881	tissue_free_text	Bone marrow aspirate	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369881	geo:GSE271107:GSM8369881	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369881	geo:GSE271107:GSM8369881	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_source_name_ch1 = Bone marrow aspirate	True
+GSM8369881	geo:GSE271107:GSM8369881	tissue_type	tissue	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow aspirate	True
+GSM8369881	geo:GSE271107:GSM8369881	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		Cryopreserved BM mononuclear cells were rapidly thawed, washed twice with PBS	True
+GSM8369881	geo:GSE271107:GSM8369881	suspension_type	cell	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		single-cell emulsions were generated with the Chromium Controller	True
+GSM8369881	geo:GSE271107:GSM8369881	assay_ontology_term_id	EFO:0009922	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		with the Chromium NextGEM Single Cell 3’ v3.1 kit (Part Number 1000121, 10x Genomics)	True
+GSM8369881	geo:GSE271107:GSM8369881	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: NDMM	True
+GSM8369881	geo:GSE271107:GSM8369881	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		bone marrow aspirate samples from 4 newly diagnosed multiple myeloma, 6 MGUS and 4 SMM patients	True
+GSM8369881	geo:GSE271107:GSM8369881	disease_ontology_term_id	MONDO:0009693	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: NDMM	True
+GSM8369881	geo:GSE271107:GSM8369881	disease_ontology_term_id	MONDO:0009693	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		bone marrow aspirate samples from 4 newly diagnosed multiple myeloma, 6 MGUS and 4 SMM patients	True
+GSM8369881	geo:GSE271107:GSM8369881	sampled_site_condition	diseased	file	raw/fp-52713fe458c1/GSE271107_family.soft.gz		!Sample_characteristics_ch1 = disease state: NDMM	True

@@ -1,0 +1,10 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9369727	geo:GSE313529:GSM9369727	disease_ontology_term_id	MONDO:0015265	derived	ols:mondo		bronchiolitis obliterans	True
+		organism	Homo sapiens	file	raw/fp-dc7a2e4f110b/GSE313529_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9369726	geo:GSE313529:GSM9369726	tissue_free_text	bronchoalveolar lavage	file	raw/fp-dc7a2e4f110b/GSE313529_family.soft.gz		!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage	True
+GSM9369726	geo:GSE313529:GSM9369726	assay_ontology_term_id	EFO:0008995	file	work/fp-dc7a2e4f110b/GSE313529_RAW/GSM9369726_Zc-1_matrix.mtx.gz		"""software_version"": ""cellranger-7.0.0"""	True
+GSM9369727	geo:GSE313529:GSM9369727	tissue_free_text	bronchoalveolar lavage	file	raw/fp-dc7a2e4f110b/GSE313529_family.soft.gz		!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage	True
+GSM9369727	geo:GSE313529:GSM9369727	assay_ontology_term_id	EFO:0008995	file	work/fp-dc7a2e4f110b/GSE313529_RAW/GSM9369727_Bs-1_matrix.mtx.gz		"""software_version"": ""cellranger-7.0.0"""	True
+GSM9369727	geo:GSE313529:GSM9369727	disease_free_text	bronchiolitis obliterans	file	raw/fp-dc7a2e4f110b/GSE313529_family.soft.gz		!Series_title = Single-cell RNA-seq of bronchoalveolar lavage from bronchiolitis obliterans	True
+GSM9369727	geo:GSE313529:GSM9369727	disease_free_text	bronchiolitis obliterans	file	raw/fp-dc7a2e4f110b/GSE313529_family.soft.gz		!Sample_title = BALF cells from BOS lesion	True
+GSM9369727	geo:GSE313529:GSM9369727	sampled_site_condition	diseased	file	raw/fp-dc7a2e4f110b/GSE313529_family.soft.gz		!Sample_title = BALF cells from BOS lesion	True

@@ -1,0 +1,55 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM7073474	geo:GSE226335:GSM7073474	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM7073474	geo:GSE226335:GSM7073474	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7073474	geo:GSE226335:GSM7073474	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM7073474	geo:GSE226335:GSM7073474	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM7073474	geo:GSE226335:GSM7073474	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7073475	geo:GSE226335:GSM7073475	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM7073475	geo:GSE226335:GSM7073475	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7073475	geo:GSE226335:GSM7073475	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM7073475	geo:GSE226335:GSM7073475	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+		organism	Homo sapiens	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7073474	geo:GSE226335:GSM7073474	donor_id	MM-01	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		!Sample_title = Patient_P1759_Pre_CART	True
+GSM7073474	geo:GSE226335:GSM7073474	donor_id	MM-01	file	evidence/supplementary/41591_2023_2491_MOESM3_ESM.xlsx		Numbers starting with P, MLL, or TP indicate sample identifiers and corresponds to data files deposited to GEO	True
+GSM7073474	geo:GSE226335:GSM7073474	donor_id	MM-01	file	evidence/supplementary/41591_2023_2491_MOESM3_ESM.xlsx		P1759 (pre_CAR) P1959 (post_CAR)	True
+GSM7073474	geo:GSE226335:GSM7073474	donor_id	MM-01	file	evidence/supplementary/41591_2023_2491_MOESM3_ESM.xlsx		MM-01 CAR BCMA NCT03651128 University of Calgary 67 M III t(4;14)	True
+GSM7073474	geo:GSE226335:GSM7073474	sex	male	file	evidence/supplementary/41591_2023_2491_MOESM3_ESM.xlsx		Patient ID Therapy Target ClinicalTrials.gov Identifier Sample source Age Sex	True
+GSM7073474	geo:GSE226335:GSM7073474	sex	male	file	evidence/supplementary/41591_2023_2491_MOESM3_ESM.xlsx		MM-01 CAR BCMA NCT03651128 University of Calgary 67 M III t(4;14)	True
+GSM7073474	geo:GSE226335:GSM7073474	sex	male	file	evidence/supplementary/41591_2023_2491_MOESM3_ESM.xlsx		P1759 (pre_CAR) P1959 (post_CAR)	True
+GSM7073474	geo:GSE226335:GSM7073474	disease_free_text	multiple myeloma	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple myeloma	True
+GSM7073474	geo:GSE226335:GSM7073474	sampled_site_condition	diseased	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple myeloma	True
+GSM7073474	geo:GSE226335:GSM7073474	tissue_free_text	bone marrow	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		Experiments were conducted on primary multiple myeloma patients bone marrow samples	True
+GSM7073474	geo:GSE226335:GSM7073474	tissue_free_text	bone marrow	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7073474	geo:GSE226335:GSM7073474	tissue_free_text	bone marrow	file	evidence/PMC10504087.txt		scRNA-seq analysis of bone marrow CD3 + T cells revealed significant CAR T cell contraction at progression	True
+GSM7073474	geo:GSE226335:GSM7073474	tissue_type	tissue	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		Experiments were conducted on primary multiple myeloma patients bone marrow samples	True
+GSM7073474	geo:GSE226335:GSM7073474	sample_collection_method	bone marrow aspirate	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7073474	geo:GSE226335:GSM7073474	cell_enrichment	CD138+	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7073474	geo:GSE226335:GSM7073474	cell_enrichment	CD138+	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7073474	geo:GSE226335:GSM7073474	suspension_type	cell	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		Cells were partitioned into nanoliter-scale Gel Bead-In-Emulsions (GEMs) using 10X GemCode Technology	True
+GSM7073474	geo:GSE226335:GSM7073474	assay	10x 3' transcription profiling	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		Primers containing (i) an Illumina R1 sequence, (ii) a 16 bp 10x barcode, (iii) a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM7073474	geo:GSE226335:GSM7073474	assay	10x 3' transcription profiling	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		!Sample_description = 10X Genomics Single Cell RNAseq v2 Chemistry	True
+GSM7073474	geo:GSE226335:GSM7073474	gene_annotation_version	GRCh38	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM7073474	geo:GSE226335:GSM7073474	age	67	file	evidence/supplementary/41591_2023_2491_MOESM3_ESM.xlsx		Patient ID Therapy Target ClinicalTrials.gov Identifier Sample source Age Sex	True
+GSM7073474	geo:GSE226335:GSM7073474	age	67	file	evidence/supplementary/41591_2023_2491_MOESM3_ESM.xlsx		MM-01 CAR BCMA NCT03651128 University of Calgary 67 M III t(4;14)	True
+GSM7073474	geo:GSE226335:GSM7073474	age	67	file	evidence/supplementary/41591_2023_2491_MOESM3_ESM.xlsx		P1759 (pre_CAR) P1959 (post_CAR)	True
+GSM7073474	geo:GSE226335:GSM7073474	age	67	file	evidence/PMC10504087.txt		The clinical characteristics of each patient at baseline, the types of therapy received (including clinical trial information) and samples analyzed by whole-genome sequencing (WGS) and/or single-cell copy number variation sequencing (scCNV-seq) are summarized in Supplementary Table 1	True
+GSM7073475	geo:GSE226335:GSM7073475	donor_id	MM-01	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		!Sample_title = Patient_P1959_Post_CART	True
+GSM7073475	geo:GSE226335:GSM7073475	donor_id	MM-01	file	evidence/supplementary/41591_2023_2491_MOESM3_ESM.xlsx		Numbers starting with P, MLL, or TP indicate sample identifiers and corresponds to data files deposited to GEO	True
+GSM7073475	geo:GSE226335:GSM7073475	donor_id	MM-01	file	evidence/supplementary/41591_2023_2491_MOESM3_ESM.xlsx		P1759 (pre_CAR) P1959 (post_CAR)	True
+GSM7073475	geo:GSE226335:GSM7073475	donor_id	MM-01	file	evidence/supplementary/41591_2023_2491_MOESM3_ESM.xlsx		MM-01 CAR BCMA NCT03651128 University of Calgary 67 M III t(4;14)	True
+GSM7073475	geo:GSE226335:GSM7073475	sex	male	file	evidence/supplementary/41591_2023_2491_MOESM3_ESM.xlsx		Patient ID Therapy Target ClinicalTrials.gov Identifier Sample source Age Sex	True
+GSM7073475	geo:GSE226335:GSM7073475	sex	male	file	evidence/supplementary/41591_2023_2491_MOESM3_ESM.xlsx		MM-01 CAR BCMA NCT03651128 University of Calgary 67 M III t(4;14)	True
+GSM7073475	geo:GSE226335:GSM7073475	sex	male	file	evidence/supplementary/41591_2023_2491_MOESM3_ESM.xlsx		P1759 (pre_CAR) P1959 (post_CAR)	True
+GSM7073475	geo:GSE226335:GSM7073475	disease_free_text	multiple myeloma	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple myeloma	True
+GSM7073475	geo:GSE226335:GSM7073475	sampled_site_condition	diseased	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple myeloma	True
+GSM7073475	geo:GSE226335:GSM7073475	tissue_free_text	bone marrow	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		Experiments were conducted on primary multiple myeloma patients bone marrow samples	True
+GSM7073475	geo:GSE226335:GSM7073475	tissue_free_text	bone marrow	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7073475	geo:GSE226335:GSM7073475	tissue_free_text	bone marrow	file	evidence/PMC10504087.txt		scRNA-seq analysis of bone marrow CD3 + T cells revealed significant CAR T cell contraction at progression	True
+GSM7073475	geo:GSE226335:GSM7073475	tissue_type	tissue	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		Experiments were conducted on primary multiple myeloma patients bone marrow samples	True
+GSM7073475	geo:GSE226335:GSM7073475	sample_collection_method	bone marrow aspirate	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7073475	geo:GSE226335:GSM7073475	cell_enrichment	CD138+	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7073475	geo:GSE226335:GSM7073475	cell_enrichment	CD138+	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7073475	geo:GSE226335:GSM7073475	suspension_type	cell	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		Cells were partitioned into nanoliter-scale Gel Bead-In-Emulsions (GEMs) using 10X GemCode Technology	True
+GSM7073475	geo:GSE226335:GSM7073475	assay	10x 3' transcription profiling	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		Primers containing (i) an Illumina R1 sequence, (ii) a 16 bp 10x barcode, (iii) a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM7073475	geo:GSE226335:GSM7073475	assay	10x 3' transcription profiling	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		!Sample_description = 10X Genomics Single Cell RNAseq v2 Chemistry	True
+GSM7073475	geo:GSE226335:GSM7073475	gene_annotation_version	GRCh38	file	raw/fp-979e247eabd3/GSE226335_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True

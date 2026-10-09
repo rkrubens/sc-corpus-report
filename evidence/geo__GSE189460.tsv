@@ -1,0 +1,380 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5702263	geo:GSE189460:GSM5702263	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5702263	geo:GSE189460:GSM5702263	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5702263	geo:GSE189460:GSM5702263	development_stage_ontology_term_id	HsapDv:0000163	derived	ols:hsapdv		69-year-old stage	True
+GSM5702263	geo:GSE189460:GSM5702263	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5702263	geo:GSE189460:GSM5702263	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5702264	geo:GSE189460:GSM5702264	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5702264	geo:GSE189460:GSM5702264	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5702264	geo:GSE189460:GSM5702264	development_stage_ontology_term_id	HsapDv:0000162	derived	ols:hsapdv		68-year-old stage	True
+GSM5702264	geo:GSE189460:GSM5702264	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5702264	geo:GSE189460:GSM5702264	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5702265	geo:GSE189460:GSM5702265	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5702265	geo:GSE189460:GSM5702265	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5702265	geo:GSE189460:GSM5702265	development_stage_ontology_term_id	HsapDv:0000162	derived	ols:hsapdv		68-year-old stage	True
+GSM5702265	geo:GSE189460:GSM5702265	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5702265	geo:GSE189460:GSM5702265	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5702266	geo:GSE189460:GSM5702266	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5702266	geo:GSE189460:GSM5702266	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5702266	geo:GSE189460:GSM5702266	development_stage_ontology_term_id	HsapDv:0000168	derived	ols:hsapdv		74-year-old stage	True
+GSM5702266	geo:GSE189460:GSM5702266	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5702266	geo:GSE189460:GSM5702266	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5702267	geo:GSE189460:GSM5702267	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5702267	geo:GSE189460:GSM5702267	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5702267	geo:GSE189460:GSM5702267	development_stage_ontology_term_id	HsapDv:0000172	derived	ols:hsapdv		78-year-old stage	True
+GSM5702267	geo:GSE189460:GSM5702267	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5702267	geo:GSE189460:GSM5702267	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5702268	geo:GSE189460:GSM5702268	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5702268	geo:GSE189460:GSM5702268	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5702268	geo:GSE189460:GSM5702268	development_stage_ontology_term_id	HsapDv:0000160	derived	ols:hsapdv		66-year-old stage	True
+GSM5702268	geo:GSE189460:GSM5702268	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5702268	geo:GSE189460:GSM5702268	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5702269	geo:GSE189460:GSM5702269	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5702269	geo:GSE189460:GSM5702269	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5702269	geo:GSE189460:GSM5702269	development_stage_ontology_term_id	HsapDv:0000162	derived	ols:hsapdv		68-year-old stage	True
+GSM5702269	geo:GSE189460:GSM5702269	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5702269	geo:GSE189460:GSM5702269	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5702270	geo:GSE189460:GSM5702270	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5702270	geo:GSE189460:GSM5702270	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5702270	geo:GSE189460:GSM5702270	development_stage_ontology_term_id	HsapDv:0000160	derived	ols:hsapdv		66-year-old stage	True
+GSM5702270	geo:GSE189460:GSM5702270	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5702270	geo:GSE189460:GSM5702270	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5702271	geo:GSE189460:GSM5702271	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5702271	geo:GSE189460:GSM5702271	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5702271	geo:GSE189460:GSM5702271	development_stage_ontology_term_id	HsapDv:0000164	derived	ols:hsapdv		70-year-old stage	True
+GSM5702271	geo:GSE189460:GSM5702271	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5702271	geo:GSE189460:GSM5702271	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5702272	geo:GSE189460:GSM5702272	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5702272	geo:GSE189460:GSM5702272	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5702272	geo:GSE189460:GSM5702272	development_stage_ontology_term_id	HsapDv:0000165	derived	ols:hsapdv		71-year-old stage	True
+GSM5702272	geo:GSE189460:GSM5702272	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5702272	geo:GSE189460:GSM5702272	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5702273	geo:GSE189460:GSM5702273	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5702273	geo:GSE189460:GSM5702273	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5702273	geo:GSE189460:GSM5702273	development_stage_ontology_term_id	HsapDv:0000160	derived	ols:hsapdv		66-year-old stage	True
+GSM5702273	geo:GSE189460:GSM5702273	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5702273	geo:GSE189460:GSM5702273	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5702274	geo:GSE189460:GSM5702274	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5702274	geo:GSE189460:GSM5702274	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5702274	geo:GSE189460:GSM5702274	development_stage_ontology_term_id	HsapDv:0000161	derived	ols:hsapdv		67-year-old stage	True
+GSM5702274	geo:GSE189460:GSM5702274	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5702274	geo:GSE189460:GSM5702274	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5702275	geo:GSE189460:GSM5702275	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5702275	geo:GSE189460:GSM5702275	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5702275	geo:GSE189460:GSM5702275	development_stage_ontology_term_id	HsapDv:0000172	derived	ols:hsapdv		78-year-old stage	True
+GSM5702275	geo:GSE189460:GSM5702275	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5702275	geo:GSE189460:GSM5702275	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5702276	geo:GSE189460:GSM5702276	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5702276	geo:GSE189460:GSM5702276	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5702276	geo:GSE189460:GSM5702276	development_stage_ontology_term_id	HsapDv:0000163	derived	ols:hsapdv		69-year-old stage	True
+GSM5702276	geo:GSE189460:GSM5702276	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5702276	geo:GSE189460:GSM5702276	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5702277	geo:GSE189460:GSM5702277	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5702277	geo:GSE189460:GSM5702277	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5702277	geo:GSE189460:GSM5702277	development_stage_ontology_term_id	HsapDv:0000171	derived	ols:hsapdv		77-year-old stage	True
+GSM5702277	geo:GSE189460:GSM5702277	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5702277	geo:GSE189460:GSM5702277	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5702278	geo:GSE189460:GSM5702278	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5702278	geo:GSE189460:GSM5702278	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5702278	geo:GSE189460:GSM5702278	development_stage_ontology_term_id	HsapDv:0000169	derived	ols:hsapdv		75-year-old stage	True
+GSM5702278	geo:GSE189460:GSM5702278	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5702278	geo:GSE189460:GSM5702278	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5702279	geo:GSE189460:GSM5702279	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5702279	geo:GSE189460:GSM5702279	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5702279	geo:GSE189460:GSM5702279	development_stage_ontology_term_id	HsapDv:0000153	derived	ols:hsapdv		59-year-old stage	True
+GSM5702279	geo:GSE189460:GSM5702279	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5702279	geo:GSE189460:GSM5702279	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5702280	geo:GSE189460:GSM5702280	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5702280	geo:GSE189460:GSM5702280	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5702280	geo:GSE189460:GSM5702280	development_stage_ontology_term_id	HsapDv:0000163	derived	ols:hsapdv		69-year-old stage	True
+GSM5702280	geo:GSE189460:GSM5702280	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5702280	geo:GSE189460:GSM5702280	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+		organism	Homo sapiens	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5702263	geo:GSE189460:GSM5702263	donor_id	MM012	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_title = MM012	True
+GSM5702263	geo:GSE189460:GSM5702263	donor_id	MM012	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM012 Discovery Suboptimal Responder 69 Female	True
+GSM5702263	geo:GSE189460:GSM5702263	donor_id	MM012	file	evidence/PMC9723182.txt		18 MM patients (numbers “MM042” to “MM233”)	True
+GSM5702263	geo:GSE189460:GSM5702263	sex	female	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702263	geo:GSE189460:GSM5702263	sex	female	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM012 Discovery Suboptimal Responder 69 Female	True
+GSM5702263	geo:GSE189460:GSM5702263	development_stage	69-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702263	geo:GSE189460:GSM5702263	development_stage	69-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM012 Discovery Suboptimal Responder 69 Female	True
+GSM5702263	geo:GSE189460:GSM5702263	tissue_free_text	bone marrow	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM5702263	geo:GSE189460:GSM5702263	disease_free_text	multiple myeloma	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple myeloma	True
+GSM5702263	geo:GSE189460:GSM5702263	assay	10x 3' v3	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		10x Genomic Chromium System and Single Cell 3' v3 Reagent Kit	True
+GSM5702263	geo:GSE189460:GSM5702263	assay	10x 3' v3	file	evidence/PMC9723182.txt		Chromium System from 10× Genomics, Inc. (Pleasanton, CA, USA), and a Single Cell 3′ v3 Reagent Kit	True
+GSM5702263	geo:GSE189460:GSM5702263	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_source_name_ch1 = bone marrow mononuclear cells	True
+GSM5702263	geo:GSE189460:GSM5702263	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		isolated mononuclear cells were cryopreserved in freezing medium before the experiments	True
+GSM5702263	geo:GSE189460:GSM5702263	tissue_type	tissue	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		Bone marrow aspirate samples were collected at baseline prior to the induction treatment	True
+GSM5702263	geo:GSE189460:GSM5702263	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		Sequencing reads were mapped to the GRCh38 ( version 3.0.0) reference genome	True
+GSM5702263	geo:GSE189460:GSM5702263	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		downloaded from the 10x Genomic	True
+GSM5702264	geo:GSE189460:GSM5702264	donor_id	MM023	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_title = MM023	True
+GSM5702264	geo:GSE189460:GSM5702264	donor_id	MM023	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM023 Discovery Suboptimal Responder 68 Female	True
+GSM5702264	geo:GSE189460:GSM5702264	donor_id	MM023	file	evidence/PMC9723182.txt		18 MM patients (numbers “MM042” to “MM233”)	True
+GSM5702264	geo:GSE189460:GSM5702264	sex	female	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702264	geo:GSE189460:GSM5702264	sex	female	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM023 Discovery Suboptimal Responder 68 Female	True
+GSM5702264	geo:GSE189460:GSM5702264	development_stage	68-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702264	geo:GSE189460:GSM5702264	development_stage	68-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM023 Discovery Suboptimal Responder 68 Female	True
+GSM5702264	geo:GSE189460:GSM5702264	tissue_free_text	bone marrow	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM5702264	geo:GSE189460:GSM5702264	disease_free_text	multiple myeloma	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple myeloma	True
+GSM5702264	geo:GSE189460:GSM5702264	assay	10x 3' v3	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		10x Genomic Chromium System and Single Cell 3' v3 Reagent Kit	True
+GSM5702264	geo:GSE189460:GSM5702264	assay	10x 3' v3	file	evidence/PMC9723182.txt		Chromium System from 10× Genomics, Inc. (Pleasanton, CA, USA), and a Single Cell 3′ v3 Reagent Kit	True
+GSM5702264	geo:GSE189460:GSM5702264	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_source_name_ch1 = bone marrow mononuclear cells	True
+GSM5702264	geo:GSE189460:GSM5702264	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		isolated mononuclear cells were cryopreserved in freezing medium before the experiments	True
+GSM5702264	geo:GSE189460:GSM5702264	tissue_type	tissue	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		Bone marrow aspirate samples were collected at baseline prior to the induction treatment	True
+GSM5702264	geo:GSE189460:GSM5702264	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		Sequencing reads were mapped to the GRCh38 ( version 3.0.0) reference genome	True
+GSM5702264	geo:GSE189460:GSM5702264	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		downloaded from the 10x Genomic	True
+GSM5702265	geo:GSE189460:GSM5702265	donor_id	MM042	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_title = MM042	True
+GSM5702265	geo:GSE189460:GSM5702265	donor_id	MM042	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM042 Discovery Optimal Responder 68 Female	True
+GSM5702265	geo:GSE189460:GSM5702265	donor_id	MM042	file	evidence/PMC9723182.txt		18 MM patients (numbers “MM042” to “MM233”)	True
+GSM5702265	geo:GSE189460:GSM5702265	sex	female	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702265	geo:GSE189460:GSM5702265	sex	female	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM042 Discovery Optimal Responder 68 Female	True
+GSM5702265	geo:GSE189460:GSM5702265	development_stage	68-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702265	geo:GSE189460:GSM5702265	development_stage	68-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM042 Discovery Optimal Responder 68 Female	True
+GSM5702265	geo:GSE189460:GSM5702265	tissue_free_text	bone marrow	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM5702265	geo:GSE189460:GSM5702265	disease_free_text	multiple myeloma	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple myeloma	True
+GSM5702265	geo:GSE189460:GSM5702265	assay	10x 3' v3	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		10x Genomic Chromium System and Single Cell 3' v3 Reagent Kit	True
+GSM5702265	geo:GSE189460:GSM5702265	assay	10x 3' v3	file	evidence/PMC9723182.txt		Chromium System from 10× Genomics, Inc. (Pleasanton, CA, USA), and a Single Cell 3′ v3 Reagent Kit	True
+GSM5702265	geo:GSE189460:GSM5702265	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_source_name_ch1 = bone marrow mononuclear cells	True
+GSM5702265	geo:GSE189460:GSM5702265	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		isolated mononuclear cells were cryopreserved in freezing medium before the experiments	True
+GSM5702265	geo:GSE189460:GSM5702265	tissue_type	tissue	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		Bone marrow aspirate samples were collected at baseline prior to the induction treatment	True
+GSM5702265	geo:GSE189460:GSM5702265	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		Sequencing reads were mapped to the GRCh38 ( version 3.0.0) reference genome	True
+GSM5702265	geo:GSE189460:GSM5702265	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		downloaded from the 10x Genomic	True
+GSM5702266	geo:GSE189460:GSM5702266	donor_id	MM043	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_title = MM043	True
+GSM5702266	geo:GSE189460:GSM5702266	donor_id	MM043	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM043 Discovery Optimal Responder 74 Male	True
+GSM5702266	geo:GSE189460:GSM5702266	donor_id	MM043	file	evidence/PMC9723182.txt		18 MM patients (numbers “MM042” to “MM233”)	True
+GSM5702266	geo:GSE189460:GSM5702266	sex	male	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702266	geo:GSE189460:GSM5702266	sex	male	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM043 Discovery Optimal Responder 74 Male	True
+GSM5702266	geo:GSE189460:GSM5702266	development_stage	74-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702266	geo:GSE189460:GSM5702266	development_stage	74-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM043 Discovery Optimal Responder 74 Male	True
+GSM5702266	geo:GSE189460:GSM5702266	tissue_free_text	bone marrow	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM5702266	geo:GSE189460:GSM5702266	disease_free_text	multiple myeloma	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple myeloma	True
+GSM5702266	geo:GSE189460:GSM5702266	assay	10x 3' v3	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		10x Genomic Chromium System and Single Cell 3' v3 Reagent Kit	True
+GSM5702266	geo:GSE189460:GSM5702266	assay	10x 3' v3	file	evidence/PMC9723182.txt		Chromium System from 10× Genomics, Inc. (Pleasanton, CA, USA), and a Single Cell 3′ v3 Reagent Kit	True
+GSM5702266	geo:GSE189460:GSM5702266	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_source_name_ch1 = bone marrow mononuclear cells	True
+GSM5702266	geo:GSE189460:GSM5702266	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		isolated mononuclear cells were cryopreserved in freezing medium before the experiments	True
+GSM5702266	geo:GSE189460:GSM5702266	tissue_type	tissue	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		Bone marrow aspirate samples were collected at baseline prior to the induction treatment	True
+GSM5702266	geo:GSE189460:GSM5702266	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		Sequencing reads were mapped to the GRCh38 ( version 3.0.0) reference genome	True
+GSM5702266	geo:GSE189460:GSM5702266	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		downloaded from the 10x Genomic	True
+GSM5702267	geo:GSE189460:GSM5702267	donor_id	MM068	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_title = MM068	True
+GSM5702267	geo:GSE189460:GSM5702267	donor_id	MM068	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM068 Discovery Suboptimal Responder 78 Male	True
+GSM5702267	geo:GSE189460:GSM5702267	donor_id	MM068	file	evidence/PMC9723182.txt		18 MM patients (numbers “MM042” to “MM233”)	True
+GSM5702267	geo:GSE189460:GSM5702267	sex	male	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702267	geo:GSE189460:GSM5702267	sex	male	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM068 Discovery Suboptimal Responder 78 Male	True
+GSM5702267	geo:GSE189460:GSM5702267	development_stage	78-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702267	geo:GSE189460:GSM5702267	development_stage	78-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM068 Discovery Suboptimal Responder 78 Male	True
+GSM5702267	geo:GSE189460:GSM5702267	tissue_free_text	bone marrow	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM5702267	geo:GSE189460:GSM5702267	disease_free_text	multiple myeloma	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple myeloma	True
+GSM5702267	geo:GSE189460:GSM5702267	assay	10x 3' v3	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		10x Genomic Chromium System and Single Cell 3' v3 Reagent Kit	True
+GSM5702267	geo:GSE189460:GSM5702267	assay	10x 3' v3	file	evidence/PMC9723182.txt		Chromium System from 10× Genomics, Inc. (Pleasanton, CA, USA), and a Single Cell 3′ v3 Reagent Kit	True
+GSM5702267	geo:GSE189460:GSM5702267	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_source_name_ch1 = bone marrow mononuclear cells	True
+GSM5702267	geo:GSE189460:GSM5702267	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		isolated mononuclear cells were cryopreserved in freezing medium before the experiments	True
+GSM5702267	geo:GSE189460:GSM5702267	tissue_type	tissue	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		Bone marrow aspirate samples were collected at baseline prior to the induction treatment	True
+GSM5702267	geo:GSE189460:GSM5702267	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		Sequencing reads were mapped to the GRCh38 ( version 3.0.0) reference genome	True
+GSM5702267	geo:GSE189460:GSM5702267	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		downloaded from the 10x Genomic	True
+GSM5702268	geo:GSE189460:GSM5702268	donor_id	MM088	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_title = MM088	True
+GSM5702268	geo:GSE189460:GSM5702268	donor_id	MM088	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM088 Discovery Optimal Responder 66 Male	True
+GSM5702268	geo:GSE189460:GSM5702268	donor_id	MM088	file	evidence/PMC9723182.txt		18 MM patients (numbers “MM042” to “MM233”)	True
+GSM5702268	geo:GSE189460:GSM5702268	sex	male	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702268	geo:GSE189460:GSM5702268	sex	male	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM088 Discovery Optimal Responder 66 Male	True
+GSM5702268	geo:GSE189460:GSM5702268	development_stage	66-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702268	geo:GSE189460:GSM5702268	development_stage	66-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM088 Discovery Optimal Responder 66 Male	True
+GSM5702268	geo:GSE189460:GSM5702268	tissue_free_text	bone marrow	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM5702268	geo:GSE189460:GSM5702268	disease_free_text	multiple myeloma	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple myeloma	True
+GSM5702268	geo:GSE189460:GSM5702268	assay	10x 3' v3	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		10x Genomic Chromium System and Single Cell 3' v3 Reagent Kit	True
+GSM5702268	geo:GSE189460:GSM5702268	assay	10x 3' v3	file	evidence/PMC9723182.txt		Chromium System from 10× Genomics, Inc. (Pleasanton, CA, USA), and a Single Cell 3′ v3 Reagent Kit	True
+GSM5702268	geo:GSE189460:GSM5702268	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_source_name_ch1 = bone marrow mononuclear cells	True
+GSM5702268	geo:GSE189460:GSM5702268	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		isolated mononuclear cells were cryopreserved in freezing medium before the experiments	True
+GSM5702268	geo:GSE189460:GSM5702268	tissue_type	tissue	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		Bone marrow aspirate samples were collected at baseline prior to the induction treatment	True
+GSM5702268	geo:GSE189460:GSM5702268	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		Sequencing reads were mapped to the GRCh38 ( version 3.0.0) reference genome	True
+GSM5702268	geo:GSE189460:GSM5702268	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		downloaded from the 10x Genomic	True
+GSM5702269	geo:GSE189460:GSM5702269	donor_id	MM089	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_title = MM089	True
+GSM5702269	geo:GSE189460:GSM5702269	donor_id	MM089	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM089 Discovery Suboptimal Responder 68 Male	True
+GSM5702269	geo:GSE189460:GSM5702269	donor_id	MM089	file	evidence/PMC9723182.txt		18 MM patients (numbers “MM042” to “MM233”)	True
+GSM5702269	geo:GSE189460:GSM5702269	sex	male	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702269	geo:GSE189460:GSM5702269	sex	male	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM089 Discovery Suboptimal Responder 68 Male	True
+GSM5702269	geo:GSE189460:GSM5702269	development_stage	68-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702269	geo:GSE189460:GSM5702269	development_stage	68-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM089 Discovery Suboptimal Responder 68 Male	True
+GSM5702269	geo:GSE189460:GSM5702269	tissue_free_text	bone marrow	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM5702269	geo:GSE189460:GSM5702269	disease_free_text	multiple myeloma	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple myeloma	True
+GSM5702269	geo:GSE189460:GSM5702269	assay	10x 3' v3	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		10x Genomic Chromium System and Single Cell 3' v3 Reagent Kit	True
+GSM5702269	geo:GSE189460:GSM5702269	assay	10x 3' v3	file	evidence/PMC9723182.txt		Chromium System from 10× Genomics, Inc. (Pleasanton, CA, USA), and a Single Cell 3′ v3 Reagent Kit	True
+GSM5702269	geo:GSE189460:GSM5702269	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_source_name_ch1 = bone marrow mononuclear cells	True
+GSM5702269	geo:GSE189460:GSM5702269	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		isolated mononuclear cells were cryopreserved in freezing medium before the experiments	True
+GSM5702269	geo:GSE189460:GSM5702269	tissue_type	tissue	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		Bone marrow aspirate samples were collected at baseline prior to the induction treatment	True
+GSM5702269	geo:GSE189460:GSM5702269	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		Sequencing reads were mapped to the GRCh38 ( version 3.0.0) reference genome	True
+GSM5702269	geo:GSE189460:GSM5702269	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		downloaded from the 10x Genomic	True
+GSM5702270	geo:GSE189460:GSM5702270	donor_id	MM098	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_title = MM098	True
+GSM5702270	geo:GSE189460:GSM5702270	donor_id	MM098	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM098 Discovery Optimal Responder 66 Male	True
+GSM5702270	geo:GSE189460:GSM5702270	donor_id	MM098	file	evidence/PMC9723182.txt		18 MM patients (numbers “MM042” to “MM233”)	True
+GSM5702270	geo:GSE189460:GSM5702270	sex	male	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702270	geo:GSE189460:GSM5702270	sex	male	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM098 Discovery Optimal Responder 66 Male	True
+GSM5702270	geo:GSE189460:GSM5702270	development_stage	66-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702270	geo:GSE189460:GSM5702270	development_stage	66-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM098 Discovery Optimal Responder 66 Male	True
+GSM5702270	geo:GSE189460:GSM5702270	tissue_free_text	bone marrow	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM5702270	geo:GSE189460:GSM5702270	disease_free_text	multiple myeloma	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple myeloma	True
+GSM5702270	geo:GSE189460:GSM5702270	assay	10x 3' v3	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		10x Genomic Chromium System and Single Cell 3' v3 Reagent Kit	True
+GSM5702270	geo:GSE189460:GSM5702270	assay	10x 3' v3	file	evidence/PMC9723182.txt		Chromium System from 10× Genomics, Inc. (Pleasanton, CA, USA), and a Single Cell 3′ v3 Reagent Kit	True
+GSM5702270	geo:GSE189460:GSM5702270	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_source_name_ch1 = bone marrow mononuclear cells	True
+GSM5702270	geo:GSE189460:GSM5702270	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		isolated mononuclear cells were cryopreserved in freezing medium before the experiments	True
+GSM5702270	geo:GSE189460:GSM5702270	tissue_type	tissue	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		Bone marrow aspirate samples were collected at baseline prior to the induction treatment	True
+GSM5702270	geo:GSE189460:GSM5702270	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		Sequencing reads were mapped to the GRCh38 ( version 3.0.0) reference genome	True
+GSM5702270	geo:GSE189460:GSM5702270	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		downloaded from the 10x Genomic	True
+GSM5702271	geo:GSE189460:GSM5702271	donor_id	MM158	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_title = MM158	True
+GSM5702271	geo:GSE189460:GSM5702271	donor_id	MM158	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM158 Discovery Suboptimal Responder 70 Male	True
+GSM5702271	geo:GSE189460:GSM5702271	donor_id	MM158	file	evidence/PMC9723182.txt		18 MM patients (numbers “MM042” to “MM233”)	True
+GSM5702271	geo:GSE189460:GSM5702271	sex	male	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702271	geo:GSE189460:GSM5702271	sex	male	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM158 Discovery Suboptimal Responder 70 Male	True
+GSM5702271	geo:GSE189460:GSM5702271	development_stage	70-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702271	geo:GSE189460:GSM5702271	development_stage	70-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM158 Discovery Suboptimal Responder 70 Male	True
+GSM5702271	geo:GSE189460:GSM5702271	tissue_free_text	bone marrow	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM5702271	geo:GSE189460:GSM5702271	disease_free_text	multiple myeloma	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple myeloma	True
+GSM5702271	geo:GSE189460:GSM5702271	assay	10x 3' v3	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		10x Genomic Chromium System and Single Cell 3' v3 Reagent Kit	True
+GSM5702271	geo:GSE189460:GSM5702271	assay	10x 3' v3	file	evidence/PMC9723182.txt		Chromium System from 10× Genomics, Inc. (Pleasanton, CA, USA), and a Single Cell 3′ v3 Reagent Kit	True
+GSM5702271	geo:GSE189460:GSM5702271	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_source_name_ch1 = bone marrow mononuclear cells	True
+GSM5702271	geo:GSE189460:GSM5702271	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		isolated mononuclear cells were cryopreserved in freezing medium before the experiments	True
+GSM5702271	geo:GSE189460:GSM5702271	tissue_type	tissue	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		Bone marrow aspirate samples were collected at baseline prior to the induction treatment	True
+GSM5702271	geo:GSE189460:GSM5702271	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		Sequencing reads were mapped to the GRCh38 ( version 3.0.0) reference genome	True
+GSM5702271	geo:GSE189460:GSM5702271	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		downloaded from the 10x Genomic	True
+GSM5702272	geo:GSE189460:GSM5702272	donor_id	MM163	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_title = MM163	True
+GSM5702272	geo:GSE189460:GSM5702272	donor_id	MM163	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM163 Discovery Optimal Responder 71 Female	True
+GSM5702272	geo:GSE189460:GSM5702272	donor_id	MM163	file	evidence/PMC9723182.txt		18 MM patients (numbers “MM042” to “MM233”)	True
+GSM5702272	geo:GSE189460:GSM5702272	sex	female	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702272	geo:GSE189460:GSM5702272	sex	female	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM163 Discovery Optimal Responder 71 Female	True
+GSM5702272	geo:GSE189460:GSM5702272	development_stage	71-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702272	geo:GSE189460:GSM5702272	development_stage	71-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM163 Discovery Optimal Responder 71 Female	True
+GSM5702272	geo:GSE189460:GSM5702272	tissue_free_text	bone marrow	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM5702272	geo:GSE189460:GSM5702272	disease_free_text	multiple myeloma	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple myeloma	True
+GSM5702272	geo:GSE189460:GSM5702272	assay	10x 3' v3	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		10x Genomic Chromium System and Single Cell 3' v3 Reagent Kit	True
+GSM5702272	geo:GSE189460:GSM5702272	assay	10x 3' v3	file	evidence/PMC9723182.txt		Chromium System from 10× Genomics, Inc. (Pleasanton, CA, USA), and a Single Cell 3′ v3 Reagent Kit	True
+GSM5702272	geo:GSE189460:GSM5702272	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_source_name_ch1 = bone marrow mononuclear cells	True
+GSM5702272	geo:GSE189460:GSM5702272	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		isolated mononuclear cells were cryopreserved in freezing medium before the experiments	True
+GSM5702272	geo:GSE189460:GSM5702272	tissue_type	tissue	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		Bone marrow aspirate samples were collected at baseline prior to the induction treatment	True
+GSM5702272	geo:GSE189460:GSM5702272	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		Sequencing reads were mapped to the GRCh38 ( version 3.0.0) reference genome	True
+GSM5702272	geo:GSE189460:GSM5702272	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		downloaded from the 10x Genomic	True
+GSM5702273	geo:GSE189460:GSM5702273	donor_id	MM173	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_title = MM173	True
+GSM5702273	geo:GSE189460:GSM5702273	donor_id	MM173	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM173 Discovery Optimal Responder 66 Male	True
+GSM5702273	geo:GSE189460:GSM5702273	donor_id	MM173	file	evidence/PMC9723182.txt		18 MM patients (numbers “MM042” to “MM233”)	True
+GSM5702273	geo:GSE189460:GSM5702273	sex	male	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702273	geo:GSE189460:GSM5702273	sex	male	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM173 Discovery Optimal Responder 66 Male	True
+GSM5702273	geo:GSE189460:GSM5702273	development_stage	66-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702273	geo:GSE189460:GSM5702273	development_stage	66-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM173 Discovery Optimal Responder 66 Male	True
+GSM5702273	geo:GSE189460:GSM5702273	tissue_free_text	bone marrow	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM5702273	geo:GSE189460:GSM5702273	disease_free_text	multiple myeloma	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple myeloma	True
+GSM5702273	geo:GSE189460:GSM5702273	assay	10x 3' v3	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		10x Genomic Chromium System and Single Cell 3' v3 Reagent Kit	True
+GSM5702273	geo:GSE189460:GSM5702273	assay	10x 3' v3	file	evidence/PMC9723182.txt		Chromium System from 10× Genomics, Inc. (Pleasanton, CA, USA), and a Single Cell 3′ v3 Reagent Kit	True
+GSM5702273	geo:GSE189460:GSM5702273	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_source_name_ch1 = bone marrow mononuclear cells	True
+GSM5702273	geo:GSE189460:GSM5702273	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		isolated mononuclear cells were cryopreserved in freezing medium before the experiments	True
+GSM5702273	geo:GSE189460:GSM5702273	tissue_type	tissue	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		Bone marrow aspirate samples were collected at baseline prior to the induction treatment	True
+GSM5702273	geo:GSE189460:GSM5702273	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		Sequencing reads were mapped to the GRCh38 ( version 3.0.0) reference genome	True
+GSM5702273	geo:GSE189460:GSM5702273	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		downloaded from the 10x Genomic	True
+GSM5702274	geo:GSE189460:GSM5702274	donor_id	MM174	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_title = MM174	True
+GSM5702274	geo:GSE189460:GSM5702274	donor_id	MM174	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM174 Discovery Optimal Responder 67 Male	True
+GSM5702274	geo:GSE189460:GSM5702274	donor_id	MM174	file	evidence/PMC9723182.txt		18 MM patients (numbers “MM042” to “MM233”)	True
+GSM5702274	geo:GSE189460:GSM5702274	sex	male	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702274	geo:GSE189460:GSM5702274	sex	male	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM174 Discovery Optimal Responder 67 Male	True
+GSM5702274	geo:GSE189460:GSM5702274	development_stage	67-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702274	geo:GSE189460:GSM5702274	development_stage	67-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM174 Discovery Optimal Responder 67 Male	True
+GSM5702274	geo:GSE189460:GSM5702274	tissue_free_text	bone marrow	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM5702274	geo:GSE189460:GSM5702274	disease_free_text	multiple myeloma	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple myeloma	True
+GSM5702274	geo:GSE189460:GSM5702274	assay	10x 3' v3	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		10x Genomic Chromium System and Single Cell 3' v3 Reagent Kit	True
+GSM5702274	geo:GSE189460:GSM5702274	assay	10x 3' v3	file	evidence/PMC9723182.txt		Chromium System from 10× Genomics, Inc. (Pleasanton, CA, USA), and a Single Cell 3′ v3 Reagent Kit	True
+GSM5702274	geo:GSE189460:GSM5702274	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_source_name_ch1 = bone marrow mononuclear cells	True
+GSM5702274	geo:GSE189460:GSM5702274	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		isolated mononuclear cells were cryopreserved in freezing medium before the experiments	True
+GSM5702274	geo:GSE189460:GSM5702274	tissue_type	tissue	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		Bone marrow aspirate samples were collected at baseline prior to the induction treatment	True
+GSM5702274	geo:GSE189460:GSM5702274	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		Sequencing reads were mapped to the GRCh38 ( version 3.0.0) reference genome	True
+GSM5702274	geo:GSE189460:GSM5702274	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		downloaded from the 10x Genomic	True
+GSM5702275	geo:GSE189460:GSM5702275	donor_id	MM188	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_title = MM188	True
+GSM5702275	geo:GSE189460:GSM5702275	donor_id	MM188	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM188 Discovery Optimal Responder 78 Female	True
+GSM5702275	geo:GSE189460:GSM5702275	donor_id	MM188	file	evidence/PMC9723182.txt		18 MM patients (numbers “MM042” to “MM233”)	True
+GSM5702275	geo:GSE189460:GSM5702275	sex	female	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702275	geo:GSE189460:GSM5702275	sex	female	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM188 Discovery Optimal Responder 78 Female	True
+GSM5702275	geo:GSE189460:GSM5702275	development_stage	78-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702275	geo:GSE189460:GSM5702275	development_stage	78-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM188 Discovery Optimal Responder 78 Female	True
+GSM5702275	geo:GSE189460:GSM5702275	tissue_free_text	bone marrow	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM5702275	geo:GSE189460:GSM5702275	disease_free_text	multiple myeloma	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple myeloma	True
+GSM5702275	geo:GSE189460:GSM5702275	assay	10x 3' v3	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		10x Genomic Chromium System and Single Cell 3' v3 Reagent Kit	True
+GSM5702275	geo:GSE189460:GSM5702275	assay	10x 3' v3	file	evidence/PMC9723182.txt		Chromium System from 10× Genomics, Inc. (Pleasanton, CA, USA), and a Single Cell 3′ v3 Reagent Kit	True
+GSM5702275	geo:GSE189460:GSM5702275	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_source_name_ch1 = bone marrow mononuclear cells	True
+GSM5702275	geo:GSE189460:GSM5702275	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		isolated mononuclear cells were cryopreserved in freezing medium before the experiments	True
+GSM5702275	geo:GSE189460:GSM5702275	tissue_type	tissue	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		Bone marrow aspirate samples were collected at baseline prior to the induction treatment	True
+GSM5702275	geo:GSE189460:GSM5702275	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		Sequencing reads were mapped to the GRCh38 ( version 3.0.0) reference genome	True
+GSM5702275	geo:GSE189460:GSM5702275	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		downloaded from the 10x Genomic	True
+GSM5702276	geo:GSE189460:GSM5702276	donor_id	MM203	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_title = MM203	True
+GSM5702276	geo:GSE189460:GSM5702276	donor_id	MM203	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM203 Discovery Suboptimal Responder 69 Male	True
+GSM5702276	geo:GSE189460:GSM5702276	donor_id	MM203	file	evidence/PMC9723182.txt		18 MM patients (numbers “MM042” to “MM233”)	True
+GSM5702276	geo:GSE189460:GSM5702276	sex	male	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702276	geo:GSE189460:GSM5702276	sex	male	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM203 Discovery Suboptimal Responder 69 Male	True
+GSM5702276	geo:GSE189460:GSM5702276	development_stage	69-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702276	geo:GSE189460:GSM5702276	development_stage	69-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM203 Discovery Suboptimal Responder 69 Male	True
+GSM5702276	geo:GSE189460:GSM5702276	tissue_free_text	bone marrow	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM5702276	geo:GSE189460:GSM5702276	disease_free_text	multiple myeloma	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple myeloma	True
+GSM5702276	geo:GSE189460:GSM5702276	assay	10x 3' v3	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		10x Genomic Chromium System and Single Cell 3' v3 Reagent Kit	True
+GSM5702276	geo:GSE189460:GSM5702276	assay	10x 3' v3	file	evidence/PMC9723182.txt		Chromium System from 10× Genomics, Inc. (Pleasanton, CA, USA), and a Single Cell 3′ v3 Reagent Kit	True
+GSM5702276	geo:GSE189460:GSM5702276	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_source_name_ch1 = bone marrow mononuclear cells	True
+GSM5702276	geo:GSE189460:GSM5702276	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		isolated mononuclear cells were cryopreserved in freezing medium before the experiments	True
+GSM5702276	geo:GSE189460:GSM5702276	tissue_type	tissue	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		Bone marrow aspirate samples were collected at baseline prior to the induction treatment	True
+GSM5702276	geo:GSE189460:GSM5702276	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		Sequencing reads were mapped to the GRCh38 ( version 3.0.0) reference genome	True
+GSM5702276	geo:GSE189460:GSM5702276	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		downloaded from the 10x Genomic	True
+GSM5702277	geo:GSE189460:GSM5702277	donor_id	MM209	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_title = MM209	True
+GSM5702277	geo:GSE189460:GSM5702277	donor_id	MM209	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM209 Discovery Optimal Responder 77 Male	True
+GSM5702277	geo:GSE189460:GSM5702277	donor_id	MM209	file	evidence/PMC9723182.txt		18 MM patients (numbers “MM042” to “MM233”)	True
+GSM5702277	geo:GSE189460:GSM5702277	sex	male	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702277	geo:GSE189460:GSM5702277	sex	male	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM209 Discovery Optimal Responder 77 Male	True
+GSM5702277	geo:GSE189460:GSM5702277	development_stage	77-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702277	geo:GSE189460:GSM5702277	development_stage	77-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM209 Discovery Optimal Responder 77 Male	True
+GSM5702277	geo:GSE189460:GSM5702277	tissue_free_text	bone marrow	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM5702277	geo:GSE189460:GSM5702277	disease_free_text	multiple myeloma	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple myeloma	True
+GSM5702277	geo:GSE189460:GSM5702277	assay	10x 3' v3	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		10x Genomic Chromium System and Single Cell 3' v3 Reagent Kit	True
+GSM5702277	geo:GSE189460:GSM5702277	assay	10x 3' v3	file	evidence/PMC9723182.txt		Chromium System from 10× Genomics, Inc. (Pleasanton, CA, USA), and a Single Cell 3′ v3 Reagent Kit	True
+GSM5702277	geo:GSE189460:GSM5702277	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_source_name_ch1 = bone marrow mononuclear cells	True
+GSM5702277	geo:GSE189460:GSM5702277	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		isolated mononuclear cells were cryopreserved in freezing medium before the experiments	True
+GSM5702277	geo:GSE189460:GSM5702277	tissue_type	tissue	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		Bone marrow aspirate samples were collected at baseline prior to the induction treatment	True
+GSM5702277	geo:GSE189460:GSM5702277	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		Sequencing reads were mapped to the GRCh38 ( version 3.0.0) reference genome	True
+GSM5702277	geo:GSE189460:GSM5702277	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		downloaded from the 10x Genomic	True
+GSM5702278	geo:GSE189460:GSM5702278	donor_id	MM220	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_title = MM220	True
+GSM5702278	geo:GSE189460:GSM5702278	donor_id	MM220	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM220 Discovery Optimal Responder 75 Female	True
+GSM5702278	geo:GSE189460:GSM5702278	donor_id	MM220	file	evidence/PMC9723182.txt		18 MM patients (numbers “MM042” to “MM233”)	True
+GSM5702278	geo:GSE189460:GSM5702278	sex	female	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702278	geo:GSE189460:GSM5702278	sex	female	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM220 Discovery Optimal Responder 75 Female	True
+GSM5702278	geo:GSE189460:GSM5702278	development_stage	75-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702278	geo:GSE189460:GSM5702278	development_stage	75-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM220 Discovery Optimal Responder 75 Female	True
+GSM5702278	geo:GSE189460:GSM5702278	tissue_free_text	bone marrow	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM5702278	geo:GSE189460:GSM5702278	disease_free_text	multiple myeloma	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple myeloma	True
+GSM5702278	geo:GSE189460:GSM5702278	assay	10x 3' v3	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		10x Genomic Chromium System and Single Cell 3' v3 Reagent Kit	True
+GSM5702278	geo:GSE189460:GSM5702278	assay	10x 3' v3	file	evidence/PMC9723182.txt		Chromium System from 10× Genomics, Inc. (Pleasanton, CA, USA), and a Single Cell 3′ v3 Reagent Kit	True
+GSM5702278	geo:GSE189460:GSM5702278	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_source_name_ch1 = bone marrow mononuclear cells	True
+GSM5702278	geo:GSE189460:GSM5702278	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		isolated mononuclear cells were cryopreserved in freezing medium before the experiments	True
+GSM5702278	geo:GSE189460:GSM5702278	tissue_type	tissue	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		Bone marrow aspirate samples were collected at baseline prior to the induction treatment	True
+GSM5702278	geo:GSE189460:GSM5702278	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		Sequencing reads were mapped to the GRCh38 ( version 3.0.0) reference genome	True
+GSM5702278	geo:GSE189460:GSM5702278	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		downloaded from the 10x Genomic	True
+GSM5702279	geo:GSE189460:GSM5702279	donor_id	MM226	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_title = MM226	True
+GSM5702279	geo:GSE189460:GSM5702279	donor_id	MM226	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM226 Discovery Suboptimal Responder 59 Female	True
+GSM5702279	geo:GSE189460:GSM5702279	donor_id	MM226	file	evidence/PMC9723182.txt		18 MM patients (numbers “MM042” to “MM233”)	True
+GSM5702279	geo:GSE189460:GSM5702279	sex	female	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702279	geo:GSE189460:GSM5702279	sex	female	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM226 Discovery Suboptimal Responder 59 Female	True
+GSM5702279	geo:GSE189460:GSM5702279	development_stage	59-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702279	geo:GSE189460:GSM5702279	development_stage	59-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM226 Discovery Suboptimal Responder 59 Female	True
+GSM5702279	geo:GSE189460:GSM5702279	tissue_free_text	bone marrow	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM5702279	geo:GSE189460:GSM5702279	disease_free_text	multiple myeloma	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple myeloma	True
+GSM5702279	geo:GSE189460:GSM5702279	assay	10x 3' v3	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		10x Genomic Chromium System and Single Cell 3' v3 Reagent Kit	True
+GSM5702279	geo:GSE189460:GSM5702279	assay	10x 3' v3	file	evidence/PMC9723182.txt		Chromium System from 10× Genomics, Inc. (Pleasanton, CA, USA), and a Single Cell 3′ v3 Reagent Kit	True
+GSM5702279	geo:GSE189460:GSM5702279	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_source_name_ch1 = bone marrow mononuclear cells	True
+GSM5702279	geo:GSE189460:GSM5702279	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		isolated mononuclear cells were cryopreserved in freezing medium before the experiments	True
+GSM5702279	geo:GSE189460:GSM5702279	tissue_type	tissue	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		Bone marrow aspirate samples were collected at baseline prior to the induction treatment	True
+GSM5702279	geo:GSE189460:GSM5702279	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		Sequencing reads were mapped to the GRCh38 ( version 3.0.0) reference genome	True
+GSM5702279	geo:GSE189460:GSM5702279	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		downloaded from the 10x Genomic	True
+GSM5702280	geo:GSE189460:GSM5702280	donor_id	MM233	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_title = MM233	True
+GSM5702280	geo:GSE189460:GSM5702280	donor_id	MM233	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM233 Discovery Suboptimal Responder 69 Male	True
+GSM5702280	geo:GSE189460:GSM5702280	donor_id	MM233	file	evidence/PMC9723182.txt		18 MM patients (numbers “MM042” to “MM233”)	True
+GSM5702280	geo:GSE189460:GSM5702280	sex	male	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702280	geo:GSE189460:GSM5702280	sex	male	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM233 Discovery Suboptimal Responder 69 Male	True
+GSM5702280	geo:GSE189460:GSM5702280	development_stage	69-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		Patient ID Cohort Group* Age Gender	True
+GSM5702280	geo:GSE189460:GSM5702280	development_stage	69-year-old stage	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM3_ESM__Supplementary_Table_2.tsv		MM233 Discovery Suboptimal Responder 69 Male	True
+GSM5702280	geo:GSE189460:GSM5702280	tissue_free_text	bone marrow	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM5702280	geo:GSE189460:GSM5702280	disease_free_text	multiple myeloma	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple myeloma	True
+GSM5702280	geo:GSE189460:GSM5702280	assay	10x 3' v3	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		10x Genomic Chromium System and Single Cell 3' v3 Reagent Kit	True
+GSM5702280	geo:GSE189460:GSM5702280	assay	10x 3' v3	file	evidence/PMC9723182.txt		Chromium System from 10× Genomics, Inc. (Pleasanton, CA, USA), and a Single Cell 3′ v3 Reagent Kit	True
+GSM5702280	geo:GSE189460:GSM5702280	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		!Sample_source_name_ch1 = bone marrow mononuclear cells	True
+GSM5702280	geo:GSE189460:GSM5702280	suspension_type	cell	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		isolated mononuclear cells were cryopreserved in freezing medium before the experiments	True
+GSM5702280	geo:GSE189460:GSM5702280	tissue_type	tissue	file	raw/fp-3d4a54a8c373/GSE189460_family.soft.gz		Bone marrow aspirate samples were collected at baseline prior to the induction treatment	True
+GSM5702280	geo:GSE189460:GSM5702280	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		Sequencing reads were mapped to the GRCh38 ( version 3.0.0) reference genome	True
+GSM5702280	geo:GSE189460:GSM5702280	gene_annotation_version	10x Genomics GRCh38 reference 3.0.0	file	evidence/supp_PMC9723182/text/12276_2022_884_MOESM1_ESM.txt		downloaded from the 10x Genomic	True

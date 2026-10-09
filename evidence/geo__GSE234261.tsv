@@ -1,0 +1,547 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM7459067	geo:GSE234261:GSM7459067	sex_ontology_term_id	PATO:0000384	derived	sex_map		m	True
+GSM7459067	geo:GSE234261:GSM7459067	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459067	geo:GSE234261:GSM7459067	development_stage_ontology_term_id	HsapDv:0000153	derived	ols:hsapdv		59-year-old stage	True
+GSM7459067	geo:GSE234261:GSM7459067	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM7459067	geo:GSE234261:GSM7459067	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459068	geo:GSE234261:GSM7459068	sex_ontology_term_id	PATO:0000384	derived	sex_map		m	True
+GSM7459068	geo:GSE234261:GSM7459068	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459068	geo:GSE234261:GSM7459068	development_stage_ontology_term_id	HsapDv:0000153	derived	ols:hsapdv		59-year-old stage	True
+GSM7459068	geo:GSE234261:GSM7459068	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459070	geo:GSE234261:GSM7459070	sex_ontology_term_id	PATO:0000384	derived	sex_map		m	True
+GSM7459070	geo:GSE234261:GSM7459070	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459070	geo:GSE234261:GSM7459070	development_stage_ontology_term_id	HsapDv:0000167	derived	ols:hsapdv		73-year-old stage	True
+GSM7459070	geo:GSE234261:GSM7459070	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459071	geo:GSE234261:GSM7459071	sex_ontology_term_id	PATO:0000384	derived	sex_map		m	True
+GSM7459071	geo:GSE234261:GSM7459071	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459071	geo:GSE234261:GSM7459071	development_stage_ontology_term_id	HsapDv:0000167	derived	ols:hsapdv		73-year-old stage	True
+GSM7459071	geo:GSE234261:GSM7459071	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM7459071	geo:GSE234261:GSM7459071	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459072	geo:GSE234261:GSM7459072	sex_ontology_term_id	PATO:0000384	derived	sex_map		m	True
+GSM7459072	geo:GSE234261:GSM7459072	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459072	geo:GSE234261:GSM7459072	development_stage_ontology_term_id	HsapDv:0000149	derived	ols:hsapdv		55-year-old stage	True
+GSM7459072	geo:GSE234261:GSM7459072	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459073	geo:GSE234261:GSM7459073	sex_ontology_term_id	PATO:0000383	derived	sex_map		f	True
+GSM7459073	geo:GSE234261:GSM7459073	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459073	geo:GSE234261:GSM7459073	development_stage_ontology_term_id	HsapDv:0000148	derived	ols:hsapdv		54-year-old stage	True
+GSM7459073	geo:GSE234261:GSM7459073	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459074	geo:GSE234261:GSM7459074	sex_ontology_term_id	PATO:0000383	derived	sex_map		f	True
+GSM7459074	geo:GSE234261:GSM7459074	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459074	geo:GSE234261:GSM7459074	development_stage_ontology_term_id	HsapDv:0000162	derived	ols:hsapdv		68-year-old stage	True
+GSM7459074	geo:GSE234261:GSM7459074	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459076	geo:GSE234261:GSM7459076	sex_ontology_term_id	PATO:0000384	derived	sex_map		m	True
+GSM7459076	geo:GSE234261:GSM7459076	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459076	geo:GSE234261:GSM7459076	development_stage_ontology_term_id	HsapDv:0000157	derived	ols:hsapdv		63-year-old stage	True
+GSM7459076	geo:GSE234261:GSM7459076	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM7459076	geo:GSE234261:GSM7459076	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459077	geo:GSE234261:GSM7459077	sex_ontology_term_id	PATO:0000383	derived	sex_map		f	True
+GSM7459077	geo:GSE234261:GSM7459077	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459077	geo:GSE234261:GSM7459077	development_stage_ontology_term_id	HsapDv:0000155	derived	ols:hsapdv		61-year-old stage	True
+GSM7459077	geo:GSE234261:GSM7459077	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459078	geo:GSE234261:GSM7459078	sex_ontology_term_id	PATO:0000384	derived	sex_map		m	True
+GSM7459078	geo:GSE234261:GSM7459078	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459078	geo:GSE234261:GSM7459078	development_stage_ontology_term_id	HsapDv:0000137	derived	ols:hsapdv		43-year-old stage	True
+GSM7459078	geo:GSE234261:GSM7459078	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM7459078	geo:GSE234261:GSM7459078	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459079	geo:GSE234261:GSM7459079	sex_ontology_term_id	PATO:0000384	derived	sex_map		m	True
+GSM7459079	geo:GSE234261:GSM7459079	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459079	geo:GSE234261:GSM7459079	development_stage_ontology_term_id	HsapDv:0000149	derived	ols:hsapdv		55-year-old stage	True
+GSM7459079	geo:GSE234261:GSM7459079	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459080	geo:GSE234261:GSM7459080	sex_ontology_term_id	PATO:0000383	derived	sex_map		f	True
+GSM7459080	geo:GSE234261:GSM7459080	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459080	geo:GSE234261:GSM7459080	development_stage_ontology_term_id	HsapDv:0000133	derived	ols:hsapdv		39-year-old stage	True
+GSM7459080	geo:GSE234261:GSM7459080	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459081	geo:GSE234261:GSM7459081	sex_ontology_term_id	PATO:0000384	derived	sex_map		m	True
+GSM7459081	geo:GSE234261:GSM7459081	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459081	geo:GSE234261:GSM7459081	development_stage_ontology_term_id	HsapDv:0000153	derived	ols:hsapdv		59-year-old stage	True
+GSM7459081	geo:GSE234261:GSM7459081	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459083	geo:GSE234261:GSM7459083	sex_ontology_term_id	PATO:0000383	derived	sex_map		f	True
+GSM7459083	geo:GSE234261:GSM7459083	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459083	geo:GSE234261:GSM7459083	development_stage_ontology_term_id	HsapDv:0000162	derived	ols:hsapdv		68-year-old stage	True
+GSM7459083	geo:GSE234261:GSM7459083	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459084	geo:GSE234261:GSM7459084	sex_ontology_term_id	PATO:0000383	derived	sex_map		f	True
+GSM7459084	geo:GSE234261:GSM7459084	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459084	geo:GSE234261:GSM7459084	development_stage_ontology_term_id	HsapDv:0000155	derived	ols:hsapdv		61-year-old stage	True
+GSM7459084	geo:GSE234261:GSM7459084	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459085	geo:GSE234261:GSM7459085	sex_ontology_term_id	PATO:0000383	derived	sex_map		f	True
+GSM7459085	geo:GSE234261:GSM7459085	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459085	geo:GSE234261:GSM7459085	development_stage_ontology_term_id	HsapDv:0000148	derived	ols:hsapdv		54-year-old stage	True
+GSM7459085	geo:GSE234261:GSM7459085	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM7459085	geo:GSE234261:GSM7459085	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459086	geo:GSE234261:GSM7459086	sex_ontology_term_id	PATO:0000384	derived	sex_map		m	True
+GSM7459086	geo:GSE234261:GSM7459086	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459086	geo:GSE234261:GSM7459086	development_stage_ontology_term_id	HsapDv:0000152	derived	ols:hsapdv		58-year-old stage	True
+GSM7459086	geo:GSE234261:GSM7459086	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459088	geo:GSE234261:GSM7459088	sex_ontology_term_id	PATO:0000383	derived	sex_map		f	True
+GSM7459088	geo:GSE234261:GSM7459088	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459088	geo:GSE234261:GSM7459088	development_stage_ontology_term_id	HsapDv:0000133	derived	ols:hsapdv		39-year-old stage	True
+GSM7459088	geo:GSE234261:GSM7459088	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459089	geo:GSE234261:GSM7459089	sex_ontology_term_id	PATO:0000384	derived	sex_map		m	True
+GSM7459089	geo:GSE234261:GSM7459089	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459089	geo:GSE234261:GSM7459089	development_stage_ontology_term_id	HsapDv:0000157	derived	ols:hsapdv		63-year-old stage	True
+GSM7459089	geo:GSE234261:GSM7459089	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459090	geo:GSE234261:GSM7459090	sex_ontology_term_id	PATO:0000384	derived	sex_map		m	True
+GSM7459090	geo:GSE234261:GSM7459090	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459090	geo:GSE234261:GSM7459090	development_stage_ontology_term_id	HsapDv:0000157	derived	ols:hsapdv		63-year-old stage	True
+GSM7459090	geo:GSE234261:GSM7459090	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459091	geo:GSE234261:GSM7459091	sex_ontology_term_id	PATO:0000383	derived	sex_map		f	True
+GSM7459091	geo:GSE234261:GSM7459091	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459091	geo:GSE234261:GSM7459091	development_stage_ontology_term_id	HsapDv:0000155	derived	ols:hsapdv		61-year-old stage	True
+GSM7459091	geo:GSE234261:GSM7459091	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM7459091	geo:GSE234261:GSM7459091	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459092	geo:GSE234261:GSM7459092	sex_ontology_term_id	PATO:0000384	derived	sex_map		m	True
+GSM7459092	geo:GSE234261:GSM7459092	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459092	geo:GSE234261:GSM7459092	development_stage_ontology_term_id	HsapDv:0000137	derived	ols:hsapdv		43-year-old stage	True
+GSM7459092	geo:GSE234261:GSM7459092	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459093	geo:GSE234261:GSM7459093	sex_ontology_term_id	PATO:0000384	derived	sex_map		m	True
+GSM7459093	geo:GSE234261:GSM7459093	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459093	geo:GSE234261:GSM7459093	development_stage_ontology_term_id	HsapDv:0000137	derived	ols:hsapdv		43-year-old stage	True
+GSM7459093	geo:GSE234261:GSM7459093	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459094	geo:GSE234261:GSM7459094	sex_ontology_term_id	PATO:0000383	derived	sex_map		f	True
+GSM7459094	geo:GSE234261:GSM7459094	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459094	geo:GSE234261:GSM7459094	development_stage_ontology_term_id	HsapDv:0000148	derived	ols:hsapdv		54-year-old stage	True
+GSM7459094	geo:GSE234261:GSM7459094	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7459096	geo:GSE234261:GSM7459096	sex_ontology_term_id	PATO:0000384	derived	sex_map		m	True
+GSM7459096	geo:GSE234261:GSM7459096	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7459096	geo:GSE234261:GSM7459096	development_stage_ontology_term_id	HsapDv:0000152	derived	ols:hsapdv		58-year-old stage	True
+GSM7459096	geo:GSE234261:GSM7459096	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+		organism	Homo sapiens	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+		organism	Homo sapiens	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_sample_taxid = 9606	True
+GSM7459067	geo:GSE234261:GSM7459067	donor_id	Patient 1	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 1  post CAR  BM SC !Sample_geo_accession = GSM7459067	True
+GSM7459067	geo:GSE234261:GSM7459067	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: m	True
+GSM7459067	geo:GSE234261:GSM7459067	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 1  post CAR  BM SC !Sample_geo_accession = GSM7459067	True
+GSM7459067	geo:GSE234261:GSM7459067	development_stage	59-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 59	True
+GSM7459067	geo:GSE234261:GSM7459067	development_stage	59-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 1  post CAR  BM SC !Sample_geo_accession = GSM7459067	True
+GSM7459067	geo:GSE234261:GSM7459067	tissue_free_text	Bone Marrow	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM7459067	geo:GSE234261:GSM7459067	tissue_free_text	Bone Marrow	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 1  post CAR  BM SC !Sample_geo_accession = GSM7459067	True
+GSM7459067	geo:GSE234261:GSM7459067	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459067	geo:GSE234261:GSM7459067	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459067	geo:GSE234261:GSM7459067	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459067	geo:GSE234261:GSM7459067	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459067	geo:GSE234261:GSM7459067	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459067	geo:GSE234261:GSM7459067	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: BMMC	True
+GSM7459067	geo:GSE234261:GSM7459067	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459067	geo:GSE234261:GSM7459067	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 1  post CAR  BM SC !Sample_geo_accession = GSM7459067	True
+GSM7459067	geo:GSE234261:GSM7459067	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459068	geo:GSE234261:GSM7459068	donor_id	Patient 1	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 1  post CAR  PB SC !Sample_geo_accession = GSM7459068	True
+GSM7459068	geo:GSE234261:GSM7459068	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: m	True
+GSM7459068	geo:GSE234261:GSM7459068	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 1  post CAR  PB SC !Sample_geo_accession = GSM7459068	True
+GSM7459068	geo:GSE234261:GSM7459068	development_stage	59-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 59	True
+GSM7459068	geo:GSE234261:GSM7459068	development_stage	59-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 1  post CAR  PB SC !Sample_geo_accession = GSM7459068	True
+GSM7459068	geo:GSE234261:GSM7459068	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459068	geo:GSE234261:GSM7459068	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 1  post CAR  PB SC !Sample_geo_accession = GSM7459068	True
+GSM7459068	geo:GSE234261:GSM7459068	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459068	geo:GSE234261:GSM7459068	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459068	geo:GSE234261:GSM7459068	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459068	geo:GSE234261:GSM7459068	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459068	geo:GSE234261:GSM7459068	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459068	geo:GSE234261:GSM7459068	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: PBMC	True
+GSM7459068	geo:GSE234261:GSM7459068	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459068	geo:GSE234261:GSM7459068	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 1  post CAR  PB SC !Sample_geo_accession = GSM7459068	True
+GSM7459068	geo:GSE234261:GSM7459068	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459068	geo:GSE234261:GSM7459068	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459068	geo:GSE234261:GSM7459068	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 1  post CAR  PB SC !Sample_geo_accession = GSM7459068	True
+GSM7459070	geo:GSE234261:GSM7459070	donor_id	Patient 7	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 7 apheresis PB SC !Sample_geo_accession = GSM7459070	True
+GSM7459070	geo:GSE234261:GSM7459070	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: m	True
+GSM7459070	geo:GSE234261:GSM7459070	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 7 apheresis PB SC !Sample_geo_accession = GSM7459070	True
+GSM7459070	geo:GSE234261:GSM7459070	development_stage	73-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 73	True
+GSM7459070	geo:GSE234261:GSM7459070	development_stage	73-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 7 apheresis PB SC !Sample_geo_accession = GSM7459070	True
+GSM7459070	geo:GSE234261:GSM7459070	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459070	geo:GSE234261:GSM7459070	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 7 apheresis PB SC !Sample_geo_accession = GSM7459070	True
+GSM7459070	geo:GSE234261:GSM7459070	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459070	geo:GSE234261:GSM7459070	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459070	geo:GSE234261:GSM7459070	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459070	geo:GSE234261:GSM7459070	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459070	geo:GSE234261:GSM7459070	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459070	geo:GSE234261:GSM7459070	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: PBMC	True
+GSM7459070	geo:GSE234261:GSM7459070	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459070	geo:GSE234261:GSM7459070	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 7 apheresis PB SC !Sample_geo_accession = GSM7459070	True
+GSM7459070	geo:GSE234261:GSM7459070	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459070	geo:GSE234261:GSM7459070	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459070	geo:GSE234261:GSM7459070	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 7 apheresis PB SC !Sample_geo_accession = GSM7459070	True
+GSM7459071	geo:GSE234261:GSM7459071	donor_id	Patient 7	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 7 post CAR BM SC !Sample_geo_accession = GSM7459071	True
+GSM7459071	geo:GSE234261:GSM7459071	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: m	True
+GSM7459071	geo:GSE234261:GSM7459071	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 7 post CAR BM SC !Sample_geo_accession = GSM7459071	True
+GSM7459071	geo:GSE234261:GSM7459071	development_stage	73-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 73	True
+GSM7459071	geo:GSE234261:GSM7459071	development_stage	73-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 7 post CAR BM SC !Sample_geo_accession = GSM7459071	True
+GSM7459071	geo:GSE234261:GSM7459071	tissue_free_text	Bone Marrow	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM7459071	geo:GSE234261:GSM7459071	tissue_free_text	Bone Marrow	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 7 post CAR BM SC !Sample_geo_accession = GSM7459071	True
+GSM7459071	geo:GSE234261:GSM7459071	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459071	geo:GSE234261:GSM7459071	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459071	geo:GSE234261:GSM7459071	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459071	geo:GSE234261:GSM7459071	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459071	geo:GSE234261:GSM7459071	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459071	geo:GSE234261:GSM7459071	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: BMMC	True
+GSM7459071	geo:GSE234261:GSM7459071	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459071	geo:GSE234261:GSM7459071	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 7 post CAR BM SC !Sample_geo_accession = GSM7459071	True
+GSM7459071	geo:GSE234261:GSM7459071	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459072	geo:GSE234261:GSM7459072	donor_id	Patient 11	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 11  apheresis  PB SC !Sample_geo_accession = GSM7459072	True
+GSM7459072	geo:GSE234261:GSM7459072	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: m	True
+GSM7459072	geo:GSE234261:GSM7459072	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 11  apheresis  PB SC !Sample_geo_accession = GSM7459072	True
+GSM7459072	geo:GSE234261:GSM7459072	development_stage	55-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 55	True
+GSM7459072	geo:GSE234261:GSM7459072	development_stage	55-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 11  apheresis  PB SC !Sample_geo_accession = GSM7459072	True
+GSM7459072	geo:GSE234261:GSM7459072	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459072	geo:GSE234261:GSM7459072	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 11  apheresis  PB SC !Sample_geo_accession = GSM7459072	True
+GSM7459072	geo:GSE234261:GSM7459072	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459072	geo:GSE234261:GSM7459072	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459072	geo:GSE234261:GSM7459072	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459072	geo:GSE234261:GSM7459072	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459072	geo:GSE234261:GSM7459072	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459072	geo:GSE234261:GSM7459072	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: PBMC	True
+GSM7459072	geo:GSE234261:GSM7459072	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459072	geo:GSE234261:GSM7459072	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 11  apheresis  PB SC !Sample_geo_accession = GSM7459072	True
+GSM7459072	geo:GSE234261:GSM7459072	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459072	geo:GSE234261:GSM7459072	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459072	geo:GSE234261:GSM7459072	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 11  apheresis  PB SC !Sample_geo_accession = GSM7459072	True
+GSM7459073	geo:GSE234261:GSM7459073	donor_id	Patient 12	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 12  post CAR  PB SC !Sample_geo_accession = GSM7459073	True
+GSM7459073	geo:GSE234261:GSM7459073	sex	f	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: f	True
+GSM7459073	geo:GSE234261:GSM7459073	sex	f	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 12  post CAR  PB SC !Sample_geo_accession = GSM7459073	True
+GSM7459073	geo:GSE234261:GSM7459073	development_stage	54-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 54	True
+GSM7459073	geo:GSE234261:GSM7459073	development_stage	54-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 12  post CAR  PB SC !Sample_geo_accession = GSM7459073	True
+GSM7459073	geo:GSE234261:GSM7459073	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459073	geo:GSE234261:GSM7459073	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 12  post CAR  PB SC !Sample_geo_accession = GSM7459073	True
+GSM7459073	geo:GSE234261:GSM7459073	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459073	geo:GSE234261:GSM7459073	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459073	geo:GSE234261:GSM7459073	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459073	geo:GSE234261:GSM7459073	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459073	geo:GSE234261:GSM7459073	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459073	geo:GSE234261:GSM7459073	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: PBMC	True
+GSM7459073	geo:GSE234261:GSM7459073	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459073	geo:GSE234261:GSM7459073	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 12  post CAR  PB SC !Sample_geo_accession = GSM7459073	True
+GSM7459073	geo:GSE234261:GSM7459073	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459073	geo:GSE234261:GSM7459073	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459073	geo:GSE234261:GSM7459073	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 12  post CAR  PB SC !Sample_geo_accession = GSM7459073	True
+GSM7459074	geo:GSE234261:GSM7459074	donor_id	Patient 6	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 6  apheresis  PB SC !Sample_geo_accession = GSM7459074	True
+GSM7459074	geo:GSE234261:GSM7459074	sex	f	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: f	True
+GSM7459074	geo:GSE234261:GSM7459074	sex	f	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 6  apheresis  PB SC !Sample_geo_accession = GSM7459074	True
+GSM7459074	geo:GSE234261:GSM7459074	development_stage	68-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 68	True
+GSM7459074	geo:GSE234261:GSM7459074	development_stage	68-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 6  apheresis  PB SC !Sample_geo_accession = GSM7459074	True
+GSM7459074	geo:GSE234261:GSM7459074	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459074	geo:GSE234261:GSM7459074	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 6  apheresis  PB SC !Sample_geo_accession = GSM7459074	True
+GSM7459074	geo:GSE234261:GSM7459074	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459074	geo:GSE234261:GSM7459074	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459074	geo:GSE234261:GSM7459074	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459074	geo:GSE234261:GSM7459074	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459074	geo:GSE234261:GSM7459074	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459074	geo:GSE234261:GSM7459074	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: PBMC	True
+GSM7459074	geo:GSE234261:GSM7459074	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459074	geo:GSE234261:GSM7459074	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 6  apheresis  PB SC !Sample_geo_accession = GSM7459074	True
+GSM7459074	geo:GSE234261:GSM7459074	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459074	geo:GSE234261:GSM7459074	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459074	geo:GSE234261:GSM7459074	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 6  apheresis  PB SC !Sample_geo_accession = GSM7459074	True
+GSM7459076	geo:GSE234261:GSM7459076	donor_id	Patient 8	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 8  post CAR  BM SC !Sample_geo_accession = GSM7459076	True
+GSM7459076	geo:GSE234261:GSM7459076	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: m	True
+GSM7459076	geo:GSE234261:GSM7459076	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 8  post CAR  BM SC !Sample_geo_accession = GSM7459076	True
+GSM7459076	geo:GSE234261:GSM7459076	development_stage	63-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 63	True
+GSM7459076	geo:GSE234261:GSM7459076	development_stage	63-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 8  post CAR  BM SC !Sample_geo_accession = GSM7459076	True
+GSM7459076	geo:GSE234261:GSM7459076	tissue_free_text	Bone Marrow	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM7459076	geo:GSE234261:GSM7459076	tissue_free_text	Bone Marrow	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 8  post CAR  BM SC !Sample_geo_accession = GSM7459076	True
+GSM7459076	geo:GSE234261:GSM7459076	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459076	geo:GSE234261:GSM7459076	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459076	geo:GSE234261:GSM7459076	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459076	geo:GSE234261:GSM7459076	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459076	geo:GSE234261:GSM7459076	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459076	geo:GSE234261:GSM7459076	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: BMMC	True
+GSM7459076	geo:GSE234261:GSM7459076	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459076	geo:GSE234261:GSM7459076	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 8  post CAR  BM SC !Sample_geo_accession = GSM7459076	True
+GSM7459076	geo:GSE234261:GSM7459076	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459077	geo:GSE234261:GSM7459077	donor_id	Patient 9	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 9  post CAR  PB SC !Sample_geo_accession = GSM7459077	True
+GSM7459077	geo:GSE234261:GSM7459077	sex	f	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: f	True
+GSM7459077	geo:GSE234261:GSM7459077	sex	f	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 9  post CAR  PB SC !Sample_geo_accession = GSM7459077	True
+GSM7459077	geo:GSE234261:GSM7459077	development_stage	61-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 61	True
+GSM7459077	geo:GSE234261:GSM7459077	development_stage	61-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 9  post CAR  PB SC !Sample_geo_accession = GSM7459077	True
+GSM7459077	geo:GSE234261:GSM7459077	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459077	geo:GSE234261:GSM7459077	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 9  post CAR  PB SC !Sample_geo_accession = GSM7459077	True
+GSM7459077	geo:GSE234261:GSM7459077	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459077	geo:GSE234261:GSM7459077	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459077	geo:GSE234261:GSM7459077	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459077	geo:GSE234261:GSM7459077	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459077	geo:GSE234261:GSM7459077	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459077	geo:GSE234261:GSM7459077	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: PBMC	True
+GSM7459077	geo:GSE234261:GSM7459077	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459077	geo:GSE234261:GSM7459077	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 9  post CAR  PB SC !Sample_geo_accession = GSM7459077	True
+GSM7459077	geo:GSE234261:GSM7459077	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459077	geo:GSE234261:GSM7459077	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459077	geo:GSE234261:GSM7459077	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 9  post CAR  PB SC !Sample_geo_accession = GSM7459077	True
+GSM7459078	geo:GSE234261:GSM7459078	donor_id	Patient 10	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 10  post CAR  BM SC !Sample_geo_accession = GSM7459078	True
+GSM7459078	geo:GSE234261:GSM7459078	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: m	True
+GSM7459078	geo:GSE234261:GSM7459078	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 10  post CAR  BM SC !Sample_geo_accession = GSM7459078	True
+GSM7459078	geo:GSE234261:GSM7459078	development_stage	43-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 43	True
+GSM7459078	geo:GSE234261:GSM7459078	development_stage	43-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 10  post CAR  BM SC !Sample_geo_accession = GSM7459078	True
+GSM7459078	geo:GSE234261:GSM7459078	tissue_free_text	Bone Marrow	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM7459078	geo:GSE234261:GSM7459078	tissue_free_text	Bone Marrow	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 10  post CAR  BM SC !Sample_geo_accession = GSM7459078	True
+GSM7459078	geo:GSE234261:GSM7459078	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459078	geo:GSE234261:GSM7459078	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459078	geo:GSE234261:GSM7459078	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459078	geo:GSE234261:GSM7459078	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459078	geo:GSE234261:GSM7459078	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459078	geo:GSE234261:GSM7459078	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: BMMC	True
+GSM7459078	geo:GSE234261:GSM7459078	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459078	geo:GSE234261:GSM7459078	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 10  post CAR  BM SC !Sample_geo_accession = GSM7459078	True
+GSM7459078	geo:GSE234261:GSM7459078	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459079	geo:GSE234261:GSM7459079	donor_id	Patient 11	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 11  post CAR  PB SC !Sample_geo_accession = GSM7459079	True
+GSM7459079	geo:GSE234261:GSM7459079	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: m	True
+GSM7459079	geo:GSE234261:GSM7459079	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 11  post CAR  PB SC !Sample_geo_accession = GSM7459079	True
+GSM7459079	geo:GSE234261:GSM7459079	development_stage	55-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 55	True
+GSM7459079	geo:GSE234261:GSM7459079	development_stage	55-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 11  post CAR  PB SC !Sample_geo_accession = GSM7459079	True
+GSM7459079	geo:GSE234261:GSM7459079	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459079	geo:GSE234261:GSM7459079	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 11  post CAR  PB SC !Sample_geo_accession = GSM7459079	True
+GSM7459079	geo:GSE234261:GSM7459079	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459079	geo:GSE234261:GSM7459079	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459079	geo:GSE234261:GSM7459079	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459079	geo:GSE234261:GSM7459079	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459079	geo:GSE234261:GSM7459079	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459079	geo:GSE234261:GSM7459079	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: PBMC	True
+GSM7459079	geo:GSE234261:GSM7459079	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459079	geo:GSE234261:GSM7459079	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 11  post CAR  PB SC !Sample_geo_accession = GSM7459079	True
+GSM7459079	geo:GSE234261:GSM7459079	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459079	geo:GSE234261:GSM7459079	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459079	geo:GSE234261:GSM7459079	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 11  post CAR  PB SC !Sample_geo_accession = GSM7459079	True
+GSM7459080	geo:GSE234261:GSM7459080	donor_id	Patient 14	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 14  apheresis  PB SC !Sample_geo_accession = GSM7459080	True
+GSM7459080	geo:GSE234261:GSM7459080	sex	f	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: f	True
+GSM7459080	geo:GSE234261:GSM7459080	sex	f	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 14  apheresis  PB SC !Sample_geo_accession = GSM7459080	True
+GSM7459080	geo:GSE234261:GSM7459080	development_stage	39-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 39	True
+GSM7459080	geo:GSE234261:GSM7459080	development_stage	39-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 14  apheresis  PB SC !Sample_geo_accession = GSM7459080	True
+GSM7459080	geo:GSE234261:GSM7459080	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459080	geo:GSE234261:GSM7459080	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 14  apheresis  PB SC !Sample_geo_accession = GSM7459080	True
+GSM7459080	geo:GSE234261:GSM7459080	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459080	geo:GSE234261:GSM7459080	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459080	geo:GSE234261:GSM7459080	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459080	geo:GSE234261:GSM7459080	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459080	geo:GSE234261:GSM7459080	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459080	geo:GSE234261:GSM7459080	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: PBMC	True
+GSM7459080	geo:GSE234261:GSM7459080	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459080	geo:GSE234261:GSM7459080	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 14  apheresis  PB SC !Sample_geo_accession = GSM7459080	True
+GSM7459080	geo:GSE234261:GSM7459080	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459080	geo:GSE234261:GSM7459080	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459080	geo:GSE234261:GSM7459080	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 14  apheresis  PB SC !Sample_geo_accession = GSM7459080	True
+GSM7459081	geo:GSE234261:GSM7459081	donor_id	Patient 1	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 1  apheresis  PB SC !Sample_geo_accession = GSM7459081	True
+GSM7459081	geo:GSE234261:GSM7459081	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: m	True
+GSM7459081	geo:GSE234261:GSM7459081	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 1  apheresis  PB SC !Sample_geo_accession = GSM7459081	True
+GSM7459081	geo:GSE234261:GSM7459081	development_stage	59-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 59	True
+GSM7459081	geo:GSE234261:GSM7459081	development_stage	59-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 1  apheresis  PB SC !Sample_geo_accession = GSM7459081	True
+GSM7459081	geo:GSE234261:GSM7459081	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459081	geo:GSE234261:GSM7459081	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 1  apheresis  PB SC !Sample_geo_accession = GSM7459081	True
+GSM7459081	geo:GSE234261:GSM7459081	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459081	geo:GSE234261:GSM7459081	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459081	geo:GSE234261:GSM7459081	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459081	geo:GSE234261:GSM7459081	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459081	geo:GSE234261:GSM7459081	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459081	geo:GSE234261:GSM7459081	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: PBMC	True
+GSM7459081	geo:GSE234261:GSM7459081	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459081	geo:GSE234261:GSM7459081	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 1  apheresis  PB SC !Sample_geo_accession = GSM7459081	True
+GSM7459081	geo:GSE234261:GSM7459081	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459081	geo:GSE234261:GSM7459081	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459081	geo:GSE234261:GSM7459081	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 1  apheresis  PB SC !Sample_geo_accession = GSM7459081	True
+GSM7459083	geo:GSE234261:GSM7459083	donor_id	Patient 6	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 6  post CAR  PB SC !Sample_geo_accession = GSM7459083	True
+GSM7459083	geo:GSE234261:GSM7459083	sex	f	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: f	True
+GSM7459083	geo:GSE234261:GSM7459083	sex	f	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 6  post CAR  PB SC !Sample_geo_accession = GSM7459083	True
+GSM7459083	geo:GSE234261:GSM7459083	development_stage	68-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 68	True
+GSM7459083	geo:GSE234261:GSM7459083	development_stage	68-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 6  post CAR  PB SC !Sample_geo_accession = GSM7459083	True
+GSM7459083	geo:GSE234261:GSM7459083	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459083	geo:GSE234261:GSM7459083	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 6  post CAR  PB SC !Sample_geo_accession = GSM7459083	True
+GSM7459083	geo:GSE234261:GSM7459083	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459083	geo:GSE234261:GSM7459083	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459083	geo:GSE234261:GSM7459083	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459083	geo:GSE234261:GSM7459083	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459083	geo:GSE234261:GSM7459083	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459083	geo:GSE234261:GSM7459083	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: PBMC	True
+GSM7459083	geo:GSE234261:GSM7459083	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459083	geo:GSE234261:GSM7459083	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 6  post CAR  PB SC !Sample_geo_accession = GSM7459083	True
+GSM7459083	geo:GSE234261:GSM7459083	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459083	geo:GSE234261:GSM7459083	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459083	geo:GSE234261:GSM7459083	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 6  post CAR  PB SC !Sample_geo_accession = GSM7459083	True
+GSM7459084	geo:GSE234261:GSM7459084	donor_id	Patient 9	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 9  apheresis  PB SC !Sample_geo_accession = GSM7459084	True
+GSM7459084	geo:GSE234261:GSM7459084	sex	f	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: f	True
+GSM7459084	geo:GSE234261:GSM7459084	sex	f	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 9  apheresis  PB SC !Sample_geo_accession = GSM7459084	True
+GSM7459084	geo:GSE234261:GSM7459084	development_stage	61-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 61	True
+GSM7459084	geo:GSE234261:GSM7459084	development_stage	61-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 9  apheresis  PB SC !Sample_geo_accession = GSM7459084	True
+GSM7459084	geo:GSE234261:GSM7459084	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459084	geo:GSE234261:GSM7459084	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 9  apheresis  PB SC !Sample_geo_accession = GSM7459084	True
+GSM7459084	geo:GSE234261:GSM7459084	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459084	geo:GSE234261:GSM7459084	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459084	geo:GSE234261:GSM7459084	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459084	geo:GSE234261:GSM7459084	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459084	geo:GSE234261:GSM7459084	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459084	geo:GSE234261:GSM7459084	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: PBMC	True
+GSM7459084	geo:GSE234261:GSM7459084	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459084	geo:GSE234261:GSM7459084	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 9  apheresis  PB SC !Sample_geo_accession = GSM7459084	True
+GSM7459084	geo:GSE234261:GSM7459084	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459084	geo:GSE234261:GSM7459084	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459084	geo:GSE234261:GSM7459084	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 9  apheresis  PB SC !Sample_geo_accession = GSM7459084	True
+GSM7459085	geo:GSE234261:GSM7459085	donor_id	Patient 12	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 12  post CAR  BM SC !Sample_geo_accession = GSM7459085	True
+GSM7459085	geo:GSE234261:GSM7459085	sex	f	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: f	True
+GSM7459085	geo:GSE234261:GSM7459085	sex	f	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 12  post CAR  BM SC !Sample_geo_accession = GSM7459085	True
+GSM7459085	geo:GSE234261:GSM7459085	development_stage	54-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 54	True
+GSM7459085	geo:GSE234261:GSM7459085	development_stage	54-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 12  post CAR  BM SC !Sample_geo_accession = GSM7459085	True
+GSM7459085	geo:GSE234261:GSM7459085	tissue_free_text	Bone Marrow	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM7459085	geo:GSE234261:GSM7459085	tissue_free_text	Bone Marrow	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 12  post CAR  BM SC !Sample_geo_accession = GSM7459085	True
+GSM7459085	geo:GSE234261:GSM7459085	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459085	geo:GSE234261:GSM7459085	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459085	geo:GSE234261:GSM7459085	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459085	geo:GSE234261:GSM7459085	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459085	geo:GSE234261:GSM7459085	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459085	geo:GSE234261:GSM7459085	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: BMMC	True
+GSM7459085	geo:GSE234261:GSM7459085	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459085	geo:GSE234261:GSM7459085	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 12  post CAR  BM SC !Sample_geo_accession = GSM7459085	True
+GSM7459085	geo:GSE234261:GSM7459085	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459086	geo:GSE234261:GSM7459086	donor_id	Patient 13	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 13 apheresis  PB SC !Sample_geo_accession = GSM7459086	True
+GSM7459086	geo:GSE234261:GSM7459086	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: m	True
+GSM7459086	geo:GSE234261:GSM7459086	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 13 apheresis  PB SC !Sample_geo_accession = GSM7459086	True
+GSM7459086	geo:GSE234261:GSM7459086	development_stage	58-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 58	True
+GSM7459086	geo:GSE234261:GSM7459086	development_stage	58-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 13 apheresis  PB SC !Sample_geo_accession = GSM7459086	True
+GSM7459086	geo:GSE234261:GSM7459086	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459086	geo:GSE234261:GSM7459086	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 13 apheresis  PB SC !Sample_geo_accession = GSM7459086	True
+GSM7459086	geo:GSE234261:GSM7459086	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459086	geo:GSE234261:GSM7459086	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459086	geo:GSE234261:GSM7459086	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459086	geo:GSE234261:GSM7459086	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459086	geo:GSE234261:GSM7459086	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459086	geo:GSE234261:GSM7459086	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: PBMC	True
+GSM7459086	geo:GSE234261:GSM7459086	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459086	geo:GSE234261:GSM7459086	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 13 apheresis  PB SC !Sample_geo_accession = GSM7459086	True
+GSM7459086	geo:GSE234261:GSM7459086	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459086	geo:GSE234261:GSM7459086	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459086	geo:GSE234261:GSM7459086	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 13 apheresis  PB SC !Sample_geo_accession = GSM7459086	True
+GSM7459088	geo:GSE234261:GSM7459088	donor_id	Patient 14	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 14 post CAR  PB SC !Sample_geo_accession = GSM7459088	True
+GSM7459088	geo:GSE234261:GSM7459088	sex	f	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: f	True
+GSM7459088	geo:GSE234261:GSM7459088	sex	f	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 14 post CAR  PB SC !Sample_geo_accession = GSM7459088	True
+GSM7459088	geo:GSE234261:GSM7459088	development_stage	39-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 39	True
+GSM7459088	geo:GSE234261:GSM7459088	development_stage	39-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 14 post CAR  PB SC !Sample_geo_accession = GSM7459088	True
+GSM7459088	geo:GSE234261:GSM7459088	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459088	geo:GSE234261:GSM7459088	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 14 post CAR  PB SC !Sample_geo_accession = GSM7459088	True
+GSM7459088	geo:GSE234261:GSM7459088	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459088	geo:GSE234261:GSM7459088	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459088	geo:GSE234261:GSM7459088	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459088	geo:GSE234261:GSM7459088	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459088	geo:GSE234261:GSM7459088	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459088	geo:GSE234261:GSM7459088	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: PBMC	True
+GSM7459088	geo:GSE234261:GSM7459088	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459088	geo:GSE234261:GSM7459088	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 14 post CAR  PB SC !Sample_geo_accession = GSM7459088	True
+GSM7459088	geo:GSE234261:GSM7459088	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459088	geo:GSE234261:GSM7459088	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459088	geo:GSE234261:GSM7459088	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 14 post CAR  PB SC !Sample_geo_accession = GSM7459088	True
+GSM7459089	geo:GSE234261:GSM7459089	donor_id	Patient 8	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 8  apheresis  PB SC !Sample_geo_accession = GSM7459089	True
+GSM7459089	geo:GSE234261:GSM7459089	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: m	True
+GSM7459089	geo:GSE234261:GSM7459089	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 8  apheresis  PB SC !Sample_geo_accession = GSM7459089	True
+GSM7459089	geo:GSE234261:GSM7459089	development_stage	63-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 63	True
+GSM7459089	geo:GSE234261:GSM7459089	development_stage	63-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 8  apheresis  PB SC !Sample_geo_accession = GSM7459089	True
+GSM7459089	geo:GSE234261:GSM7459089	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459089	geo:GSE234261:GSM7459089	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 8  apheresis  PB SC !Sample_geo_accession = GSM7459089	True
+GSM7459089	geo:GSE234261:GSM7459089	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459089	geo:GSE234261:GSM7459089	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459089	geo:GSE234261:GSM7459089	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459089	geo:GSE234261:GSM7459089	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459089	geo:GSE234261:GSM7459089	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459089	geo:GSE234261:GSM7459089	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: PBMC	True
+GSM7459089	geo:GSE234261:GSM7459089	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459089	geo:GSE234261:GSM7459089	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 8  apheresis  PB SC !Sample_geo_accession = GSM7459089	True
+GSM7459089	geo:GSE234261:GSM7459089	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459089	geo:GSE234261:GSM7459089	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459089	geo:GSE234261:GSM7459089	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 8  apheresis  PB SC !Sample_geo_accession = GSM7459089	True
+GSM7459090	geo:GSE234261:GSM7459090	donor_id	Patient 8	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 8  post CAR  PB SC !Sample_geo_accession = GSM7459090	True
+GSM7459090	geo:GSE234261:GSM7459090	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: m	True
+GSM7459090	geo:GSE234261:GSM7459090	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 8  post CAR  PB SC !Sample_geo_accession = GSM7459090	True
+GSM7459090	geo:GSE234261:GSM7459090	development_stage	63-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 63	True
+GSM7459090	geo:GSE234261:GSM7459090	development_stage	63-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 8  post CAR  PB SC !Sample_geo_accession = GSM7459090	True
+GSM7459090	geo:GSE234261:GSM7459090	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459090	geo:GSE234261:GSM7459090	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 8  post CAR  PB SC !Sample_geo_accession = GSM7459090	True
+GSM7459090	geo:GSE234261:GSM7459090	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459090	geo:GSE234261:GSM7459090	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459090	geo:GSE234261:GSM7459090	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459090	geo:GSE234261:GSM7459090	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459090	geo:GSE234261:GSM7459090	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459090	geo:GSE234261:GSM7459090	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: PBMC	True
+GSM7459090	geo:GSE234261:GSM7459090	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459090	geo:GSE234261:GSM7459090	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 8  post CAR  PB SC !Sample_geo_accession = GSM7459090	True
+GSM7459090	geo:GSE234261:GSM7459090	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459090	geo:GSE234261:GSM7459090	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459090	geo:GSE234261:GSM7459090	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 8  post CAR  PB SC !Sample_geo_accession = GSM7459090	True
+GSM7459091	geo:GSE234261:GSM7459091	donor_id	Patient 9	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 9  post CAR  BM SC !Sample_geo_accession = GSM7459091	True
+GSM7459091	geo:GSE234261:GSM7459091	sex	f	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: f	True
+GSM7459091	geo:GSE234261:GSM7459091	sex	f	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 9  post CAR  BM SC !Sample_geo_accession = GSM7459091	True
+GSM7459091	geo:GSE234261:GSM7459091	development_stage	61-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 61	True
+GSM7459091	geo:GSE234261:GSM7459091	development_stage	61-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 9  post CAR  BM SC !Sample_geo_accession = GSM7459091	True
+GSM7459091	geo:GSE234261:GSM7459091	tissue_free_text	Bone Marrow	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM7459091	geo:GSE234261:GSM7459091	tissue_free_text	Bone Marrow	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 9  post CAR  BM SC !Sample_geo_accession = GSM7459091	True
+GSM7459091	geo:GSE234261:GSM7459091	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459091	geo:GSE234261:GSM7459091	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459091	geo:GSE234261:GSM7459091	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459091	geo:GSE234261:GSM7459091	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459091	geo:GSE234261:GSM7459091	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459091	geo:GSE234261:GSM7459091	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: BMMC	True
+GSM7459091	geo:GSE234261:GSM7459091	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459091	geo:GSE234261:GSM7459091	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 9  post CAR  BM SC !Sample_geo_accession = GSM7459091	True
+GSM7459091	geo:GSE234261:GSM7459091	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459092	geo:GSE234261:GSM7459092	donor_id	Patient 10	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 10  apheresis  PB SC !Sample_geo_accession = GSM7459092	True
+GSM7459092	geo:GSE234261:GSM7459092	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: m	True
+GSM7459092	geo:GSE234261:GSM7459092	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 10  apheresis  PB SC !Sample_geo_accession = GSM7459092	True
+GSM7459092	geo:GSE234261:GSM7459092	development_stage	43-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 43	True
+GSM7459092	geo:GSE234261:GSM7459092	development_stage	43-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 10  apheresis  PB SC !Sample_geo_accession = GSM7459092	True
+GSM7459092	geo:GSE234261:GSM7459092	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459092	geo:GSE234261:GSM7459092	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 10  apheresis  PB SC !Sample_geo_accession = GSM7459092	True
+GSM7459092	geo:GSE234261:GSM7459092	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459092	geo:GSE234261:GSM7459092	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459092	geo:GSE234261:GSM7459092	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459092	geo:GSE234261:GSM7459092	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459092	geo:GSE234261:GSM7459092	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459092	geo:GSE234261:GSM7459092	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: PBMC	True
+GSM7459092	geo:GSE234261:GSM7459092	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459092	geo:GSE234261:GSM7459092	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 10  apheresis  PB SC !Sample_geo_accession = GSM7459092	True
+GSM7459092	geo:GSE234261:GSM7459092	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459092	geo:GSE234261:GSM7459092	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459092	geo:GSE234261:GSM7459092	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 10  apheresis  PB SC !Sample_geo_accession = GSM7459092	True
+GSM7459093	geo:GSE234261:GSM7459093	donor_id	Patient 10	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 10  post CAR  PB SC !Sample_geo_accession = GSM7459093	True
+GSM7459093	geo:GSE234261:GSM7459093	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: m	True
+GSM7459093	geo:GSE234261:GSM7459093	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 10  post CAR  PB SC !Sample_geo_accession = GSM7459093	True
+GSM7459093	geo:GSE234261:GSM7459093	development_stage	43-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 43	True
+GSM7459093	geo:GSE234261:GSM7459093	development_stage	43-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 10  post CAR  PB SC !Sample_geo_accession = GSM7459093	True
+GSM7459093	geo:GSE234261:GSM7459093	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459093	geo:GSE234261:GSM7459093	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 10  post CAR  PB SC !Sample_geo_accession = GSM7459093	True
+GSM7459093	geo:GSE234261:GSM7459093	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459093	geo:GSE234261:GSM7459093	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459093	geo:GSE234261:GSM7459093	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459093	geo:GSE234261:GSM7459093	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459093	geo:GSE234261:GSM7459093	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459093	geo:GSE234261:GSM7459093	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: PBMC	True
+GSM7459093	geo:GSE234261:GSM7459093	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459093	geo:GSE234261:GSM7459093	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 10  post CAR  PB SC !Sample_geo_accession = GSM7459093	True
+GSM7459093	geo:GSE234261:GSM7459093	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459093	geo:GSE234261:GSM7459093	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459093	geo:GSE234261:GSM7459093	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 10  post CAR  PB SC !Sample_geo_accession = GSM7459093	True
+GSM7459094	geo:GSE234261:GSM7459094	donor_id	Patient 12	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 12  apheresis  PB SC !Sample_geo_accession = GSM7459094	True
+GSM7459094	geo:GSE234261:GSM7459094	sex	f	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: f	True
+GSM7459094	geo:GSE234261:GSM7459094	sex	f	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 12  apheresis  PB SC !Sample_geo_accession = GSM7459094	True
+GSM7459094	geo:GSE234261:GSM7459094	development_stage	54-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 54	True
+GSM7459094	geo:GSE234261:GSM7459094	development_stage	54-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 12  apheresis  PB SC !Sample_geo_accession = GSM7459094	True
+GSM7459094	geo:GSE234261:GSM7459094	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459094	geo:GSE234261:GSM7459094	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 12  apheresis  PB SC !Sample_geo_accession = GSM7459094	True
+GSM7459094	geo:GSE234261:GSM7459094	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459094	geo:GSE234261:GSM7459094	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459094	geo:GSE234261:GSM7459094	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459094	geo:GSE234261:GSM7459094	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459094	geo:GSE234261:GSM7459094	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459094	geo:GSE234261:GSM7459094	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: PBMC	True
+GSM7459094	geo:GSE234261:GSM7459094	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459094	geo:GSE234261:GSM7459094	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 12  apheresis  PB SC !Sample_geo_accession = GSM7459094	True
+GSM7459094	geo:GSE234261:GSM7459094	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459094	geo:GSE234261:GSM7459094	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459094	geo:GSE234261:GSM7459094	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 12  apheresis  PB SC !Sample_geo_accession = GSM7459094	True
+GSM7459096	geo:GSE234261:GSM7459096	donor_id	Patient 13	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 13  post CAR  PB SC !Sample_geo_accession = GSM7459096	True
+GSM7459096	geo:GSE234261:GSM7459096	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient sex: m	True
+GSM7459096	geo:GSE234261:GSM7459096	sex	m	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 13  post CAR  PB SC !Sample_geo_accession = GSM7459096	True
+GSM7459096	geo:GSE234261:GSM7459096	development_stage	58-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = patient age: 58	True
+GSM7459096	geo:GSE234261:GSM7459096	development_stage	58-year-old stage	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 13  post CAR  PB SC !Sample_geo_accession = GSM7459096	True
+GSM7459096	geo:GSE234261:GSM7459096	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459096	geo:GSE234261:GSM7459096	tissue_free_text	Peripheral Blood	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 13  post CAR  PB SC !Sample_geo_accession = GSM7459096	True
+GSM7459096	geo:GSE234261:GSM7459096	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Series_title = Single cell multi-omic dissection of response and resistance to chimeric antigen receptor T cells against BCMA in relapsed multiple myeloma	True
+GSM7459096	geo:GSE234261:GSM7459096	disease_free_text	multiple myeloma	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		in relapsed/refractory multiple myeloma are currently missing. We subjected cells isolated from peripheral blood and bone marrow before and after the application of CAR T cells directed against B cell maturation antigen	True
+GSM7459096	geo:GSE234261:GSM7459096	assay	10x 5' v2	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		processed with 10x Genomics 5’ v2 chemistry to generate libraries for BCR, TCR, gene expression and surface protein expression	True
+GSM7459096	geo:GSE234261:GSM7459096	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_extract_protocol_ch1 = scRNA + surface protein expression seq, BCRseq, TCRseq	True
+GSM7459096	geo:GSE234261:GSM7459096	suspension_type	cell	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459096	geo:GSE234261:GSM7459096	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = cell type: PBMC	True
+GSM7459096	geo:GSE234261:GSM7459096	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		mononuclear cells from bone marrow (BMMCs) and peripheral blood (PBMCs) were isolated following standardized operating procedures using Leucosep tubes (Greiner Bio One, Frickenhausen, Germany) with a Ficoll gradient	True
+GSM7459096	geo:GSE234261:GSM7459096	cell_enrichment	CL:0000842+	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 13  post CAR  PB SC !Sample_geo_accession = GSM7459096	True
+GSM7459096	geo:GSE234261:GSM7459096	gene_annotation_version	GENCODE v32	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		to the reference genome (GRCh38, Ensembl release 98) and GENCODE v32 annotation	True
+GSM7459096	geo:GSE234261:GSM7459096	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_characteristics_ch1 = tissue: Peripheral Blood	True
+GSM7459096	geo:GSE234261:GSM7459096	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-f0f8d82deded/GSE234261_family.soft.gz		!Sample_title = Patient 13  post CAR  PB SC !Sample_geo_accession = GSM7459096	True

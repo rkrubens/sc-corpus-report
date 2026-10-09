@@ -1,0 +1,370 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8757538	geo:GSE288020:GSM8757538	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757538	geo:GSE288020:GSM8757538	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757538	geo:GSE288020:GSM8757538	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of uncertain significance	True
+GSM8757539	geo:GSE288020:GSM8757539	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757539	geo:GSE288020:GSM8757539	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757539	geo:GSE288020:GSM8757539	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of uncertain significance	True
+GSM8757540	geo:GSE288020:GSM8757540	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757540	geo:GSE288020:GSM8757540	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757540	geo:GSE288020:GSM8757540	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of uncertain significance	True
+GSM8757541	geo:GSE288020:GSM8757541	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757541	geo:GSE288020:GSM8757541	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757541	geo:GSE288020:GSM8757541	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of uncertain significance	True
+GSM8757542	geo:GSE288020:GSM8757542	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757542	geo:GSE288020:GSM8757542	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757542	geo:GSE288020:GSM8757542	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of uncertain significance	True
+GSM8757543	geo:GSE288020:GSM8757543	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757543	geo:GSE288020:GSM8757543	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757543	geo:GSE288020:GSM8757543	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of uncertain significance	True
+GSM8757544	geo:GSE288020:GSM8757544	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757544	geo:GSE288020:GSM8757544	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757544	geo:GSE288020:GSM8757544	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of uncertain significance	True
+GSM8757545	geo:GSE288020:GSM8757545	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757545	geo:GSE288020:GSM8757545	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757545	geo:GSE288020:GSM8757545	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of uncertain significance	True
+GSM8757546	geo:GSE288020:GSM8757546	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757546	geo:GSE288020:GSM8757546	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757546	geo:GSE288020:GSM8757546	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of uncertain significance	True
+GSM8757547	geo:GSE288020:GSM8757547	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757547	geo:GSE288020:GSM8757547	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757547	geo:GSE288020:GSM8757547	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of uncertain significance	True
+GSM8757548	geo:GSE288020:GSM8757548	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757548	geo:GSE288020:GSM8757548	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757548	geo:GSE288020:GSM8757548	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of uncertain significance	True
+GSM8757549	geo:GSE288020:GSM8757549	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757549	geo:GSE288020:GSM8757549	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757549	geo:GSE288020:GSM8757549	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of uncertain significance	True
+GSM8757550	geo:GSE288020:GSM8757550	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757550	geo:GSE288020:GSM8757550	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757550	geo:GSE288020:GSM8757550	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of uncertain significance	True
+GSM8757551	geo:GSE288020:GSM8757551	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757551	geo:GSE288020:GSM8757551	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757551	geo:GSE288020:GSM8757551	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of uncertain significance	True
+GSM8757552	geo:GSE288020:GSM8757552	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757552	geo:GSE288020:GSM8757552	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757552	geo:GSE288020:GSM8757552	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+GSM8757553	geo:GSE288020:GSM8757553	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757553	geo:GSE288020:GSM8757553	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757553	geo:GSE288020:GSM8757553	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+GSM8757554	geo:GSE288020:GSM8757554	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757554	geo:GSE288020:GSM8757554	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757554	geo:GSE288020:GSM8757554	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+GSM8757555	geo:GSE288020:GSM8757555	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757555	geo:GSE288020:GSM8757555	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757555	geo:GSE288020:GSM8757555	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+GSM8757556	geo:GSE288020:GSM8757556	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757556	geo:GSE288020:GSM8757556	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757556	geo:GSE288020:GSM8757556	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+GSM8757557	geo:GSE288020:GSM8757557	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757557	geo:GSE288020:GSM8757557	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757557	geo:GSE288020:GSM8757557	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+GSM8757558	geo:GSE288020:GSM8757558	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757558	geo:GSE288020:GSM8757558	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757558	geo:GSE288020:GSM8757558	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+GSM8757559	geo:GSE288020:GSM8757559	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757559	geo:GSE288020:GSM8757559	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757559	geo:GSE288020:GSM8757559	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+GSM8757560	geo:GSE288020:GSM8757560	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8757560	geo:GSE288020:GSM8757560	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone Marrow	True
+GSM8757560	geo:GSE288020:GSM8757560	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+		organism	Homo sapiens	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8757538	geo:GSE288020:GSM8757538	donor_id	R001	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757538	!Sample_title = MGUS R001 Immune-Age Old	True
+GSM8757538	geo:GSE288020:GSM8757538	donor_id	R001	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757538	!Sample_description = Library name: R001BM	True
+GSM8757538	geo:GSE288020:GSM8757538	donor_id	R001	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757538	geo:GSE288020:GSM8757538	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757538	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757538	geo:GSE288020:GSM8757538	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757538	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757538	geo:GSE288020:GSM8757538	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757538	!Sample_characteristics_ch1 = disease state: monoclonal gammopathy of uncertain significance	True
+GSM8757538	geo:GSE288020:GSM8757538	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757538	!Sample_title = MGUS R001 Immune-Age Old	True
+GSM8757538	geo:GSE288020:GSM8757538	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757538	geo:GSE288020:GSM8757538	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757538	geo:GSE288020:GSM8757538	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757538	geo:GSE288020:GSM8757538	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757538	geo:GSE288020:GSM8757538	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757538	geo:GSE288020:GSM8757538	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True
+GSM8757539	geo:GSE288020:GSM8757539	donor_id	R003	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757539	!Sample_title = MGUS R003 Immune-Age  Young	True
+GSM8757539	geo:GSE288020:GSM8757539	donor_id	R003	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757539	!Sample_description = Library name: R003BM	True
+GSM8757539	geo:GSE288020:GSM8757539	donor_id	R003	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757539	geo:GSE288020:GSM8757539	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757539	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757539	geo:GSE288020:GSM8757539	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757539	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757539	geo:GSE288020:GSM8757539	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757539	!Sample_characteristics_ch1 = disease state: monoclonal gammopathy of uncertain significance	True
+GSM8757539	geo:GSE288020:GSM8757539	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757539	!Sample_title = MGUS R003 Immune-Age  Young	True
+GSM8757539	geo:GSE288020:GSM8757539	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757539	geo:GSE288020:GSM8757539	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757539	geo:GSE288020:GSM8757539	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757539	geo:GSE288020:GSM8757539	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757539	geo:GSE288020:GSM8757539	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757539	geo:GSE288020:GSM8757539	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True
+GSM8757540	geo:GSE288020:GSM8757540	donor_id	R005	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757540	!Sample_title = MGUS R005 Immune-Age  Young	True
+GSM8757540	geo:GSE288020:GSM8757540	donor_id	R005	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757540	!Sample_description = Library name: R005BM	True
+GSM8757540	geo:GSE288020:GSM8757540	donor_id	R005	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757540	geo:GSE288020:GSM8757540	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757540	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757540	geo:GSE288020:GSM8757540	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757540	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757540	geo:GSE288020:GSM8757540	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757540	!Sample_characteristics_ch1 = disease state: monoclonal gammopathy of uncertain significance	True
+GSM8757540	geo:GSE288020:GSM8757540	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757540	!Sample_title = MGUS R005 Immune-Age  Young	True
+GSM8757540	geo:GSE288020:GSM8757540	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757540	geo:GSE288020:GSM8757540	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757540	geo:GSE288020:GSM8757540	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757540	geo:GSE288020:GSM8757540	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757540	geo:GSE288020:GSM8757540	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757540	geo:GSE288020:GSM8757540	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True
+GSM8757541	geo:GSE288020:GSM8757541	donor_id	R006	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757541	!Sample_title = MGUS R006 Immune-Age Old	True
+GSM8757541	geo:GSE288020:GSM8757541	donor_id	R006	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757541	!Sample_description = Library name: R006BM	True
+GSM8757541	geo:GSE288020:GSM8757541	donor_id	R006	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757541	geo:GSE288020:GSM8757541	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757541	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757541	geo:GSE288020:GSM8757541	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757541	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757541	geo:GSE288020:GSM8757541	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757541	!Sample_characteristics_ch1 = disease state: monoclonal gammopathy of uncertain significance	True
+GSM8757541	geo:GSE288020:GSM8757541	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757541	!Sample_title = MGUS R006 Immune-Age Old	True
+GSM8757541	geo:GSE288020:GSM8757541	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757541	geo:GSE288020:GSM8757541	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757541	geo:GSE288020:GSM8757541	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757541	geo:GSE288020:GSM8757541	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757541	geo:GSE288020:GSM8757541	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757541	geo:GSE288020:GSM8757541	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True
+GSM8757542	geo:GSE288020:GSM8757542	donor_id	R008	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757542	!Sample_title = MGUS R008 Immune-Age Young	True
+GSM8757542	geo:GSE288020:GSM8757542	donor_id	R008	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757542	!Sample_description = Library name: R008BM	True
+GSM8757542	geo:GSE288020:GSM8757542	donor_id	R008	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757542	geo:GSE288020:GSM8757542	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757542	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757542	geo:GSE288020:GSM8757542	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757542	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757542	geo:GSE288020:GSM8757542	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757542	!Sample_characteristics_ch1 = disease state: monoclonal gammopathy of uncertain significance	True
+GSM8757542	geo:GSE288020:GSM8757542	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757542	!Sample_title = MGUS R008 Immune-Age Young	True
+GSM8757542	geo:GSE288020:GSM8757542	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757542	geo:GSE288020:GSM8757542	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757542	geo:GSE288020:GSM8757542	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757542	geo:GSE288020:GSM8757542	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757542	geo:GSE288020:GSM8757542	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757542	geo:GSE288020:GSM8757542	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True
+GSM8757543	geo:GSE288020:GSM8757543	donor_id	R009	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757543	!Sample_title = MGUS R009 Immune-Age Young	True
+GSM8757543	geo:GSE288020:GSM8757543	donor_id	R009	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757543	!Sample_description = Library name: R009BM	True
+GSM8757543	geo:GSE288020:GSM8757543	donor_id	R009	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757543	geo:GSE288020:GSM8757543	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757543	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757543	geo:GSE288020:GSM8757543	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757543	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757543	geo:GSE288020:GSM8757543	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757543	!Sample_characteristics_ch1 = disease state: monoclonal gammopathy of uncertain significance	True
+GSM8757543	geo:GSE288020:GSM8757543	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757543	!Sample_title = MGUS R009 Immune-Age Young	True
+GSM8757543	geo:GSE288020:GSM8757543	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757543	geo:GSE288020:GSM8757543	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757543	geo:GSE288020:GSM8757543	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757543	geo:GSE288020:GSM8757543	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757543	geo:GSE288020:GSM8757543	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757543	geo:GSE288020:GSM8757543	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True
+GSM8757544	geo:GSE288020:GSM8757544	donor_id	R010	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757544	!Sample_title = MGUS R010 Immune-Age Young	True
+GSM8757544	geo:GSE288020:GSM8757544	donor_id	R010	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757544	!Sample_description = Library name: R010BM	True
+GSM8757544	geo:GSE288020:GSM8757544	donor_id	R010	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757544	geo:GSE288020:GSM8757544	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757544	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757544	geo:GSE288020:GSM8757544	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757544	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757544	geo:GSE288020:GSM8757544	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757544	!Sample_characteristics_ch1 = disease state: monoclonal gammopathy of uncertain significance	True
+GSM8757544	geo:GSE288020:GSM8757544	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757544	!Sample_title = MGUS R010 Immune-Age Young	True
+GSM8757544	geo:GSE288020:GSM8757544	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757544	geo:GSE288020:GSM8757544	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757544	geo:GSE288020:GSM8757544	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757544	geo:GSE288020:GSM8757544	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757544	geo:GSE288020:GSM8757544	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757544	geo:GSE288020:GSM8757544	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True
+GSM8757545	geo:GSE288020:GSM8757545	donor_id	R013	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757545	!Sample_title = MGUS R013 Immune-Age Old	True
+GSM8757545	geo:GSE288020:GSM8757545	donor_id	R013	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757545	!Sample_description = Library name: R013BM	True
+GSM8757545	geo:GSE288020:GSM8757545	donor_id	R013	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757545	geo:GSE288020:GSM8757545	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757545	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757545	geo:GSE288020:GSM8757545	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757545	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757545	geo:GSE288020:GSM8757545	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757545	!Sample_characteristics_ch1 = disease state: monoclonal gammopathy of uncertain significance	True
+GSM8757545	geo:GSE288020:GSM8757545	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757545	!Sample_title = MGUS R013 Immune-Age Old	True
+GSM8757545	geo:GSE288020:GSM8757545	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757545	geo:GSE288020:GSM8757545	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757545	geo:GSE288020:GSM8757545	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757545	geo:GSE288020:GSM8757545	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757545	geo:GSE288020:GSM8757545	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757545	geo:GSE288020:GSM8757545	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True
+GSM8757546	geo:GSE288020:GSM8757546	donor_id	R014	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757546	!Sample_title = MGUS R014 Immune-Age Old	True
+GSM8757546	geo:GSE288020:GSM8757546	donor_id	R014	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757546	!Sample_description = Library name: R014BM	True
+GSM8757546	geo:GSE288020:GSM8757546	donor_id	R014	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757546	geo:GSE288020:GSM8757546	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757546	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757546	geo:GSE288020:GSM8757546	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757546	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757546	geo:GSE288020:GSM8757546	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757546	!Sample_characteristics_ch1 = disease state: monoclonal gammopathy of uncertain significance	True
+GSM8757546	geo:GSE288020:GSM8757546	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757546	!Sample_title = MGUS R014 Immune-Age Old	True
+GSM8757546	geo:GSE288020:GSM8757546	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757546	geo:GSE288020:GSM8757546	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757546	geo:GSE288020:GSM8757546	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757546	geo:GSE288020:GSM8757546	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757546	geo:GSE288020:GSM8757546	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757546	geo:GSE288020:GSM8757546	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True
+GSM8757547	geo:GSE288020:GSM8757547	donor_id	R015	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757547	!Sample_title = MGUS R015 Immune-Age Young	True
+GSM8757547	geo:GSE288020:GSM8757547	donor_id	R015	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757547	!Sample_description = Library name: R015BM	True
+GSM8757547	geo:GSE288020:GSM8757547	donor_id	R015	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757547	geo:GSE288020:GSM8757547	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757547	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757547	geo:GSE288020:GSM8757547	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757547	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757547	geo:GSE288020:GSM8757547	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757547	!Sample_characteristics_ch1 = disease state: monoclonal gammopathy of uncertain significance	True
+GSM8757547	geo:GSE288020:GSM8757547	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757547	!Sample_title = MGUS R015 Immune-Age Young	True
+GSM8757547	geo:GSE288020:GSM8757547	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757547	geo:GSE288020:GSM8757547	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757547	geo:GSE288020:GSM8757547	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757547	geo:GSE288020:GSM8757547	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757547	geo:GSE288020:GSM8757547	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757547	geo:GSE288020:GSM8757547	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True
+GSM8757548	geo:GSE288020:GSM8757548	donor_id	R016	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757548	!Sample_title = MGUS R016 Immune-Age Old	True
+GSM8757548	geo:GSE288020:GSM8757548	donor_id	R016	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757548	!Sample_description = Library name: R016BM	True
+GSM8757548	geo:GSE288020:GSM8757548	donor_id	R016	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757548	geo:GSE288020:GSM8757548	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757548	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757548	geo:GSE288020:GSM8757548	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757548	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757548	geo:GSE288020:GSM8757548	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757548	!Sample_characteristics_ch1 = disease state: monoclonal gammopathy of uncertain significance	True
+GSM8757548	geo:GSE288020:GSM8757548	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757548	!Sample_title = MGUS R016 Immune-Age Old	True
+GSM8757548	geo:GSE288020:GSM8757548	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757548	geo:GSE288020:GSM8757548	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757548	geo:GSE288020:GSM8757548	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757548	geo:GSE288020:GSM8757548	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757548	geo:GSE288020:GSM8757548	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757548	geo:GSE288020:GSM8757548	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True
+GSM8757549	geo:GSE288020:GSM8757549	donor_id	R020	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757549	!Sample_title = MGUS R020 Immune-Age Old	True
+GSM8757549	geo:GSE288020:GSM8757549	donor_id	R020	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757549	!Sample_description = Library name: R020BM	True
+GSM8757549	geo:GSE288020:GSM8757549	donor_id	R020	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757549	geo:GSE288020:GSM8757549	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757549	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757549	geo:GSE288020:GSM8757549	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757549	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757549	geo:GSE288020:GSM8757549	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757549	!Sample_characteristics_ch1 = disease state: monoclonal gammopathy of uncertain significance	True
+GSM8757549	geo:GSE288020:GSM8757549	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757549	!Sample_title = MGUS R020 Immune-Age Old	True
+GSM8757549	geo:GSE288020:GSM8757549	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757549	geo:GSE288020:GSM8757549	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757549	geo:GSE288020:GSM8757549	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757549	geo:GSE288020:GSM8757549	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757549	geo:GSE288020:GSM8757549	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757549	geo:GSE288020:GSM8757549	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True
+GSM8757550	geo:GSE288020:GSM8757550	donor_id	R023	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757550	!Sample_title = MGUS R023 Immune-Age Young	True
+GSM8757550	geo:GSE288020:GSM8757550	donor_id	R023	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757550	!Sample_description = Library name: R023BM	True
+GSM8757550	geo:GSE288020:GSM8757550	donor_id	R023	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757550	geo:GSE288020:GSM8757550	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757550	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757550	geo:GSE288020:GSM8757550	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757550	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757550	geo:GSE288020:GSM8757550	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757550	!Sample_characteristics_ch1 = disease state: monoclonal gammopathy of uncertain significance	True
+GSM8757550	geo:GSE288020:GSM8757550	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757550	!Sample_title = MGUS R023 Immune-Age Young	True
+GSM8757550	geo:GSE288020:GSM8757550	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757550	geo:GSE288020:GSM8757550	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757550	geo:GSE288020:GSM8757550	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757550	geo:GSE288020:GSM8757550	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757550	geo:GSE288020:GSM8757550	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757550	geo:GSE288020:GSM8757550	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True
+GSM8757551	geo:GSE288020:GSM8757551	donor_id	R024	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757551	!Sample_title = MGUS R024 Immune-Age Old	True
+GSM8757551	geo:GSE288020:GSM8757551	donor_id	R024	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757551	!Sample_description = Library name: R024BM	True
+GSM8757551	geo:GSE288020:GSM8757551	donor_id	R024	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757551	geo:GSE288020:GSM8757551	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757551	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757551	geo:GSE288020:GSM8757551	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757551	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757551	geo:GSE288020:GSM8757551	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757551	!Sample_characteristics_ch1 = disease state: monoclonal gammopathy of uncertain significance	True
+GSM8757551	geo:GSE288020:GSM8757551	disease_free_text	monoclonal gammopathy of uncertain significance	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757551	!Sample_title = MGUS R024 Immune-Age Old	True
+GSM8757551	geo:GSE288020:GSM8757551	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757551	geo:GSE288020:GSM8757551	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757551	geo:GSE288020:GSM8757551	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757551	geo:GSE288020:GSM8757551	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757551	geo:GSE288020:GSM8757551	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757551	geo:GSE288020:GSM8757551	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True
+GSM8757552	geo:GSE288020:GSM8757552	donor_id	E2228	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757552	!Sample_title = MM E2228 Immune-Age Young	True
+GSM8757552	geo:GSE288020:GSM8757552	donor_id	E2228	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757552	!Sample_description = Library name: E2228BM	True
+GSM8757552	geo:GSE288020:GSM8757552	donor_id	E2228	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757552	geo:GSE288020:GSM8757552	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757552	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757552	geo:GSE288020:GSM8757552	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757552	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757552	geo:GSE288020:GSM8757552	disease_free_text	Multiple Myeloma	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757552	!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True
+GSM8757552	geo:GSE288020:GSM8757552	disease_free_text	Multiple Myeloma	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757552	!Sample_title = MM E2228 Immune-Age Young	True
+GSM8757552	geo:GSE288020:GSM8757552	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757552	geo:GSE288020:GSM8757552	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757552	geo:GSE288020:GSM8757552	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757552	geo:GSE288020:GSM8757552	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757552	geo:GSE288020:GSM8757552	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757552	geo:GSE288020:GSM8757552	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True
+GSM8757553	geo:GSE288020:GSM8757553	donor_id	E2238	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757553	!Sample_title = MM E2238 Immune-Age Old	True
+GSM8757553	geo:GSE288020:GSM8757553	donor_id	E2238	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757553	!Sample_description = Library name: E2238BM	True
+GSM8757553	geo:GSE288020:GSM8757553	donor_id	E2238	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757553	geo:GSE288020:GSM8757553	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757553	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757553	geo:GSE288020:GSM8757553	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757553	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757553	geo:GSE288020:GSM8757553	disease_free_text	Multiple Myeloma	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757553	!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True
+GSM8757553	geo:GSE288020:GSM8757553	disease_free_text	Multiple Myeloma	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757553	!Sample_title = MM E2238 Immune-Age Old	True
+GSM8757553	geo:GSE288020:GSM8757553	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757553	geo:GSE288020:GSM8757553	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757553	geo:GSE288020:GSM8757553	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757553	geo:GSE288020:GSM8757553	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757553	geo:GSE288020:GSM8757553	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757553	geo:GSE288020:GSM8757553	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True
+GSM8757554	geo:GSE288020:GSM8757554	donor_id	E2242	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757554	!Sample_title = MM E2242 Immune-Age Young	True
+GSM8757554	geo:GSE288020:GSM8757554	donor_id	E2242	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757554	!Sample_description = Library name: E2242BM	True
+GSM8757554	geo:GSE288020:GSM8757554	donor_id	E2242	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757554	geo:GSE288020:GSM8757554	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757554	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757554	geo:GSE288020:GSM8757554	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757554	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757554	geo:GSE288020:GSM8757554	disease_free_text	Multiple Myeloma	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757554	!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True
+GSM8757554	geo:GSE288020:GSM8757554	disease_free_text	Multiple Myeloma	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757554	!Sample_title = MM E2242 Immune-Age Young	True
+GSM8757554	geo:GSE288020:GSM8757554	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757554	geo:GSE288020:GSM8757554	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757554	geo:GSE288020:GSM8757554	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757554	geo:GSE288020:GSM8757554	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757554	geo:GSE288020:GSM8757554	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757554	geo:GSE288020:GSM8757554	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True
+GSM8757555	geo:GSE288020:GSM8757555	donor_id	E2243	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757555	!Sample_title = MM E2243 Immune-Age Old	True
+GSM8757555	geo:GSE288020:GSM8757555	donor_id	E2243	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757555	!Sample_description = Library name: E2243BM	True
+GSM8757555	geo:GSE288020:GSM8757555	donor_id	E2243	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757555	geo:GSE288020:GSM8757555	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757555	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757555	geo:GSE288020:GSM8757555	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757555	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757555	geo:GSE288020:GSM8757555	disease_free_text	Multiple Myeloma	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757555	!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True
+GSM8757555	geo:GSE288020:GSM8757555	disease_free_text	Multiple Myeloma	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757555	!Sample_title = MM E2243 Immune-Age Old	True
+GSM8757555	geo:GSE288020:GSM8757555	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757555	geo:GSE288020:GSM8757555	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757555	geo:GSE288020:GSM8757555	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757555	geo:GSE288020:GSM8757555	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757555	geo:GSE288020:GSM8757555	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757555	geo:GSE288020:GSM8757555	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True
+GSM8757556	geo:GSE288020:GSM8757556	donor_id	E2263	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757556	!Sample_title = MM E2263 Immune-Age Young	True
+GSM8757556	geo:GSE288020:GSM8757556	donor_id	E2263	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757556	!Sample_description = Library name: E2263BM	True
+GSM8757556	geo:GSE288020:GSM8757556	donor_id	E2263	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757556	geo:GSE288020:GSM8757556	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757556	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757556	geo:GSE288020:GSM8757556	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757556	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757556	geo:GSE288020:GSM8757556	disease_free_text	Multiple Myeloma	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757556	!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True
+GSM8757556	geo:GSE288020:GSM8757556	disease_free_text	Multiple Myeloma	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757556	!Sample_title = MM E2263 Immune-Age Young	True
+GSM8757556	geo:GSE288020:GSM8757556	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757556	geo:GSE288020:GSM8757556	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757556	geo:GSE288020:GSM8757556	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757556	geo:GSE288020:GSM8757556	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757556	geo:GSE288020:GSM8757556	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757556	geo:GSE288020:GSM8757556	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True
+GSM8757557	geo:GSE288020:GSM8757557	donor_id	E2324	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757557	!Sample_title = MM E2324 Immune-Age  Old	True
+GSM8757557	geo:GSE288020:GSM8757557	donor_id	E2324	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757557	!Sample_description = Library name: E2324BM	True
+GSM8757557	geo:GSE288020:GSM8757557	donor_id	E2324	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757557	geo:GSE288020:GSM8757557	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757557	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757557	geo:GSE288020:GSM8757557	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757557	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757557	geo:GSE288020:GSM8757557	disease_free_text	Multiple Myeloma	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757557	!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True
+GSM8757557	geo:GSE288020:GSM8757557	disease_free_text	Multiple Myeloma	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757557	!Sample_title = MM E2324 Immune-Age  Old	True
+GSM8757557	geo:GSE288020:GSM8757557	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757557	geo:GSE288020:GSM8757557	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757557	geo:GSE288020:GSM8757557	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757557	geo:GSE288020:GSM8757557	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757557	geo:GSE288020:GSM8757557	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757557	geo:GSE288020:GSM8757557	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True
+GSM8757558	geo:GSE288020:GSM8757558	donor_id	E2326	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757558	!Sample_title = MM E2326 Immune-Age Young	True
+GSM8757558	geo:GSE288020:GSM8757558	donor_id	E2326	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757558	!Sample_description = Library name: E2326BM	True
+GSM8757558	geo:GSE288020:GSM8757558	donor_id	E2326	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757558	geo:GSE288020:GSM8757558	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757558	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757558	geo:GSE288020:GSM8757558	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757558	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757558	geo:GSE288020:GSM8757558	disease_free_text	Multiple Myeloma	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757558	!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True
+GSM8757558	geo:GSE288020:GSM8757558	disease_free_text	Multiple Myeloma	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757558	!Sample_title = MM E2326 Immune-Age Young	True
+GSM8757558	geo:GSE288020:GSM8757558	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757558	geo:GSE288020:GSM8757558	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757558	geo:GSE288020:GSM8757558	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757558	geo:GSE288020:GSM8757558	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757558	geo:GSE288020:GSM8757558	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757558	geo:GSE288020:GSM8757558	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True
+GSM8757559	geo:GSE288020:GSM8757559	donor_id	E2328	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757559	!Sample_title = MM E2328 Immune-Age Old	True
+GSM8757559	geo:GSE288020:GSM8757559	donor_id	E2328	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757559	!Sample_description = Library name: E2328BM	True
+GSM8757559	geo:GSE288020:GSM8757559	donor_id	E2328	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757559	geo:GSE288020:GSM8757559	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757559	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757559	geo:GSE288020:GSM8757559	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757559	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757559	geo:GSE288020:GSM8757559	disease_free_text	Multiple Myeloma	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757559	!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True
+GSM8757559	geo:GSE288020:GSM8757559	disease_free_text	Multiple Myeloma	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757559	!Sample_title = MM E2328 Immune-Age Old	True
+GSM8757559	geo:GSE288020:GSM8757559	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757559	geo:GSE288020:GSM8757559	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757559	geo:GSE288020:GSM8757559	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757559	geo:GSE288020:GSM8757559	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757559	geo:GSE288020:GSM8757559	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757559	geo:GSE288020:GSM8757559	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True
+GSM8757560	geo:GSE288020:GSM8757560	donor_id	E2329	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757560	!Sample_title = MM E2329 Immune-Age Old	True
+GSM8757560	geo:GSE288020:GSM8757560	donor_id	E2329	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757560	!Sample_description = Library name: E2329BM	True
+GSM8757560	geo:GSE288020:GSM8757560	donor_id	E2329	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		CITE-Seq analysis for BMMCs from MGUS (n=14) and MM (n=9) patients	True
+GSM8757560	geo:GSE288020:GSM8757560	tissue_free_text	Bone Marrow	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757560	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757560	geo:GSE288020:GSM8757560	tissue_type	tissue	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757560	!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM8757560	geo:GSE288020:GSM8757560	disease_free_text	Multiple Myeloma	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757560	!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True
+GSM8757560	geo:GSE288020:GSM8757560	disease_free_text	Multiple Myeloma	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz	GSM8757560	!Sample_title = MM E2329 Immune-Age Old	True
+GSM8757560	geo:GSE288020:GSM8757560	assay	10x 5' v2	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2 (PN-1000263)	True
+GSM8757560	geo:GSE288020:GSM8757560	suspension_type	cell	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		Single cells were isolated using the Chromium Controller (10X Genomics)	True
+GSM8757560	geo:GSE288020:GSM8757560	cell_enrichment	CL:0000842+	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757560	geo:GSE288020:GSM8757560	cell_enrichment	CL:0000842+	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		Mononuclear cells (MNCs) were isolated using Ficoll density gradient centrifugation	True
+GSM8757560	geo:GSE288020:GSM8757560	sample_preservation	cryopreserved	file	raw/fp-5989ca01351e/GSE288020_family.soft.gz		BMMCs (n=23) were thawed	True
+GSM8757560	geo:GSE288020:GSM8757560	gene_annotation_version	GENCODE v32/Ensembl 98	file	evidence/PMC12144498_supplementary_pdf/BLOODA_ADV-2024-015680-mmc1.txt		reference genome GRCh38 (GENCODE v32/Ensembl 98)	True

@@ -1,0 +1,461 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM6709993	geo:GSE217245:GSM6709993	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6709995	geo:GSE217245:GSM6709995	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6709997	geo:GSE217245:GSM6709997	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6709999	geo:GSE217245:GSM6709999	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710001	geo:GSE217245:GSM6710001	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710003	geo:GSE217245:GSM6710003	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710005	geo:GSE217245:GSM6710005	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710007	geo:GSE217245:GSM6710007	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710009	geo:GSE217245:GSM6710009	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710011	geo:GSE217245:GSM6710011	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710013	geo:GSE217245:GSM6710013	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710015	geo:GSE217245:GSM6710015	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710017	geo:GSE217245:GSM6710017	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710019	geo:GSE217245:GSM6710019	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710021	geo:GSE217245:GSM6710021	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710023	geo:GSE217245:GSM6710023	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710025	geo:GSE217245:GSM6710025	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710027	geo:GSE217245:GSM6710027	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710029	geo:GSE217245:GSM6710029	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710030	geo:GSE217245:GSM6710030	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710031	geo:GSE217245:GSM6710031	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710032	geo:GSE217245:GSM6710032	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710033	geo:GSE217245:GSM6710033	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710034	geo:GSE217245:GSM6710034	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710035	geo:GSE217245:GSM6710035	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710036	geo:GSE217245:GSM6710036	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6710037	geo:GSE217245:GSM6710037	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+		organism	Homo sapiens	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM6709993	geo:GSE217245:GSM6709993	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6709993	geo:GSE217245:GSM6709993	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT2_pre,responder, sort CD3, T cell subset bone marrow, scRNAseq [PT2_P1860_RNA]	True
+GSM6709993	geo:GSE217245:GSM6709993	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6709993	geo:GSE217245:GSM6709993	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6709993	geo:GSE217245:GSM6709993	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6709993	geo:GSE217245:GSM6709993	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6709993	geo:GSE217245:GSM6709993	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6709993	geo:GSE217245:GSM6709993	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6709993	geo:GSE217245:GSM6709993	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6709993	geo:GSE217245:GSM6709993	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6709993	geo:GSE217245:GSM6709993	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6709993	geo:GSE217245:GSM6709993	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT2_pre,responder, sort CD3, T cell subset bone marrow, scRNAseq [PT2_P1860_RNA]	True
+GSM6709993	geo:GSE217245:GSM6709993	donor_id	PT2	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = subject id/time_point: PT2_pre	True
+GSM6709993	geo:GSE217245:GSM6709993	donor_id	PT2	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT* samples: patients treated with anti-BCMA TCE	True
+GSM6709993	geo:GSE217245:GSM6709993	donor_id	PT2	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT*_pre samples: prior initiation of therapy time point	True
+GSM6709993	geo:GSE217245:GSM6709993	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		TCE samples: 5' single cell RNA/VDJ v1.1, 10x Genomics	True
+GSM6709993	geo:GSE217245:GSM6709993	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 5' scRNA	True
+GSM6709995	geo:GSE217245:GSM6709995	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6709995	geo:GSE217245:GSM6709995	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT2_late, responder, sort CD3, T cell subset bone marrow, scRNAseq [PT2_P1879_RNA]	True
+GSM6709995	geo:GSE217245:GSM6709995	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6709995	geo:GSE217245:GSM6709995	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6709995	geo:GSE217245:GSM6709995	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6709995	geo:GSE217245:GSM6709995	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6709995	geo:GSE217245:GSM6709995	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6709995	geo:GSE217245:GSM6709995	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6709995	geo:GSE217245:GSM6709995	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6709995	geo:GSE217245:GSM6709995	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6709995	geo:GSE217245:GSM6709995	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6709995	geo:GSE217245:GSM6709995	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT2_late, responder, sort CD3, T cell subset bone marrow, scRNAseq [PT2_P1879_RNA]	True
+GSM6709995	geo:GSE217245:GSM6709995	donor_id	PT2	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = subject id/time_point: PT2_late	True
+GSM6709995	geo:GSE217245:GSM6709995	donor_id	PT2	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT* samples: patients treated with anti-BCMA TCE	True
+GSM6709995	geo:GSE217245:GSM6709995	donor_id	PT2	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT*_pre samples: prior initiation of therapy time point	True
+GSM6709995	geo:GSE217245:GSM6709995	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		TCE samples: 5' single cell RNA/VDJ v1.1, 10x Genomics	True
+GSM6709995	geo:GSE217245:GSM6709995	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 5' scRNA	True
+GSM6709997	geo:GSE217245:GSM6709997	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6709997	geo:GSE217245:GSM6709997	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT3_pre, responder, sort CD3, T cell subset bone marrow, scRNAseq [PT3_P1924_RNA]	True
+GSM6709997	geo:GSE217245:GSM6709997	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6709997	geo:GSE217245:GSM6709997	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6709997	geo:GSE217245:GSM6709997	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6709997	geo:GSE217245:GSM6709997	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6709997	geo:GSE217245:GSM6709997	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6709997	geo:GSE217245:GSM6709997	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6709997	geo:GSE217245:GSM6709997	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6709997	geo:GSE217245:GSM6709997	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6709997	geo:GSE217245:GSM6709997	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6709997	geo:GSE217245:GSM6709997	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT3_pre, responder, sort CD3, T cell subset bone marrow, scRNAseq [PT3_P1924_RNA]	True
+GSM6709997	geo:GSE217245:GSM6709997	donor_id	PT3	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = subject id/time_point: PT3_pre	True
+GSM6709997	geo:GSE217245:GSM6709997	donor_id	PT3	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT* samples: patients treated with anti-BCMA TCE	True
+GSM6709997	geo:GSE217245:GSM6709997	donor_id	PT3	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT*_pre samples: prior initiation of therapy time point	True
+GSM6709997	geo:GSE217245:GSM6709997	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		TCE samples: 5' single cell RNA/VDJ v1.1, 10x Genomics	True
+GSM6709997	geo:GSE217245:GSM6709997	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 5' scRNA	True
+GSM6709999	geo:GSE217245:GSM6709999	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6709999	geo:GSE217245:GSM6709999	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT3_late, responder, sort CD3, T cell subset bone marrow, scRNAseq [PT3_P2125_RNA]	True
+GSM6709999	geo:GSE217245:GSM6709999	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6709999	geo:GSE217245:GSM6709999	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6709999	geo:GSE217245:GSM6709999	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6709999	geo:GSE217245:GSM6709999	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6709999	geo:GSE217245:GSM6709999	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6709999	geo:GSE217245:GSM6709999	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6709999	geo:GSE217245:GSM6709999	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6709999	geo:GSE217245:GSM6709999	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6709999	geo:GSE217245:GSM6709999	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6709999	geo:GSE217245:GSM6709999	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT3_late, responder, sort CD3, T cell subset bone marrow, scRNAseq [PT3_P2125_RNA]	True
+GSM6709999	geo:GSE217245:GSM6709999	donor_id	PT3	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = subject id/time_point: PT3_late	True
+GSM6709999	geo:GSE217245:GSM6709999	donor_id	PT3	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT* samples: patients treated with anti-BCMA TCE	True
+GSM6709999	geo:GSE217245:GSM6709999	donor_id	PT3	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT*_pre samples: prior initiation of therapy time point	True
+GSM6709999	geo:GSE217245:GSM6709999	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		TCE samples: 5' single cell RNA/VDJ v1.1, 10x Genomics	True
+GSM6709999	geo:GSE217245:GSM6709999	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 5' scRNA	True
+GSM6710001	geo:GSE217245:GSM6710001	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710001	geo:GSE217245:GSM6710001	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT6_pre, responder, sort CD3, T cell subset bone marrow, scRNAseq [PT6_P2081_RNA]	True
+GSM6710001	geo:GSE217245:GSM6710001	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710001	geo:GSE217245:GSM6710001	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710001	geo:GSE217245:GSM6710001	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710001	geo:GSE217245:GSM6710001	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710001	geo:GSE217245:GSM6710001	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710001	geo:GSE217245:GSM6710001	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710001	geo:GSE217245:GSM6710001	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710001	geo:GSE217245:GSM6710001	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710001	geo:GSE217245:GSM6710001	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710001	geo:GSE217245:GSM6710001	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT6_pre, responder, sort CD3, T cell subset bone marrow, scRNAseq [PT6_P2081_RNA]	True
+GSM6710001	geo:GSE217245:GSM6710001	donor_id	PT6	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = subject id/time_point: PT6_pre	True
+GSM6710001	geo:GSE217245:GSM6710001	donor_id	PT6	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT* samples: patients treated with anti-BCMA TCE	True
+GSM6710001	geo:GSE217245:GSM6710001	donor_id	PT6	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT*_pre samples: prior initiation of therapy time point	True
+GSM6710001	geo:GSE217245:GSM6710001	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		TCE samples: 5' single cell RNA/VDJ v1.1, 10x Genomics	True
+GSM6710001	geo:GSE217245:GSM6710001	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 5' scRNA	True
+GSM6710003	geo:GSE217245:GSM6710003	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710003	geo:GSE217245:GSM6710003	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT6_late, responder, sort CD3, T cell subset bone marrow, scRNAseq [PT6_P2216_RNA]	True
+GSM6710003	geo:GSE217245:GSM6710003	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710003	geo:GSE217245:GSM6710003	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710003	geo:GSE217245:GSM6710003	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710003	geo:GSE217245:GSM6710003	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710003	geo:GSE217245:GSM6710003	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710003	geo:GSE217245:GSM6710003	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710003	geo:GSE217245:GSM6710003	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710003	geo:GSE217245:GSM6710003	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710003	geo:GSE217245:GSM6710003	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710003	geo:GSE217245:GSM6710003	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT6_late, responder, sort CD3, T cell subset bone marrow, scRNAseq [PT6_P2216_RNA]	True
+GSM6710003	geo:GSE217245:GSM6710003	donor_id	PT6	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = subject id/time_point: PT6_late	True
+GSM6710003	geo:GSE217245:GSM6710003	donor_id	PT6	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT* samples: patients treated with anti-BCMA TCE	True
+GSM6710003	geo:GSE217245:GSM6710003	donor_id	PT6	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT*_pre samples: prior initiation of therapy time point	True
+GSM6710003	geo:GSE217245:GSM6710003	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		TCE samples: 5' single cell RNA/VDJ v1.1, 10x Genomics	True
+GSM6710003	geo:GSE217245:GSM6710003	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 5' scRNA	True
+GSM6710005	geo:GSE217245:GSM6710005	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710005	geo:GSE217245:GSM6710005	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT7_pre, responder, sort CD3, T cell subset bone marrow, scRNAseq [PT7_P2085_RNA]	True
+GSM6710005	geo:GSE217245:GSM6710005	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710005	geo:GSE217245:GSM6710005	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710005	geo:GSE217245:GSM6710005	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710005	geo:GSE217245:GSM6710005	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710005	geo:GSE217245:GSM6710005	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710005	geo:GSE217245:GSM6710005	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710005	geo:GSE217245:GSM6710005	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710005	geo:GSE217245:GSM6710005	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710005	geo:GSE217245:GSM6710005	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710005	geo:GSE217245:GSM6710005	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT7_pre, responder, sort CD3, T cell subset bone marrow, scRNAseq [PT7_P2085_RNA]	True
+GSM6710005	geo:GSE217245:GSM6710005	donor_id	PT7	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = subject id/time_point: PT7_pre	True
+GSM6710005	geo:GSE217245:GSM6710005	donor_id	PT7	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT* samples: patients treated with anti-BCMA TCE	True
+GSM6710005	geo:GSE217245:GSM6710005	donor_id	PT7	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT*_pre samples: prior initiation of therapy time point	True
+GSM6710005	geo:GSE217245:GSM6710005	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		TCE samples: 5' single cell RNA/VDJ v1.1, 10x Genomics	True
+GSM6710005	geo:GSE217245:GSM6710005	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 5' scRNA	True
+GSM6710007	geo:GSE217245:GSM6710007	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710007	geo:GSE217245:GSM6710007	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT7_late, responder, sort CD3, T cell subset bone marrow, scRNAseq [PT7_P2232_RNA]	True
+GSM6710007	geo:GSE217245:GSM6710007	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710007	geo:GSE217245:GSM6710007	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710007	geo:GSE217245:GSM6710007	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710007	geo:GSE217245:GSM6710007	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710007	geo:GSE217245:GSM6710007	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710007	geo:GSE217245:GSM6710007	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710007	geo:GSE217245:GSM6710007	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710007	geo:GSE217245:GSM6710007	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710007	geo:GSE217245:GSM6710007	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710007	geo:GSE217245:GSM6710007	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT7_late, responder, sort CD3, T cell subset bone marrow, scRNAseq [PT7_P2232_RNA]	True
+GSM6710007	geo:GSE217245:GSM6710007	donor_id	PT7	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = subject id/time_point: PT7_late	True
+GSM6710007	geo:GSE217245:GSM6710007	donor_id	PT7	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT* samples: patients treated with anti-BCMA TCE	True
+GSM6710007	geo:GSE217245:GSM6710007	donor_id	PT7	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT*_pre samples: prior initiation of therapy time point	True
+GSM6710007	geo:GSE217245:GSM6710007	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		TCE samples: 5' single cell RNA/VDJ v1.1, 10x Genomics	True
+GSM6710007	geo:GSE217245:GSM6710007	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 5' scRNA	True
+GSM6710009	geo:GSE217245:GSM6710009	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710009	geo:GSE217245:GSM6710009	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT15_pre, non_responder, sort CD3, T cell subset bone marrow, scRNAseq [PT15_P2117_RNA]	True
+GSM6710009	geo:GSE217245:GSM6710009	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710009	geo:GSE217245:GSM6710009	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710009	geo:GSE217245:GSM6710009	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710009	geo:GSE217245:GSM6710009	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710009	geo:GSE217245:GSM6710009	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710009	geo:GSE217245:GSM6710009	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710009	geo:GSE217245:GSM6710009	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710009	geo:GSE217245:GSM6710009	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710009	geo:GSE217245:GSM6710009	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710009	geo:GSE217245:GSM6710009	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT15_pre, non_responder, sort CD3, T cell subset bone marrow, scRNAseq [PT15_P2117_RNA]	True
+GSM6710009	geo:GSE217245:GSM6710009	donor_id	PT15	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = subject id/time_point: PT15_pre	True
+GSM6710009	geo:GSE217245:GSM6710009	donor_id	PT15	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT* samples: patients treated with anti-BCMA TCE	True
+GSM6710009	geo:GSE217245:GSM6710009	donor_id	PT15	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT*_pre samples: prior initiation of therapy time point	True
+GSM6710009	geo:GSE217245:GSM6710009	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		TCE samples: 5' single cell RNA/VDJ v1.1, 10x Genomics	True
+GSM6710009	geo:GSE217245:GSM6710009	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 5' scRNA	True
+GSM6710011	geo:GSE217245:GSM6710011	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710011	geo:GSE217245:GSM6710011	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT15_late_relapse,non_responder, sort CD3, T cell subset bone marrow, scRNAseq [PT15_P2251_RNA]	True
+GSM6710011	geo:GSE217245:GSM6710011	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710011	geo:GSE217245:GSM6710011	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710011	geo:GSE217245:GSM6710011	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710011	geo:GSE217245:GSM6710011	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710011	geo:GSE217245:GSM6710011	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710011	geo:GSE217245:GSM6710011	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710011	geo:GSE217245:GSM6710011	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710011	geo:GSE217245:GSM6710011	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710011	geo:GSE217245:GSM6710011	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710011	geo:GSE217245:GSM6710011	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT15_late_relapse,non_responder, sort CD3, T cell subset bone marrow, scRNAseq [PT15_P2251_RNA]	True
+GSM6710011	geo:GSE217245:GSM6710011	donor_id	PT15	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = subject id/time_point: PT15_late_relapse	True
+GSM6710011	geo:GSE217245:GSM6710011	donor_id	PT15	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT* samples: patients treated with anti-BCMA TCE	True
+GSM6710011	geo:GSE217245:GSM6710011	donor_id	PT15	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT*_pre samples: prior initiation of therapy time point	True
+GSM6710011	geo:GSE217245:GSM6710011	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		TCE samples: 5' single cell RNA/VDJ v1.1, 10x Genomics	True
+GSM6710011	geo:GSE217245:GSM6710011	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 5' scRNA	True
+GSM6710013	geo:GSE217245:GSM6710013	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710013	geo:GSE217245:GSM6710013	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT16_pre, responder,  sort CD3, T cell subset bone marrow, scRNAseq [PT16_P2024_RNA]	True
+GSM6710013	geo:GSE217245:GSM6710013	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710013	geo:GSE217245:GSM6710013	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710013	geo:GSE217245:GSM6710013	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710013	geo:GSE217245:GSM6710013	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710013	geo:GSE217245:GSM6710013	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710013	geo:GSE217245:GSM6710013	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710013	geo:GSE217245:GSM6710013	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710013	geo:GSE217245:GSM6710013	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710013	geo:GSE217245:GSM6710013	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710013	geo:GSE217245:GSM6710013	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT16_pre, responder,  sort CD3, T cell subset bone marrow, scRNAseq [PT16_P2024_RNA]	True
+GSM6710013	geo:GSE217245:GSM6710013	donor_id	PT16	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = subject id/time_point: PT16_pre	True
+GSM6710013	geo:GSE217245:GSM6710013	donor_id	PT16	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT* samples: patients treated with anti-BCMA TCE	True
+GSM6710013	geo:GSE217245:GSM6710013	donor_id	PT16	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT*_pre samples: prior initiation of therapy time point	True
+GSM6710013	geo:GSE217245:GSM6710013	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		TCE samples: 5' single cell RNA/VDJ v1.1, 10x Genomics	True
+GSM6710013	geo:GSE217245:GSM6710013	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 5' scRNA	True
+GSM6710015	geo:GSE217245:GSM6710015	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710015	geo:GSE217245:GSM6710015	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT16_late, responder, sort CD3, T cell subset bone marrow, scRNAseq [PT16_P2287_RNA]	True
+GSM6710015	geo:GSE217245:GSM6710015	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710015	geo:GSE217245:GSM6710015	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710015	geo:GSE217245:GSM6710015	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710015	geo:GSE217245:GSM6710015	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710015	geo:GSE217245:GSM6710015	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710015	geo:GSE217245:GSM6710015	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710015	geo:GSE217245:GSM6710015	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710015	geo:GSE217245:GSM6710015	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710015	geo:GSE217245:GSM6710015	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710015	geo:GSE217245:GSM6710015	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT16_late, responder, sort CD3, T cell subset bone marrow, scRNAseq [PT16_P2287_RNA]	True
+GSM6710015	geo:GSE217245:GSM6710015	donor_id	PT16	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = subject id/time_point: PT16_late	True
+GSM6710015	geo:GSE217245:GSM6710015	donor_id	PT16	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT* samples: patients treated with anti-BCMA TCE	True
+GSM6710015	geo:GSE217245:GSM6710015	donor_id	PT16	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT*_pre samples: prior initiation of therapy time point	True
+GSM6710015	geo:GSE217245:GSM6710015	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		TCE samples: 5' single cell RNA/VDJ v1.1, 10x Genomics	True
+GSM6710015	geo:GSE217245:GSM6710015	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 5' scRNA	True
+GSM6710017	geo:GSE217245:GSM6710017	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710017	geo:GSE217245:GSM6710017	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT17_pre, responder, sort CD3, T cell subset bone marrow, scRNAseq [PT17_P2552_RNA]	True
+GSM6710017	geo:GSE217245:GSM6710017	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710017	geo:GSE217245:GSM6710017	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710017	geo:GSE217245:GSM6710017	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710017	geo:GSE217245:GSM6710017	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710017	geo:GSE217245:GSM6710017	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710017	geo:GSE217245:GSM6710017	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710017	geo:GSE217245:GSM6710017	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710017	geo:GSE217245:GSM6710017	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710017	geo:GSE217245:GSM6710017	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710017	geo:GSE217245:GSM6710017	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT17_pre, responder, sort CD3, T cell subset bone marrow, scRNAseq [PT17_P2552_RNA]	True
+GSM6710017	geo:GSE217245:GSM6710017	donor_id	PT17	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = subject id/time_point: PT17_pre	True
+GSM6710017	geo:GSE217245:GSM6710017	donor_id	PT17	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT* samples: patients treated with anti-BCMA TCE	True
+GSM6710017	geo:GSE217245:GSM6710017	donor_id	PT17	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT*_pre samples: prior initiation of therapy time point	True
+GSM6710017	geo:GSE217245:GSM6710017	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		TCE samples: 5' single cell RNA/VDJ v1.1, 10x Genomics	True
+GSM6710017	geo:GSE217245:GSM6710017	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 5' scRNA	True
+GSM6710019	geo:GSE217245:GSM6710019	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710019	geo:GSE217245:GSM6710019	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT17_late_relapse, responder,  sort CD3, T cell subset bone marrow, scRNAseq [PT17_P2918_RNA]	True
+GSM6710019	geo:GSE217245:GSM6710019	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710019	geo:GSE217245:GSM6710019	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710019	geo:GSE217245:GSM6710019	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710019	geo:GSE217245:GSM6710019	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710019	geo:GSE217245:GSM6710019	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710019	geo:GSE217245:GSM6710019	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710019	geo:GSE217245:GSM6710019	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710019	geo:GSE217245:GSM6710019	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710019	geo:GSE217245:GSM6710019	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710019	geo:GSE217245:GSM6710019	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT17_late_relapse, responder,  sort CD3, T cell subset bone marrow, scRNAseq [PT17_P2918_RNA]	True
+GSM6710019	geo:GSE217245:GSM6710019	donor_id	PT17	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = subject id/time_point: PT17_late_relapse	True
+GSM6710019	geo:GSE217245:GSM6710019	donor_id	PT17	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT* samples: patients treated with anti-BCMA TCE	True
+GSM6710019	geo:GSE217245:GSM6710019	donor_id	PT17	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT*_pre samples: prior initiation of therapy time point	True
+GSM6710019	geo:GSE217245:GSM6710019	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		TCE samples: 5' single cell RNA/VDJ v1.1, 10x Genomics	True
+GSM6710019	geo:GSE217245:GSM6710019	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 5' scRNA	True
+GSM6710021	geo:GSE217245:GSM6710021	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710021	geo:GSE217245:GSM6710021	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT18_pre, non-responder, sort CD3, T cell subset bone marrow, scRNAseq [PT18_P1814_RNA]	True
+GSM6710021	geo:GSE217245:GSM6710021	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710021	geo:GSE217245:GSM6710021	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710021	geo:GSE217245:GSM6710021	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710021	geo:GSE217245:GSM6710021	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710021	geo:GSE217245:GSM6710021	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710021	geo:GSE217245:GSM6710021	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710021	geo:GSE217245:GSM6710021	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710021	geo:GSE217245:GSM6710021	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710021	geo:GSE217245:GSM6710021	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710021	geo:GSE217245:GSM6710021	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT18_pre, non-responder, sort CD3, T cell subset bone marrow, scRNAseq [PT18_P1814_RNA]	True
+GSM6710021	geo:GSE217245:GSM6710021	donor_id	PT18	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = subject id/time_point: PT18_pre	True
+GSM6710021	geo:GSE217245:GSM6710021	donor_id	PT18	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT* samples: patients treated with anti-BCMA TCE	True
+GSM6710021	geo:GSE217245:GSM6710021	donor_id	PT18	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT*_pre samples: prior initiation of therapy time point	True
+GSM6710021	geo:GSE217245:GSM6710021	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		TCE samples: 5' single cell RNA/VDJ v1.1, 10x Genomics	True
+GSM6710021	geo:GSE217245:GSM6710021	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 5' scRNA	True
+GSM6710023	geo:GSE217245:GSM6710023	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710023	geo:GSE217245:GSM6710023	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT18_late, non-responder, sort CD3, T cell subset bone marrow, scRNAseq [PT18_P1846_RNA]	True
+GSM6710023	geo:GSE217245:GSM6710023	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710023	geo:GSE217245:GSM6710023	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710023	geo:GSE217245:GSM6710023	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710023	geo:GSE217245:GSM6710023	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710023	geo:GSE217245:GSM6710023	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710023	geo:GSE217245:GSM6710023	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710023	geo:GSE217245:GSM6710023	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710023	geo:GSE217245:GSM6710023	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710023	geo:GSE217245:GSM6710023	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710023	geo:GSE217245:GSM6710023	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT18_late, non-responder, sort CD3, T cell subset bone marrow, scRNAseq [PT18_P1846_RNA]	True
+GSM6710023	geo:GSE217245:GSM6710023	donor_id	PT18	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = subject id/time_point: PT18_late	True
+GSM6710023	geo:GSE217245:GSM6710023	donor_id	PT18	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT* samples: patients treated with anti-BCMA TCE	True
+GSM6710023	geo:GSE217245:GSM6710023	donor_id	PT18	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT*_pre samples: prior initiation of therapy time point	True
+GSM6710023	geo:GSE217245:GSM6710023	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		TCE samples: 5' single cell RNA/VDJ v1.1, 10x Genomics	True
+GSM6710023	geo:GSE217245:GSM6710023	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 5' scRNA	True
+GSM6710025	geo:GSE217245:GSM6710025	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710025	geo:GSE217245:GSM6710025	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT19_pre, non_responder, sort CD3, T cell subset bone marrow, scRNAseq [PT19_P1950_RNA]	True
+GSM6710025	geo:GSE217245:GSM6710025	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710025	geo:GSE217245:GSM6710025	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710025	geo:GSE217245:GSM6710025	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710025	geo:GSE217245:GSM6710025	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710025	geo:GSE217245:GSM6710025	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710025	geo:GSE217245:GSM6710025	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710025	geo:GSE217245:GSM6710025	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710025	geo:GSE217245:GSM6710025	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710025	geo:GSE217245:GSM6710025	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710025	geo:GSE217245:GSM6710025	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT19_pre, non_responder, sort CD3, T cell subset bone marrow, scRNAseq [PT19_P1950_RNA]	True
+GSM6710025	geo:GSE217245:GSM6710025	donor_id	PT19	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = subject id/time_point: PT19_pre	True
+GSM6710025	geo:GSE217245:GSM6710025	donor_id	PT19	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT* samples: patients treated with anti-BCMA TCE	True
+GSM6710025	geo:GSE217245:GSM6710025	donor_id	PT19	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT*_pre samples: prior initiation of therapy time point	True
+GSM6710025	geo:GSE217245:GSM6710025	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		TCE samples: 5' single cell RNA/VDJ v1.1, 10x Genomics	True
+GSM6710025	geo:GSE217245:GSM6710025	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 5' scRNA	True
+GSM6710027	geo:GSE217245:GSM6710027	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710027	geo:GSE217245:GSM6710027	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT19_late_relapse, non_responder,sort CD3, T cell subset bone marrow, scRNAseq [PT19_P2202_RNA]	True
+GSM6710027	geo:GSE217245:GSM6710027	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710027	geo:GSE217245:GSM6710027	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710027	geo:GSE217245:GSM6710027	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710027	geo:GSE217245:GSM6710027	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710027	geo:GSE217245:GSM6710027	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710027	geo:GSE217245:GSM6710027	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710027	geo:GSE217245:GSM6710027	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710027	geo:GSE217245:GSM6710027	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710027	geo:GSE217245:GSM6710027	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710027	geo:GSE217245:GSM6710027	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = PT19_late_relapse, non_responder,sort CD3, T cell subset bone marrow, scRNAseq [PT19_P2202_RNA]	True
+GSM6710027	geo:GSE217245:GSM6710027	donor_id	PT19	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = subject id/time_point: PT19_late_relapse	True
+GSM6710027	geo:GSE217245:GSM6710027	donor_id	PT19	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT* samples: patients treated with anti-BCMA TCE	True
+GSM6710027	geo:GSE217245:GSM6710027	donor_id	PT19	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Series_overall_design = PT*_pre samples: prior initiation of therapy time point	True
+GSM6710027	geo:GSE217245:GSM6710027	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		TCE samples: 5' single cell RNA/VDJ v1.1, 10x Genomics	True
+GSM6710027	geo:GSE217245:GSM6710027	assay	EFO:0011025	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 5' scRNA	True
+GSM6710029	geo:GSE217245:GSM6710029	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710029	geo:GSE217245:GSM6710029	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = CAR-T dataset, sort CD3, T cell subset bone marrow [CART_1_P1912]	True
+GSM6710029	geo:GSE217245:GSM6710029	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710029	geo:GSE217245:GSM6710029	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710029	geo:GSE217245:GSM6710029	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710029	geo:GSE217245:GSM6710029	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710029	geo:GSE217245:GSM6710029	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710029	geo:GSE217245:GSM6710029	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710029	geo:GSE217245:GSM6710029	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710029	geo:GSE217245:GSM6710029	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710029	geo:GSE217245:GSM6710029	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710029	geo:GSE217245:GSM6710029	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = CAR-T dataset, sort CD3, T cell subset bone marrow [CART_1_P1912]	True
+GSM6710029	geo:GSE217245:GSM6710029	assay	EFO:0022980	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		CAR-T samples: 3' scRNA version 3.1,  10x Genomics	True
+GSM6710029	geo:GSE217245:GSM6710029	assay	EFO:0022980	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 3' scRNA	True
+GSM6710030	geo:GSE217245:GSM6710030	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710030	geo:GSE217245:GSM6710030	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = CAR-T dataset, sort CD3, T cell subset bone marrow [CART_2_P1907]	True
+GSM6710030	geo:GSE217245:GSM6710030	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710030	geo:GSE217245:GSM6710030	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710030	geo:GSE217245:GSM6710030	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710030	geo:GSE217245:GSM6710030	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710030	geo:GSE217245:GSM6710030	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710030	geo:GSE217245:GSM6710030	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710030	geo:GSE217245:GSM6710030	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710030	geo:GSE217245:GSM6710030	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710030	geo:GSE217245:GSM6710030	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710030	geo:GSE217245:GSM6710030	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = CAR-T dataset, sort CD3, T cell subset bone marrow [CART_2_P1907]	True
+GSM6710030	geo:GSE217245:GSM6710030	assay	EFO:0022980	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		CAR-T samples: 3' scRNA version 3.1,  10x Genomics	True
+GSM6710030	geo:GSE217245:GSM6710030	assay	EFO:0022980	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 3' scRNA	True
+GSM6710031	geo:GSE217245:GSM6710031	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710031	geo:GSE217245:GSM6710031	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = CAR-T dataset, sort CD3, T cell subset bone marrow [CART_3_P2106]	True
+GSM6710031	geo:GSE217245:GSM6710031	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710031	geo:GSE217245:GSM6710031	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710031	geo:GSE217245:GSM6710031	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710031	geo:GSE217245:GSM6710031	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710031	geo:GSE217245:GSM6710031	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710031	geo:GSE217245:GSM6710031	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710031	geo:GSE217245:GSM6710031	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710031	geo:GSE217245:GSM6710031	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710031	geo:GSE217245:GSM6710031	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710031	geo:GSE217245:GSM6710031	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = CAR-T dataset, sort CD3, T cell subset bone marrow [CART_3_P2106]	True
+GSM6710031	geo:GSE217245:GSM6710031	assay	EFO:0022980	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		CAR-T samples: 3' scRNA version 3.1,  10x Genomics	True
+GSM6710031	geo:GSE217245:GSM6710031	assay	EFO:0022980	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 3' scRNA	True
+GSM6710032	geo:GSE217245:GSM6710032	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710032	geo:GSE217245:GSM6710032	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = CAR-T dataset, sort CD3, T cell subset bone marrow [CART_4_P2334]	True
+GSM6710032	geo:GSE217245:GSM6710032	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710032	geo:GSE217245:GSM6710032	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710032	geo:GSE217245:GSM6710032	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710032	geo:GSE217245:GSM6710032	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710032	geo:GSE217245:GSM6710032	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710032	geo:GSE217245:GSM6710032	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710032	geo:GSE217245:GSM6710032	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710032	geo:GSE217245:GSM6710032	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710032	geo:GSE217245:GSM6710032	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710032	geo:GSE217245:GSM6710032	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = CAR-T dataset, sort CD3, T cell subset bone marrow [CART_4_P2334]	True
+GSM6710032	geo:GSE217245:GSM6710032	assay	EFO:0022980	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		CAR-T samples: 3' scRNA version 3.1,  10x Genomics	True
+GSM6710032	geo:GSE217245:GSM6710032	assay	EFO:0022980	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 3' scRNA	True
+GSM6710033	geo:GSE217245:GSM6710033	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710033	geo:GSE217245:GSM6710033	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = CAR-T dataset, sort CD3, T cell subset bone marrow [CART_5_P1759]	True
+GSM6710033	geo:GSE217245:GSM6710033	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710033	geo:GSE217245:GSM6710033	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710033	geo:GSE217245:GSM6710033	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710033	geo:GSE217245:GSM6710033	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710033	geo:GSE217245:GSM6710033	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710033	geo:GSE217245:GSM6710033	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710033	geo:GSE217245:GSM6710033	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710033	geo:GSE217245:GSM6710033	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710033	geo:GSE217245:GSM6710033	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710033	geo:GSE217245:GSM6710033	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = CAR-T dataset, sort CD3, T cell subset bone marrow [CART_5_P1759]	True
+GSM6710033	geo:GSE217245:GSM6710033	assay	EFO:0022980	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		CAR-T samples: 3' scRNA version 3.1,  10x Genomics	True
+GSM6710033	geo:GSE217245:GSM6710033	assay	EFO:0022980	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 3' scRNA	True
+GSM6710034	geo:GSE217245:GSM6710034	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710034	geo:GSE217245:GSM6710034	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = CAR-T dataset, sort CD3, T cell subset bone marrow [CART_6_P1705]	True
+GSM6710034	geo:GSE217245:GSM6710034	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710034	geo:GSE217245:GSM6710034	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710034	geo:GSE217245:GSM6710034	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710034	geo:GSE217245:GSM6710034	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710034	geo:GSE217245:GSM6710034	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710034	geo:GSE217245:GSM6710034	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710034	geo:GSE217245:GSM6710034	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710034	geo:GSE217245:GSM6710034	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710034	geo:GSE217245:GSM6710034	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710034	geo:GSE217245:GSM6710034	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = CAR-T dataset, sort CD3, T cell subset bone marrow [CART_6_P1705]	True
+GSM6710034	geo:GSE217245:GSM6710034	assay	EFO:0022980	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		CAR-T samples: 3' scRNA version 3.1,  10x Genomics	True
+GSM6710034	geo:GSE217245:GSM6710034	assay	EFO:0022980	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 3' scRNA	True
+GSM6710035	geo:GSE217245:GSM6710035	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710035	geo:GSE217245:GSM6710035	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = CAR-T dataset, sort CD3, T cell subset bone marrow [CART_7_P1895]	True
+GSM6710035	geo:GSE217245:GSM6710035	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710035	geo:GSE217245:GSM6710035	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710035	geo:GSE217245:GSM6710035	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710035	geo:GSE217245:GSM6710035	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710035	geo:GSE217245:GSM6710035	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710035	geo:GSE217245:GSM6710035	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710035	geo:GSE217245:GSM6710035	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710035	geo:GSE217245:GSM6710035	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710035	geo:GSE217245:GSM6710035	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710035	geo:GSE217245:GSM6710035	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = CAR-T dataset, sort CD3, T cell subset bone marrow [CART_7_P1895]	True
+GSM6710035	geo:GSE217245:GSM6710035	assay	EFO:0022980	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		CAR-T samples: 3' scRNA version 3.1,  10x Genomics	True
+GSM6710035	geo:GSE217245:GSM6710035	assay	EFO:0022980	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 3' scRNA	True
+GSM6710036	geo:GSE217245:GSM6710036	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710036	geo:GSE217245:GSM6710036	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = CAR-T dataset, sort CD3, T cell subset bone marrow [CART_8_P2164]	True
+GSM6710036	geo:GSE217245:GSM6710036	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710036	geo:GSE217245:GSM6710036	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710036	geo:GSE217245:GSM6710036	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710036	geo:GSE217245:GSM6710036	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710036	geo:GSE217245:GSM6710036	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710036	geo:GSE217245:GSM6710036	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710036	geo:GSE217245:GSM6710036	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710036	geo:GSE217245:GSM6710036	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710036	geo:GSE217245:GSM6710036	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710036	geo:GSE217245:GSM6710036	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = CAR-T dataset, sort CD3, T cell subset bone marrow [CART_8_P2164]	True
+GSM6710036	geo:GSE217245:GSM6710036	assay	EFO:0022980	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		CAR-T samples: 3' scRNA version 3.1,  10x Genomics	True
+GSM6710036	geo:GSE217245:GSM6710036	assay	EFO:0022980	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 3' scRNA	True
+GSM6710037	geo:GSE217245:GSM6710037	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = cell type: human bone marrow mononuclear cells	True
+GSM6710037	geo:GSE217245:GSM6710037	tissue_free_text	bone marrow	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = CAR-T dataset, sort CD3, T cell subset bone marrow [CART_9_P1883]	True
+GSM6710037	geo:GSE217245:GSM6710037	disease_free_text	relapsed-refractory multiple myeloma	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710037	geo:GSE217245:GSM6710037	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_characteristics_ch1 = treatment: relapsed-refractory multiple myeloma	True
+GSM6710037	geo:GSE217245:GSM6710037	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		bone marrow residing CD4+ and CD8+ T cells in multiple myeloma patients undergoing TCE therapy	True
+GSM6710037	geo:GSE217245:GSM6710037	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM6710037	geo:GSE217245:GSM6710037	suspension_type	cell	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6710037	geo:GSE217245:GSM6710037	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM6710037	geo:GSE217245:GSM6710037	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM6710037	geo:GSE217245:GSM6710037	tissue_type	tissue	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710037	geo:GSE217245:GSM6710037	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		Serial blood samples and BM aspirates were collected from patients treated with anti-BCMA TCE or CAR T	True
+GSM6710037	geo:GSE217245:GSM6710037	sample_collection_method	bone marrow aspirate	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_title = CAR-T dataset, sort CD3, T cell subset bone marrow [CART_9_P1883]	True
+GSM6710037	geo:GSE217245:GSM6710037	assay	EFO:0022980	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		CAR-T samples: 3' scRNA version 3.1,  10x Genomics	True
+GSM6710037	geo:GSE217245:GSM6710037	assay	EFO:0022980	file	raw/fp-8df3447a2a25/GSE217245_family.soft.gz		!Sample_description = 10x Genomics 3' scRNA	True

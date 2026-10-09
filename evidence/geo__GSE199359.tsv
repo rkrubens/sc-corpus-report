@@ -1,0 +1,459 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5971018	geo:GSE199359:GSM5971018	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM5971018	geo:GSE199359:GSM5971018	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5971018	geo:GSE199359:GSM5971018	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5971019	geo:GSE199359:GSM5971019	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM5971019	geo:GSE199359:GSM5971019	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5971019	geo:GSE199359:GSM5971019	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5971020	geo:GSE199359:GSM5971020	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM5971020	geo:GSE199359:GSM5971020	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5971020	geo:GSE199359:GSM5971020	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5971021	geo:GSE199359:GSM5971021	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM5971021	geo:GSE199359:GSM5971021	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5971021	geo:GSE199359:GSM5971021	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5971022	geo:GSE199359:GSM5971022	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM5971022	geo:GSE199359:GSM5971022	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5971022	geo:GSE199359:GSM5971022	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5971023	geo:GSE199359:GSM5971023	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM5971023	geo:GSE199359:GSM5971023	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5971023	geo:GSE199359:GSM5971023	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5971024	geo:GSE199359:GSM5971024	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM5971024	geo:GSE199359:GSM5971024	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5971024	geo:GSE199359:GSM5971024	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5971025	geo:GSE199359:GSM5971025	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM5971025	geo:GSE199359:GSM5971025	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5971025	geo:GSE199359:GSM5971025	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7040843	geo:GSE199359:GSM7040843	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7040843	geo:GSE199359:GSM7040843	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM7040843	geo:GSE199359:GSM7040843	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7040844	geo:GSE199359:GSM7040844	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7040844	geo:GSE199359:GSM7040844	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM7040844	geo:GSE199359:GSM7040844	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7040845	geo:GSE199359:GSM7040845	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7040845	geo:GSE199359:GSM7040845	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM7040845	geo:GSE199359:GSM7040845	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7040846	geo:GSE199359:GSM7040846	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7040846	geo:GSE199359:GSM7040846	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM7040846	geo:GSE199359:GSM7040846	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7040847	geo:GSE199359:GSM7040847	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7040847	geo:GSE199359:GSM7040847	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM7040847	geo:GSE199359:GSM7040847	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7040848	geo:GSE199359:GSM7040848	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7040848	geo:GSE199359:GSM7040848	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM7040848	geo:GSE199359:GSM7040848	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7040849	geo:GSE199359:GSM7040849	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7040849	geo:GSE199359:GSM7040849	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM7040849	geo:GSE199359:GSM7040849	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7040850	geo:GSE199359:GSM7040850	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7040850	geo:GSE199359:GSM7040850	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM7040850	geo:GSE199359:GSM7040850	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7040851	geo:GSE199359:GSM7040851	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7040851	geo:GSE199359:GSM7040851	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM7040851	geo:GSE199359:GSM7040851	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7040852	geo:GSE199359:GSM7040852	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7040852	geo:GSE199359:GSM7040852	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM7040852	geo:GSE199359:GSM7040852	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7040853	geo:GSE199359:GSM7040853	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7040853	geo:GSE199359:GSM7040853	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM7040853	geo:GSE199359:GSM7040853	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7040854	geo:GSE199359:GSM7040854	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7040854	geo:GSE199359:GSM7040854	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM7040854	geo:GSE199359:GSM7040854	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7040855	geo:GSE199359:GSM7040855	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7040855	geo:GSE199359:GSM7040855	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM7040855	geo:GSE199359:GSM7040855	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7040856	geo:GSE199359:GSM7040856	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7040856	geo:GSE199359:GSM7040856	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM7040856	geo:GSE199359:GSM7040856	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7040857	geo:GSE199359:GSM7040857	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7040857	geo:GSE199359:GSM7040857	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM7040857	geo:GSE199359:GSM7040857	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM7040858	geo:GSE199359:GSM7040858	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7040858	geo:GSE199359:GSM7040858	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM7040858	geo:GSE199359:GSM7040858	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+		organism	Homo sapiens	file	raw/fp-1f50c2adb58e/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+		organism	Homo sapiens	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5971018	geo:GSE199359:GSM5971018	donor_id	P1498	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1498	True
+GSM5971018	geo:GSE199359:GSM5971018	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5971018	geo:GSE199359:GSM5971018	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971018	geo:GSE199359:GSM5971018	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971018	geo:GSE199359:GSM5971018	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971018	geo:GSE199359:GSM5971018	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971018	geo:GSE199359:GSM5971018	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971018	geo:GSE199359:GSM5971018	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971018	geo:GSE199359:GSM5971018	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971018	geo:GSE199359:GSM5971018	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM5971018	geo:GSE199359:GSM5971018	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM5971018	geo:GSE199359:GSM5971018	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM5971018	geo:GSE199359:GSM5971018	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM5971018	geo:GSE199359:GSM5971018	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM5971018	geo:GSE199359:GSM5971018	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM5971018	geo:GSE199359:GSM5971018	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM5971019	geo:GSE199359:GSM5971019	donor_id	P1393	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1393	True
+GSM5971019	geo:GSE199359:GSM5971019	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5971019	geo:GSE199359:GSM5971019	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971019	geo:GSE199359:GSM5971019	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971019	geo:GSE199359:GSM5971019	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971019	geo:GSE199359:GSM5971019	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971019	geo:GSE199359:GSM5971019	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971019	geo:GSE199359:GSM5971019	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971019	geo:GSE199359:GSM5971019	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971019	geo:GSE199359:GSM5971019	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM5971019	geo:GSE199359:GSM5971019	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM5971019	geo:GSE199359:GSM5971019	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM5971019	geo:GSE199359:GSM5971019	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM5971019	geo:GSE199359:GSM5971019	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM5971019	geo:GSE199359:GSM5971019	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM5971019	geo:GSE199359:GSM5971019	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM5971020	geo:GSE199359:GSM5971020	donor_id	P1217	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1217	True
+GSM5971020	geo:GSE199359:GSM5971020	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5971020	geo:GSE199359:GSM5971020	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971020	geo:GSE199359:GSM5971020	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971020	geo:GSE199359:GSM5971020	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971020	geo:GSE199359:GSM5971020	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971020	geo:GSE199359:GSM5971020	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971020	geo:GSE199359:GSM5971020	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971020	geo:GSE199359:GSM5971020	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971020	geo:GSE199359:GSM5971020	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM5971020	geo:GSE199359:GSM5971020	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM5971020	geo:GSE199359:GSM5971020	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM5971020	geo:GSE199359:GSM5971020	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM5971020	geo:GSE199359:GSM5971020	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM5971020	geo:GSE199359:GSM5971020	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM5971020	geo:GSE199359:GSM5971020	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM5971021	geo:GSE199359:GSM5971021	donor_id	P1389	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1389	True
+GSM5971021	geo:GSE199359:GSM5971021	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5971021	geo:GSE199359:GSM5971021	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971021	geo:GSE199359:GSM5971021	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971021	geo:GSE199359:GSM5971021	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971021	geo:GSE199359:GSM5971021	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971021	geo:GSE199359:GSM5971021	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971021	geo:GSE199359:GSM5971021	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971021	geo:GSE199359:GSM5971021	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971021	geo:GSE199359:GSM5971021	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM5971021	geo:GSE199359:GSM5971021	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM5971021	geo:GSE199359:GSM5971021	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM5971021	geo:GSE199359:GSM5971021	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM5971021	geo:GSE199359:GSM5971021	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM5971021	geo:GSE199359:GSM5971021	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM5971021	geo:GSE199359:GSM5971021	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM5971022	geo:GSE199359:GSM5971022	donor_id	P1627	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1627	True
+GSM5971022	geo:GSE199359:GSM5971022	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5971022	geo:GSE199359:GSM5971022	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971022	geo:GSE199359:GSM5971022	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971022	geo:GSE199359:GSM5971022	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971022	geo:GSE199359:GSM5971022	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971022	geo:GSE199359:GSM5971022	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971022	geo:GSE199359:GSM5971022	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971022	geo:GSE199359:GSM5971022	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971022	geo:GSE199359:GSM5971022	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM5971022	geo:GSE199359:GSM5971022	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM5971022	geo:GSE199359:GSM5971022	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM5971022	geo:GSE199359:GSM5971022	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM5971022	geo:GSE199359:GSM5971022	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM5971022	geo:GSE199359:GSM5971022	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM5971022	geo:GSE199359:GSM5971022	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM5971023	geo:GSE199359:GSM5971023	donor_id	P1555	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1555	True
+GSM5971023	geo:GSE199359:GSM5971023	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5971023	geo:GSE199359:GSM5971023	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971023	geo:GSE199359:GSM5971023	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971023	geo:GSE199359:GSM5971023	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971023	geo:GSE199359:GSM5971023	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971023	geo:GSE199359:GSM5971023	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971023	geo:GSE199359:GSM5971023	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971023	geo:GSE199359:GSM5971023	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971023	geo:GSE199359:GSM5971023	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM5971023	geo:GSE199359:GSM5971023	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM5971023	geo:GSE199359:GSM5971023	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM5971023	geo:GSE199359:GSM5971023	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM5971023	geo:GSE199359:GSM5971023	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM5971023	geo:GSE199359:GSM5971023	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM5971023	geo:GSE199359:GSM5971023	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM5971024	geo:GSE199359:GSM5971024	donor_id	P1438	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1438	True
+GSM5971024	geo:GSE199359:GSM5971024	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5971024	geo:GSE199359:GSM5971024	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971024	geo:GSE199359:GSM5971024	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971024	geo:GSE199359:GSM5971024	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971024	geo:GSE199359:GSM5971024	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971024	geo:GSE199359:GSM5971024	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971024	geo:GSE199359:GSM5971024	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971024	geo:GSE199359:GSM5971024	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971024	geo:GSE199359:GSM5971024	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM5971024	geo:GSE199359:GSM5971024	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM5971024	geo:GSE199359:GSM5971024	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM5971024	geo:GSE199359:GSM5971024	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM5971024	geo:GSE199359:GSM5971024	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM5971024	geo:GSE199359:GSM5971024	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM5971024	geo:GSE199359:GSM5971024	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM5971025	geo:GSE199359:GSM5971025	donor_id	P1479	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1479	True
+GSM5971025	geo:GSE199359:GSM5971025	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5971025	geo:GSE199359:GSM5971025	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971025	geo:GSE199359:GSM5971025	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971025	geo:GSE199359:GSM5971025	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971025	geo:GSE199359:GSM5971025	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971025	geo:GSE199359:GSM5971025	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971025	geo:GSE199359:GSM5971025	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5971025	geo:GSE199359:GSM5971025	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5971025	geo:GSE199359:GSM5971025	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM5971025	geo:GSE199359:GSM5971025	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM5971025	geo:GSE199359:GSM5971025	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM5971025	geo:GSE199359:GSM5971025	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM5971025	geo:GSE199359:GSM5971025	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM5971025	geo:GSE199359:GSM5971025	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM5971025	geo:GSE199359:GSM5971025	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM7040843	geo:GSE199359:GSM7040843	donor_id	P1723	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1723	True
+GSM7040843	geo:GSE199359:GSM7040843	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040843	geo:GSE199359:GSM7040843	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040843	geo:GSE199359:GSM7040843	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040843	geo:GSE199359:GSM7040843	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040843	geo:GSE199359:GSM7040843	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040843	geo:GSE199359:GSM7040843	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040843	geo:GSE199359:GSM7040843	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040843	geo:GSE199359:GSM7040843	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040843	geo:GSE199359:GSM7040843	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040843	geo:GSE199359:GSM7040843	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040843	geo:GSE199359:GSM7040843	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040843	geo:GSE199359:GSM7040843	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040843	geo:GSE199359:GSM7040843	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM7040843	geo:GSE199359:GSM7040843	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM7040843	geo:GSE199359:GSM7040843	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM7040844	geo:GSE199359:GSM7040844	donor_id	P1608	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1608	True
+GSM7040844	geo:GSE199359:GSM7040844	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040844	geo:GSE199359:GSM7040844	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040844	geo:GSE199359:GSM7040844	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040844	geo:GSE199359:GSM7040844	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040844	geo:GSE199359:GSM7040844	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040844	geo:GSE199359:GSM7040844	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040844	geo:GSE199359:GSM7040844	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040844	geo:GSE199359:GSM7040844	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040844	geo:GSE199359:GSM7040844	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040844	geo:GSE199359:GSM7040844	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040844	geo:GSE199359:GSM7040844	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040844	geo:GSE199359:GSM7040844	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040844	geo:GSE199359:GSM7040844	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM7040844	geo:GSE199359:GSM7040844	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM7040844	geo:GSE199359:GSM7040844	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM7040845	geo:GSE199359:GSM7040845	donor_id	P1675	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1675	True
+GSM7040845	geo:GSE199359:GSM7040845	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040845	geo:GSE199359:GSM7040845	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040845	geo:GSE199359:GSM7040845	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040845	geo:GSE199359:GSM7040845	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040845	geo:GSE199359:GSM7040845	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040845	geo:GSE199359:GSM7040845	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040845	geo:GSE199359:GSM7040845	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040845	geo:GSE199359:GSM7040845	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040845	geo:GSE199359:GSM7040845	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040845	geo:GSE199359:GSM7040845	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040845	geo:GSE199359:GSM7040845	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040845	geo:GSE199359:GSM7040845	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040845	geo:GSE199359:GSM7040845	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM7040845	geo:GSE199359:GSM7040845	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM7040845	geo:GSE199359:GSM7040845	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM7040846	geo:GSE199359:GSM7040846	donor_id	P1299	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1299	True
+GSM7040846	geo:GSE199359:GSM7040846	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040846	geo:GSE199359:GSM7040846	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040846	geo:GSE199359:GSM7040846	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040846	geo:GSE199359:GSM7040846	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040846	geo:GSE199359:GSM7040846	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040846	geo:GSE199359:GSM7040846	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040846	geo:GSE199359:GSM7040846	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040846	geo:GSE199359:GSM7040846	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040846	geo:GSE199359:GSM7040846	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040846	geo:GSE199359:GSM7040846	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040846	geo:GSE199359:GSM7040846	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040846	geo:GSE199359:GSM7040846	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040846	geo:GSE199359:GSM7040846	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM7040846	geo:GSE199359:GSM7040846	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM7040846	geo:GSE199359:GSM7040846	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM7040847	geo:GSE199359:GSM7040847	donor_id	P1345	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1345	True
+GSM7040847	geo:GSE199359:GSM7040847	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040847	geo:GSE199359:GSM7040847	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040847	geo:GSE199359:GSM7040847	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040847	geo:GSE199359:GSM7040847	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040847	geo:GSE199359:GSM7040847	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040847	geo:GSE199359:GSM7040847	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040847	geo:GSE199359:GSM7040847	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040847	geo:GSE199359:GSM7040847	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040847	geo:GSE199359:GSM7040847	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040847	geo:GSE199359:GSM7040847	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040847	geo:GSE199359:GSM7040847	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040847	geo:GSE199359:GSM7040847	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040847	geo:GSE199359:GSM7040847	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM7040847	geo:GSE199359:GSM7040847	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM7040847	geo:GSE199359:GSM7040847	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM7040848	geo:GSE199359:GSM7040848	donor_id	P1643	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1643	True
+GSM7040848	geo:GSE199359:GSM7040848	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040848	geo:GSE199359:GSM7040848	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040848	geo:GSE199359:GSM7040848	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040848	geo:GSE199359:GSM7040848	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040848	geo:GSE199359:GSM7040848	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040848	geo:GSE199359:GSM7040848	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040848	geo:GSE199359:GSM7040848	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040848	geo:GSE199359:GSM7040848	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040848	geo:GSE199359:GSM7040848	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040848	geo:GSE199359:GSM7040848	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040848	geo:GSE199359:GSM7040848	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040848	geo:GSE199359:GSM7040848	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040848	geo:GSE199359:GSM7040848	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM7040848	geo:GSE199359:GSM7040848	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM7040848	geo:GSE199359:GSM7040848	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM7040849	geo:GSE199359:GSM7040849	donor_id	P1752	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1752	True
+GSM7040849	geo:GSE199359:GSM7040849	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040849	geo:GSE199359:GSM7040849	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040849	geo:GSE199359:GSM7040849	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040849	geo:GSE199359:GSM7040849	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040849	geo:GSE199359:GSM7040849	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040849	geo:GSE199359:GSM7040849	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040849	geo:GSE199359:GSM7040849	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040849	geo:GSE199359:GSM7040849	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040849	geo:GSE199359:GSM7040849	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040849	geo:GSE199359:GSM7040849	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040849	geo:GSE199359:GSM7040849	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040849	geo:GSE199359:GSM7040849	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040849	geo:GSE199359:GSM7040849	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM7040849	geo:GSE199359:GSM7040849	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM7040849	geo:GSE199359:GSM7040849	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM7040850	geo:GSE199359:GSM7040850	donor_id	P1680	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1680	True
+GSM7040850	geo:GSE199359:GSM7040850	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040850	geo:GSE199359:GSM7040850	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040850	geo:GSE199359:GSM7040850	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040850	geo:GSE199359:GSM7040850	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040850	geo:GSE199359:GSM7040850	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040850	geo:GSE199359:GSM7040850	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040850	geo:GSE199359:GSM7040850	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040850	geo:GSE199359:GSM7040850	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040850	geo:GSE199359:GSM7040850	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040850	geo:GSE199359:GSM7040850	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040850	geo:GSE199359:GSM7040850	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040850	geo:GSE199359:GSM7040850	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040850	geo:GSE199359:GSM7040850	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM7040850	geo:GSE199359:GSM7040850	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM7040850	geo:GSE199359:GSM7040850	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM7040851	geo:GSE199359:GSM7040851	donor_id	P1388	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1388	True
+GSM7040851	geo:GSE199359:GSM7040851	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040851	geo:GSE199359:GSM7040851	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040851	geo:GSE199359:GSM7040851	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040851	geo:GSE199359:GSM7040851	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040851	geo:GSE199359:GSM7040851	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040851	geo:GSE199359:GSM7040851	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040851	geo:GSE199359:GSM7040851	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040851	geo:GSE199359:GSM7040851	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040851	geo:GSE199359:GSM7040851	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040851	geo:GSE199359:GSM7040851	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040851	geo:GSE199359:GSM7040851	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040851	geo:GSE199359:GSM7040851	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040851	geo:GSE199359:GSM7040851	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM7040851	geo:GSE199359:GSM7040851	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM7040851	geo:GSE199359:GSM7040851	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM7040852	geo:GSE199359:GSM7040852	donor_id	P1751	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1751	True
+GSM7040852	geo:GSE199359:GSM7040852	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040852	geo:GSE199359:GSM7040852	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040852	geo:GSE199359:GSM7040852	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040852	geo:GSE199359:GSM7040852	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040852	geo:GSE199359:GSM7040852	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040852	geo:GSE199359:GSM7040852	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040852	geo:GSE199359:GSM7040852	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040852	geo:GSE199359:GSM7040852	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040852	geo:GSE199359:GSM7040852	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040852	geo:GSE199359:GSM7040852	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040852	geo:GSE199359:GSM7040852	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040852	geo:GSE199359:GSM7040852	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040852	geo:GSE199359:GSM7040852	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM7040852	geo:GSE199359:GSM7040852	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM7040852	geo:GSE199359:GSM7040852	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM7040853	geo:GSE199359:GSM7040853	donor_id	P1809	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1809	True
+GSM7040853	geo:GSE199359:GSM7040853	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040853	geo:GSE199359:GSM7040853	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040853	geo:GSE199359:GSM7040853	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040853	geo:GSE199359:GSM7040853	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040853	geo:GSE199359:GSM7040853	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040853	geo:GSE199359:GSM7040853	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040853	geo:GSE199359:GSM7040853	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040853	geo:GSE199359:GSM7040853	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040853	geo:GSE199359:GSM7040853	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040853	geo:GSE199359:GSM7040853	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040853	geo:GSE199359:GSM7040853	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040853	geo:GSE199359:GSM7040853	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040853	geo:GSE199359:GSM7040853	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM7040853	geo:GSE199359:GSM7040853	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM7040853	geo:GSE199359:GSM7040853	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM7040854	geo:GSE199359:GSM7040854	donor_id	P1396	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1396	True
+GSM7040854	geo:GSE199359:GSM7040854	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040854	geo:GSE199359:GSM7040854	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040854	geo:GSE199359:GSM7040854	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040854	geo:GSE199359:GSM7040854	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040854	geo:GSE199359:GSM7040854	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040854	geo:GSE199359:GSM7040854	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040854	geo:GSE199359:GSM7040854	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040854	geo:GSE199359:GSM7040854	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040854	geo:GSE199359:GSM7040854	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040854	geo:GSE199359:GSM7040854	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040854	geo:GSE199359:GSM7040854	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040854	geo:GSE199359:GSM7040854	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040854	geo:GSE199359:GSM7040854	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM7040854	geo:GSE199359:GSM7040854	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM7040854	geo:GSE199359:GSM7040854	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM7040855	geo:GSE199359:GSM7040855	donor_id	P1461	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1461	True
+GSM7040855	geo:GSE199359:GSM7040855	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040855	geo:GSE199359:GSM7040855	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040855	geo:GSE199359:GSM7040855	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040855	geo:GSE199359:GSM7040855	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040855	geo:GSE199359:GSM7040855	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040855	geo:GSE199359:GSM7040855	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040855	geo:GSE199359:GSM7040855	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040855	geo:GSE199359:GSM7040855	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040855	geo:GSE199359:GSM7040855	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040855	geo:GSE199359:GSM7040855	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040855	geo:GSE199359:GSM7040855	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040855	geo:GSE199359:GSM7040855	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040855	geo:GSE199359:GSM7040855	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM7040855	geo:GSE199359:GSM7040855	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM7040855	geo:GSE199359:GSM7040855	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM7040856	geo:GSE199359:GSM7040856	donor_id	P1395	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1395	True
+GSM7040856	geo:GSE199359:GSM7040856	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040856	geo:GSE199359:GSM7040856	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040856	geo:GSE199359:GSM7040856	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040856	geo:GSE199359:GSM7040856	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040856	geo:GSE199359:GSM7040856	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040856	geo:GSE199359:GSM7040856	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040856	geo:GSE199359:GSM7040856	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040856	geo:GSE199359:GSM7040856	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040856	geo:GSE199359:GSM7040856	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040856	geo:GSE199359:GSM7040856	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040856	geo:GSE199359:GSM7040856	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040856	geo:GSE199359:GSM7040856	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040856	geo:GSE199359:GSM7040856	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM7040856	geo:GSE199359:GSM7040856	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM7040856	geo:GSE199359:GSM7040856	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM7040857	geo:GSE199359:GSM7040857	donor_id	P1606	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1606	True
+GSM7040857	geo:GSE199359:GSM7040857	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040857	geo:GSE199359:GSM7040857	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040857	geo:GSE199359:GSM7040857	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040857	geo:GSE199359:GSM7040857	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040857	geo:GSE199359:GSM7040857	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040857	geo:GSE199359:GSM7040857	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040857	geo:GSE199359:GSM7040857	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040857	geo:GSE199359:GSM7040857	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040857	geo:GSE199359:GSM7040857	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040857	geo:GSE199359:GSM7040857	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040857	geo:GSE199359:GSM7040857	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040857	geo:GSE199359:GSM7040857	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040857	geo:GSE199359:GSM7040857	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM7040857	geo:GSE199359:GSM7040857	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM7040857	geo:GSE199359:GSM7040857	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM7040858	geo:GSE199359:GSM7040858	donor_id	P1722	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1722	True
+GSM7040858	geo:GSE199359:GSM7040858	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040858	geo:GSE199359:GSM7040858	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040858	geo:GSE199359:GSM7040858	disease_free_text	multiple myeloma	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040858	geo:GSE199359:GSM7040858	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040858	geo:GSE199359:GSM7040858	sampled_site_condition	diseased	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040858	geo:GSE199359:GSM7040858	tissue_free_text	bone marrow	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040858	geo:GSE199359:GSM7040858	sample_collection_method	bone marrow aspiration	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040858	geo:GSE199359:GSM7040858	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040858	geo:GSE199359:GSM7040858	tissue_type	tissue	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040858	geo:GSE199359:GSM7040858	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040858	geo:GSE199359:GSM7040858	cell_enrichment	CD138+	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040858	geo:GSE199359:GSM7040858	suspension_type	cell	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Viable CD138+ cells were counted and resuspended in a resuspension buffer at 1,000 cells per ul.	True
+GSM7040858	geo:GSE199359:GSM7040858	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		Single-cell capture, reverse transcription, and library preparation were carried out on the Chromium platform (10x Genomics, Pleasanton, CA, USA) using the Single Cell 3	True
+GSM7040858	geo:GSE199359:GSM7040858	assay	10x 3' transcription profiling	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM7040858	geo:GSE199359:GSM7040858	gene_annotation_version	GRCh38	file	raw/fp-1f50c2adb58e/GSE199359_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True

@@ -1,0 +1,75 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9228905	geo:GSE307661:GSM9228905	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM9228905	geo:GSE307661:GSM9228905	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM9228905	geo:GSE307661:GSM9228905	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM9228906	geo:GSE307661:GSM9228906	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM9228906	geo:GSE307661:GSM9228906	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM9228906	geo:GSE307661:GSM9228906	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM9228907	geo:GSE307661:GSM9228907	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM9228907	geo:GSE307661:GSM9228907	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM9228907	geo:GSE307661:GSM9228907	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+		organism	Homo sapiens	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9228905	geo:GSE307661:GSM9228905	donor_id	MM00075	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228905	!Sample_characteristics_ch1 = subject id: MM00075	True
+GSM9228905	geo:GSE307661:GSM9228905	donor_id	MM00075	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228905	!Sample_title = MM00075, screening	True
+GSM9228905	geo:GSE307661:GSM9228905	disease_free_text	multiple myeloma	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228905	!Sample_source_name_ch1 = multiple myeloma	True
+GSM9228905	geo:GSE307661:GSM9228905	disease_free_text	multiple myeloma	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228905	!Sample_treatment_protocol_ch1 = Multiple myeloma patients were treated with Belantamab Mafodotin. Bone marrow trephines were collected before and after the treatment.	True
+GSM9228905	geo:GSE307661:GSM9228905	disease_free_text	multiple myeloma	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz		!Series_title = Belantamab Mafodotin Triggers Immune Invigoration in Multiple Myeloma	True
+GSM9228905	geo:GSE307661:GSM9228905	tissue_free_text	bone marrow	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228905	!Sample_characteristics_ch1 = tissue: Bone marrow trephine	True
+GSM9228905	geo:GSE307661:GSM9228905	tissue_free_text	bone marrow	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228905	!Sample_extract_protocol_ch1 = Bone marrow trephine sections (5 µm-thick) were taken for Xenium.	True
+GSM9228905	geo:GSE307661:GSM9228905	timepoint	screening	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228905	!Sample_title = MM00075, screening	True
+GSM9228905	geo:GSE307661:GSM9228905	treatment	Belantamab mafodotin	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228905	!Sample_treatment_protocol_ch1 = Multiple myeloma patients were treated with Belantamab Mafodotin. Bone marrow trephines were collected before and after the treatment.	True
+GSM9228905	geo:GSE307661:GSM9228905	tissue_type	tissue	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228905	!Sample_extract_protocol_ch1 = Bone marrow trephine sections (5 µm-thick) were taken for Xenium.	True
+GSM9228905	geo:GSE307661:GSM9228905	tissue_type	tissue	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228905	!Sample_characteristics_ch1 = tissue: Bone marrow trephine	True
+GSM9228905	geo:GSE307661:GSM9228905	treatment_status	pre-treatment	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228905	!Sample_characteristics_ch1 = subject status: pre-treatment	True
+GSM9228905	geo:GSE307661:GSM9228905	treatment_status	pre-treatment	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228905	!Sample_treatment_protocol_ch1 = Multiple myeloma patients were treated with Belantamab Mafodotin. Bone marrow trephines were collected before and after the treatment.	True
+GSM9228905	geo:GSE307661:GSM9228905	sample_collection_method	bone marrow trephine	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228905	!Sample_treatment_protocol_ch1 = Multiple myeloma patients were treated with Belantamab Mafodotin. Bone marrow trephines were collected before and after the treatment.	True
+GSM9228905	geo:GSE307661:GSM9228905	sample_collection_method	bone marrow trephine	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228905	!Sample_characteristics_ch1 = tissue: Bone marrow trephine	True
+GSM9228905	geo:GSE307661:GSM9228905	suspension_type	na	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228905	!Sample_extract_protocol_ch1 = Bone marrow trephine sections (5 µm-thick) were taken for Xenium.	True
+GSM9228905	geo:GSE307661:GSM9228905	suspension_type	na	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228905	Slides were processed on a 10x Xenium v1 platform (10X Genomics) including cell segmentation staining	True
+GSM9228905	geo:GSE307661:GSM9228905	assay	Xenium	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz		!Platform_title = Xenium In Situ Analyzer: Homo sapiens	True
+GSM9228905	geo:GSE307661:GSM9228905	assay	Xenium	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228905	!Sample_label_protocol_ch1 = Xenium samples were assessed with a 480-gene custom Xenium panel. Slides were processed on a 10x Xenium v1 platform (10X Genomics)	True
+GSM9228905	geo:GSE307661:GSM9228905	assay	Xenium	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228905	!Sample_label_ch1 = Xenium 480 custom panel	True
+GSM9228906	geo:GSE307661:GSM9228906	donor_id	MM00075	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228906	!Sample_characteristics_ch1 = subject id: MM00075	True
+GSM9228906	geo:GSE307661:GSM9228906	donor_id	MM00075	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228906	!Sample_title = MM00075, follow-up, remission	True
+GSM9228906	geo:GSE307661:GSM9228906	disease_free_text	multiple myeloma	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228906	!Sample_source_name_ch1 = multiple myeloma	True
+GSM9228906	geo:GSE307661:GSM9228906	disease_free_text	multiple myeloma	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228906	!Sample_treatment_protocol_ch1 = Multiple myeloma patients were treated with Belantamab Mafodotin. Bone marrow trephines were collected before and after the treatment.	True
+GSM9228906	geo:GSE307661:GSM9228906	disease_free_text	multiple myeloma	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz		!Series_title = Belantamab Mafodotin Triggers Immune Invigoration in Multiple Myeloma	True
+GSM9228906	geo:GSE307661:GSM9228906	tissue_free_text	bone marrow	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228906	!Sample_characteristics_ch1 = tissue: Bone marrow trephine	True
+GSM9228906	geo:GSE307661:GSM9228906	tissue_free_text	bone marrow	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228906	!Sample_extract_protocol_ch1 = Bone marrow trephine sections (5 µm-thick) were taken for Xenium.	True
+GSM9228906	geo:GSE307661:GSM9228906	response	remission	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228906	!Sample_characteristics_ch1 = subject status: remission on-treatment	True
+GSM9228906	geo:GSE307661:GSM9228906	response	remission	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228906	!Sample_title = MM00075, follow-up, remission	True
+GSM9228906	geo:GSE307661:GSM9228906	timepoint	follow-up	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228906	!Sample_title = MM00075, follow-up, remission	True
+GSM9228906	geo:GSE307661:GSM9228906	treatment	Belantamab mafodotin	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228906	!Sample_treatment_protocol_ch1 = Multiple myeloma patients were treated with Belantamab Mafodotin. Bone marrow trephines were collected before and after the treatment.	True
+GSM9228906	geo:GSE307661:GSM9228906	tissue_type	tissue	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228906	!Sample_extract_protocol_ch1 = Bone marrow trephine sections (5 µm-thick) were taken for Xenium.	True
+GSM9228906	geo:GSE307661:GSM9228906	tissue_type	tissue	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228906	!Sample_characteristics_ch1 = tissue: Bone marrow trephine	True
+GSM9228906	geo:GSE307661:GSM9228906	treatment_status	on-treatment	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228906	!Sample_characteristics_ch1 = subject status: remission on-treatment	True
+GSM9228906	geo:GSE307661:GSM9228906	treatment_status	on-treatment	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228906	!Sample_treatment_protocol_ch1 = Multiple myeloma patients were treated with Belantamab Mafodotin. Bone marrow trephines were collected before and after the treatment.	True
+GSM9228906	geo:GSE307661:GSM9228906	sample_collection_method	bone marrow trephine	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228906	!Sample_treatment_protocol_ch1 = Multiple myeloma patients were treated with Belantamab Mafodotin. Bone marrow trephines were collected before and after the treatment.	True
+GSM9228906	geo:GSE307661:GSM9228906	sample_collection_method	bone marrow trephine	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228906	!Sample_characteristics_ch1 = tissue: Bone marrow trephine	True
+GSM9228906	geo:GSE307661:GSM9228906	suspension_type	na	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228906	!Sample_extract_protocol_ch1 = Bone marrow trephine sections (5 µm-thick) were taken for Xenium.	True
+GSM9228906	geo:GSE307661:GSM9228906	suspension_type	na	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228906	Slides were processed on a 10x Xenium v1 platform (10X Genomics) including cell segmentation staining	True
+GSM9228906	geo:GSE307661:GSM9228906	assay	Xenium	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz		!Platform_title = Xenium In Situ Analyzer: Homo sapiens	True
+GSM9228906	geo:GSE307661:GSM9228906	assay	Xenium	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228906	!Sample_label_protocol_ch1 = Xenium samples were assessed with a 480-gene custom Xenium panel. Slides were processed on a 10x Xenium v1 platform (10X Genomics)	True
+GSM9228906	geo:GSE307661:GSM9228906	assay	Xenium	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228906	!Sample_label_ch1 = Xenium 480 custom panel	True
+GSM9228907	geo:GSE307661:GSM9228907	donor_id	MM00263	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228907	!Sample_characteristics_ch1 = subject id: MM00263	True
+GSM9228907	geo:GSE307661:GSM9228907	donor_id	MM00263	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228907	!Sample_title = MM00263, follow-up, active	True
+GSM9228907	geo:GSE307661:GSM9228907	disease_free_text	multiple myeloma	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228907	!Sample_source_name_ch1 = multiple myeloma	True
+GSM9228907	geo:GSE307661:GSM9228907	disease_free_text	multiple myeloma	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228907	!Sample_treatment_protocol_ch1 = Multiple myeloma patients were treated with Belantamab Mafodotin. Bone marrow trephines were collected before and after the treatment.	True
+GSM9228907	geo:GSE307661:GSM9228907	disease_free_text	multiple myeloma	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz		!Series_title = Belantamab Mafodotin Triggers Immune Invigoration in Multiple Myeloma	True
+GSM9228907	geo:GSE307661:GSM9228907	tissue_free_text	bone marrow	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228907	!Sample_characteristics_ch1 = tissue: Bone marrow trephine	True
+GSM9228907	geo:GSE307661:GSM9228907	tissue_free_text	bone marrow	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228907	!Sample_extract_protocol_ch1 = Bone marrow trephine sections (5 µm-thick) were taken for Xenium.	True
+GSM9228907	geo:GSE307661:GSM9228907	response	relapse	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228907	!Sample_characteristics_ch1 = subject status: relapse on-treatment	True
+GSM9228907	geo:GSE307661:GSM9228907	response	relapse	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228907	!Sample_title = MM00263, follow-up, active	True
+GSM9228907	geo:GSE307661:GSM9228907	timepoint	follow-up	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228907	!Sample_title = MM00263, follow-up, active	True
+GSM9228907	geo:GSE307661:GSM9228907	treatment	Belantamab mafodotin	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228907	!Sample_treatment_protocol_ch1 = Multiple myeloma patients were treated with Belantamab Mafodotin. Bone marrow trephines were collected before and after the treatment.	True
+GSM9228907	geo:GSE307661:GSM9228907	tissue_type	tissue	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228907	!Sample_extract_protocol_ch1 = Bone marrow trephine sections (5 µm-thick) were taken for Xenium.	True
+GSM9228907	geo:GSE307661:GSM9228907	tissue_type	tissue	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228907	!Sample_characteristics_ch1 = tissue: Bone marrow trephine	True
+GSM9228907	geo:GSE307661:GSM9228907	treatment_status	on-treatment	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228907	!Sample_characteristics_ch1 = subject status: relapse on-treatment	True
+GSM9228907	geo:GSE307661:GSM9228907	treatment_status	on-treatment	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228907	!Sample_treatment_protocol_ch1 = Multiple myeloma patients were treated with Belantamab Mafodotin. Bone marrow trephines were collected before and after the treatment.	True
+GSM9228907	geo:GSE307661:GSM9228907	sample_collection_method	bone marrow trephine	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228907	!Sample_treatment_protocol_ch1 = Multiple myeloma patients were treated with Belantamab Mafodotin. Bone marrow trephines were collected before and after the treatment.	True
+GSM9228907	geo:GSE307661:GSM9228907	sample_collection_method	bone marrow trephine	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228907	!Sample_characteristics_ch1 = tissue: Bone marrow trephine	True
+GSM9228907	geo:GSE307661:GSM9228907	suspension_type	na	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228907	!Sample_extract_protocol_ch1 = Bone marrow trephine sections (5 µm-thick) were taken for Xenium.	True
+GSM9228907	geo:GSE307661:GSM9228907	suspension_type	na	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228907	Slides were processed on a 10x Xenium v1 platform (10X Genomics) including cell segmentation staining	True
+GSM9228907	geo:GSE307661:GSM9228907	assay	Xenium	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz		!Platform_title = Xenium In Situ Analyzer: Homo sapiens	True
+GSM9228907	geo:GSE307661:GSM9228907	assay	Xenium	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228907	!Sample_label_protocol_ch1 = Xenium samples were assessed with a 480-gene custom Xenium panel. Slides were processed on a 10x Xenium v1 platform (10X Genomics)	True
+GSM9228907	geo:GSE307661:GSM9228907	assay	Xenium	file	raw/fp-0e7e1e518615/GSE307661_family.soft.gz	GSM9228907	!Sample_label_ch1 = Xenium 480 custom panel	True

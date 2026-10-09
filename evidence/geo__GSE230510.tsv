@@ -1,0 +1,177 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM7225655	geo:GSE230510:GSM7225655	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM7225655	geo:GSE230510:GSM7225655	assay_ontology_term_id	EFO:0030031	derived	ols:efo		GEXSCOPE	True
+GSM7225655	geo:GSE230510:GSM7225655	development_stage_ontology_term_id	HsapDv:0000153	derived	ols:hsapdv		59-year-old stage	True
+GSM7225655	geo:GSE230510:GSM7225655	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM7225656	geo:GSE230510:GSM7225656	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM7225656	geo:GSE230510:GSM7225656	assay_ontology_term_id	EFO:0030031	derived	ols:efo		GEXSCOPE	True
+GSM7225656	geo:GSE230510:GSM7225656	development_stage_ontology_term_id	HsapDv:0000153	derived	ols:hsapdv		59-year-old stage	True
+GSM7225657	geo:GSE230510:GSM7225657	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM7225657	geo:GSE230510:GSM7225657	assay_ontology_term_id	EFO:0030031	derived	ols:efo		GEXSCOPE	True
+GSM7225657	geo:GSE230510:GSM7225657	development_stage_ontology_term_id	HsapDv:0000153	derived	ols:hsapdv		59-year-old stage	True
+GSM7225660	geo:GSE230510:GSM7225660	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM7225660	geo:GSE230510:GSM7225660	assay_ontology_term_id	EFO:0030031	derived	ols:efo		GEXSCOPE	True
+GSM7225660	geo:GSE230510:GSM7225660	development_stage_ontology_term_id	HsapDv:0000150	derived	ols:hsapdv		56-year-old stage	True
+GSM7225660	geo:GSE230510:GSM7225660	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM7225661	geo:GSE230510:GSM7225661	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM7225661	geo:GSE230510:GSM7225661	assay_ontology_term_id	EFO:0030031	derived	ols:efo		GEXSCOPE	True
+GSM7225661	geo:GSE230510:GSM7225661	development_stage_ontology_term_id	HsapDv:0000150	derived	ols:hsapdv		56-year-old stage	True
+GSM7225662	geo:GSE230510:GSM7225662	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM7225662	geo:GSE230510:GSM7225662	assay_ontology_term_id	EFO:0030031	derived	ols:efo		GEXSCOPE	True
+GSM7225662	geo:GSE230510:GSM7225662	development_stage_ontology_term_id	HsapDv:0000150	derived	ols:hsapdv		56-year-old stage	True
+		organism	Homo sapiens	file	raw/fp-fce978bfab4d/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+		organism	Homo sapiens	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7225655	geo:GSE230510:GSM7225655	donor_id	MM01	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_title = MM01-BM !Sample_geo_accession = GSM7225655	True
+GSM7225655	geo:GSE230510:GSM7225655	donor_id	MM01	file	evidence/PMC10407129.txt		MM01 59 F Pleural	True
+GSM7225655	geo:GSE230510:GSM7225655	tissue_free_text	bone marrow	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_title = MM01-BM !Sample_geo_accession = GSM7225655	True
+GSM7225655	geo:GSE230510:GSM7225655	tissue_free_text	bone marrow	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7225655	geo:GSE230510:GSM7225655	disease_free_text	multiple myeloma	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		Myelomatous effusion (ME) is a rare manifestion of extramedullary multiple myeloma (MM)	True
+GSM7225655	geo:GSE230510:GSM7225655	disease_free_text	multiple myeloma	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		from three patients with ME	True
+GSM7225655	geo:GSE230510:GSM7225655	disease_free_text	multiple myeloma	file	evidence/PMC10407129.txt		collected from 3 patients with MM with ME	True
+GSM7225655	geo:GSE230510:GSM7225655	disease_free_text	multiple myeloma	file	evidence/PMC10407129.txt		3 patients with MM who relapsed with ME	True
+GSM7225655	geo:GSE230510:GSM7225655	disease_ontology_term_id	MONDO:0009693	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		Myelomatous effusion (ME) is a rare manifestion of extramedullary multiple myeloma (MM)	True
+GSM7225655	geo:GSE230510:GSM7225655	disease_ontology_term_id	MONDO:0009693	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		from three patients with ME	True
+GSM7225655	geo:GSE230510:GSM7225655	disease_ontology_term_id	MONDO:0009693	file	evidence/PMC10407129.txt		collected from 3 patients with MM with ME	True
+GSM7225655	geo:GSE230510:GSM7225655	disease_ontology_term_id	MONDO:0009693	file	evidence/PMC10407129.txt		3 patients with MM who relapsed with ME	True
+GSM7225655	geo:GSE230510:GSM7225655	sex	female	file	evidence/PMC10407129.txt		No. Age Sex ME site	True
+GSM7225655	geo:GSE230510:GSM7225655	sex	female	file	evidence/PMC10407129.txt		MM01 59 F Pleural	True
+GSM7225655	geo:GSE230510:GSM7225655	sex	female	file	evidence/PMC10407129.txt		F, female	True
+GSM7225655	geo:GSE230510:GSM7225655	development_stage	59-year-old stage	file	evidence/PMC10407129.txt		No. Age Sex ME site	True
+GSM7225655	geo:GSE230510:GSM7225655	development_stage	59-year-old stage	file	evidence/PMC10407129.txt		MM01 59 F Pleural	True
+GSM7225655	geo:GSE230510:GSM7225655	assay	GEXSCOPE	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_description = GEXSCOPE	True
+GSM7225655	geo:GSE230510:GSM7225655	assay	GEXSCOPE	file	evidence/PMC10407129.txt		scRNA-seq libraries were constructed using a GEXSCOPE Single-Cell RNA Library Kit	True
+GSM7225655	geo:GSE230510:GSM7225655	assay	GEXSCOPE	file	evidence/PMC10407129.txt		Six samples from GEXSCOPE (MM01-ME, MM01-PB, MM01-BM, MM03-BM, MM03-ME, and MM03-PB)	True
+GSM7225655	geo:GSE230510:GSM7225655	suspension_type	cell	file	evidence/PMC10407129.txt		Cells were loaded onto a microfluidic chip	True
+GSM7225655	geo:GSE230510:GSM7225655	tissue_type	tissue	file	evidence/PMC10407129.txt		Primary BM, PB, and pleural effusion/ascites samples were collected from 3 patients with MM with ME	True
+GSM7225655	geo:GSE230510:GSM7225655	gene_annotation_version	Ensembl 92 (GRCh38)	file	evidence/PMC10407129.txt		mapped to the reference genome GRCH38 (Ensembl version 92)	True
+GSM7225655	geo:GSE230510:GSM7225655	gene_annotation_version	Ensembl 92 (GRCh38)	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		GRCh38 (ensembl version 92 annotation)	True
+GSM7225656	geo:GSE230510:GSM7225656	donor_id	MM01	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_title = MM01-PB !Sample_geo_accession = GSM7225656	True
+GSM7225656	geo:GSE230510:GSM7225656	donor_id	MM01	file	evidence/PMC10407129.txt		MM01 59 F Pleural	True
+GSM7225656	geo:GSE230510:GSM7225656	tissue_free_text	peripheral blood	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_title = MM01-PB !Sample_geo_accession = GSM7225656	True
+GSM7225656	geo:GSE230510:GSM7225656	tissue_free_text	peripheral blood	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_characteristics_ch1 = tissue: peripheral blood	True
+GSM7225656	geo:GSE230510:GSM7225656	disease_free_text	multiple myeloma	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		Myelomatous effusion (ME) is a rare manifestion of extramedullary multiple myeloma (MM)	True
+GSM7225656	geo:GSE230510:GSM7225656	disease_free_text	multiple myeloma	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		from three patients with ME	True
+GSM7225656	geo:GSE230510:GSM7225656	disease_free_text	multiple myeloma	file	evidence/PMC10407129.txt		collected from 3 patients with MM with ME	True
+GSM7225656	geo:GSE230510:GSM7225656	disease_free_text	multiple myeloma	file	evidence/PMC10407129.txt		3 patients with MM who relapsed with ME	True
+GSM7225656	geo:GSE230510:GSM7225656	disease_ontology_term_id	MONDO:0009693	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		Myelomatous effusion (ME) is a rare manifestion of extramedullary multiple myeloma (MM)	True
+GSM7225656	geo:GSE230510:GSM7225656	disease_ontology_term_id	MONDO:0009693	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		from three patients with ME	True
+GSM7225656	geo:GSE230510:GSM7225656	disease_ontology_term_id	MONDO:0009693	file	evidence/PMC10407129.txt		collected from 3 patients with MM with ME	True
+GSM7225656	geo:GSE230510:GSM7225656	disease_ontology_term_id	MONDO:0009693	file	evidence/PMC10407129.txt		3 patients with MM who relapsed with ME	True
+GSM7225656	geo:GSE230510:GSM7225656	sex	female	file	evidence/PMC10407129.txt		No. Age Sex ME site	True
+GSM7225656	geo:GSE230510:GSM7225656	sex	female	file	evidence/PMC10407129.txt		MM01 59 F Pleural	True
+GSM7225656	geo:GSE230510:GSM7225656	sex	female	file	evidence/PMC10407129.txt		F, female	True
+GSM7225656	geo:GSE230510:GSM7225656	development_stage	59-year-old stage	file	evidence/PMC10407129.txt		No. Age Sex ME site	True
+GSM7225656	geo:GSE230510:GSM7225656	development_stage	59-year-old stage	file	evidence/PMC10407129.txt		MM01 59 F Pleural	True
+GSM7225656	geo:GSE230510:GSM7225656	assay	GEXSCOPE	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_description = GEXSCOPE	True
+GSM7225656	geo:GSE230510:GSM7225656	assay	GEXSCOPE	file	evidence/PMC10407129.txt		scRNA-seq libraries were constructed using a GEXSCOPE Single-Cell RNA Library Kit	True
+GSM7225656	geo:GSE230510:GSM7225656	assay	GEXSCOPE	file	evidence/PMC10407129.txt		Six samples from GEXSCOPE (MM01-ME, MM01-PB, MM01-BM, MM03-BM, MM03-ME, and MM03-PB)	True
+GSM7225656	geo:GSE230510:GSM7225656	suspension_type	cell	file	evidence/PMC10407129.txt		Cells were loaded onto a microfluidic chip	True
+GSM7225656	geo:GSE230510:GSM7225656	tissue_type	tissue	file	evidence/PMC10407129.txt		Primary BM, PB, and pleural effusion/ascites samples were collected from 3 patients with MM with ME	True
+GSM7225656	geo:GSE230510:GSM7225656	gene_annotation_version	Ensembl 92 (GRCh38)	file	evidence/PMC10407129.txt		mapped to the reference genome GRCH38 (Ensembl version 92)	True
+GSM7225656	geo:GSE230510:GSM7225656	gene_annotation_version	Ensembl 92 (GRCh38)	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		GRCh38 (ensembl version 92 annotation)	True
+GSM7225656	geo:GSE230510:GSM7225656	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_characteristics_ch1 = tissue: peripheral blood	True
+GSM7225657	geo:GSE230510:GSM7225657	donor_id	MM01	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_title = MM01-ME !Sample_geo_accession = GSM7225657	True
+GSM7225657	geo:GSE230510:GSM7225657	donor_id	MM01	file	evidence/PMC10407129.txt		MM01 59 F Pleural	True
+GSM7225657	geo:GSE230510:GSM7225657	tissue_free_text	myelomatous effusion	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_title = MM01-ME !Sample_geo_accession = GSM7225657	True
+GSM7225657	geo:GSE230510:GSM7225657	tissue_free_text	myelomatous effusion	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_characteristics_ch1 = tissue: myelomatous effusion	True
+GSM7225657	geo:GSE230510:GSM7225657	disease_free_text	multiple myeloma	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		Myelomatous effusion (ME) is a rare manifestion of extramedullary multiple myeloma (MM)	True
+GSM7225657	geo:GSE230510:GSM7225657	disease_free_text	multiple myeloma	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		from three patients with ME	True
+GSM7225657	geo:GSE230510:GSM7225657	disease_free_text	multiple myeloma	file	evidence/PMC10407129.txt		collected from 3 patients with MM with ME	True
+GSM7225657	geo:GSE230510:GSM7225657	disease_free_text	multiple myeloma	file	evidence/PMC10407129.txt		3 patients with MM who relapsed with ME	True
+GSM7225657	geo:GSE230510:GSM7225657	disease_ontology_term_id	MONDO:0009693	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		Myelomatous effusion (ME) is a rare manifestion of extramedullary multiple myeloma (MM)	True
+GSM7225657	geo:GSE230510:GSM7225657	disease_ontology_term_id	MONDO:0009693	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		from three patients with ME	True
+GSM7225657	geo:GSE230510:GSM7225657	disease_ontology_term_id	MONDO:0009693	file	evidence/PMC10407129.txt		collected from 3 patients with MM with ME	True
+GSM7225657	geo:GSE230510:GSM7225657	disease_ontology_term_id	MONDO:0009693	file	evidence/PMC10407129.txt		3 patients with MM who relapsed with ME	True
+GSM7225657	geo:GSE230510:GSM7225657	sex	female	file	evidence/PMC10407129.txt		No. Age Sex ME site	True
+GSM7225657	geo:GSE230510:GSM7225657	sex	female	file	evidence/PMC10407129.txt		MM01 59 F Pleural	True
+GSM7225657	geo:GSE230510:GSM7225657	sex	female	file	evidence/PMC10407129.txt		F, female	True
+GSM7225657	geo:GSE230510:GSM7225657	development_stage	59-year-old stage	file	evidence/PMC10407129.txt		No. Age Sex ME site	True
+GSM7225657	geo:GSE230510:GSM7225657	development_stage	59-year-old stage	file	evidence/PMC10407129.txt		MM01 59 F Pleural	True
+GSM7225657	geo:GSE230510:GSM7225657	assay	GEXSCOPE	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_description = GEXSCOPE	True
+GSM7225657	geo:GSE230510:GSM7225657	assay	GEXSCOPE	file	evidence/PMC10407129.txt		scRNA-seq libraries were constructed using a GEXSCOPE Single-Cell RNA Library Kit	True
+GSM7225657	geo:GSE230510:GSM7225657	assay	GEXSCOPE	file	evidence/PMC10407129.txt		Six samples from GEXSCOPE (MM01-ME, MM01-PB, MM01-BM, MM03-BM, MM03-ME, and MM03-PB)	True
+GSM7225657	geo:GSE230510:GSM7225657	suspension_type	cell	file	evidence/PMC10407129.txt		Cells were loaded onto a microfluidic chip	True
+GSM7225657	geo:GSE230510:GSM7225657	tissue_type	tissue	file	evidence/PMC10407129.txt		Primary BM, PB, and pleural effusion/ascites samples were collected from 3 patients with MM with ME	True
+GSM7225657	geo:GSE230510:GSM7225657	gene_annotation_version	Ensembl 92 (GRCh38)	file	evidence/PMC10407129.txt		mapped to the reference genome GRCH38 (Ensembl version 92)	True
+GSM7225657	geo:GSE230510:GSM7225657	gene_annotation_version	Ensembl 92 (GRCh38)	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		GRCh38 (ensembl version 92 annotation)	True
+GSM7225657	geo:GSE230510:GSM7225657	tissue_ontology_term_id	UBERON:0000175	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_characteristics_ch1 = tissue: myelomatous effusion	True
+GSM7225657	geo:GSE230510:GSM7225657	tissue_ontology_term_id	UBERON:0000175	file	evidence/PMC10407129.txt		No. Age Sex ME site	True
+GSM7225657	geo:GSE230510:GSM7225657	tissue_ontology_term_id	UBERON:0000175	file	evidence/PMC10407129.txt		MM01 59 F Pleural	True
+GSM7225657	geo:GSE230510:GSM7225657	tissue_ontology_term_id	UBERON:0000175	file	evidence/PMC10407129.txt		Primary BM, PB, and pleural effusion/ascites samples were collected	True
+GSM7225660	geo:GSE230510:GSM7225660	donor_id	MM03	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_title = MM03-BM !Sample_geo_accession = GSM7225660	True
+GSM7225660	geo:GSE230510:GSM7225660	donor_id	MM03	file	evidence/PMC10407129.txt		MM03 56 M Peritoneal	True
+GSM7225660	geo:GSE230510:GSM7225660	tissue_free_text	bone marrow	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_title = MM03-BM !Sample_geo_accession = GSM7225660	True
+GSM7225660	geo:GSE230510:GSM7225660	tissue_free_text	bone marrow	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM7225660	geo:GSE230510:GSM7225660	disease_free_text	multiple myeloma	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		Myelomatous effusion (ME) is a rare manifestion of extramedullary multiple myeloma (MM)	True
+GSM7225660	geo:GSE230510:GSM7225660	disease_free_text	multiple myeloma	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		from three patients with ME	True
+GSM7225660	geo:GSE230510:GSM7225660	disease_free_text	multiple myeloma	file	evidence/PMC10407129.txt		collected from 3 patients with MM with ME	True
+GSM7225660	geo:GSE230510:GSM7225660	disease_free_text	multiple myeloma	file	evidence/PMC10407129.txt		3 patients with MM who relapsed with ME	True
+GSM7225660	geo:GSE230510:GSM7225660	disease_ontology_term_id	MONDO:0009693	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		Myelomatous effusion (ME) is a rare manifestion of extramedullary multiple myeloma (MM)	True
+GSM7225660	geo:GSE230510:GSM7225660	disease_ontology_term_id	MONDO:0009693	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		from three patients with ME	True
+GSM7225660	geo:GSE230510:GSM7225660	disease_ontology_term_id	MONDO:0009693	file	evidence/PMC10407129.txt		collected from 3 patients with MM with ME	True
+GSM7225660	geo:GSE230510:GSM7225660	disease_ontology_term_id	MONDO:0009693	file	evidence/PMC10407129.txt		3 patients with MM who relapsed with ME	True
+GSM7225660	geo:GSE230510:GSM7225660	sex	male	file	evidence/PMC10407129.txt		No. Age Sex ME site	True
+GSM7225660	geo:GSE230510:GSM7225660	sex	male	file	evidence/PMC10407129.txt		MM03 56 M Peritoneal	True
+GSM7225660	geo:GSE230510:GSM7225660	sex	male	file	evidence/PMC10407129.txt		M, male	True
+GSM7225660	geo:GSE230510:GSM7225660	development_stage	56-year-old stage	file	evidence/PMC10407129.txt		No. Age Sex ME site	True
+GSM7225660	geo:GSE230510:GSM7225660	development_stage	56-year-old stage	file	evidence/PMC10407129.txt		MM03 56 M Peritoneal	True
+GSM7225660	geo:GSE230510:GSM7225660	assay	GEXSCOPE	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_description = GEXSCOPE	True
+GSM7225660	geo:GSE230510:GSM7225660	assay	GEXSCOPE	file	evidence/PMC10407129.txt		scRNA-seq libraries were constructed using a GEXSCOPE Single-Cell RNA Library Kit	True
+GSM7225660	geo:GSE230510:GSM7225660	assay	GEXSCOPE	file	evidence/PMC10407129.txt		Six samples from GEXSCOPE (MM01-ME, MM01-PB, MM01-BM, MM03-BM, MM03-ME, and MM03-PB)	True
+GSM7225660	geo:GSE230510:GSM7225660	suspension_type	cell	file	evidence/PMC10407129.txt		Cells were loaded onto a microfluidic chip	True
+GSM7225660	geo:GSE230510:GSM7225660	tissue_type	tissue	file	evidence/PMC10407129.txt		Primary BM, PB, and pleural effusion/ascites samples were collected from 3 patients with MM with ME	True
+GSM7225660	geo:GSE230510:GSM7225660	gene_annotation_version	Ensembl 92 (GRCh38)	file	evidence/PMC10407129.txt		mapped to the reference genome GRCH38 (Ensembl version 92)	True
+GSM7225660	geo:GSE230510:GSM7225660	gene_annotation_version	Ensembl 92 (GRCh38)	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		GRCh38 (ensembl version 92 annotation)	True
+GSM7225661	geo:GSE230510:GSM7225661	donor_id	MM03	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_title = MM03-PB !Sample_geo_accession = GSM7225661	True
+GSM7225661	geo:GSE230510:GSM7225661	donor_id	MM03	file	evidence/PMC10407129.txt		MM03 56 M Peritoneal	True
+GSM7225661	geo:GSE230510:GSM7225661	tissue_free_text	peripheral blood	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_title = MM03-PB !Sample_geo_accession = GSM7225661	True
+GSM7225661	geo:GSE230510:GSM7225661	tissue_free_text	peripheral blood	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_characteristics_ch1 = tissue: peripheral blood	True
+GSM7225661	geo:GSE230510:GSM7225661	disease_free_text	multiple myeloma	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		Myelomatous effusion (ME) is a rare manifestion of extramedullary multiple myeloma (MM)	True
+GSM7225661	geo:GSE230510:GSM7225661	disease_free_text	multiple myeloma	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		from three patients with ME	True
+GSM7225661	geo:GSE230510:GSM7225661	disease_free_text	multiple myeloma	file	evidence/PMC10407129.txt		collected from 3 patients with MM with ME	True
+GSM7225661	geo:GSE230510:GSM7225661	disease_free_text	multiple myeloma	file	evidence/PMC10407129.txt		3 patients with MM who relapsed with ME	True
+GSM7225661	geo:GSE230510:GSM7225661	disease_ontology_term_id	MONDO:0009693	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		Myelomatous effusion (ME) is a rare manifestion of extramedullary multiple myeloma (MM)	True
+GSM7225661	geo:GSE230510:GSM7225661	disease_ontology_term_id	MONDO:0009693	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		from three patients with ME	True
+GSM7225661	geo:GSE230510:GSM7225661	disease_ontology_term_id	MONDO:0009693	file	evidence/PMC10407129.txt		collected from 3 patients with MM with ME	True
+GSM7225661	geo:GSE230510:GSM7225661	disease_ontology_term_id	MONDO:0009693	file	evidence/PMC10407129.txt		3 patients with MM who relapsed with ME	True
+GSM7225661	geo:GSE230510:GSM7225661	sex	male	file	evidence/PMC10407129.txt		No. Age Sex ME site	True
+GSM7225661	geo:GSE230510:GSM7225661	sex	male	file	evidence/PMC10407129.txt		MM03 56 M Peritoneal	True
+GSM7225661	geo:GSE230510:GSM7225661	sex	male	file	evidence/PMC10407129.txt		M, male	True
+GSM7225661	geo:GSE230510:GSM7225661	development_stage	56-year-old stage	file	evidence/PMC10407129.txt		No. Age Sex ME site	True
+GSM7225661	geo:GSE230510:GSM7225661	development_stage	56-year-old stage	file	evidence/PMC10407129.txt		MM03 56 M Peritoneal	True
+GSM7225661	geo:GSE230510:GSM7225661	assay	GEXSCOPE	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_description = GEXSCOPE	True
+GSM7225661	geo:GSE230510:GSM7225661	assay	GEXSCOPE	file	evidence/PMC10407129.txt		scRNA-seq libraries were constructed using a GEXSCOPE Single-Cell RNA Library Kit	True
+GSM7225661	geo:GSE230510:GSM7225661	assay	GEXSCOPE	file	evidence/PMC10407129.txt		Six samples from GEXSCOPE (MM01-ME, MM01-PB, MM01-BM, MM03-BM, MM03-ME, and MM03-PB)	True
+GSM7225661	geo:GSE230510:GSM7225661	suspension_type	cell	file	evidence/PMC10407129.txt		Cells were loaded onto a microfluidic chip	True
+GSM7225661	geo:GSE230510:GSM7225661	tissue_type	tissue	file	evidence/PMC10407129.txt		Primary BM, PB, and pleural effusion/ascites samples were collected from 3 patients with MM with ME	True
+GSM7225661	geo:GSE230510:GSM7225661	gene_annotation_version	Ensembl 92 (GRCh38)	file	evidence/PMC10407129.txt		mapped to the reference genome GRCH38 (Ensembl version 92)	True
+GSM7225661	geo:GSE230510:GSM7225661	gene_annotation_version	Ensembl 92 (GRCh38)	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		GRCh38 (ensembl version 92 annotation)	True
+GSM7225661	geo:GSE230510:GSM7225661	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_characteristics_ch1 = tissue: peripheral blood	True
+GSM7225662	geo:GSE230510:GSM7225662	donor_id	MM03	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_title = MM03-ME !Sample_geo_accession = GSM7225662	True
+GSM7225662	geo:GSE230510:GSM7225662	donor_id	MM03	file	evidence/PMC10407129.txt		MM03 56 M Peritoneal	True
+GSM7225662	geo:GSE230510:GSM7225662	tissue_free_text	myelomatous effusion	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_title = MM03-ME !Sample_geo_accession = GSM7225662	True
+GSM7225662	geo:GSE230510:GSM7225662	tissue_free_text	myelomatous effusion	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_characteristics_ch1 = tissue: myelomatous effusion	True
+GSM7225662	geo:GSE230510:GSM7225662	disease_free_text	multiple myeloma	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		Myelomatous effusion (ME) is a rare manifestion of extramedullary multiple myeloma (MM)	True
+GSM7225662	geo:GSE230510:GSM7225662	disease_free_text	multiple myeloma	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		from three patients with ME	True
+GSM7225662	geo:GSE230510:GSM7225662	disease_free_text	multiple myeloma	file	evidence/PMC10407129.txt		collected from 3 patients with MM with ME	True
+GSM7225662	geo:GSE230510:GSM7225662	disease_free_text	multiple myeloma	file	evidence/PMC10407129.txt		3 patients with MM who relapsed with ME	True
+GSM7225662	geo:GSE230510:GSM7225662	disease_ontology_term_id	MONDO:0009693	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		Myelomatous effusion (ME) is a rare manifestion of extramedullary multiple myeloma (MM)	True
+GSM7225662	geo:GSE230510:GSM7225662	disease_ontology_term_id	MONDO:0009693	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		from three patients with ME	True
+GSM7225662	geo:GSE230510:GSM7225662	disease_ontology_term_id	MONDO:0009693	file	evidence/PMC10407129.txt		collected from 3 patients with MM with ME	True
+GSM7225662	geo:GSE230510:GSM7225662	disease_ontology_term_id	MONDO:0009693	file	evidence/PMC10407129.txt		3 patients with MM who relapsed with ME	True
+GSM7225662	geo:GSE230510:GSM7225662	sex	male	file	evidence/PMC10407129.txt		No. Age Sex ME site	True
+GSM7225662	geo:GSE230510:GSM7225662	sex	male	file	evidence/PMC10407129.txt		MM03 56 M Peritoneal	True
+GSM7225662	geo:GSE230510:GSM7225662	sex	male	file	evidence/PMC10407129.txt		M, male	True
+GSM7225662	geo:GSE230510:GSM7225662	development_stage	56-year-old stage	file	evidence/PMC10407129.txt		No. Age Sex ME site	True
+GSM7225662	geo:GSE230510:GSM7225662	development_stage	56-year-old stage	file	evidence/PMC10407129.txt		MM03 56 M Peritoneal	True
+GSM7225662	geo:GSE230510:GSM7225662	assay	GEXSCOPE	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_description = GEXSCOPE	True
+GSM7225662	geo:GSE230510:GSM7225662	assay	GEXSCOPE	file	evidence/PMC10407129.txt		scRNA-seq libraries were constructed using a GEXSCOPE Single-Cell RNA Library Kit	True
+GSM7225662	geo:GSE230510:GSM7225662	assay	GEXSCOPE	file	evidence/PMC10407129.txt		Six samples from GEXSCOPE (MM01-ME, MM01-PB, MM01-BM, MM03-BM, MM03-ME, and MM03-PB)	True
+GSM7225662	geo:GSE230510:GSM7225662	suspension_type	cell	file	evidence/PMC10407129.txt		Cells were loaded onto a microfluidic chip	True
+GSM7225662	geo:GSE230510:GSM7225662	tissue_type	tissue	file	evidence/PMC10407129.txt		Primary BM, PB, and pleural effusion/ascites samples were collected from 3 patients with MM with ME	True
+GSM7225662	geo:GSE230510:GSM7225662	gene_annotation_version	Ensembl 92 (GRCh38)	file	evidence/PMC10407129.txt		mapped to the reference genome GRCH38 (Ensembl version 92)	True
+GSM7225662	geo:GSE230510:GSM7225662	gene_annotation_version	Ensembl 92 (GRCh38)	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		GRCh38 (ensembl version 92 annotation)	True
+GSM7225662	geo:GSE230510:GSM7225662	tissue_ontology_term_id	UBERON:0007795	file	raw/fp-fce978bfab4d/GSE230510_family.soft.gz		!Sample_characteristics_ch1 = tissue: myelomatous effusion	True
+GSM7225662	geo:GSE230510:GSM7225662	tissue_ontology_term_id	UBERON:0007795	file	evidence/PMC10407129.txt		No. Age Sex ME site	True
+GSM7225662	geo:GSE230510:GSM7225662	tissue_ontology_term_id	UBERON:0007795	file	evidence/PMC10407129.txt		MM03 56 M Peritoneal	True
+GSM7225662	geo:GSE230510:GSM7225662	tissue_ontology_term_id	UBERON:0007795	file	evidence/PMC10407129.txt		Primary BM, PB, and pleural effusion/ascites samples were collected	True

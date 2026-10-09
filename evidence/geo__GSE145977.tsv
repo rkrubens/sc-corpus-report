@@ -1,0 +1,969 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM3528754	geo:GSE145977:GSM3528754	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3528754	geo:GSE145977:GSM3528754	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528754	geo:GSE145977:GSM3528754	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528754_MGUS-1.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528756	geo:GSE145977:GSM3528756	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3528756	geo:GSE145977:GSM3528756	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528756	geo:GSE145977:GSM3528756	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528756_MGUS-2.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528758	geo:GSE145977:GSM3528758	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM3528758	geo:GSE145977:GSM3528758	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528758	geo:GSE145977:GSM3528758	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528758_MGUS-3.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528760	geo:GSE145977:GSM3528760	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM3528760	geo:GSE145977:GSM3528760	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528760	geo:GSE145977:GSM3528760	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528760_MGUS-4.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528761	geo:GSE145977:GSM3528761	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM3528761	geo:GSE145977:GSM3528761	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528761	geo:GSE145977:GSM3528761	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528761_MGUS-5.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528763	geo:GSE145977:GSM3528763	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM3528763	geo:GSE145977:GSM3528763	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528763	geo:GSE145977:GSM3528763	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528763_MGUS-6.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528765	geo:GSE145977:GSM3528765	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3528765	geo:GSE145977:GSM3528765	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528765	geo:GSE145977:GSM3528765	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528765_MM-1.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528766	geo:GSE145977:GSM3528766	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3528766	geo:GSE145977:GSM3528766	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528766	geo:GSE145977:GSM3528766	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528766_MM-2.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528768	geo:GSE145977:GSM3528768	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3528768	geo:GSE145977:GSM3528768	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528768	geo:GSE145977:GSM3528768	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528768_MM-3.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528770	geo:GSE145977:GSM3528770	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3528770	geo:GSE145977:GSM3528770	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528770	geo:GSE145977:GSM3528770	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528770_MM-4.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528772	geo:GSE145977:GSM3528772	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3528772	geo:GSE145977:GSM3528772	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528772	geo:GSE145977:GSM3528772	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528772_MM-5.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528774	geo:GSE145977:GSM3528774	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM3528774	geo:GSE145977:GSM3528774	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528774	geo:GSE145977:GSM3528774	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528774_MM-6.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528776	geo:GSE145977:GSM3528776	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM3528776	geo:GSE145977:GSM3528776	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528776	geo:GSE145977:GSM3528776	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528776_MM-7.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528778	geo:GSE145977:GSM3528778	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3528778	geo:GSE145977:GSM3528778	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528778	geo:GSE145977:GSM3528778	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528778_MM-8.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528780	geo:GSE145977:GSM3528780	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM3528780	geo:GSE145977:GSM3528780	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528780	geo:GSE145977:GSM3528780	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528780_NBM-1.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528782	geo:GSE145977:GSM3528782	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3528782	geo:GSE145977:GSM3528782	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528782	geo:GSE145977:GSM3528782	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528782_NBM-10.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528784	geo:GSE145977:GSM3528784	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3528784	geo:GSE145977:GSM3528784	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528784	geo:GSE145977:GSM3528784	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528784_NBM-11.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528786	geo:GSE145977:GSM3528786	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3528786	geo:GSE145977:GSM3528786	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528786	geo:GSE145977:GSM3528786	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528786_NBM-2.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528788	geo:GSE145977:GSM3528788	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3528788	geo:GSE145977:GSM3528788	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528788	geo:GSE145977:GSM3528788	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528788_NBM-3.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528790	geo:GSE145977:GSM3528790	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM3528790	geo:GSE145977:GSM3528790	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528790	geo:GSE145977:GSM3528790	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528790_NBM-4.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528792	geo:GSE145977:GSM3528792	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3528792	geo:GSE145977:GSM3528792	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528792	geo:GSE145977:GSM3528792	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528792_NBM-6.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528793	geo:GSE145977:GSM3528793	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3528793	geo:GSE145977:GSM3528793	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528793	geo:GSE145977:GSM3528793	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528793_NBM-7.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528795	geo:GSE145977:GSM3528795	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM3528795	geo:GSE145977:GSM3528795	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528795	geo:GSE145977:GSM3528795	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528795_NBM-8.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528797	geo:GSE145977:GSM3528797	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3528797	geo:GSE145977:GSM3528797	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528797	geo:GSE145977:GSM3528797	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528797_SMMh-1.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528799	geo:GSE145977:GSM3528799	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM3528799	geo:GSE145977:GSM3528799	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528799	geo:GSE145977:GSM3528799	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528799_SMMh-10.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528801	geo:GSE145977:GSM3528801	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM3528801	geo:GSE145977:GSM3528801	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528801	geo:GSE145977:GSM3528801	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528801_SMMh-2.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528803	geo:GSE145977:GSM3528803	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3528803	geo:GSE145977:GSM3528803	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528803	geo:GSE145977:GSM3528803	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528803_SMMh-3.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528805	geo:GSE145977:GSM3528805	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM3528805	geo:GSE145977:GSM3528805	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528805	geo:GSE145977:GSM3528805	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528805_SMMh-4.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528806	geo:GSE145977:GSM3528806	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3528806	geo:GSE145977:GSM3528806	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528806	geo:GSE145977:GSM3528806	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528806_SMMh-5.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528808	geo:GSE145977:GSM3528808	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3528808	geo:GSE145977:GSM3528808	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528808	geo:GSE145977:GSM3528808	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528808_SMMh-6.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528811	geo:GSE145977:GSM3528811	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3528811	geo:GSE145977:GSM3528811	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528811	geo:GSE145977:GSM3528811	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528811_SMMh-8.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528813	geo:GSE145977:GSM3528813	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3528813	geo:GSE145977:GSM3528813	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528813	geo:GSE145977:GSM3528813	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528813_SMMh-9.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528815	geo:GSE145977:GSM3528815	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3528815	geo:GSE145977:GSM3528815	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528815	geo:GSE145977:GSM3528815	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528815_SMMl-1.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528817	geo:GSE145977:GSM3528817	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM3528817	geo:GSE145977:GSM3528817	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528817	geo:GSE145977:GSM3528817	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528817_SMMl-2.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+GSM3528819	geo:GSE145977:GSM3528819	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3528819	geo:GSE145977:GSM3528819	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528819	geo:GSE145977:GSM3528819	author_cell_type	<column boiarsky2022_normal_or_neoplastic>	column	work/fp-9cb0b1a51894/boiarsky2022_st4/GSM3528819_SMMl-3.138P.tsv/boiarsky2022_normal_or_neoplastic			True
+		organism	Homo sapiens	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM3528754	geo:GSE145977:GSM3528754	donor_id	MGUS-1	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAAGCAATCCGCATAA-1-MGUS-1.138P MGUS-1 MGUS	True
+GSM3528754	geo:GSE145977:GSM3528754	donor_id	MGUS-1	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MGUS-1 80-89 MGUS male	True
+GSM3528754	geo:GSE145977:GSM3528754	donor_id	MGUS-1	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528754	geo:GSE145977:GSM3528754	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAAGCAATCCGCATAA-1-MGUS-1.138P MGUS-1 MGUS	True
+GSM3528754	geo:GSE145977:GSM3528754	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MGUS-1 80-89 MGUS male	True
+GSM3528754	geo:GSE145977:GSM3528754	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528754	geo:GSE145977:GSM3528754	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528754	geo:GSE145977:GSM3528754	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528754	geo:GSE145977:GSM3528754	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528754	geo:GSE145977:GSM3528754	disease_free_text	Monoclonal Gammopathy of Undetermined Significance	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MGUS sample 1, 138P fraction	True
+GSM3528754	geo:GSE145977:GSM3528754	disease_free_text	Monoclonal Gammopathy of Undetermined Significance	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Monoclonal Gammopathy of Undetermined Significance	True
+GSM3528754	geo:GSE145977:GSM3528754	disease_ontology_term_id	MONDO:0004225	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MGUS sample 1, 138P fraction	True
+GSM3528754	geo:GSE145977:GSM3528754	disease_ontology_term_id	MONDO:0004225	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Monoclonal Gammopathy of Undetermined Significance	True
+GSM3528754	geo:GSE145977:GSM3528754	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528754	geo:GSE145977:GSM3528754	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528754	geo:GSE145977:GSM3528754	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528754	geo:GSE145977:GSM3528754	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528754	geo:GSE145977:GSM3528754	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MGUS-1 138P frozen batch 6	True
+GSM3528754	geo:GSE145977:GSM3528754	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528754	geo:GSE145977:GSM3528754	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528754	geo:GSE145977:GSM3528754	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528754	geo:GSE145977:GSM3528754	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAAGCAATCCGCATAA-1-MGUS-1.138P MGUS-1 MGUS	True
+GSM3528754	geo:GSE145977:GSM3528754	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MGUS-1 138P frozen batch 6	True
+GSM3528754	geo:GSE145977:GSM3528754	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528756	geo:GSE145977:GSM3528756	donor_id	MGUS-2	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAAGATGAGCTCCCAG-1-MGUS-2.138P MGUS-2 MGUS	True
+GSM3528756	geo:GSE145977:GSM3528756	donor_id	MGUS-2	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MGUS-2 40-49 MGUS male	True
+GSM3528756	geo:GSE145977:GSM3528756	donor_id	MGUS-2	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528756	geo:GSE145977:GSM3528756	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAAGATGAGCTCCCAG-1-MGUS-2.138P MGUS-2 MGUS	True
+GSM3528756	geo:GSE145977:GSM3528756	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MGUS-2 40-49 MGUS male	True
+GSM3528756	geo:GSE145977:GSM3528756	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528756	geo:GSE145977:GSM3528756	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528756	geo:GSE145977:GSM3528756	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528756	geo:GSE145977:GSM3528756	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528756	geo:GSE145977:GSM3528756	disease_free_text	Monoclonal Gammopathy of Undetermined Significance	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MGUS sample 2, 138P fraction	True
+GSM3528756	geo:GSE145977:GSM3528756	disease_free_text	Monoclonal Gammopathy of Undetermined Significance	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Monoclonal Gammopathy of Undetermined Significance	True
+GSM3528756	geo:GSE145977:GSM3528756	disease_ontology_term_id	MONDO:0004225	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MGUS sample 2, 138P fraction	True
+GSM3528756	geo:GSE145977:GSM3528756	disease_ontology_term_id	MONDO:0004225	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Monoclonal Gammopathy of Undetermined Significance	True
+GSM3528756	geo:GSE145977:GSM3528756	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528756	geo:GSE145977:GSM3528756	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528756	geo:GSE145977:GSM3528756	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528756	geo:GSE145977:GSM3528756	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528756	geo:GSE145977:GSM3528756	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MGUS-2 138P frozen batch 4	True
+GSM3528756	geo:GSE145977:GSM3528756	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528756	geo:GSE145977:GSM3528756	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528756	geo:GSE145977:GSM3528756	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528756	geo:GSE145977:GSM3528756	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAAGATGAGCTCCCAG-1-MGUS-2.138P MGUS-2 MGUS	True
+GSM3528756	geo:GSE145977:GSM3528756	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MGUS-2 138P frozen batch 4	True
+GSM3528756	geo:GSE145977:GSM3528756	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528758	geo:GSE145977:GSM3528758	donor_id	MGUS-3	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACGGGTCGCCTGAG-1-MGUS-3.138P MGUS-3 MGUS	True
+GSM3528758	geo:GSE145977:GSM3528758	donor_id	MGUS-3	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MGUS-3 60-69 MGUS female	True
+GSM3528758	geo:GSE145977:GSM3528758	donor_id	MGUS-3	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528758	geo:GSE145977:GSM3528758	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACGGGTCGCCTGAG-1-MGUS-3.138P MGUS-3 MGUS	True
+GSM3528758	geo:GSE145977:GSM3528758	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MGUS-3 60-69 MGUS female	True
+GSM3528758	geo:GSE145977:GSM3528758	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528758	geo:GSE145977:GSM3528758	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528758	geo:GSE145977:GSM3528758	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528758	geo:GSE145977:GSM3528758	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528758	geo:GSE145977:GSM3528758	disease_free_text	Monoclonal Gammopathy of Undetermined Significance	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MGUS sample 3, 138P fraction	True
+GSM3528758	geo:GSE145977:GSM3528758	disease_free_text	Monoclonal Gammopathy of Undetermined Significance	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Monoclonal Gammopathy of Undetermined Significance	True
+GSM3528758	geo:GSE145977:GSM3528758	disease_ontology_term_id	MONDO:0004225	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MGUS sample 3, 138P fraction	True
+GSM3528758	geo:GSE145977:GSM3528758	disease_ontology_term_id	MONDO:0004225	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Monoclonal Gammopathy of Undetermined Significance	True
+GSM3528758	geo:GSE145977:GSM3528758	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528758	geo:GSE145977:GSM3528758	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528758	geo:GSE145977:GSM3528758	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528758	geo:GSE145977:GSM3528758	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528758	geo:GSE145977:GSM3528758	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MGUS-3 138P frozen batch 3	True
+GSM3528758	geo:GSE145977:GSM3528758	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528758	geo:GSE145977:GSM3528758	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528758	geo:GSE145977:GSM3528758	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528758	geo:GSE145977:GSM3528758	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACGGGTCGCCTGAG-1-MGUS-3.138P MGUS-3 MGUS	True
+GSM3528758	geo:GSE145977:GSM3528758	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MGUS-3 138P frozen batch 3	True
+GSM3528758	geo:GSE145977:GSM3528758	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528760	geo:GSE145977:GSM3528760	donor_id	MGUS-4	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AACACGTCATTCTTAC-1-MGUS-4.138P MGUS-4 MGUS	True
+GSM3528760	geo:GSE145977:GSM3528760	donor_id	MGUS-4	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MGUS-4 60-69 MGUS female	True
+GSM3528760	geo:GSE145977:GSM3528760	donor_id	MGUS-4	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528760	geo:GSE145977:GSM3528760	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AACACGTCATTCTTAC-1-MGUS-4.138P MGUS-4 MGUS	True
+GSM3528760	geo:GSE145977:GSM3528760	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MGUS-4 60-69 MGUS female	True
+GSM3528760	geo:GSE145977:GSM3528760	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528760	geo:GSE145977:GSM3528760	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528760	geo:GSE145977:GSM3528760	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528760	geo:GSE145977:GSM3528760	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528760	geo:GSE145977:GSM3528760	disease_free_text	Monoclonal Gammopathy of Undetermined Significance	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MGUS sample 4, 138P fraction	True
+GSM3528760	geo:GSE145977:GSM3528760	disease_free_text	Monoclonal Gammopathy of Undetermined Significance	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Monoclonal Gammopathy of Undetermined Significance	True
+GSM3528760	geo:GSE145977:GSM3528760	disease_ontology_term_id	MONDO:0004225	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MGUS sample 4, 138P fraction	True
+GSM3528760	geo:GSE145977:GSM3528760	disease_ontology_term_id	MONDO:0004225	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Monoclonal Gammopathy of Undetermined Significance	True
+GSM3528760	geo:GSE145977:GSM3528760	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528760	geo:GSE145977:GSM3528760	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528760	geo:GSE145977:GSM3528760	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528760	geo:GSE145977:GSM3528760	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528760	geo:GSE145977:GSM3528760	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MGUS-4 138P frozen batch 6	True
+GSM3528760	geo:GSE145977:GSM3528760	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528760	geo:GSE145977:GSM3528760	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528760	geo:GSE145977:GSM3528760	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528760	geo:GSE145977:GSM3528760	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AACACGTCATTCTTAC-1-MGUS-4.138P MGUS-4 MGUS	True
+GSM3528760	geo:GSE145977:GSM3528760	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MGUS-4 138P frozen batch 6	True
+GSM3528760	geo:GSE145977:GSM3528760	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528761	geo:GSE145977:GSM3528761	donor_id	MGUS-5	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AACCATGTCCGTAGGC-1-MGUS-5.138P MGUS-5 MGUS	True
+GSM3528761	geo:GSE145977:GSM3528761	donor_id	MGUS-5	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MGUS-5 60-69 MGUS female	True
+GSM3528761	geo:GSE145977:GSM3528761	donor_id	MGUS-5	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528761	geo:GSE145977:GSM3528761	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AACCATGTCCGTAGGC-1-MGUS-5.138P MGUS-5 MGUS	True
+GSM3528761	geo:GSE145977:GSM3528761	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MGUS-5 60-69 MGUS female	True
+GSM3528761	geo:GSE145977:GSM3528761	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528761	geo:GSE145977:GSM3528761	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528761	geo:GSE145977:GSM3528761	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528761	geo:GSE145977:GSM3528761	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528761	geo:GSE145977:GSM3528761	disease_free_text	Monoclonal Gammopathy of Undetermined Significance	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MGUS sample 5, 138P fraction	True
+GSM3528761	geo:GSE145977:GSM3528761	disease_free_text	Monoclonal Gammopathy of Undetermined Significance	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Monoclonal Gammopathy of Undetermined Significance	True
+GSM3528761	geo:GSE145977:GSM3528761	disease_ontology_term_id	MONDO:0004225	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MGUS sample 5, 138P fraction	True
+GSM3528761	geo:GSE145977:GSM3528761	disease_ontology_term_id	MONDO:0004225	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Monoclonal Gammopathy of Undetermined Significance	True
+GSM3528761	geo:GSE145977:GSM3528761	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528761	geo:GSE145977:GSM3528761	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528761	geo:GSE145977:GSM3528761	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528761	geo:GSE145977:GSM3528761	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528761	geo:GSE145977:GSM3528761	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MGUS-5 138P frozen batch 6	True
+GSM3528761	geo:GSE145977:GSM3528761	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528761	geo:GSE145977:GSM3528761	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528761	geo:GSE145977:GSM3528761	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528761	geo:GSE145977:GSM3528761	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AACCATGTCCGTAGGC-1-MGUS-5.138P MGUS-5 MGUS	True
+GSM3528761	geo:GSE145977:GSM3528761	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MGUS-5 138P frozen batch 6	True
+GSM3528761	geo:GSE145977:GSM3528761	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528763	geo:GSE145977:GSM3528763	donor_id	MGUS-6	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AACGTTGAGGCACATG-1-MGUS-6.138P MGUS-6 MGUS	True
+GSM3528763	geo:GSE145977:GSM3528763	donor_id	MGUS-6	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MGUS-6 60-69 MGUS female	True
+GSM3528763	geo:GSE145977:GSM3528763	donor_id	MGUS-6	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528763	geo:GSE145977:GSM3528763	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AACGTTGAGGCACATG-1-MGUS-6.138P MGUS-6 MGUS	True
+GSM3528763	geo:GSE145977:GSM3528763	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MGUS-6 60-69 MGUS female	True
+GSM3528763	geo:GSE145977:GSM3528763	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528763	geo:GSE145977:GSM3528763	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528763	geo:GSE145977:GSM3528763	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528763	geo:GSE145977:GSM3528763	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528763	geo:GSE145977:GSM3528763	disease_free_text	Monoclonal Gammopathy of Undetermined Significance	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MGUS sample 6, 138P fraction	True
+GSM3528763	geo:GSE145977:GSM3528763	disease_free_text	Monoclonal Gammopathy of Undetermined Significance	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Monoclonal Gammopathy of Undetermined Significance	True
+GSM3528763	geo:GSE145977:GSM3528763	disease_ontology_term_id	MONDO:0004225	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MGUS sample 6, 138P fraction	True
+GSM3528763	geo:GSE145977:GSM3528763	disease_ontology_term_id	MONDO:0004225	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Monoclonal Gammopathy of Undetermined Significance	True
+GSM3528763	geo:GSE145977:GSM3528763	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528763	geo:GSE145977:GSM3528763	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528763	geo:GSE145977:GSM3528763	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528763	geo:GSE145977:GSM3528763	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528763	geo:GSE145977:GSM3528763	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MGUS-6 138P frozen batch 3	True
+GSM3528763	geo:GSE145977:GSM3528763	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528763	geo:GSE145977:GSM3528763	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528763	geo:GSE145977:GSM3528763	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528763	geo:GSE145977:GSM3528763	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AACGTTGAGGCACATG-1-MGUS-6.138P MGUS-6 MGUS	True
+GSM3528763	geo:GSE145977:GSM3528763	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MGUS-6 138P frozen batch 3	True
+GSM3528763	geo:GSE145977:GSM3528763	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528765	geo:GSE145977:GSM3528765	donor_id	MM-1	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGGTAGCCTAT-1-MM-1.138P MM-1 MM	True
+GSM3528765	geo:GSE145977:GSM3528765	donor_id	MM-1	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MM-1 60-69 MM male	True
+GSM3528765	geo:GSE145977:GSM3528765	donor_id	MM-1	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528765	geo:GSE145977:GSM3528765	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGGTAGCCTAT-1-MM-1.138P MM-1 MM	True
+GSM3528765	geo:GSE145977:GSM3528765	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MM-1 60-69 MM male	True
+GSM3528765	geo:GSE145977:GSM3528765	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528765	geo:GSE145977:GSM3528765	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528765	geo:GSE145977:GSM3528765	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528765	geo:GSE145977:GSM3528765	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528765	geo:GSE145977:GSM3528765	disease_free_text	Multiple Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MM sample 1, 138P fraction	True
+GSM3528765	geo:GSE145977:GSM3528765	disease_free_text	Multiple Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528765	geo:GSE145977:GSM3528765	disease_ontology_term_id	MONDO:0009693	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MM sample 1, 138P fraction	True
+GSM3528765	geo:GSE145977:GSM3528765	disease_ontology_term_id	MONDO:0009693	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528765	geo:GSE145977:GSM3528765	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528765	geo:GSE145977:GSM3528765	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528765	geo:GSE145977:GSM3528765	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528765	geo:GSE145977:GSM3528765	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528765	geo:GSE145977:GSM3528765	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MM-1 138P frozen batch 4	True
+GSM3528765	geo:GSE145977:GSM3528765	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528765	geo:GSE145977:GSM3528765	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528765	geo:GSE145977:GSM3528765	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528765	geo:GSE145977:GSM3528765	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGGTAGCCTAT-1-MM-1.138P MM-1 MM	True
+GSM3528765	geo:GSE145977:GSM3528765	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MM-1 138P frozen batch 4	True
+GSM3528765	geo:GSE145977:GSM3528765	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528765	geo:GSE145977:GSM3528765	disease_stage	newly diagnosed	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGGTAGCCTAT-1-MM-1.138P MM-1 MM	True
+GSM3528765	geo:GSE145977:GSM3528765	disease_stage	newly diagnosed	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528766	geo:GSE145977:GSM3528766	donor_id	MM-2	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGACCCACC-1-MM-2.138P MM-2 MM	True
+GSM3528766	geo:GSE145977:GSM3528766	donor_id	MM-2	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MM-2 50-59 MM male	True
+GSM3528766	geo:GSE145977:GSM3528766	donor_id	MM-2	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528766	geo:GSE145977:GSM3528766	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGACCCACC-1-MM-2.138P MM-2 MM	True
+GSM3528766	geo:GSE145977:GSM3528766	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MM-2 50-59 MM male	True
+GSM3528766	geo:GSE145977:GSM3528766	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528766	geo:GSE145977:GSM3528766	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528766	geo:GSE145977:GSM3528766	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528766	geo:GSE145977:GSM3528766	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528766	geo:GSE145977:GSM3528766	disease_free_text	Multiple Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MM sample 2, 138P fraction	True
+GSM3528766	geo:GSE145977:GSM3528766	disease_free_text	Multiple Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528766	geo:GSE145977:GSM3528766	disease_ontology_term_id	MONDO:0009693	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MM sample 2, 138P fraction	True
+GSM3528766	geo:GSE145977:GSM3528766	disease_ontology_term_id	MONDO:0009693	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528766	geo:GSE145977:GSM3528766	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528766	geo:GSE145977:GSM3528766	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528766	geo:GSE145977:GSM3528766	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528766	geo:GSE145977:GSM3528766	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528766	geo:GSE145977:GSM3528766	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MM-2 138P fresh batch 1	True
+GSM3528766	geo:GSE145977:GSM3528766	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528766	geo:GSE145977:GSM3528766	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528766	geo:GSE145977:GSM3528766	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528766	geo:GSE145977:GSM3528766	sample_preservation	fresh	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGACCCACC-1-MM-2.138P MM-2 MM	True
+GSM3528766	geo:GSE145977:GSM3528766	sample_preservation	fresh	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MM-2 138P fresh batch 1	True
+GSM3528766	geo:GSE145977:GSM3528766	sample_preservation	fresh	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528766	geo:GSE145977:GSM3528766	disease_stage	newly diagnosed	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGACCCACC-1-MM-2.138P MM-2 MM	True
+GSM3528766	geo:GSE145977:GSM3528766	disease_stage	newly diagnosed	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528768	geo:GSE145977:GSM3528768	donor_id	MM-3	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGCACCGTC-1-MM-3.138P MM-3 MM	True
+GSM3528768	geo:GSE145977:GSM3528768	donor_id	MM-3	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MM-3 70-79 MM male	True
+GSM3528768	geo:GSE145977:GSM3528768	donor_id	MM-3	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528768	geo:GSE145977:GSM3528768	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGCACCGTC-1-MM-3.138P MM-3 MM	True
+GSM3528768	geo:GSE145977:GSM3528768	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MM-3 70-79 MM male	True
+GSM3528768	geo:GSE145977:GSM3528768	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528768	geo:GSE145977:GSM3528768	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528768	geo:GSE145977:GSM3528768	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528768	geo:GSE145977:GSM3528768	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528768	geo:GSE145977:GSM3528768	disease_free_text	Multiple Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MM sample 3, 138P fraction	True
+GSM3528768	geo:GSE145977:GSM3528768	disease_free_text	Multiple Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528768	geo:GSE145977:GSM3528768	disease_ontology_term_id	MONDO:0009693	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MM sample 3, 138P fraction	True
+GSM3528768	geo:GSE145977:GSM3528768	disease_ontology_term_id	MONDO:0009693	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528768	geo:GSE145977:GSM3528768	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528768	geo:GSE145977:GSM3528768	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528768	geo:GSE145977:GSM3528768	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528768	geo:GSE145977:GSM3528768	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528768	geo:GSE145977:GSM3528768	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MM-3 138P frozen batch 2	True
+GSM3528768	geo:GSE145977:GSM3528768	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528768	geo:GSE145977:GSM3528768	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528768	geo:GSE145977:GSM3528768	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528768	geo:GSE145977:GSM3528768	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGCACCGTC-1-MM-3.138P MM-3 MM	True
+GSM3528768	geo:GSE145977:GSM3528768	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MM-3 138P frozen batch 2	True
+GSM3528768	geo:GSE145977:GSM3528768	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528768	geo:GSE145977:GSM3528768	disease_stage	newly diagnosed	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGCACCGTC-1-MM-3.138P MM-3 MM	True
+GSM3528768	geo:GSE145977:GSM3528768	disease_stage	newly diagnosed	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528770	geo:GSE145977:GSM3528770	donor_id	MM-4	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGGAGTTTA-1-MM-4.138P MM-4 MM	True
+GSM3528770	geo:GSE145977:GSM3528770	donor_id	MM-4	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MM-4 70-79 MM male	True
+GSM3528770	geo:GSE145977:GSM3528770	donor_id	MM-4	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528770	geo:GSE145977:GSM3528770	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGGAGTTTA-1-MM-4.138P MM-4 MM	True
+GSM3528770	geo:GSE145977:GSM3528770	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MM-4 70-79 MM male	True
+GSM3528770	geo:GSE145977:GSM3528770	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528770	geo:GSE145977:GSM3528770	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528770	geo:GSE145977:GSM3528770	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528770	geo:GSE145977:GSM3528770	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528770	geo:GSE145977:GSM3528770	disease_free_text	Multiple Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MM sample 4, 138P fraction	True
+GSM3528770	geo:GSE145977:GSM3528770	disease_free_text	Multiple Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528770	geo:GSE145977:GSM3528770	disease_ontology_term_id	MONDO:0009693	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MM sample 4, 138P fraction	True
+GSM3528770	geo:GSE145977:GSM3528770	disease_ontology_term_id	MONDO:0009693	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528770	geo:GSE145977:GSM3528770	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528770	geo:GSE145977:GSM3528770	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528770	geo:GSE145977:GSM3528770	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528770	geo:GSE145977:GSM3528770	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528770	geo:GSE145977:GSM3528770	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MM-4 138P fresh batch 2	True
+GSM3528770	geo:GSE145977:GSM3528770	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528770	geo:GSE145977:GSM3528770	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528770	geo:GSE145977:GSM3528770	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528770	geo:GSE145977:GSM3528770	sample_preservation	fresh	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGGAGTTTA-1-MM-4.138P MM-4 MM	True
+GSM3528770	geo:GSE145977:GSM3528770	sample_preservation	fresh	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MM-4 138P fresh batch 2	True
+GSM3528770	geo:GSE145977:GSM3528770	sample_preservation	fresh	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528770	geo:GSE145977:GSM3528770	disease_stage	newly diagnosed	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGGAGTTTA-1-MM-4.138P MM-4 MM	True
+GSM3528770	geo:GSE145977:GSM3528770	disease_stage	newly diagnosed	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528772	geo:GSE145977:GSM3528772	donor_id	MM-5	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGGTAAACT-1-MM-5.138P MM-5 MM	True
+GSM3528772	geo:GSE145977:GSM3528772	donor_id	MM-5	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MM-5 60-69 MM male	True
+GSM3528772	geo:GSE145977:GSM3528772	donor_id	MM-5	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528772	geo:GSE145977:GSM3528772	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGGTAAACT-1-MM-5.138P MM-5 MM	True
+GSM3528772	geo:GSE145977:GSM3528772	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MM-5 60-69 MM male	True
+GSM3528772	geo:GSE145977:GSM3528772	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528772	geo:GSE145977:GSM3528772	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528772	geo:GSE145977:GSM3528772	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528772	geo:GSE145977:GSM3528772	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528772	geo:GSE145977:GSM3528772	disease_free_text	Multiple Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MM sample 5, 138P fraction	True
+GSM3528772	geo:GSE145977:GSM3528772	disease_free_text	Multiple Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528772	geo:GSE145977:GSM3528772	disease_ontology_term_id	MONDO:0009693	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MM sample 5, 138P fraction	True
+GSM3528772	geo:GSE145977:GSM3528772	disease_ontology_term_id	MONDO:0009693	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528772	geo:GSE145977:GSM3528772	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528772	geo:GSE145977:GSM3528772	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528772	geo:GSE145977:GSM3528772	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528772	geo:GSE145977:GSM3528772	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528772	geo:GSE145977:GSM3528772	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MM-5 138P frozen batch 4	True
+GSM3528772	geo:GSE145977:GSM3528772	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528772	geo:GSE145977:GSM3528772	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528772	geo:GSE145977:GSM3528772	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528772	geo:GSE145977:GSM3528772	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGGTAAACT-1-MM-5.138P MM-5 MM	True
+GSM3528772	geo:GSE145977:GSM3528772	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MM-5 138P frozen batch 4	True
+GSM3528772	geo:GSE145977:GSM3528772	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528772	geo:GSE145977:GSM3528772	disease_stage	newly diagnosed	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGGTAAACT-1-MM-5.138P MM-5 MM	True
+GSM3528772	geo:GSE145977:GSM3528772	disease_stage	newly diagnosed	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528774	geo:GSE145977:GSM3528774	donor_id	MM-6	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAAGATGGTCTTCGTC-1-MM-6.138P MM-6 MM	True
+GSM3528774	geo:GSE145977:GSM3528774	donor_id	MM-6	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MM-6 60-69 MM female	True
+GSM3528774	geo:GSE145977:GSM3528774	donor_id	MM-6	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528774	geo:GSE145977:GSM3528774	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAAGATGGTCTTCGTC-1-MM-6.138P MM-6 MM	True
+GSM3528774	geo:GSE145977:GSM3528774	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MM-6 60-69 MM female	True
+GSM3528774	geo:GSE145977:GSM3528774	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528774	geo:GSE145977:GSM3528774	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528774	geo:GSE145977:GSM3528774	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528774	geo:GSE145977:GSM3528774	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528774	geo:GSE145977:GSM3528774	disease_free_text	Multiple Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MM sample 6, 138P fraction	True
+GSM3528774	geo:GSE145977:GSM3528774	disease_free_text	Multiple Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528774	geo:GSE145977:GSM3528774	disease_ontology_term_id	MONDO:0009693	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MM sample 6, 138P fraction	True
+GSM3528774	geo:GSE145977:GSM3528774	disease_ontology_term_id	MONDO:0009693	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528774	geo:GSE145977:GSM3528774	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528774	geo:GSE145977:GSM3528774	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528774	geo:GSE145977:GSM3528774	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528774	geo:GSE145977:GSM3528774	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528774	geo:GSE145977:GSM3528774	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MM-6 138P fresh batch 3	True
+GSM3528774	geo:GSE145977:GSM3528774	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528774	geo:GSE145977:GSM3528774	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528774	geo:GSE145977:GSM3528774	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528774	geo:GSE145977:GSM3528774	sample_preservation	fresh	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAAGATGGTCTTCGTC-1-MM-6.138P MM-6 MM	True
+GSM3528774	geo:GSE145977:GSM3528774	sample_preservation	fresh	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MM-6 138P fresh batch 3	True
+GSM3528774	geo:GSE145977:GSM3528774	sample_preservation	fresh	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528774	geo:GSE145977:GSM3528774	disease_stage	newly diagnosed	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAAGATGGTCTTCGTC-1-MM-6.138P MM-6 MM	True
+GSM3528774	geo:GSE145977:GSM3528774	disease_stage	newly diagnosed	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528776	geo:GSE145977:GSM3528776	donor_id	MM-7	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGCAGGTCA-1-MM-7.138P MM-7 MM	True
+GSM3528776	geo:GSE145977:GSM3528776	donor_id	MM-7	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MM-7 50-59 MM female	True
+GSM3528776	geo:GSE145977:GSM3528776	donor_id	MM-7	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528776	geo:GSE145977:GSM3528776	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGCAGGTCA-1-MM-7.138P MM-7 MM	True
+GSM3528776	geo:GSE145977:GSM3528776	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MM-7 50-59 MM female	True
+GSM3528776	geo:GSE145977:GSM3528776	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528776	geo:GSE145977:GSM3528776	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528776	geo:GSE145977:GSM3528776	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528776	geo:GSE145977:GSM3528776	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528776	geo:GSE145977:GSM3528776	disease_free_text	Multiple Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MM sample 7, 138P fraction	True
+GSM3528776	geo:GSE145977:GSM3528776	disease_free_text	Multiple Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528776	geo:GSE145977:GSM3528776	disease_ontology_term_id	MONDO:0009693	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MM sample 7, 138P fraction	True
+GSM3528776	geo:GSE145977:GSM3528776	disease_ontology_term_id	MONDO:0009693	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528776	geo:GSE145977:GSM3528776	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528776	geo:GSE145977:GSM3528776	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528776	geo:GSE145977:GSM3528776	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528776	geo:GSE145977:GSM3528776	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528776	geo:GSE145977:GSM3528776	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MM-7 138P frozen batch 4	True
+GSM3528776	geo:GSE145977:GSM3528776	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528776	geo:GSE145977:GSM3528776	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528776	geo:GSE145977:GSM3528776	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528776	geo:GSE145977:GSM3528776	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGCAGGTCA-1-MM-7.138P MM-7 MM	True
+GSM3528776	geo:GSE145977:GSM3528776	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MM-7 138P frozen batch 4	True
+GSM3528776	geo:GSE145977:GSM3528776	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528776	geo:GSE145977:GSM3528776	disease_stage	newly diagnosed	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGCAGGTCA-1-MM-7.138P MM-7 MM	True
+GSM3528776	geo:GSE145977:GSM3528776	disease_stage	newly diagnosed	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528778	geo:GSE145977:GSM3528778	donor_id	SMM-1/MM-8	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGCATGTAGTC-1-MM-8.138P MM-8 MM	True
+GSM3528778	geo:GSE145977:GSM3528778	donor_id	SMM-1/MM-8	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MM-8 60-69 MM male	True
+GSM3528778	geo:GSE145977:GSM3528778	donor_id	SMM-1/MM-8	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528778	geo:GSE145977:GSM3528778	donor_id	SMM-1/MM-8	file	evidence/PMC9672303.txt		One patient was biopsied both at the SMM stage and after progression to MM (SMM-1 and MM-8).	True
+GSM3528778	geo:GSE145977:GSM3528778	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGCATGTAGTC-1-MM-8.138P MM-8 MM	True
+GSM3528778	geo:GSE145977:GSM3528778	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		MM-8 60-69 MM male	True
+GSM3528778	geo:GSE145977:GSM3528778	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528778	geo:GSE145977:GSM3528778	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528778	geo:GSE145977:GSM3528778	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528778	geo:GSE145977:GSM3528778	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528778	geo:GSE145977:GSM3528778	disease_free_text	Multiple Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MM sample 8, 138P fraction	True
+GSM3528778	geo:GSE145977:GSM3528778	disease_free_text	Multiple Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528778	geo:GSE145977:GSM3528778	disease_ontology_term_id	MONDO:0009693	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = MM sample 8, 138P fraction	True
+GSM3528778	geo:GSE145977:GSM3528778	disease_ontology_term_id	MONDO:0009693	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528778	geo:GSE145977:GSM3528778	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528778	geo:GSE145977:GSM3528778	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528778	geo:GSE145977:GSM3528778	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528778	geo:GSE145977:GSM3528778	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528778	geo:GSE145977:GSM3528778	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MM-8 138P frozen batch 4	True
+GSM3528778	geo:GSE145977:GSM3528778	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528778	geo:GSE145977:GSM3528778	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528778	geo:GSE145977:GSM3528778	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528778	geo:GSE145977:GSM3528778	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGCATGTAGTC-1-MM-8.138P MM-8 MM	True
+GSM3528778	geo:GSE145977:GSM3528778	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		MM-8 138P frozen batch 4	True
+GSM3528778	geo:GSE145977:GSM3528778	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528778	geo:GSE145977:GSM3528778	disease_stage	newly diagnosed	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGCATGTAGTC-1-MM-8.138P MM-8 MM	True
+GSM3528778	geo:GSE145977:GSM3528778	disease_stage	newly diagnosed	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528778	geo:GSE145977:GSM3528778	timepoint	after progression to MM	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGCATGTAGTC-1-MM-8.138P MM-8 MM	True
+GSM3528778	geo:GSE145977:GSM3528778	timepoint	after progression to MM	file	evidence/PMC9672303.txt		One patient was biopsied both at the SMM stage and after progression to MM (SMM-1 and MM-8).	True
+GSM3528780	geo:GSE145977:GSM3528780	donor_id	NBM-1	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGGTTTGGCGC-1-NBM-1.138P NBM-1 NBM	True
+GSM3528780	geo:GSE145977:GSM3528780	donor_id	NBM-1	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		NBM-1 30-39 NBM female	True
+GSM3528780	geo:GSE145977:GSM3528780	donor_id	NBM-1	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528780	geo:GSE145977:GSM3528780	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGGTTTGGCGC-1-NBM-1.138P NBM-1 NBM	True
+GSM3528780	geo:GSE145977:GSM3528780	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		NBM-1 30-39 NBM female	True
+GSM3528780	geo:GSE145977:GSM3528780	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528780	geo:GSE145977:GSM3528780	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528780	geo:GSE145977:GSM3528780	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528780	geo:GSE145977:GSM3528780	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528780	geo:GSE145977:GSM3528780	disease_free_text	Healthy Donor	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = NBM sample 1, 138P fraction	True
+GSM3528780	geo:GSE145977:GSM3528780	disease_free_text	Healthy Donor	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528780	geo:GSE145977:GSM3528780	disease_ontology_term_id	PATO:0000461	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = NBM sample 1, 138P fraction	True
+GSM3528780	geo:GSE145977:GSM3528780	disease_ontology_term_id	PATO:0000461	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528780	geo:GSE145977:GSM3528780	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528780	geo:GSE145977:GSM3528780	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528780	geo:GSE145977:GSM3528780	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528780	geo:GSE145977:GSM3528780	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528780	geo:GSE145977:GSM3528780	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		NBM-1 138P frozen batch 1	True
+GSM3528780	geo:GSE145977:GSM3528780	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528780	geo:GSE145977:GSM3528780	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528780	geo:GSE145977:GSM3528780	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528780	geo:GSE145977:GSM3528780	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGGTTTGGCGC-1-NBM-1.138P NBM-1 NBM	True
+GSM3528780	geo:GSE145977:GSM3528780	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		NBM-1 138P frozen batch 1	True
+GSM3528780	geo:GSE145977:GSM3528780	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528782	geo:GSE145977:GSM3528782	donor_id	NBM-10	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGCAGACTG-1-NBM-10.138P NBM-10 NBM	True
+GSM3528782	geo:GSE145977:GSM3528782	donor_id	NBM-10	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		NBM-10 40-49 NBM male	True
+GSM3528782	geo:GSE145977:GSM3528782	donor_id	NBM-10	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528782	geo:GSE145977:GSM3528782	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGCAGACTG-1-NBM-10.138P NBM-10 NBM	True
+GSM3528782	geo:GSE145977:GSM3528782	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		NBM-10 40-49 NBM male	True
+GSM3528782	geo:GSE145977:GSM3528782	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528782	geo:GSE145977:GSM3528782	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528782	geo:GSE145977:GSM3528782	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528782	geo:GSE145977:GSM3528782	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528782	geo:GSE145977:GSM3528782	disease_free_text	Healthy Donor	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = NBM sample 10, 138P fraction	True
+GSM3528782	geo:GSE145977:GSM3528782	disease_free_text	Healthy Donor	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528782	geo:GSE145977:GSM3528782	disease_ontology_term_id	PATO:0000461	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = NBM sample 10, 138P fraction	True
+GSM3528782	geo:GSE145977:GSM3528782	disease_ontology_term_id	PATO:0000461	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528782	geo:GSE145977:GSM3528782	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528782	geo:GSE145977:GSM3528782	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528782	geo:GSE145977:GSM3528782	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528782	geo:GSE145977:GSM3528782	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528782	geo:GSE145977:GSM3528782	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		NBM-10 138P frozen batch 5	True
+GSM3528782	geo:GSE145977:GSM3528782	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528782	geo:GSE145977:GSM3528782	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528782	geo:GSE145977:GSM3528782	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528782	geo:GSE145977:GSM3528782	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGCAGACTG-1-NBM-10.138P NBM-10 NBM	True
+GSM3528782	geo:GSE145977:GSM3528782	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		NBM-10 138P frozen batch 5	True
+GSM3528782	geo:GSE145977:GSM3528782	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528784	geo:GSE145977:GSM3528784	donor_id	NBM-11	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGGTGTAAGTA-1-NBM-11.138P NBM-11 NBM	True
+GSM3528784	geo:GSE145977:GSM3528784	donor_id	NBM-11	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		NBM-11 NBM male	True
+GSM3528784	geo:GSE145977:GSM3528784	donor_id	NBM-11	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528784	geo:GSE145977:GSM3528784	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGGTGTAAGTA-1-NBM-11.138P NBM-11 NBM	True
+GSM3528784	geo:GSE145977:GSM3528784	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		NBM-11 NBM male	True
+GSM3528784	geo:GSE145977:GSM3528784	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528784	geo:GSE145977:GSM3528784	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528784	geo:GSE145977:GSM3528784	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528784	geo:GSE145977:GSM3528784	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528784	geo:GSE145977:GSM3528784	disease_free_text	Healthy Donor	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = NBM sample 11, 138P fraction	True
+GSM3528784	geo:GSE145977:GSM3528784	disease_free_text	Healthy Donor	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528784	geo:GSE145977:GSM3528784	disease_ontology_term_id	PATO:0000461	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = NBM sample 11, 138P fraction	True
+GSM3528784	geo:GSE145977:GSM3528784	disease_ontology_term_id	PATO:0000461	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528784	geo:GSE145977:GSM3528784	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528784	geo:GSE145977:GSM3528784	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528784	geo:GSE145977:GSM3528784	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528784	geo:GSE145977:GSM3528784	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528784	geo:GSE145977:GSM3528784	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		NBM-11 138P frozen batch 5	True
+GSM3528784	geo:GSE145977:GSM3528784	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528784	geo:GSE145977:GSM3528784	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528784	geo:GSE145977:GSM3528784	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528784	geo:GSE145977:GSM3528784	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGGTGTAAGTA-1-NBM-11.138P NBM-11 NBM	True
+GSM3528784	geo:GSE145977:GSM3528784	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		NBM-11 138P frozen batch 5	True
+GSM3528784	geo:GSE145977:GSM3528784	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528786	geo:GSE145977:GSM3528786	donor_id	NBM-2	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGCACACCGAC-1-NBM-2.138P NBM-2 NBM	True
+GSM3528786	geo:GSE145977:GSM3528786	donor_id	NBM-2	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		NBM-2 30-39 NBM male	True
+GSM3528786	geo:GSE145977:GSM3528786	donor_id	NBM-2	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528786	geo:GSE145977:GSM3528786	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGCACACCGAC-1-NBM-2.138P NBM-2 NBM	True
+GSM3528786	geo:GSE145977:GSM3528786	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		NBM-2 30-39 NBM male	True
+GSM3528786	geo:GSE145977:GSM3528786	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528786	geo:GSE145977:GSM3528786	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528786	geo:GSE145977:GSM3528786	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528786	geo:GSE145977:GSM3528786	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528786	geo:GSE145977:GSM3528786	disease_free_text	Healthy Donor	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = NBM sample 2, 138P fraction	True
+GSM3528786	geo:GSE145977:GSM3528786	disease_free_text	Healthy Donor	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528786	geo:GSE145977:GSM3528786	disease_ontology_term_id	PATO:0000461	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = NBM sample 2, 138P fraction	True
+GSM3528786	geo:GSE145977:GSM3528786	disease_ontology_term_id	PATO:0000461	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528786	geo:GSE145977:GSM3528786	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528786	geo:GSE145977:GSM3528786	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528786	geo:GSE145977:GSM3528786	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528786	geo:GSE145977:GSM3528786	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528786	geo:GSE145977:GSM3528786	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		NBM-2 138P fresh batch 2	True
+GSM3528786	geo:GSE145977:GSM3528786	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528786	geo:GSE145977:GSM3528786	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528786	geo:GSE145977:GSM3528786	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528786	geo:GSE145977:GSM3528786	sample_preservation	fresh	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGCACACCGAC-1-NBM-2.138P NBM-2 NBM	True
+GSM3528786	geo:GSE145977:GSM3528786	sample_preservation	fresh	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		NBM-2 138P fresh batch 2	True
+GSM3528786	geo:GSE145977:GSM3528786	sample_preservation	fresh	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528788	geo:GSE145977:GSM3528788	donor_id	NBM-3	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AACTCTTAGGACAGAA-1-NBM-3.138P NBM-3 NBM	True
+GSM3528788	geo:GSE145977:GSM3528788	donor_id	NBM-3	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		NBM-3 50-59 NBM male	True
+GSM3528788	geo:GSE145977:GSM3528788	donor_id	NBM-3	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528788	geo:GSE145977:GSM3528788	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AACTCTTAGGACAGAA-1-NBM-3.138P NBM-3 NBM	True
+GSM3528788	geo:GSE145977:GSM3528788	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		NBM-3 50-59 NBM male	True
+GSM3528788	geo:GSE145977:GSM3528788	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528788	geo:GSE145977:GSM3528788	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528788	geo:GSE145977:GSM3528788	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528788	geo:GSE145977:GSM3528788	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528788	geo:GSE145977:GSM3528788	disease_free_text	Healthy Donor	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = NBM sample 3, 138P fraction	True
+GSM3528788	geo:GSE145977:GSM3528788	disease_free_text	Healthy Donor	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528788	geo:GSE145977:GSM3528788	disease_ontology_term_id	PATO:0000461	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = NBM sample 3, 138P fraction	True
+GSM3528788	geo:GSE145977:GSM3528788	disease_ontology_term_id	PATO:0000461	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528788	geo:GSE145977:GSM3528788	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528788	geo:GSE145977:GSM3528788	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528788	geo:GSE145977:GSM3528788	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528788	geo:GSE145977:GSM3528788	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528788	geo:GSE145977:GSM3528788	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		NBM-3 138P frozen batch 3	True
+GSM3528788	geo:GSE145977:GSM3528788	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528788	geo:GSE145977:GSM3528788	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528788	geo:GSE145977:GSM3528788	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528788	geo:GSE145977:GSM3528788	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AACTCTTAGGACAGAA-1-NBM-3.138P NBM-3 NBM	True
+GSM3528788	geo:GSE145977:GSM3528788	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		NBM-3 138P frozen batch 3	True
+GSM3528788	geo:GSE145977:GSM3528788	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528790	geo:GSE145977:GSM3528790	donor_id	NBM-4	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAAGCAATCTCAACTT-1-NBM-4.138P NBM-4 NBM	True
+GSM3528790	geo:GSE145977:GSM3528790	donor_id	NBM-4	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		NBM-4 40-49 NBM female	True
+GSM3528790	geo:GSE145977:GSM3528790	donor_id	NBM-4	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528790	geo:GSE145977:GSM3528790	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAAGCAATCTCAACTT-1-NBM-4.138P NBM-4 NBM	True
+GSM3528790	geo:GSE145977:GSM3528790	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		NBM-4 40-49 NBM female	True
+GSM3528790	geo:GSE145977:GSM3528790	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528790	geo:GSE145977:GSM3528790	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528790	geo:GSE145977:GSM3528790	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528790	geo:GSE145977:GSM3528790	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528790	geo:GSE145977:GSM3528790	disease_free_text	Healthy Donor	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = NBM sample 4, 138P fraction	True
+GSM3528790	geo:GSE145977:GSM3528790	disease_free_text	Healthy Donor	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528790	geo:GSE145977:GSM3528790	disease_ontology_term_id	PATO:0000461	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = NBM sample 4, 138P fraction	True
+GSM3528790	geo:GSE145977:GSM3528790	disease_ontology_term_id	PATO:0000461	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528790	geo:GSE145977:GSM3528790	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528790	geo:GSE145977:GSM3528790	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528790	geo:GSE145977:GSM3528790	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528790	geo:GSE145977:GSM3528790	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528790	geo:GSE145977:GSM3528790	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		NBM-4 138P frozen batch 4	True
+GSM3528790	geo:GSE145977:GSM3528790	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528790	geo:GSE145977:GSM3528790	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528790	geo:GSE145977:GSM3528790	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528790	geo:GSE145977:GSM3528790	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAAGCAATCTCAACTT-1-NBM-4.138P NBM-4 NBM	True
+GSM3528790	geo:GSE145977:GSM3528790	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		NBM-4 138P frozen batch 4	True
+GSM3528790	geo:GSE145977:GSM3528790	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528792	geo:GSE145977:GSM3528792	donor_id	NBM-6	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACGGGAGGATATAC-1-NBM-6.138P NBM-6 NBM	True
+GSM3528792	geo:GSE145977:GSM3528792	donor_id	NBM-6	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		NBM-6 60-69 NBM male	True
+GSM3528792	geo:GSE145977:GSM3528792	donor_id	NBM-6	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528792	geo:GSE145977:GSM3528792	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACGGGAGGATATAC-1-NBM-6.138P NBM-6 NBM	True
+GSM3528792	geo:GSE145977:GSM3528792	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		NBM-6 60-69 NBM male	True
+GSM3528792	geo:GSE145977:GSM3528792	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528792	geo:GSE145977:GSM3528792	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528792	geo:GSE145977:GSM3528792	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528792	geo:GSE145977:GSM3528792	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528792	geo:GSE145977:GSM3528792	disease_free_text	Healthy Donor	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = NBM sample 6, 138P fraction	True
+GSM3528792	geo:GSE145977:GSM3528792	disease_free_text	Healthy Donor	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528792	geo:GSE145977:GSM3528792	disease_ontology_term_id	PATO:0000461	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = NBM sample 6, 138P fraction	True
+GSM3528792	geo:GSE145977:GSM3528792	disease_ontology_term_id	PATO:0000461	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528792	geo:GSE145977:GSM3528792	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528792	geo:GSE145977:GSM3528792	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528792	geo:GSE145977:GSM3528792	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528792	geo:GSE145977:GSM3528792	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528792	geo:GSE145977:GSM3528792	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		NBM-6 138P frozen batch 4	True
+GSM3528792	geo:GSE145977:GSM3528792	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528792	geo:GSE145977:GSM3528792	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528792	geo:GSE145977:GSM3528792	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528792	geo:GSE145977:GSM3528792	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACGGGAGGATATAC-1-NBM-6.138P NBM-6 NBM	True
+GSM3528792	geo:GSE145977:GSM3528792	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		NBM-6 138P frozen batch 4	True
+GSM3528792	geo:GSE145977:GSM3528792	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528793	geo:GSE145977:GSM3528793	donor_id	NBM-7	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGTTCGCAT-1-NBM-7.138P NBM-7 NBM	True
+GSM3528793	geo:GSE145977:GSM3528793	donor_id	NBM-7	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		NBM-7 30-39 NBM male	True
+GSM3528793	geo:GSE145977:GSM3528793	donor_id	NBM-7	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528793	geo:GSE145977:GSM3528793	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGTTCGCAT-1-NBM-7.138P NBM-7 NBM	True
+GSM3528793	geo:GSE145977:GSM3528793	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		NBM-7 30-39 NBM male	True
+GSM3528793	geo:GSE145977:GSM3528793	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528793	geo:GSE145977:GSM3528793	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528793	geo:GSE145977:GSM3528793	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528793	geo:GSE145977:GSM3528793	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528793	geo:GSE145977:GSM3528793	disease_free_text	Healthy Donor	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = NBM sample 7, 138P fraction	True
+GSM3528793	geo:GSE145977:GSM3528793	disease_free_text	Healthy Donor	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528793	geo:GSE145977:GSM3528793	disease_ontology_term_id	PATO:0000461	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = NBM sample 7, 138P fraction	True
+GSM3528793	geo:GSE145977:GSM3528793	disease_ontology_term_id	PATO:0000461	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528793	geo:GSE145977:GSM3528793	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528793	geo:GSE145977:GSM3528793	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528793	geo:GSE145977:GSM3528793	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528793	geo:GSE145977:GSM3528793	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528793	geo:GSE145977:GSM3528793	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		NBM-7 138P frozen batch 4	True
+GSM3528793	geo:GSE145977:GSM3528793	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528793	geo:GSE145977:GSM3528793	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528793	geo:GSE145977:GSM3528793	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528793	geo:GSE145977:GSM3528793	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGTTCGCAT-1-NBM-7.138P NBM-7 NBM	True
+GSM3528793	geo:GSE145977:GSM3528793	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		NBM-7 138P frozen batch 4	True
+GSM3528793	geo:GSE145977:GSM3528793	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528795	geo:GSE145977:GSM3528795	donor_id	NBM-8	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACGGGAGAATGTGT-1-NBM-8.138P NBM-8 NBM	True
+GSM3528795	geo:GSE145977:GSM3528795	donor_id	NBM-8	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		NBM-8 60-69 NBM female	True
+GSM3528795	geo:GSE145977:GSM3528795	donor_id	NBM-8	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528795	geo:GSE145977:GSM3528795	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACGGGAGAATGTGT-1-NBM-8.138P NBM-8 NBM	True
+GSM3528795	geo:GSE145977:GSM3528795	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		NBM-8 60-69 NBM female	True
+GSM3528795	geo:GSE145977:GSM3528795	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528795	geo:GSE145977:GSM3528795	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528795	geo:GSE145977:GSM3528795	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528795	geo:GSE145977:GSM3528795	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528795	geo:GSE145977:GSM3528795	disease_free_text	Healthy Donor	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = NBM sample 8, 138P fraction	True
+GSM3528795	geo:GSE145977:GSM3528795	disease_free_text	Healthy Donor	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528795	geo:GSE145977:GSM3528795	disease_ontology_term_id	PATO:0000461	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = NBM sample 8, 138P fraction	True
+GSM3528795	geo:GSE145977:GSM3528795	disease_ontology_term_id	PATO:0000461	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528795	geo:GSE145977:GSM3528795	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528795	geo:GSE145977:GSM3528795	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528795	geo:GSE145977:GSM3528795	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528795	geo:GSE145977:GSM3528795	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528795	geo:GSE145977:GSM3528795	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		NBM-8 138P frozen batch 5	True
+GSM3528795	geo:GSE145977:GSM3528795	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528795	geo:GSE145977:GSM3528795	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528795	geo:GSE145977:GSM3528795	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528795	geo:GSE145977:GSM3528795	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACGGGAGAATGTGT-1-NBM-8.138P NBM-8 NBM	True
+GSM3528795	geo:GSE145977:GSM3528795	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		NBM-8 138P frozen batch 5	True
+GSM3528795	geo:GSE145977:GSM3528795	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528797	geo:GSE145977:GSM3528797	donor_id	SMM-4	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAAGCAATCTAACGGT-1-SMMh-1.138P SMM-4 SMM	True
+GSM3528797	geo:GSE145977:GSM3528797	donor_id	SMM-4	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-4 50-59 SMM male	True
+GSM3528797	geo:GSE145977:GSM3528797	donor_id	SMM-4	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528797	geo:GSE145977:GSM3528797	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAAGCAATCTAACGGT-1-SMMh-1.138P SMM-4 SMM	True
+GSM3528797	geo:GSE145977:GSM3528797	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-4 50-59 SMM male	True
+GSM3528797	geo:GSE145977:GSM3528797	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528797	geo:GSE145977:GSM3528797	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528797	geo:GSE145977:GSM3528797	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528797	geo:GSE145977:GSM3528797	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528797	geo:GSE145977:GSM3528797	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMh sample 1, 138P fraction	True
+GSM3528797	geo:GSE145977:GSM3528797	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528797	geo:GSE145977:GSM3528797	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMh sample 1, 138P fraction	True
+GSM3528797	geo:GSE145977:GSM3528797	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528797	geo:GSE145977:GSM3528797	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528797	geo:GSE145977:GSM3528797	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528797	geo:GSE145977:GSM3528797	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528797	geo:GSE145977:GSM3528797	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528797	geo:GSE145977:GSM3528797	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-4 138P frozen batch 1	True
+GSM3528797	geo:GSE145977:GSM3528797	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528797	geo:GSE145977:GSM3528797	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528797	geo:GSE145977:GSM3528797	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528797	geo:GSE145977:GSM3528797	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAAGCAATCTAACGGT-1-SMMh-1.138P SMM-4 SMM	True
+GSM3528797	geo:GSE145977:GSM3528797	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-4 138P frozen batch 1	True
+GSM3528797	geo:GSE145977:GSM3528797	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528799	geo:GSE145977:GSM3528799	donor_id	SMM-12	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGGTACTTCTT-1-SMMh-10.138P SMM-12 SMM	True
+GSM3528799	geo:GSE145977:GSM3528799	donor_id	SMM-12	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-12 70-79 SMM female	True
+GSM3528799	geo:GSE145977:GSM3528799	donor_id	SMM-12	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528799	geo:GSE145977:GSM3528799	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGGTACTTCTT-1-SMMh-10.138P SMM-12 SMM	True
+GSM3528799	geo:GSE145977:GSM3528799	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-12 70-79 SMM female	True
+GSM3528799	geo:GSE145977:GSM3528799	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528799	geo:GSE145977:GSM3528799	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528799	geo:GSE145977:GSM3528799	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528799	geo:GSE145977:GSM3528799	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528799	geo:GSE145977:GSM3528799	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMh sample 10, 138P fraction	True
+GSM3528799	geo:GSE145977:GSM3528799	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528799	geo:GSE145977:GSM3528799	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMh sample 10, 138P fraction	True
+GSM3528799	geo:GSE145977:GSM3528799	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528799	geo:GSE145977:GSM3528799	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528799	geo:GSE145977:GSM3528799	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528799	geo:GSE145977:GSM3528799	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528799	geo:GSE145977:GSM3528799	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528799	geo:GSE145977:GSM3528799	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-12 138P frozen batch 3	True
+GSM3528799	geo:GSE145977:GSM3528799	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528799	geo:GSE145977:GSM3528799	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528799	geo:GSE145977:GSM3528799	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528799	geo:GSE145977:GSM3528799	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGGTACTTCTT-1-SMMh-10.138P SMM-12 SMM	True
+GSM3528799	geo:GSE145977:GSM3528799	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-12 138P frozen batch 3	True
+GSM3528799	geo:GSE145977:GSM3528799	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528801	geo:GSE145977:GSM3528801	donor_id	SMM-5	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAAGTAGTCCGTAGGC-1-SMMh-2.138P SMM-5 SMM	True
+GSM3528801	geo:GSE145977:GSM3528801	donor_id	SMM-5	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-5 50-59 SMM female	True
+GSM3528801	geo:GSE145977:GSM3528801	donor_id	SMM-5	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528801	geo:GSE145977:GSM3528801	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAAGTAGTCCGTAGGC-1-SMMh-2.138P SMM-5 SMM	True
+GSM3528801	geo:GSE145977:GSM3528801	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-5 50-59 SMM female	True
+GSM3528801	geo:GSE145977:GSM3528801	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528801	geo:GSE145977:GSM3528801	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528801	geo:GSE145977:GSM3528801	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528801	geo:GSE145977:GSM3528801	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528801	geo:GSE145977:GSM3528801	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMh sample 2, 138P fraction	True
+GSM3528801	geo:GSE145977:GSM3528801	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528801	geo:GSE145977:GSM3528801	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMh sample 2, 138P fraction	True
+GSM3528801	geo:GSE145977:GSM3528801	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528801	geo:GSE145977:GSM3528801	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528801	geo:GSE145977:GSM3528801	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528801	geo:GSE145977:GSM3528801	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528801	geo:GSE145977:GSM3528801	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528801	geo:GSE145977:GSM3528801	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-5 138P frozen batch 3	True
+GSM3528801	geo:GSE145977:GSM3528801	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528801	geo:GSE145977:GSM3528801	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528801	geo:GSE145977:GSM3528801	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528801	geo:GSE145977:GSM3528801	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAAGTAGTCCGTAGGC-1-SMMh-2.138P SMM-5 SMM	True
+GSM3528801	geo:GSE145977:GSM3528801	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-5 138P frozen batch 3	True
+GSM3528801	geo:GSE145977:GSM3528801	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528803	geo:GSE145977:GSM3528803	donor_id	SMM-6	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGGTTCCTA-1-SMMh-3.138P SMM-6 SMM	True
+GSM3528803	geo:GSE145977:GSM3528803	donor_id	SMM-6	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-6 60-69 SMM male	True
+GSM3528803	geo:GSE145977:GSM3528803	donor_id	SMM-6	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528803	geo:GSE145977:GSM3528803	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGGTTCCTA-1-SMMh-3.138P SMM-6 SMM	True
+GSM3528803	geo:GSE145977:GSM3528803	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-6 60-69 SMM male	True
+GSM3528803	geo:GSE145977:GSM3528803	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528803	geo:GSE145977:GSM3528803	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528803	geo:GSE145977:GSM3528803	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528803	geo:GSE145977:GSM3528803	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528803	geo:GSE145977:GSM3528803	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMh sample 3, 138P fraction	True
+GSM3528803	geo:GSE145977:GSM3528803	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528803	geo:GSE145977:GSM3528803	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMh sample 3, 138P fraction	True
+GSM3528803	geo:GSE145977:GSM3528803	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528803	geo:GSE145977:GSM3528803	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528803	geo:GSE145977:GSM3528803	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528803	geo:GSE145977:GSM3528803	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528803	geo:GSE145977:GSM3528803	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528803	geo:GSE145977:GSM3528803	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-6 138P frozen batch 4	True
+GSM3528803	geo:GSE145977:GSM3528803	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528803	geo:GSE145977:GSM3528803	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528803	geo:GSE145977:GSM3528803	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528803	geo:GSE145977:GSM3528803	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGGTTCCTA-1-SMMh-3.138P SMM-6 SMM	True
+GSM3528803	geo:GSE145977:GSM3528803	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-6 138P frozen batch 4	True
+GSM3528803	geo:GSE145977:GSM3528803	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528805	geo:GSE145977:GSM3528805	donor_id	SMM-7	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGACTACAA-1-SMMh-4.138P SMM-7 SMM	True
+GSM3528805	geo:GSE145977:GSM3528805	donor_id	SMM-7	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-7 50-59 SMM female	True
+GSM3528805	geo:GSE145977:GSM3528805	donor_id	SMM-7	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528805	geo:GSE145977:GSM3528805	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGACTACAA-1-SMMh-4.138P SMM-7 SMM	True
+GSM3528805	geo:GSE145977:GSM3528805	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-7 50-59 SMM female	True
+GSM3528805	geo:GSE145977:GSM3528805	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528805	geo:GSE145977:GSM3528805	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528805	geo:GSE145977:GSM3528805	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528805	geo:GSE145977:GSM3528805	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528805	geo:GSE145977:GSM3528805	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMh sample 4, 138P fraction	True
+GSM3528805	geo:GSE145977:GSM3528805	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528805	geo:GSE145977:GSM3528805	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMh sample 4, 138P fraction	True
+GSM3528805	geo:GSE145977:GSM3528805	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528805	geo:GSE145977:GSM3528805	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528805	geo:GSE145977:GSM3528805	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528805	geo:GSE145977:GSM3528805	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528805	geo:GSE145977:GSM3528805	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528805	geo:GSE145977:GSM3528805	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-7 138P frozen batch 4	True
+GSM3528805	geo:GSE145977:GSM3528805	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528805	geo:GSE145977:GSM3528805	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528805	geo:GSE145977:GSM3528805	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528805	geo:GSE145977:GSM3528805	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGACTACAA-1-SMMh-4.138P SMM-7 SMM	True
+GSM3528805	geo:GSE145977:GSM3528805	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-7 138P frozen batch 4	True
+GSM3528805	geo:GSE145977:GSM3528805	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528806	geo:GSE145977:GSM3528806	donor_id	SMM-8	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGCTGTTCA-1-SMMh-5.138P SMM-8 SMM	True
+GSM3528806	geo:GSE145977:GSM3528806	donor_id	SMM-8	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-8 50-59 SMM male	True
+GSM3528806	geo:GSE145977:GSM3528806	donor_id	SMM-8	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528806	geo:GSE145977:GSM3528806	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGCTGTTCA-1-SMMh-5.138P SMM-8 SMM	True
+GSM3528806	geo:GSE145977:GSM3528806	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-8 50-59 SMM male	True
+GSM3528806	geo:GSE145977:GSM3528806	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528806	geo:GSE145977:GSM3528806	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528806	geo:GSE145977:GSM3528806	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528806	geo:GSE145977:GSM3528806	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528806	geo:GSE145977:GSM3528806	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMh sample 5, 138P fraction	True
+GSM3528806	geo:GSE145977:GSM3528806	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528806	geo:GSE145977:GSM3528806	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMh sample 5, 138P fraction	True
+GSM3528806	geo:GSE145977:GSM3528806	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528806	geo:GSE145977:GSM3528806	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528806	geo:GSE145977:GSM3528806	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528806	geo:GSE145977:GSM3528806	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528806	geo:GSE145977:GSM3528806	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528806	geo:GSE145977:GSM3528806	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-8 138P frozen batch 4	True
+GSM3528806	geo:GSE145977:GSM3528806	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528806	geo:GSE145977:GSM3528806	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528806	geo:GSE145977:GSM3528806	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528806	geo:GSE145977:GSM3528806	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGAGCTGTTCA-1-SMMh-5.138P SMM-8 SMM	True
+GSM3528806	geo:GSE145977:GSM3528806	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-8 138P frozen batch 4	True
+GSM3528806	geo:GSE145977:GSM3528806	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528808	geo:GSE145977:GSM3528808	donor_id	SMM-9	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGTCAACTCTT-1-SMMh-6.138P SMM-9 SMM	True
+GSM3528808	geo:GSE145977:GSM3528808	donor_id	SMM-9	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-9 40-49 SMM male	True
+GSM3528808	geo:GSE145977:GSM3528808	donor_id	SMM-9	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528808	geo:GSE145977:GSM3528808	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGTCAACTCTT-1-SMMh-6.138P SMM-9 SMM	True
+GSM3528808	geo:GSE145977:GSM3528808	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-9 40-49 SMM male	True
+GSM3528808	geo:GSE145977:GSM3528808	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528808	geo:GSE145977:GSM3528808	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528808	geo:GSE145977:GSM3528808	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528808	geo:GSE145977:GSM3528808	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528808	geo:GSE145977:GSM3528808	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMh sample 6, 138P fraction	True
+GSM3528808	geo:GSE145977:GSM3528808	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528808	geo:GSE145977:GSM3528808	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMh sample 6, 138P fraction	True
+GSM3528808	geo:GSE145977:GSM3528808	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528808	geo:GSE145977:GSM3528808	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528808	geo:GSE145977:GSM3528808	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528808	geo:GSE145977:GSM3528808	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528808	geo:GSE145977:GSM3528808	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528808	geo:GSE145977:GSM3528808	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-9 138P frozen batch 4	True
+GSM3528808	geo:GSE145977:GSM3528808	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528808	geo:GSE145977:GSM3528808	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528808	geo:GSE145977:GSM3528808	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528808	geo:GSE145977:GSM3528808	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGTCAACTCTT-1-SMMh-6.138P SMM-9 SMM	True
+GSM3528808	geo:GSE145977:GSM3528808	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-9 138P frozen batch 4	True
+GSM3528808	geo:GSE145977:GSM3528808	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528811	geo:GSE145977:GSM3528811	donor_id	SMM-10	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AACTTTCAGTGCGTGA-1-SMMh-8.138P SMM-10 SMM	True
+GSM3528811	geo:GSE145977:GSM3528811	donor_id	SMM-10	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-10 80-89 SMM male	True
+GSM3528811	geo:GSE145977:GSM3528811	donor_id	SMM-10	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528811	geo:GSE145977:GSM3528811	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AACTTTCAGTGCGTGA-1-SMMh-8.138P SMM-10 SMM	True
+GSM3528811	geo:GSE145977:GSM3528811	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-10 80-89 SMM male	True
+GSM3528811	geo:GSE145977:GSM3528811	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528811	geo:GSE145977:GSM3528811	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528811	geo:GSE145977:GSM3528811	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528811	geo:GSE145977:GSM3528811	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528811	geo:GSE145977:GSM3528811	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMh sample 8, 138P fraction	True
+GSM3528811	geo:GSE145977:GSM3528811	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528811	geo:GSE145977:GSM3528811	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMh sample 8, 138P fraction	True
+GSM3528811	geo:GSE145977:GSM3528811	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528811	geo:GSE145977:GSM3528811	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528811	geo:GSE145977:GSM3528811	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528811	geo:GSE145977:GSM3528811	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528811	geo:GSE145977:GSM3528811	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528811	geo:GSE145977:GSM3528811	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-10 138P frozen batch 3	True
+GSM3528811	geo:GSE145977:GSM3528811	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528811	geo:GSE145977:GSM3528811	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528811	geo:GSE145977:GSM3528811	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528811	geo:GSE145977:GSM3528811	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AACTTTCAGTGCGTGA-1-SMMh-8.138P SMM-10 SMM	True
+GSM3528811	geo:GSE145977:GSM3528811	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-10 138P frozen batch 3	True
+GSM3528811	geo:GSE145977:GSM3528811	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528813	geo:GSE145977:GSM3528813	donor_id	SMM-11	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAAGTAGCACGAGGTA-1-SMMh-9.138P SMM-11 SMM	True
+GSM3528813	geo:GSE145977:GSM3528813	donor_id	SMM-11	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-11 60-69 SMM male	True
+GSM3528813	geo:GSE145977:GSM3528813	donor_id	SMM-11	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528813	geo:GSE145977:GSM3528813	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAAGTAGCACGAGGTA-1-SMMh-9.138P SMM-11 SMM	True
+GSM3528813	geo:GSE145977:GSM3528813	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-11 60-69 SMM male	True
+GSM3528813	geo:GSE145977:GSM3528813	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528813	geo:GSE145977:GSM3528813	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528813	geo:GSE145977:GSM3528813	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528813	geo:GSE145977:GSM3528813	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528813	geo:GSE145977:GSM3528813	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMh sample 9, 138P fraction	True
+GSM3528813	geo:GSE145977:GSM3528813	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528813	geo:GSE145977:GSM3528813	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMh sample 9, 138P fraction	True
+GSM3528813	geo:GSE145977:GSM3528813	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528813	geo:GSE145977:GSM3528813	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528813	geo:GSE145977:GSM3528813	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528813	geo:GSE145977:GSM3528813	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528813	geo:GSE145977:GSM3528813	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528813	geo:GSE145977:GSM3528813	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-11 138P frozen batch 4	True
+GSM3528813	geo:GSE145977:GSM3528813	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528813	geo:GSE145977:GSM3528813	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528813	geo:GSE145977:GSM3528813	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528813	geo:GSE145977:GSM3528813	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAAGTAGCACGAGGTA-1-SMMh-9.138P SMM-11 SMM	True
+GSM3528813	geo:GSE145977:GSM3528813	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-11 138P frozen batch 4	True
+GSM3528813	geo:GSE145977:GSM3528813	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528815	geo:GSE145977:GSM3528815	donor_id	SMM-1/MM-8	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACGGGCACTAAGTC-1-SMMl-1.138P SMM-1 SMM	True
+GSM3528815	geo:GSE145977:GSM3528815	donor_id	SMM-1/MM-8	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-1 60-69 SMM male	True
+GSM3528815	geo:GSE145977:GSM3528815	donor_id	SMM-1/MM-8	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528815	geo:GSE145977:GSM3528815	donor_id	SMM-1/MM-8	file	evidence/PMC9672303.txt		One patient was biopsied both at the SMM stage and after progression to MM (SMM-1 and MM-8).	True
+GSM3528815	geo:GSE145977:GSM3528815	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACGGGCACTAAGTC-1-SMMl-1.138P SMM-1 SMM	True
+GSM3528815	geo:GSE145977:GSM3528815	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-1 60-69 SMM male	True
+GSM3528815	geo:GSE145977:GSM3528815	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528815	geo:GSE145977:GSM3528815	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528815	geo:GSE145977:GSM3528815	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528815	geo:GSE145977:GSM3528815	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528815	geo:GSE145977:GSM3528815	disease_free_text	Low Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMl sample 1, 138P fraction	True
+GSM3528815	geo:GSE145977:GSM3528815	disease_free_text	Low Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Low Risk Smoldering Myeloma	True
+GSM3528815	geo:GSE145977:GSM3528815	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMl sample 1, 138P fraction	True
+GSM3528815	geo:GSE145977:GSM3528815	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Low Risk Smoldering Myeloma	True
+GSM3528815	geo:GSE145977:GSM3528815	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528815	geo:GSE145977:GSM3528815	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528815	geo:GSE145977:GSM3528815	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528815	geo:GSE145977:GSM3528815	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528815	geo:GSE145977:GSM3528815	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-1 138P frozen batch 4	True
+GSM3528815	geo:GSE145977:GSM3528815	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528815	geo:GSE145977:GSM3528815	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528815	geo:GSE145977:GSM3528815	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528815	geo:GSE145977:GSM3528815	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACGGGCACTAAGTC-1-SMMl-1.138P SMM-1 SMM	True
+GSM3528815	geo:GSE145977:GSM3528815	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-1 138P frozen batch 4	True
+GSM3528815	geo:GSE145977:GSM3528815	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528815	geo:GSE145977:GSM3528815	timepoint	SMM stage	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACGGGCACTAAGTC-1-SMMl-1.138P SMM-1 SMM	True
+GSM3528815	geo:GSE145977:GSM3528815	timepoint	SMM stage	file	evidence/PMC9672303.txt		One patient was biopsied both at the SMM stage and after progression to MM (SMM-1 and MM-8).	True
+GSM3528817	geo:GSE145977:GSM3528817	donor_id	SMM-2	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGCAGCCTTTC-1-SMMl-2.138P SMM-2 SMM	True
+GSM3528817	geo:GSE145977:GSM3528817	donor_id	SMM-2	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-2 60-69 SMM female	True
+GSM3528817	geo:GSE145977:GSM3528817	donor_id	SMM-2	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528817	geo:GSE145977:GSM3528817	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGCAGCCTTTC-1-SMMl-2.138P SMM-2 SMM	True
+GSM3528817	geo:GSE145977:GSM3528817	sex	female	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-2 60-69 SMM female	True
+GSM3528817	geo:GSE145977:GSM3528817	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528817	geo:GSE145977:GSM3528817	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528817	geo:GSE145977:GSM3528817	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528817	geo:GSE145977:GSM3528817	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528817	geo:GSE145977:GSM3528817	disease_free_text	Low Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMl sample 2, 138P fraction	True
+GSM3528817	geo:GSE145977:GSM3528817	disease_free_text	Low Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Low Risk Smoldering Myeloma	True
+GSM3528817	geo:GSE145977:GSM3528817	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMl sample 2, 138P fraction	True
+GSM3528817	geo:GSE145977:GSM3528817	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Low Risk Smoldering Myeloma	True
+GSM3528817	geo:GSE145977:GSM3528817	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528817	geo:GSE145977:GSM3528817	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528817	geo:GSE145977:GSM3528817	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528817	geo:GSE145977:GSM3528817	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528817	geo:GSE145977:GSM3528817	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-2 138P frozen batch 4	True
+GSM3528817	geo:GSE145977:GSM3528817	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528817	geo:GSE145977:GSM3528817	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528817	geo:GSE145977:GSM3528817	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528817	geo:GSE145977:GSM3528817	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACCTGCAGCCTTTC-1-SMMl-2.138P SMM-2 SMM	True
+GSM3528817	geo:GSE145977:GSM3528817	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-2 138P frozen batch 4	True
+GSM3528817	geo:GSE145977:GSM3528817	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True
+GSM3528819	geo:GSE145977:GSM3528819	donor_id	SMM-3	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACGGGCAAGCGAGT-1-SMMl-3.138P SMM-3 SMM	True
+GSM3528819	geo:GSE145977:GSM3528819	donor_id	SMM-3	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-3 50-59 SMM male	True
+GSM3528819	geo:GSE145977:GSM3528819	donor_id	SMM-3	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528819	geo:GSE145977:GSM3528819	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACGGGCAAGCGAGT-1-SMMl-3.138P SMM-3 SMM	True
+GSM3528819	geo:GSE145977:GSM3528819	sex	male	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM5_ESM.xlsx		SMM-3 50-59 SMM male	True
+GSM3528819	geo:GSE145977:GSM3528819	tissue_free_text	bone marrow	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528819	geo:GSE145977:GSM3528819	tissue_type	tissue	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528819	geo:GSE145977:GSM3528819	tissue_type	tissue	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528819	geo:GSE145977:GSM3528819	sample_collection_method	bone marrow aspirate	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528819	geo:GSE145977:GSM3528819	disease_free_text	Low Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMl sample 3, 138P fraction	True
+GSM3528819	geo:GSE145977:GSM3528819	disease_free_text	Low Risk Smoldering Myeloma	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Low Risk Smoldering Myeloma	True
+GSM3528819	geo:GSE145977:GSM3528819	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_title = SMMl sample 3, 138P fraction	True
+GSM3528819	geo:GSE145977:GSM3528819	disease_ontology_term_id	MONDO:0005235	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Low Risk Smoldering Myeloma	True
+GSM3528819	geo:GSE145977:GSM3528819	suspension_type	cell	file	evidence/PMC9672303.txt		we performed droplet-based scRNA-seq of 35 samples isolated from BM aspirates of patients with MGUS ( n = 6), SMM ( n = 12), newly diagnosed MM ( n = 8), and nine healthy donors (NBM, n = 9	True
+GSM3528819	geo:GSE145977:GSM3528819	suspension_type	cell	file	evidence/PMC9672303.txt		cellular suspensions were loaded on a Single Cell 3′ chip	True
+GSM3528819	geo:GSE145977:GSM3528819	cell_enrichment	CD138+	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138P	True
+GSM3528819	geo:GSE145977:GSM3528819	cell_enrichment	CD138+	file	evidence/PMC9672303.txt		CD138+ BM cell fractions were isolated using magnetic-activated cell sorting technology	True
+GSM3528819	geo:GSE145977:GSM3528819	cell_enrichment	CD138+	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-3 138P frozen batch 3	True
+GSM3528819	geo:GSE145977:GSM3528819	assay_ontology_term_id	EFO:0030003	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528819	geo:GSE145977:GSM3528819	assay_ontology_term_id	EFO:0030003	file	evidence/PMC9672303.txt		scRNA-seq libraries were prepared using the Chromium Single Cell 3′ Library Kit v.2 (10x Genomics)	True
+GSM3528819	geo:GSE145977:GSM3528819	gene_annotation_version	hg38	file	raw/fp-9cb0b1a51894/GSE145977_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528819	geo:GSE145977:GSM3528819	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM7_ESM.xlsx		AAACGGGCAAGCGAGT-1-SMMl-3.138P SMM-3 SMM	True
+GSM3528819	geo:GSE145977:GSM3528819	sample_preservation	cryopreserved	file	evidence/PMC9672303_supplementary/41467_2022_33944_MOESM6_ESM.xlsx		SMM-3 138P frozen batch 3	True
+GSM3528819	geo:GSE145977:GSM3528819	sample_preservation	cryopreserved	file	evidence/PMC9672303.txt		Selected cells were either viably cryopreserved in dimethylsulfoxide at a final concentration of 10% or used immediately for scRNA-seq.	True

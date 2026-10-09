@@ -1,0 +1,404 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM6418424	geo:GSE210079:GSM6418424	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6418424	geo:GSE210079:GSM6418424	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6418424	geo:GSE210079:GSM6418424	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6418425	geo:GSE210079:GSM6418425	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6418425	geo:GSE210079:GSM6418425	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6418425	geo:GSE210079:GSM6418425	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6418426	geo:GSE210079:GSM6418426	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6418426	geo:GSE210079:GSM6418426	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6418426	geo:GSE210079:GSM6418426	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6418427	geo:GSE210079:GSM6418427	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6418427	geo:GSE210079:GSM6418427	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6418427	geo:GSE210079:GSM6418427	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6418428	geo:GSE210079:GSM6418428	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6418428	geo:GSE210079:GSM6418428	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6418428	geo:GSE210079:GSM6418428	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6418429	geo:GSE210079:GSM6418429	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6418429	geo:GSE210079:GSM6418429	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6418429	geo:GSE210079:GSM6418429	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6418430	geo:GSE210079:GSM6418430	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6418430	geo:GSE210079:GSM6418430	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6418430	geo:GSE210079:GSM6418430	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6418431	geo:GSE210079:GSM6418431	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6418431	geo:GSE210079:GSM6418431	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6418431	geo:GSE210079:GSM6418431	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6459744	geo:GSE210079:GSM6459744	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6459744	geo:GSE210079:GSM6459744	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6459744	geo:GSE210079:GSM6459744	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6459745	geo:GSE210079:GSM6459745	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6459745	geo:GSE210079:GSM6459745	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6459745	geo:GSE210079:GSM6459745	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6459746	geo:GSE210079:GSM6459746	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6459746	geo:GSE210079:GSM6459746	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6459746	geo:GSE210079:GSM6459746	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6459748	geo:GSE210079:GSM6459748	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6459748	geo:GSE210079:GSM6459748	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6459748	geo:GSE210079:GSM6459748	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6459749	geo:GSE210079:GSM6459749	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6459749	geo:GSE210079:GSM6459749	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6459749	geo:GSE210079:GSM6459749	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6459751	geo:GSE210079:GSM6459751	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6459751	geo:GSE210079:GSM6459751	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6459751	geo:GSE210079:GSM6459751	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6459752	geo:GSE210079:GSM6459752	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6459752	geo:GSE210079:GSM6459752	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6459752	geo:GSE210079:GSM6459752	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6459753	geo:GSE210079:GSM6459753	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6459753	geo:GSE210079:GSM6459753	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6459753	geo:GSE210079:GSM6459753	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6459755	geo:GSE210079:GSM6459755	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6459755	geo:GSE210079:GSM6459755	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6459755	geo:GSE210079:GSM6459755	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6459756	geo:GSE210079:GSM6459756	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6459756	geo:GSE210079:GSM6459756	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6459756	geo:GSE210079:GSM6459756	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6459759	geo:GSE210079:GSM6459759	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6459759	geo:GSE210079:GSM6459759	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6459759	geo:GSE210079:GSM6459759	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6459762	geo:GSE210079:GSM6459762	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6459762	geo:GSE210079:GSM6459762	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6459762	geo:GSE210079:GSM6459762	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6459763	geo:GSE210079:GSM6459763	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6459763	geo:GSE210079:GSM6459763	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6459763	geo:GSE210079:GSM6459763	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6459766	geo:GSE210079:GSM6459766	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6459766	geo:GSE210079:GSM6459766	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6459766	geo:GSE210079:GSM6459766	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6459767	geo:GSE210079:GSM6459767	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6459767	geo:GSE210079:GSM6459767	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6459767	geo:GSE210079:GSM6459767	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM6459769	geo:GSE210079:GSM6459769	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6459769	geo:GSE210079:GSM6459769	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM6459769	geo:GSE210079:GSM6459769	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+		organism	Homo sapiens	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM6418424	geo:GSE210079:GSM6418424	donor_id	Patient# 01	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 01	True
+GSM6418424	geo:GSE210079:GSM6418424	donor_id	Patient# 01	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 01 CITE-seq data at Day 28 after CAR T therapy	True
+GSM6418424	geo:GSE210079:GSM6418424	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6418424	geo:GSE210079:GSM6418424	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6418424	geo:GSE210079:GSM6418424	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6418424	geo:GSE210079:GSM6418424	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6418424	geo:GSE210079:GSM6418424	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6418424	geo:GSE210079:GSM6418424	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6418424	geo:GSE210079:GSM6418424	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6418424	geo:GSE210079:GSM6418424	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6418424	geo:GSE210079:GSM6418424	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6418424_01-d28_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6418424	geo:GSE210079:GSM6418424	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6418424	geo:GSE210079:GSM6418424	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6418425	geo:GSE210079:GSM6418425	donor_id	Patient# 01	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 01	True
+GSM6418425	geo:GSE210079:GSM6418425	donor_id	Patient# 01	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 01 CITE-seq data before CAR T therapy	True
+GSM6418425	geo:GSE210079:GSM6418425	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6418425	geo:GSE210079:GSM6418425	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6418425	geo:GSE210079:GSM6418425	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6418425	geo:GSE210079:GSM6418425	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6418425	geo:GSE210079:GSM6418425	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6418425	geo:GSE210079:GSM6418425	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6418425	geo:GSE210079:GSM6418425	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6418425	geo:GSE210079:GSM6418425	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6418425	geo:GSE210079:GSM6418425	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6418425_01-pre_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6418425	geo:GSE210079:GSM6418425	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6418425	geo:GSE210079:GSM6418425	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6418425	geo:GSE210079:GSM6418425	sampled_site_condition	diseased	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = treatment group: before CAR T therapy	True
+GSM6418425	geo:GSE210079:GSM6418425	sampled_site_condition	diseased	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 01 CITE-seq data before CAR T therapy	True
+GSM6418425	geo:GSE210079:GSM6418425	sampled_site_condition	diseased	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6418426	geo:GSE210079:GSM6418426	donor_id	Patient# 03	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 03	True
+GSM6418426	geo:GSE210079:GSM6418426	donor_id	Patient# 03	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 03 CITE-seq data at 3 months after CAR T therapy	True
+GSM6418426	geo:GSE210079:GSM6418426	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6418426	geo:GSE210079:GSM6418426	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6418426	geo:GSE210079:GSM6418426	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6418426	geo:GSE210079:GSM6418426	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6418426	geo:GSE210079:GSM6418426	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6418426	geo:GSE210079:GSM6418426	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6418426	geo:GSE210079:GSM6418426	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6418426	geo:GSE210079:GSM6418426	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6418426	geo:GSE210079:GSM6418426	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6418426_03-3mo_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6418426	geo:GSE210079:GSM6418426	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6418426	geo:GSE210079:GSM6418426	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6418427	geo:GSE210079:GSM6418427	donor_id	Patient# 08	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 08	True
+GSM6418427	geo:GSE210079:GSM6418427	donor_id	Patient# 08	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 08 CITE-seq data before CAR T therapy	True
+GSM6418427	geo:GSE210079:GSM6418427	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6418427	geo:GSE210079:GSM6418427	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6418427	geo:GSE210079:GSM6418427	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6418427	geo:GSE210079:GSM6418427	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6418427	geo:GSE210079:GSM6418427	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6418427	geo:GSE210079:GSM6418427	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6418427	geo:GSE210079:GSM6418427	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6418427	geo:GSE210079:GSM6418427	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6418427	geo:GSE210079:GSM6418427	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6418427_08-pre_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6418427	geo:GSE210079:GSM6418427	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6418427	geo:GSE210079:GSM6418427	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6418427	geo:GSE210079:GSM6418427	sampled_site_condition	diseased	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = treatment group: before CAR T therapy	True
+GSM6418427	geo:GSE210079:GSM6418427	sampled_site_condition	diseased	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 08 CITE-seq data before CAR T therapy	True
+GSM6418427	geo:GSE210079:GSM6418427	sampled_site_condition	diseased	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6418428	geo:GSE210079:GSM6418428	donor_id	Patient# 16	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 16	True
+GSM6418428	geo:GSE210079:GSM6418428	donor_id	Patient# 16	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 16 CITE-seq data at 3 months after CAR T therapy	True
+GSM6418428	geo:GSE210079:GSM6418428	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6418428	geo:GSE210079:GSM6418428	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6418428	geo:GSE210079:GSM6418428	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6418428	geo:GSE210079:GSM6418428	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6418428	geo:GSE210079:GSM6418428	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6418428	geo:GSE210079:GSM6418428	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6418428	geo:GSE210079:GSM6418428	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6418428	geo:GSE210079:GSM6418428	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6418428	geo:GSE210079:GSM6418428	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6418428_16-3mo_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6418428	geo:GSE210079:GSM6418428	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6418428	geo:GSE210079:GSM6418428	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6418429	geo:GSE210079:GSM6418429	donor_id	Patient# 16	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 16	True
+GSM6418429	geo:GSE210079:GSM6418429	donor_id	Patient# 16	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 16 CITE-seq data at Day 28 after CAR T therapy	True
+GSM6418429	geo:GSE210079:GSM6418429	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6418429	geo:GSE210079:GSM6418429	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6418429	geo:GSE210079:GSM6418429	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6418429	geo:GSE210079:GSM6418429	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6418429	geo:GSE210079:GSM6418429	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6418429	geo:GSE210079:GSM6418429	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6418429	geo:GSE210079:GSM6418429	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6418429	geo:GSE210079:GSM6418429	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6418429	geo:GSE210079:GSM6418429	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6418429_16-d28_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6418429	geo:GSE210079:GSM6418429	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6418429	geo:GSE210079:GSM6418429	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6418430	geo:GSE210079:GSM6418430	donor_id	Patient# 16	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 16	True
+GSM6418430	geo:GSE210079:GSM6418430	donor_id	Patient# 16	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 16 CITE-seq data before CAR T therapy	True
+GSM6418430	geo:GSE210079:GSM6418430	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6418430	geo:GSE210079:GSM6418430	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6418430	geo:GSE210079:GSM6418430	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6418430	geo:GSE210079:GSM6418430	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6418430	geo:GSE210079:GSM6418430	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6418430	geo:GSE210079:GSM6418430	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6418430	geo:GSE210079:GSM6418430	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6418430	geo:GSE210079:GSM6418430	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6418430	geo:GSE210079:GSM6418430	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6418430_16-pre_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6418430	geo:GSE210079:GSM6418430	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6418430	geo:GSE210079:GSM6418430	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6418430	geo:GSE210079:GSM6418430	sampled_site_condition	diseased	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = treatment group: before CAR T therapy	True
+GSM6418430	geo:GSE210079:GSM6418430	sampled_site_condition	diseased	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 16 CITE-seq data before CAR T therapy	True
+GSM6418430	geo:GSE210079:GSM6418430	sampled_site_condition	diseased	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6418431	geo:GSE210079:GSM6418431	donor_id	Patient# 17	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 17	True
+GSM6418431	geo:GSE210079:GSM6418431	donor_id	Patient# 17	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 17 CITE-seq data at 3months after CAR T therapy	True
+GSM6418431	geo:GSE210079:GSM6418431	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6418431	geo:GSE210079:GSM6418431	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6418431	geo:GSE210079:GSM6418431	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6418431	geo:GSE210079:GSM6418431	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6418431	geo:GSE210079:GSM6418431	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6418431	geo:GSE210079:GSM6418431	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6418431	geo:GSE210079:GSM6418431	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6418431	geo:GSE210079:GSM6418431	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6418431	geo:GSE210079:GSM6418431	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6418431_17-3mo_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6418431	geo:GSE210079:GSM6418431	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6418431	geo:GSE210079:GSM6418431	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6459744	geo:GSE210079:GSM6459744	donor_id	Patient# 19	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 19	True
+GSM6459744	geo:GSE210079:GSM6459744	donor_id	Patient# 19	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 19 CITE-seq data at 3months after CAR T therapy	True
+GSM6459744	geo:GSE210079:GSM6459744	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6459744	geo:GSE210079:GSM6459744	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459744	geo:GSE210079:GSM6459744	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459744	geo:GSE210079:GSM6459744	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459744	geo:GSE210079:GSM6459744	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459744	geo:GSE210079:GSM6459744	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459744	geo:GSE210079:GSM6459744	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459744	geo:GSE210079:GSM6459744	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459744	geo:GSE210079:GSM6459744	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6459744_19-3mo_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6459744	geo:GSE210079:GSM6459744	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459744	geo:GSE210079:GSM6459744	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6459745	geo:GSE210079:GSM6459745	donor_id	Patient# 19	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 19	True
+GSM6459745	geo:GSE210079:GSM6459745	donor_id	Patient# 19	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 19 CITE-seq data at Day28 after CAR T therapy	True
+GSM6459745	geo:GSE210079:GSM6459745	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6459745	geo:GSE210079:GSM6459745	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459745	geo:GSE210079:GSM6459745	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459745	geo:GSE210079:GSM6459745	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459745	geo:GSE210079:GSM6459745	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459745	geo:GSE210079:GSM6459745	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459745	geo:GSE210079:GSM6459745	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459745	geo:GSE210079:GSM6459745	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459745	geo:GSE210079:GSM6459745	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6459745_19-d28_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6459745	geo:GSE210079:GSM6459745	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459745	geo:GSE210079:GSM6459745	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6459746	geo:GSE210079:GSM6459746	donor_id	Patient# 19	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 19	True
+GSM6459746	geo:GSE210079:GSM6459746	donor_id	Patient# 19	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 19 CITE-seq before CAR T therapy	True
+GSM6459746	geo:GSE210079:GSM6459746	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6459746	geo:GSE210079:GSM6459746	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459746	geo:GSE210079:GSM6459746	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459746	geo:GSE210079:GSM6459746	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459746	geo:GSE210079:GSM6459746	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459746	geo:GSE210079:GSM6459746	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459746	geo:GSE210079:GSM6459746	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459746	geo:GSE210079:GSM6459746	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459746	geo:GSE210079:GSM6459746	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6459746_19-pre_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6459746	geo:GSE210079:GSM6459746	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459746	geo:GSE210079:GSM6459746	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6459746	geo:GSE210079:GSM6459746	sampled_site_condition	diseased	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = treatment group: before CAR T therapy	True
+GSM6459746	geo:GSE210079:GSM6459746	sampled_site_condition	diseased	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 19 CITE-seq before CAR T therapy	True
+GSM6459746	geo:GSE210079:GSM6459746	sampled_site_condition	diseased	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6459748	geo:GSE210079:GSM6459748	donor_id	Patient# 20	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 20	True
+GSM6459748	geo:GSE210079:GSM6459748	donor_id	Patient# 20	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 20 CITE-seq data at 3months after CAR T therapy	True
+GSM6459748	geo:GSE210079:GSM6459748	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6459748	geo:GSE210079:GSM6459748	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459748	geo:GSE210079:GSM6459748	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459748	geo:GSE210079:GSM6459748	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459748	geo:GSE210079:GSM6459748	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459748	geo:GSE210079:GSM6459748	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459748	geo:GSE210079:GSM6459748	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459748	geo:GSE210079:GSM6459748	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459748	geo:GSE210079:GSM6459748	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6459748_20-3mo_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6459748	geo:GSE210079:GSM6459748	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459748	geo:GSE210079:GSM6459748	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6459749	geo:GSE210079:GSM6459749	donor_id	Patient# 20	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 20	True
+GSM6459749	geo:GSE210079:GSM6459749	donor_id	Patient# 20	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 20 CITE-seq data at more than 3months after CAR T therapy	True
+GSM6459749	geo:GSE210079:GSM6459749	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6459749	geo:GSE210079:GSM6459749	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459749	geo:GSE210079:GSM6459749	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459749	geo:GSE210079:GSM6459749	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459749	geo:GSE210079:GSM6459749	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459749	geo:GSE210079:GSM6459749	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459749	geo:GSE210079:GSM6459749	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459749	geo:GSE210079:GSM6459749	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459749	geo:GSE210079:GSM6459749	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6459749_20_3+mo_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6459749	geo:GSE210079:GSM6459749	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459749	geo:GSE210079:GSM6459749	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6459751	geo:GSE210079:GSM6459751	donor_id	Patient# 20	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 20	True
+GSM6459751	geo:GSE210079:GSM6459751	donor_id	Patient# 20	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 20 CITE-seq data at Day 28 after CAR T therapy	True
+GSM6459751	geo:GSE210079:GSM6459751	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6459751	geo:GSE210079:GSM6459751	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459751	geo:GSE210079:GSM6459751	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459751	geo:GSE210079:GSM6459751	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459751	geo:GSE210079:GSM6459751	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459751	geo:GSE210079:GSM6459751	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459751	geo:GSE210079:GSM6459751	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459751	geo:GSE210079:GSM6459751	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459751	geo:GSE210079:GSM6459751	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6459751_20-d28_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6459751	geo:GSE210079:GSM6459751	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459751	geo:GSE210079:GSM6459751	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6459752	geo:GSE210079:GSM6459752	donor_id	Patient# 25	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 25	True
+GSM6459752	geo:GSE210079:GSM6459752	donor_id	Patient# 25	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 25 CITE-seq data at more than 3months after CAR T therapy	True
+GSM6459752	geo:GSE210079:GSM6459752	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6459752	geo:GSE210079:GSM6459752	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459752	geo:GSE210079:GSM6459752	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459752	geo:GSE210079:GSM6459752	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459752	geo:GSE210079:GSM6459752	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459752	geo:GSE210079:GSM6459752	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459752	geo:GSE210079:GSM6459752	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459752	geo:GSE210079:GSM6459752	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459752	geo:GSE210079:GSM6459752	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6459752_25-3+mo_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6459752	geo:GSE210079:GSM6459752	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459752	geo:GSE210079:GSM6459752	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6459753	geo:GSE210079:GSM6459753	donor_id	Patient# 25	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 25	True
+GSM6459753	geo:GSE210079:GSM6459753	donor_id	Patient# 25	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 25 CITE-seq data at 3months after CAR T therapy	True
+GSM6459753	geo:GSE210079:GSM6459753	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6459753	geo:GSE210079:GSM6459753	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459753	geo:GSE210079:GSM6459753	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459753	geo:GSE210079:GSM6459753	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459753	geo:GSE210079:GSM6459753	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459753	geo:GSE210079:GSM6459753	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459753	geo:GSE210079:GSM6459753	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459753	geo:GSE210079:GSM6459753	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459753	geo:GSE210079:GSM6459753	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6459753_25-3mo_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6459753	geo:GSE210079:GSM6459753	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459753	geo:GSE210079:GSM6459753	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6459755	geo:GSE210079:GSM6459755	donor_id	Patient# 27	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 27	True
+GSM6459755	geo:GSE210079:GSM6459755	donor_id	Patient# 27	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 27 CITE-seq data at Day 28 after CAR T therapy	True
+GSM6459755	geo:GSE210079:GSM6459755	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6459755	geo:GSE210079:GSM6459755	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459755	geo:GSE210079:GSM6459755	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459755	geo:GSE210079:GSM6459755	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459755	geo:GSE210079:GSM6459755	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459755	geo:GSE210079:GSM6459755	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459755	geo:GSE210079:GSM6459755	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459755	geo:GSE210079:GSM6459755	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459755	geo:GSE210079:GSM6459755	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6459755_27-d28_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6459755	geo:GSE210079:GSM6459755	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459755	geo:GSE210079:GSM6459755	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6459756	geo:GSE210079:GSM6459756	donor_id	Patient# 27	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 27	True
+GSM6459756	geo:GSE210079:GSM6459756	donor_id	Patient# 27	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 27 CITE-seq data at 3months after CAR T therapy (part1)	True
+GSM6459756	geo:GSE210079:GSM6459756	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6459756	geo:GSE210079:GSM6459756	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459756	geo:GSE210079:GSM6459756	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459756	geo:GSE210079:GSM6459756	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459756	geo:GSE210079:GSM6459756	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459756	geo:GSE210079:GSM6459756	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459756	geo:GSE210079:GSM6459756	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459756	geo:GSE210079:GSM6459756	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459756	geo:GSE210079:GSM6459756	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6459756_27-3mo_part1_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6459756	geo:GSE210079:GSM6459756	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459756	geo:GSE210079:GSM6459756	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6459759	geo:GSE210079:GSM6459759	donor_id	Patient# 27	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 27	True
+GSM6459759	geo:GSE210079:GSM6459759	donor_id	Patient# 27	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 27 CITE-seq data at 3months after CAR T therapy (part2)	True
+GSM6459759	geo:GSE210079:GSM6459759	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6459759	geo:GSE210079:GSM6459759	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459759	geo:GSE210079:GSM6459759	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459759	geo:GSE210079:GSM6459759	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459759	geo:GSE210079:GSM6459759	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459759	geo:GSE210079:GSM6459759	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459759	geo:GSE210079:GSM6459759	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459759	geo:GSE210079:GSM6459759	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459759	geo:GSE210079:GSM6459759	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6459759_27-3mo_part2_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6459759	geo:GSE210079:GSM6459759	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459759	geo:GSE210079:GSM6459759	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6459762	geo:GSE210079:GSM6459762	donor_id	Patient# 32	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 32	True
+GSM6459762	geo:GSE210079:GSM6459762	donor_id	Patient# 32	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 32 CITE-seq data before CAR T therapy	True
+GSM6459762	geo:GSE210079:GSM6459762	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6459762	geo:GSE210079:GSM6459762	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459762	geo:GSE210079:GSM6459762	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459762	geo:GSE210079:GSM6459762	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459762	geo:GSE210079:GSM6459762	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459762	geo:GSE210079:GSM6459762	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459762	geo:GSE210079:GSM6459762	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459762	geo:GSE210079:GSM6459762	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459762	geo:GSE210079:GSM6459762	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6459762_32-pre_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6459762	geo:GSE210079:GSM6459762	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459762	geo:GSE210079:GSM6459762	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6459762	geo:GSE210079:GSM6459762	sampled_site_condition	diseased	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = treatment group: before CAR T therapy	True
+GSM6459762	geo:GSE210079:GSM6459762	sampled_site_condition	diseased	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 32 CITE-seq data before CAR T therapy	True
+GSM6459762	geo:GSE210079:GSM6459762	sampled_site_condition	diseased	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6459763	geo:GSE210079:GSM6459763	donor_id	Patient# 32	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 32	True
+GSM6459763	geo:GSE210079:GSM6459763	donor_id	Patient# 32	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 32 CITE-seq data at 3months after CAR T therapy	True
+GSM6459763	geo:GSE210079:GSM6459763	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6459763	geo:GSE210079:GSM6459763	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459763	geo:GSE210079:GSM6459763	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459763	geo:GSE210079:GSM6459763	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459763	geo:GSE210079:GSM6459763	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459763	geo:GSE210079:GSM6459763	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459763	geo:GSE210079:GSM6459763	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459763	geo:GSE210079:GSM6459763	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459763	geo:GSE210079:GSM6459763	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6459763_32-3mo_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6459763	geo:GSE210079:GSM6459763	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459763	geo:GSE210079:GSM6459763	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6459766	geo:GSE210079:GSM6459766	donor_id	Patient# 33	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 33	True
+GSM6459766	geo:GSE210079:GSM6459766	donor_id	Patient# 33	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 33 CITE-seq data before CAR T therapy	True
+GSM6459766	geo:GSE210079:GSM6459766	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6459766	geo:GSE210079:GSM6459766	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459766	geo:GSE210079:GSM6459766	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459766	geo:GSE210079:GSM6459766	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459766	geo:GSE210079:GSM6459766	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459766	geo:GSE210079:GSM6459766	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459766	geo:GSE210079:GSM6459766	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459766	geo:GSE210079:GSM6459766	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459766	geo:GSE210079:GSM6459766	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6459766_33-pre_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6459766	geo:GSE210079:GSM6459766	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459766	geo:GSE210079:GSM6459766	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6459766	geo:GSE210079:GSM6459766	sampled_site_condition	diseased	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = treatment group: before CAR T therapy	True
+GSM6459766	geo:GSE210079:GSM6459766	sampled_site_condition	diseased	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 33 CITE-seq data before CAR T therapy	True
+GSM6459766	geo:GSE210079:GSM6459766	sampled_site_condition	diseased	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6459767	geo:GSE210079:GSM6459767	donor_id	Patient# 33	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 33	True
+GSM6459767	geo:GSE210079:GSM6459767	donor_id	Patient# 33	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 33 CITE-seq data at day 28 after CAR T therapy	True
+GSM6459767	geo:GSE210079:GSM6459767	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6459767	geo:GSE210079:GSM6459767	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459767	geo:GSE210079:GSM6459767	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459767	geo:GSE210079:GSM6459767	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459767	geo:GSE210079:GSM6459767	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459767	geo:GSE210079:GSM6459767	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459767	geo:GSE210079:GSM6459767	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459767	geo:GSE210079:GSM6459767	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459767	geo:GSE210079:GSM6459767	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6459767_33-d28_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6459767	geo:GSE210079:GSM6459767	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459767	geo:GSE210079:GSM6459767	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True
+GSM6459769	geo:GSE210079:GSM6459769	donor_id	Patient# 33	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = subject id: Patient# 33	True
+GSM6459769	geo:GSE210079:GSM6459769	donor_id	Patient# 33	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_source_name_ch1 = Multiple Myeloma Patient# 33 CITE-seq data at 3months after CAR T therapy	True
+GSM6459769	geo:GSE210079:GSM6459769	disease_free_text	multiple myeloma	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = disease state: Multiple Myeloma (MM)	True
+GSM6459769	geo:GSE210079:GSM6459769	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459769	geo:GSE210079:GSM6459769	tissue_free_text	bone marrow	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459769	geo:GSE210079:GSM6459769	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were obtained from Multiple Myeloma (MM) patients before and after therapy with BCMA CAR T therapy.	True
+GSM6459769	geo:GSE210079:GSM6459769	tissue_type	tissue	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_characteristics_ch1 = cell type: Bone Marrow Mononuclear cells	True
+GSM6459769	geo:GSE210079:GSM6459769	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459769	geo:GSE210079:GSM6459769	suspension_type	cell	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459769	geo:GSE210079:GSM6459769	cell_enrichment	CL:0000842+	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		Bone marrow mononuclear cells (BMMNCs) were isolated using density gradient centrifugation followed by cryopreservation.	True
+GSM6459769	geo:GSE210079:GSM6459769	assay	10x 5' transcription profiling	file	work/fp-7e23c9cfd319/GSE210079_RAW/GSM6459769_33-3mo_raw_feature_bc_matrix.h5		Single Cell 5' PE	True
+GSM6459769	geo:GSE210079:GSM6459769	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_extract_protocol_ch1 = Gene expression and cell surface libraries were prepared according to the protocol from 10X Genomics	True
+GSM6459769	geo:GSE210079:GSM6459769	assay	10x 5' transcription profiling	file	raw/fp-7e23c9cfd319/GSE210079_family.soft.gz		!Sample_data_processing = Library strategy: CITE-Seq	True

@@ -1,0 +1,557 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	donor_id	<column patient>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/patient			True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	donor_id	<column patient>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/patient			True
+MGUS5	geo:GSE118900:MGUS5	donor_id	<column patient>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/patient			True
+NDMM3	geo:GSE118900:NDMM3	donor_id	<column patient>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/patient			True
+NDMM5	geo:GSE118900:NDMM5	donor_id	<column patient>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/patient			True
+NDMM6	geo:GSE118900:NDMM6	donor_id	<column patient>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/patient			True
+NDMM7	geo:GSE118900:NDMM7	donor_id	<column patient>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/patient			True
+NDMM8	geo:GSE118900:NDMM8	donor_id	<column patient>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/patient			True
+RRMM1	geo:GSE118900:RRMM1	donor_id	<column patient>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/patient			True
+RRMM2	geo:GSE118900:RRMM2	donor_id	<column patient>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/patient			True
+RRMM4	geo:GSE118900:RRMM4	donor_id	<column patient>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/patient			True
+SMM0	geo:GSE118900:SMM0	donor_id	<column patient>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/patient			True
+SMM2	geo:GSE118900:SMM2	donor_id	<column patient>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/patient			True
+SMM3	geo:GSE118900:SMM3	donor_id	<column patient>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/patient			True
+SMM4	geo:GSE118900:SMM4	donor_id	<column patient>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/patient			True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	disease_free_text	<column tumor_stage>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/tumor_stage			True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	disease_free_text	<column tumor_stage>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/tumor_stage			True
+MGUS5	geo:GSE118900:MGUS5	disease_free_text	<column tumor_stage>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/tumor_stage			True
+NDMM3	geo:GSE118900:NDMM3	disease_free_text	<column tumor_stage>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/tumor_stage			True
+NDMM5	geo:GSE118900:NDMM5	disease_free_text	<column tumor_stage>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/tumor_stage			True
+NDMM6	geo:GSE118900:NDMM6	disease_free_text	<column tumor_stage>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/tumor_stage			True
+NDMM7	geo:GSE118900:NDMM7	disease_free_text	<column tumor_stage>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/tumor_stage			True
+NDMM8	geo:GSE118900:NDMM8	disease_free_text	<column tumor_stage>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/tumor_stage			True
+RRMM1	geo:GSE118900:RRMM1	disease_free_text	<column tumor_stage>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/tumor_stage			True
+RRMM2	geo:GSE118900:RRMM2	disease_free_text	<column tumor_stage>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/tumor_stage			True
+RRMM4	geo:GSE118900:RRMM4	disease_free_text	<column tumor_stage>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/tumor_stage			True
+SMM0	geo:GSE118900:SMM0	disease_free_text	<column tumor_stage>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/tumor_stage			True
+SMM2	geo:GSE118900:SMM2	disease_free_text	<column tumor_stage>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/tumor_stage			True
+SMM3	geo:GSE118900:SMM3	disease_free_text	<column tumor_stage>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/tumor_stage			True
+SMM4	geo:GSE118900:SMM4	disease_free_text	<column tumor_stage>	column	work/fp-0d08cf99b511/converted/GSE118900_MM.scrna-seq.tpm.pass.h5ad::obs/tumor_stage			True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	assay_ontology_term_id	EFO:0010058	derived	ols:efo		Fluidigm C1-based SMARTer library preparation	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	assay_ontology_term_id	EFO:0010058	derived	ols:efo		Fluidigm C1-based SMARTer library preparation	True
+MGUS5	geo:GSE118900:MGUS5	assay_ontology_term_id	EFO:0010058	derived	ols:efo		Fluidigm C1-based SMARTer library preparation	True
+NDMM3	geo:GSE118900:NDMM3	assay_ontology_term_id	EFO:0010058	derived	ols:efo		Fluidigm C1-based SMARTer library preparation	True
+NDMM5	geo:GSE118900:NDMM5	assay_ontology_term_id	EFO:0010058	derived	ols:efo		Fluidigm C1-based SMARTer library preparation	True
+NDMM6	geo:GSE118900:NDMM6	assay_ontology_term_id	EFO:0010058	derived	ols:efo		Fluidigm C1-based SMARTer library preparation	True
+NDMM7	geo:GSE118900:NDMM7	assay_ontology_term_id	EFO:0010058	derived	ols:efo		Fluidigm C1-based SMARTer library preparation	True
+NDMM8	geo:GSE118900:NDMM8	assay_ontology_term_id	EFO:0010058	derived	ols:efo		Fluidigm C1-based SMARTer library preparation	True
+RRMM1	geo:GSE118900:RRMM1	assay_ontology_term_id	EFO:0010058	derived	ols:efo		Fluidigm C1-based SMARTer library preparation	True
+RRMM2	geo:GSE118900:RRMM2	assay_ontology_term_id	EFO:0010058	derived	ols:efo		Fluidigm C1-based SMARTer library preparation	True
+RRMM4	geo:GSE118900:RRMM4	assay_ontology_term_id	EFO:0010058	derived	ols:efo		Fluidigm C1-based SMARTer library preparation	True
+SMM0	geo:GSE118900:SMM0	assay_ontology_term_id	EFO:0010058	derived	ols:efo		Fluidigm C1-based SMARTer library preparation	True
+SMM2	geo:GSE118900:SMM2	assay_ontology_term_id	EFO:0010058	derived	ols:efo		Fluidigm C1-based SMARTer library preparation	True
+SMM3	geo:GSE118900:SMM3	assay_ontology_term_id	EFO:0010058	derived	ols:efo		Fluidigm C1-based SMARTer library preparation	True
+SMM4	geo:GSE118900:SMM4	assay_ontology_term_id	EFO:0010058	derived	ols:efo		Fluidigm C1-based SMARTer library preparation	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+MGUS5	geo:GSE118900:MGUS5	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+NDMM3	geo:GSE118900:NDMM3	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+NDMM5	geo:GSE118900:NDMM5	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+NDMM6	geo:GSE118900:NDMM6	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+NDMM7	geo:GSE118900:NDMM7	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+NDMM8	geo:GSE118900:NDMM8	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+RRMM1	geo:GSE118900:RRMM1	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+RRMM2	geo:GSE118900:RRMM2	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+RRMM4	geo:GSE118900:RRMM4	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+SMM0	geo:GSE118900:SMM0	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+SMM2	geo:GSE118900:SMM2	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+SMM3	geo:GSE118900:SMM3	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+SMM4	geo:GSE118900:SMM4	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of undetermined significance	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of undetermined significance	True
+MGUS5	geo:GSE118900:MGUS5	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of undetermined significance	True
+NDMM3	geo:GSE118900:NDMM3	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of undetermined significance	True
+NDMM5	geo:GSE118900:NDMM5	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of undetermined significance	True
+NDMM6	geo:GSE118900:NDMM6	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of undetermined significance	True
+NDMM7	geo:GSE118900:NDMM7	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of undetermined significance	True
+NDMM8	geo:GSE118900:NDMM8	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of undetermined significance	True
+RRMM1	geo:GSE118900:RRMM1	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of undetermined significance	True
+RRMM2	geo:GSE118900:RRMM2	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of undetermined significance	True
+RRMM4	geo:GSE118900:RRMM4	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of undetermined significance	True
+SMM0	geo:GSE118900:SMM0	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of undetermined significance	True
+SMM2	geo:GSE118900:SMM2	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of undetermined significance	True
+SMM3	geo:GSE118900:SMM3	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of undetermined significance	True
+SMM4	geo:GSE118900:SMM4	disease_ontology_term_id	MONDO:0004225	derived	ols:mondo		monoclonal gammopathy of undetermined significance	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+MGUS5	geo:GSE118900:MGUS5	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+NDMM3	geo:GSE118900:NDMM3	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+NDMM5	geo:GSE118900:NDMM5	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+NDMM6	geo:GSE118900:NDMM6	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+NDMM7	geo:GSE118900:NDMM7	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+NDMM8	geo:GSE118900:NDMM8	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+RRMM1	geo:GSE118900:RRMM1	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+RRMM2	geo:GSE118900:RRMM2	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+RRMM4	geo:GSE118900:RRMM4	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+SMM0	geo:GSE118900:SMM0	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+SMM2	geo:GSE118900:SMM2	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+SMM3	geo:GSE118900:SMM3	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+SMM4	geo:GSE118900:SMM4	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	disease_ontology_term_id	MONDO:0005235	derived	ols:mondo		smoldering multiple myeloma	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	disease_ontology_term_id	MONDO:0005235	derived	ols:mondo		smoldering multiple myeloma	True
+MGUS5	geo:GSE118900:MGUS5	disease_ontology_term_id	MONDO:0005235	derived	ols:mondo		smoldering multiple myeloma	True
+NDMM3	geo:GSE118900:NDMM3	disease_ontology_term_id	MONDO:0005235	derived	ols:mondo		smoldering multiple myeloma	True
+NDMM5	geo:GSE118900:NDMM5	disease_ontology_term_id	MONDO:0005235	derived	ols:mondo		smoldering multiple myeloma	True
+NDMM6	geo:GSE118900:NDMM6	disease_ontology_term_id	MONDO:0005235	derived	ols:mondo		smoldering multiple myeloma	True
+NDMM7	geo:GSE118900:NDMM7	disease_ontology_term_id	MONDO:0005235	derived	ols:mondo		smoldering multiple myeloma	True
+NDMM8	geo:GSE118900:NDMM8	disease_ontology_term_id	MONDO:0005235	derived	ols:mondo		smoldering multiple myeloma	True
+RRMM1	geo:GSE118900:RRMM1	disease_ontology_term_id	MONDO:0005235	derived	ols:mondo		smoldering multiple myeloma	True
+RRMM2	geo:GSE118900:RRMM2	disease_ontology_term_id	MONDO:0005235	derived	ols:mondo		smoldering multiple myeloma	True
+RRMM4	geo:GSE118900:RRMM4	disease_ontology_term_id	MONDO:0005235	derived	ols:mondo		smoldering multiple myeloma	True
+SMM0	geo:GSE118900:SMM0	disease_ontology_term_id	MONDO:0005235	derived	ols:mondo		smoldering multiple myeloma	True
+SMM2	geo:GSE118900:SMM2	disease_ontology_term_id	MONDO:0005235	derived	ols:mondo		smoldering multiple myeloma	True
+SMM3	geo:GSE118900:SMM3	disease_ontology_term_id	MONDO:0005235	derived	ols:mondo		smoldering multiple myeloma	True
+SMM4	geo:GSE118900:SMM4	disease_ontology_term_id	MONDO:0005235	derived	ols:mondo		smoldering multiple myeloma	True
+		organism	Homo sapiens	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: IgM-MGUS	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: IgM-MGUS	True
+MGUS5	geo:GSE118900:MGUS5	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: IgM-MGUS	True
+NDMM3	geo:GSE118900:NDMM3	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: IgM-MGUS	True
+NDMM5	geo:GSE118900:NDMM5	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: IgM-MGUS	True
+NDMM6	geo:GSE118900:NDMM6	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: IgM-MGUS	True
+NDMM7	geo:GSE118900:NDMM7	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: IgM-MGUS	True
+NDMM8	geo:GSE118900:NDMM8	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: IgM-MGUS	True
+RRMM1	geo:GSE118900:RRMM1	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: IgM-MGUS	True
+RRMM2	geo:GSE118900:RRMM2	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: IgM-MGUS	True
+RRMM4	geo:GSE118900:RRMM4	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: IgM-MGUS	True
+SMM0	geo:GSE118900:SMM0	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: IgM-MGUS	True
+SMM2	geo:GSE118900:SMM2	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: IgM-MGUS	True
+SMM3	geo:GSE118900:SMM3	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: IgM-MGUS	True
+SMM4	geo:GSE118900:SMM4	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: IgM-MGUS	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: MGUS	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: MGUS	True
+MGUS5	geo:GSE118900:MGUS5	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: MGUS	True
+NDMM3	geo:GSE118900:NDMM3	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: MGUS	True
+NDMM5	geo:GSE118900:NDMM5	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: MGUS	True
+NDMM6	geo:GSE118900:NDMM6	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: MGUS	True
+NDMM7	geo:GSE118900:NDMM7	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: MGUS	True
+NDMM8	geo:GSE118900:NDMM8	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: MGUS	True
+RRMM1	geo:GSE118900:RRMM1	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: MGUS	True
+RRMM2	geo:GSE118900:RRMM2	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: MGUS	True
+RRMM4	geo:GSE118900:RRMM4	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: MGUS	True
+SMM0	geo:GSE118900:SMM0	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: MGUS	True
+SMM2	geo:GSE118900:SMM2	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: MGUS	True
+SMM3	geo:GSE118900:SMM3	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: MGUS	True
+SMM4	geo:GSE118900:SMM4	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: MGUS	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: SMM	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: SMM	True
+MGUS5	geo:GSE118900:MGUS5	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: SMM	True
+NDMM3	geo:GSE118900:NDMM3	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: SMM	True
+NDMM5	geo:GSE118900:NDMM5	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: SMM	True
+NDMM6	geo:GSE118900:NDMM6	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: SMM	True
+NDMM7	geo:GSE118900:NDMM7	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: SMM	True
+NDMM8	geo:GSE118900:NDMM8	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: SMM	True
+RRMM1	geo:GSE118900:RRMM1	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: SMM	True
+RRMM2	geo:GSE118900:RRMM2	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: SMM	True
+RRMM4	geo:GSE118900:RRMM4	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: SMM	True
+SMM0	geo:GSE118900:SMM0	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: SMM	True
+SMM2	geo:GSE118900:SMM2	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: SMM	True
+SMM3	geo:GSE118900:SMM3	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: SMM	True
+SMM4	geo:GSE118900:SMM4	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: SMM	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: NDMM	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: NDMM	True
+MGUS5	geo:GSE118900:MGUS5	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: NDMM	True
+NDMM3	geo:GSE118900:NDMM3	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: NDMM	True
+NDMM5	geo:GSE118900:NDMM5	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: NDMM	True
+NDMM6	geo:GSE118900:NDMM6	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: NDMM	True
+NDMM7	geo:GSE118900:NDMM7	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: NDMM	True
+NDMM8	geo:GSE118900:NDMM8	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: NDMM	True
+RRMM1	geo:GSE118900:RRMM1	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: NDMM	True
+RRMM2	geo:GSE118900:RRMM2	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: NDMM	True
+RRMM4	geo:GSE118900:RRMM4	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: NDMM	True
+SMM0	geo:GSE118900:SMM0	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: NDMM	True
+SMM2	geo:GSE118900:SMM2	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: NDMM	True
+SMM3	geo:GSE118900:SMM3	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: NDMM	True
+SMM4	geo:GSE118900:SMM4	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: NDMM	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: RRMM	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: RRMM	True
+MGUS5	geo:GSE118900:MGUS5	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: RRMM	True
+NDMM3	geo:GSE118900:NDMM3	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: RRMM	True
+NDMM5	geo:GSE118900:NDMM5	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: RRMM	True
+NDMM6	geo:GSE118900:NDMM6	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: RRMM	True
+NDMM7	geo:GSE118900:NDMM7	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: RRMM	True
+NDMM8	geo:GSE118900:NDMM8	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: RRMM	True
+RRMM1	geo:GSE118900:RRMM1	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: RRMM	True
+RRMM2	geo:GSE118900:RRMM2	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: RRMM	True
+RRMM4	geo:GSE118900:RRMM4	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: RRMM	True
+SMM0	geo:GSE118900:SMM0	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: RRMM	True
+SMM2	geo:GSE118900:SMM2	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: RRMM	True
+SMM3	geo:GSE118900:SMM3	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: RRMM	True
+SMM4	geo:GSE118900:SMM4	disease_free_text	<map of column tumor_stage>	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: RRMM	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		monoclonal gammopathy of undetermined significance (MGUS) is a pre-neoplasic condition preceding MM	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		monoclonal gammopathy of undetermined significance (MGUS) is a pre-neoplasic condition preceding MM	True
+MGUS5	geo:GSE118900:MGUS5	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		monoclonal gammopathy of undetermined significance (MGUS) is a pre-neoplasic condition preceding MM	True
+NDMM3	geo:GSE118900:NDMM3	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		monoclonal gammopathy of undetermined significance (MGUS) is a pre-neoplasic condition preceding MM	True
+NDMM5	geo:GSE118900:NDMM5	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		monoclonal gammopathy of undetermined significance (MGUS) is a pre-neoplasic condition preceding MM	True
+NDMM6	geo:GSE118900:NDMM6	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		monoclonal gammopathy of undetermined significance (MGUS) is a pre-neoplasic condition preceding MM	True
+NDMM7	geo:GSE118900:NDMM7	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		monoclonal gammopathy of undetermined significance (MGUS) is a pre-neoplasic condition preceding MM	True
+NDMM8	geo:GSE118900:NDMM8	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		monoclonal gammopathy of undetermined significance (MGUS) is a pre-neoplasic condition preceding MM	True
+RRMM1	geo:GSE118900:RRMM1	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		monoclonal gammopathy of undetermined significance (MGUS) is a pre-neoplasic condition preceding MM	True
+RRMM2	geo:GSE118900:RRMM2	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		monoclonal gammopathy of undetermined significance (MGUS) is a pre-neoplasic condition preceding MM	True
+RRMM4	geo:GSE118900:RRMM4	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		monoclonal gammopathy of undetermined significance (MGUS) is a pre-neoplasic condition preceding MM	True
+SMM0	geo:GSE118900:SMM0	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		monoclonal gammopathy of undetermined significance (MGUS) is a pre-neoplasic condition preceding MM	True
+SMM2	geo:GSE118900:SMM2	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		monoclonal gammopathy of undetermined significance (MGUS) is a pre-neoplasic condition preceding MM	True
+SMM3	geo:GSE118900:SMM3	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		monoclonal gammopathy of undetermined significance (MGUS) is a pre-neoplasic condition preceding MM	True
+SMM4	geo:GSE118900:SMM4	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		monoclonal gammopathy of undetermined significance (MGUS) is a pre-neoplasic condition preceding MM	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		including MGUS, smoldering multiple myeloma (SMM), newly diagnosed MM (NDMM), and relapsed and/or refractory MM (RRMM)	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		including MGUS, smoldering multiple myeloma (SMM), newly diagnosed MM (NDMM), and relapsed and/or refractory MM (RRMM)	True
+MGUS5	geo:GSE118900:MGUS5	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		including MGUS, smoldering multiple myeloma (SMM), newly diagnosed MM (NDMM), and relapsed and/or refractory MM (RRMM)	True
+NDMM3	geo:GSE118900:NDMM3	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		including MGUS, smoldering multiple myeloma (SMM), newly diagnosed MM (NDMM), and relapsed and/or refractory MM (RRMM)	True
+NDMM5	geo:GSE118900:NDMM5	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		including MGUS, smoldering multiple myeloma (SMM), newly diagnosed MM (NDMM), and relapsed and/or refractory MM (RRMM)	True
+NDMM6	geo:GSE118900:NDMM6	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		including MGUS, smoldering multiple myeloma (SMM), newly diagnosed MM (NDMM), and relapsed and/or refractory MM (RRMM)	True
+NDMM7	geo:GSE118900:NDMM7	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		including MGUS, smoldering multiple myeloma (SMM), newly diagnosed MM (NDMM), and relapsed and/or refractory MM (RRMM)	True
+NDMM8	geo:GSE118900:NDMM8	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		including MGUS, smoldering multiple myeloma (SMM), newly diagnosed MM (NDMM), and relapsed and/or refractory MM (RRMM)	True
+RRMM1	geo:GSE118900:RRMM1	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		including MGUS, smoldering multiple myeloma (SMM), newly diagnosed MM (NDMM), and relapsed and/or refractory MM (RRMM)	True
+RRMM2	geo:GSE118900:RRMM2	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		including MGUS, smoldering multiple myeloma (SMM), newly diagnosed MM (NDMM), and relapsed and/or refractory MM (RRMM)	True
+RRMM4	geo:GSE118900:RRMM4	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		including MGUS, smoldering multiple myeloma (SMM), newly diagnosed MM (NDMM), and relapsed and/or refractory MM (RRMM)	True
+SMM0	geo:GSE118900:SMM0	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		including MGUS, smoldering multiple myeloma (SMM), newly diagnosed MM (NDMM), and relapsed and/or refractory MM (RRMM)	True
+SMM2	geo:GSE118900:SMM2	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		including MGUS, smoldering multiple myeloma (SMM), newly diagnosed MM (NDMM), and relapsed and/or refractory MM (RRMM)	True
+SMM3	geo:GSE118900:SMM3	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		including MGUS, smoldering multiple myeloma (SMM), newly diagnosed MM (NDMM), and relapsed and/or refractory MM (RRMM)	True
+SMM4	geo:GSE118900:SMM4	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		including MGUS, smoldering multiple myeloma (SMM), newly diagnosed MM (NDMM), and relapsed and/or refractory MM (RRMM)	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		Multiple myeloma (MM) is a malignant hematological disorder	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		Multiple myeloma (MM) is a malignant hematological disorder	True
+MGUS5	geo:GSE118900:MGUS5	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		Multiple myeloma (MM) is a malignant hematological disorder	True
+NDMM3	geo:GSE118900:NDMM3	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		Multiple myeloma (MM) is a malignant hematological disorder	True
+NDMM5	geo:GSE118900:NDMM5	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		Multiple myeloma (MM) is a malignant hematological disorder	True
+NDMM6	geo:GSE118900:NDMM6	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		Multiple myeloma (MM) is a malignant hematological disorder	True
+NDMM7	geo:GSE118900:NDMM7	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		Multiple myeloma (MM) is a malignant hematological disorder	True
+NDMM8	geo:GSE118900:NDMM8	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		Multiple myeloma (MM) is a malignant hematological disorder	True
+RRMM1	geo:GSE118900:RRMM1	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		Multiple myeloma (MM) is a malignant hematological disorder	True
+RRMM2	geo:GSE118900:RRMM2	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		Multiple myeloma (MM) is a malignant hematological disorder	True
+RRMM4	geo:GSE118900:RRMM4	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		Multiple myeloma (MM) is a malignant hematological disorder	True
+SMM0	geo:GSE118900:SMM0	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		Multiple myeloma (MM) is a malignant hematological disorder	True
+SMM2	geo:GSE118900:SMM2	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		Multiple myeloma (MM) is a malignant hematological disorder	True
+SMM3	geo:GSE118900:SMM3	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		Multiple myeloma (MM) is a malignant hematological disorder	True
+SMM4	geo:GSE118900:SMM4	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		Multiple myeloma (MM) is a malignant hematological disorder	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+MGUS5	geo:GSE118900:MGUS5	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+NDMM3	geo:GSE118900:NDMM3	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+NDMM5	geo:GSE118900:NDMM5	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+NDMM6	geo:GSE118900:NDMM6	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+NDMM7	geo:GSE118900:NDMM7	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+NDMM8	geo:GSE118900:NDMM8	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+RRMM1	geo:GSE118900:RRMM1	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+RRMM2	geo:GSE118900:RRMM2	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+RRMM4	geo:GSE118900:RRMM4	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+SMM0	geo:GSE118900:SMM0	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+SMM2	geo:GSE118900:SMM2	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+SMM3	geo:GSE118900:SMM3	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+SMM4	geo:GSE118900:SMM4	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		An average of 16 cells from three MGUS patients were included in the analysis (range, 7–24 cells/patient)	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		An average of 16 cells from three MGUS patients were included in the analysis (range, 7–24 cells/patient)	True
+MGUS5	geo:GSE118900:MGUS5	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		An average of 16 cells from three MGUS patients were included in the analysis (range, 7–24 cells/patient)	True
+NDMM3	geo:GSE118900:NDMM3	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		An average of 16 cells from three MGUS patients were included in the analysis (range, 7–24 cells/patient)	True
+NDMM5	geo:GSE118900:NDMM5	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		An average of 16 cells from three MGUS patients were included in the analysis (range, 7–24 cells/patient)	True
+NDMM6	geo:GSE118900:NDMM6	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		An average of 16 cells from three MGUS patients were included in the analysis (range, 7–24 cells/patient)	True
+NDMM7	geo:GSE118900:NDMM7	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		An average of 16 cells from three MGUS patients were included in the analysis (range, 7–24 cells/patient)	True
+NDMM8	geo:GSE118900:NDMM8	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		An average of 16 cells from three MGUS patients were included in the analysis (range, 7–24 cells/patient)	True
+RRMM1	geo:GSE118900:RRMM1	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		An average of 16 cells from three MGUS patients were included in the analysis (range, 7–24 cells/patient)	True
+RRMM2	geo:GSE118900:RRMM2	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		An average of 16 cells from three MGUS patients were included in the analysis (range, 7–24 cells/patient)	True
+RRMM4	geo:GSE118900:RRMM4	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		An average of 16 cells from three MGUS patients were included in the analysis (range, 7–24 cells/patient)	True
+SMM0	geo:GSE118900:SMM0	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		An average of 16 cells from three MGUS patients were included in the analysis (range, 7–24 cells/patient)	True
+SMM2	geo:GSE118900:SMM2	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		An average of 16 cells from three MGUS patients were included in the analysis (range, 7–24 cells/patient)	True
+SMM3	geo:GSE118900:SMM3	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		An average of 16 cells from three MGUS patients were included in the analysis (range, 7–24 cells/patient)	True
+SMM4	geo:GSE118900:SMM4	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		An average of 16 cells from three MGUS patients were included in the analysis (range, 7–24 cells/patient)	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS1 26 24 (92%)	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS1 26 24 (92%)	True
+MGUS5	geo:GSE118900:MGUS5	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS1 26 24 (92%)	True
+NDMM3	geo:GSE118900:NDMM3	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS1 26 24 (92%)	True
+NDMM5	geo:GSE118900:NDMM5	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS1 26 24 (92%)	True
+NDMM6	geo:GSE118900:NDMM6	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS1 26 24 (92%)	True
+NDMM7	geo:GSE118900:NDMM7	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS1 26 24 (92%)	True
+NDMM8	geo:GSE118900:NDMM8	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS1 26 24 (92%)	True
+RRMM1	geo:GSE118900:RRMM1	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS1 26 24 (92%)	True
+RRMM2	geo:GSE118900:RRMM2	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS1 26 24 (92%)	True
+RRMM4	geo:GSE118900:RRMM4	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS1 26 24 (92%)	True
+SMM0	geo:GSE118900:SMM0	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS1 26 24 (92%)	True
+SMM2	geo:GSE118900:SMM2	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS1 26 24 (92%)	True
+SMM3	geo:GSE118900:SMM3	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS1 26 24 (92%)	True
+SMM4	geo:GSE118900:SMM4	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS1 26 24 (92%)	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS3 33 17 (52%)	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS3 33 17 (52%)	True
+MGUS5	geo:GSE118900:MGUS5	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS3 33 17 (52%)	True
+NDMM3	geo:GSE118900:NDMM3	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS3 33 17 (52%)	True
+NDMM5	geo:GSE118900:NDMM5	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS3 33 17 (52%)	True
+NDMM6	geo:GSE118900:NDMM6	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS3 33 17 (52%)	True
+NDMM7	geo:GSE118900:NDMM7	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS3 33 17 (52%)	True
+NDMM8	geo:GSE118900:NDMM8	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS3 33 17 (52%)	True
+RRMM1	geo:GSE118900:RRMM1	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS3 33 17 (52%)	True
+RRMM2	geo:GSE118900:RRMM2	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS3 33 17 (52%)	True
+RRMM4	geo:GSE118900:RRMM4	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS3 33 17 (52%)	True
+SMM0	geo:GSE118900:SMM0	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS3 33 17 (52%)	True
+SMM2	geo:GSE118900:SMM2	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS3 33 17 (52%)	True
+SMM3	geo:GSE118900:SMM3	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS3 33 17 (52%)	True
+SMM4	geo:GSE118900:SMM4	disease_free_text	<map of column tumor_stage>	file	evidence/PMC6318319.txt		IgM MGUS3 33 17 (52%)	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+MGUS5	geo:GSE118900:MGUS5	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+NDMM3	geo:GSE118900:NDMM3	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+NDMM5	geo:GSE118900:NDMM5	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+NDMM6	geo:GSE118900:NDMM6	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+NDMM7	geo:GSE118900:NDMM7	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+NDMM8	geo:GSE118900:NDMM8	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+RRMM1	geo:GSE118900:RRMM1	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+RRMM2	geo:GSE118900:RRMM2	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+RRMM4	geo:GSE118900:RRMM4	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+SMM0	geo:GSE118900:SMM0	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+SMM2	geo:GSE118900:SMM2	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+SMM3	geo:GSE118900:SMM3	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+SMM4	geo:GSE118900:SMM4	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+MGUS5	geo:GSE118900:MGUS5	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+NDMM3	geo:GSE118900:NDMM3	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+NDMM5	geo:GSE118900:NDMM5	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+NDMM6	geo:GSE118900:NDMM6	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+NDMM7	geo:GSE118900:NDMM7	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+NDMM8	geo:GSE118900:NDMM8	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+RRMM1	geo:GSE118900:RRMM1	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+RRMM2	geo:GSE118900:RRMM2	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+RRMM4	geo:GSE118900:RRMM4	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+SMM0	geo:GSE118900:SMM0	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+SMM2	geo:GSE118900:SMM2	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+SMM3	geo:GSE118900:SMM3	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+SMM4	geo:GSE118900:SMM4	tissue_free_text	bone marrow	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	tissue_free_text	bone marrow	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	tissue_free_text	bone marrow	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+MGUS5	geo:GSE118900:MGUS5	tissue_free_text	bone marrow	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+NDMM3	geo:GSE118900:NDMM3	tissue_free_text	bone marrow	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+NDMM5	geo:GSE118900:NDMM5	tissue_free_text	bone marrow	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+NDMM6	geo:GSE118900:NDMM6	tissue_free_text	bone marrow	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+NDMM7	geo:GSE118900:NDMM7	tissue_free_text	bone marrow	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+NDMM8	geo:GSE118900:NDMM8	tissue_free_text	bone marrow	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+RRMM1	geo:GSE118900:RRMM1	tissue_free_text	bone marrow	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+RRMM2	geo:GSE118900:RRMM2	tissue_free_text	bone marrow	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+RRMM4	geo:GSE118900:RRMM4	tissue_free_text	bone marrow	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+SMM0	geo:GSE118900:SMM0	tissue_free_text	bone marrow	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+SMM2	geo:GSE118900:SMM2	tissue_free_text	bone marrow	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+SMM3	geo:GSE118900:SMM3	tissue_free_text	bone marrow	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+SMM4	geo:GSE118900:SMM4	tissue_free_text	bone marrow	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	tissue_type	tissue	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	tissue_type	tissue	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+MGUS5	geo:GSE118900:MGUS5	tissue_type	tissue	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+NDMM3	geo:GSE118900:NDMM3	tissue_type	tissue	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+NDMM5	geo:GSE118900:NDMM5	tissue_type	tissue	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+NDMM6	geo:GSE118900:NDMM6	tissue_type	tissue	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+NDMM7	geo:GSE118900:NDMM7	tissue_type	tissue	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+NDMM8	geo:GSE118900:NDMM8	tissue_type	tissue	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+RRMM1	geo:GSE118900:RRMM1	tissue_type	tissue	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+RRMM2	geo:GSE118900:RRMM2	tissue_type	tissue	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+RRMM4	geo:GSE118900:RRMM4	tissue_type	tissue	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+SMM0	geo:GSE118900:SMM0	tissue_type	tissue	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+SMM2	geo:GSE118900:SMM2	tissue_type	tissue	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+SMM3	geo:GSE118900:SMM3	tissue_type	tissue	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+SMM4	geo:GSE118900:SMM4	tissue_type	tissue	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	tissue_type	tissue	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	tissue_type	tissue	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+MGUS5	geo:GSE118900:MGUS5	tissue_type	tissue	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+NDMM3	geo:GSE118900:NDMM3	tissue_type	tissue	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+NDMM5	geo:GSE118900:NDMM5	tissue_type	tissue	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+NDMM6	geo:GSE118900:NDMM6	tissue_type	tissue	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+NDMM7	geo:GSE118900:NDMM7	tissue_type	tissue	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+NDMM8	geo:GSE118900:NDMM8	tissue_type	tissue	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+RRMM1	geo:GSE118900:RRMM1	tissue_type	tissue	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+RRMM2	geo:GSE118900:RRMM2	tissue_type	tissue	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+RRMM4	geo:GSE118900:RRMM4	tissue_type	tissue	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+SMM0	geo:GSE118900:SMM0	tissue_type	tissue	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+SMM2	geo:GSE118900:SMM2	tissue_type	tissue	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+SMM3	geo:GSE118900:SMM3	tissue_type	tissue	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+SMM4	geo:GSE118900:SMM4	tissue_type	tissue	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	tissue_type	tissue	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	tissue_type	tissue	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+MGUS5	geo:GSE118900:MGUS5	tissue_type	tissue	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+NDMM3	geo:GSE118900:NDMM3	tissue_type	tissue	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+NDMM5	geo:GSE118900:NDMM5	tissue_type	tissue	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+NDMM6	geo:GSE118900:NDMM6	tissue_type	tissue	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+NDMM7	geo:GSE118900:NDMM7	tissue_type	tissue	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+NDMM8	geo:GSE118900:NDMM8	tissue_type	tissue	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+RRMM1	geo:GSE118900:RRMM1	tissue_type	tissue	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+RRMM2	geo:GSE118900:RRMM2	tissue_type	tissue	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+RRMM4	geo:GSE118900:RRMM4	tissue_type	tissue	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+SMM0	geo:GSE118900:SMM0	tissue_type	tissue	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+SMM2	geo:GSE118900:SMM2	tissue_type	tissue	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+SMM3	geo:GSE118900:SMM3	tissue_type	tissue	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+SMM4	geo:GSE118900:SMM4	tissue_type	tissue	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+MGUS5	geo:GSE118900:MGUS5	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+NDMM3	geo:GSE118900:NDMM3	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+NDMM5	geo:GSE118900:NDMM5	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+NDMM6	geo:GSE118900:NDMM6	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+NDMM7	geo:GSE118900:NDMM7	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+NDMM8	geo:GSE118900:NDMM8	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+RRMM1	geo:GSE118900:RRMM1	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+RRMM2	geo:GSE118900:RRMM2	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+RRMM4	geo:GSE118900:RRMM4	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+SMM0	geo:GSE118900:SMM0	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+SMM2	geo:GSE118900:SMM2	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+SMM3	geo:GSE118900:SMM3	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+SMM4	geo:GSE118900:SMM4	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+MGUS5	geo:GSE118900:MGUS5	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+NDMM3	geo:GSE118900:NDMM3	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+NDMM5	geo:GSE118900:NDMM5	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+NDMM6	geo:GSE118900:NDMM6	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+NDMM7	geo:GSE118900:NDMM7	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+NDMM8	geo:GSE118900:NDMM8	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+RRMM1	geo:GSE118900:RRMM1	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+RRMM2	geo:GSE118900:RRMM2	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+RRMM4	geo:GSE118900:RRMM4	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+SMM0	geo:GSE118900:SMM0	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+SMM2	geo:GSE118900:SMM2	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+SMM3	geo:GSE118900:SMM3	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+SMM4	geo:GSE118900:SMM4	sample_collection_method	bone marrow aspiration	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	sample_collection_method	bone marrow aspiration	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	sample_collection_method	bone marrow aspiration	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+MGUS5	geo:GSE118900:MGUS5	sample_collection_method	bone marrow aspiration	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+NDMM3	geo:GSE118900:NDMM3	sample_collection_method	bone marrow aspiration	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+NDMM5	geo:GSE118900:NDMM5	sample_collection_method	bone marrow aspiration	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+NDMM6	geo:GSE118900:NDMM6	sample_collection_method	bone marrow aspiration	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+NDMM7	geo:GSE118900:NDMM7	sample_collection_method	bone marrow aspiration	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+NDMM8	geo:GSE118900:NDMM8	sample_collection_method	bone marrow aspiration	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+RRMM1	geo:GSE118900:RRMM1	sample_collection_method	bone marrow aspiration	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+RRMM2	geo:GSE118900:RRMM2	sample_collection_method	bone marrow aspiration	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+RRMM4	geo:GSE118900:RRMM4	sample_collection_method	bone marrow aspiration	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+SMM0	geo:GSE118900:SMM0	sample_collection_method	bone marrow aspiration	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+SMM2	geo:GSE118900:SMM2	sample_collection_method	bone marrow aspiration	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+SMM3	geo:GSE118900:SMM3	sample_collection_method	bone marrow aspiration	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+SMM4	geo:GSE118900:SMM4	sample_collection_method	bone marrow aspiration	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Bone marrow aspirates were collected from 15 patients after informed consent and subjected to ACK lysis and mononuclear cell isolation.	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+MGUS5	geo:GSE118900:MGUS5	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+NDMM3	geo:GSE118900:NDMM3	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+NDMM5	geo:GSE118900:NDMM5	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+NDMM6	geo:GSE118900:NDMM6	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+NDMM7	geo:GSE118900:NDMM7	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+NDMM8	geo:GSE118900:NDMM8	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+RRMM1	geo:GSE118900:RRMM1	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+RRMM2	geo:GSE118900:RRMM2	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+RRMM4	geo:GSE118900:RRMM4	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+SMM0	geo:GSE118900:SMM0	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+SMM2	geo:GSE118900:SMM2	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+SMM3	geo:GSE118900:SMM3	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+SMM4	geo:GSE118900:SMM4	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		patients with MGUS ( n = 3), SMM ( n = 4), NDMM = 5, and RRMM ( n = 3)	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+MGUS5	geo:GSE118900:MGUS5	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+NDMM3	geo:GSE118900:NDMM3	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+NDMM5	geo:GSE118900:NDMM5	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+NDMM6	geo:GSE118900:NDMM6	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+NDMM7	geo:GSE118900:NDMM7	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+NDMM8	geo:GSE118900:NDMM8	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+RRMM1	geo:GSE118900:RRMM1	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+RRMM2	geo:GSE118900:RRMM2	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+RRMM4	geo:GSE118900:RRMM4	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+SMM0	geo:GSE118900:SMM0	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+SMM2	geo:GSE118900:SMM2	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+SMM3	geo:GSE118900:SMM3	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+SMM4	geo:GSE118900:SMM4	sampled_site_condition	diseased	file	evidence/PMC6318319.txt		Bone marrow aspirates were collected from 15 patients (Table 1 ) after informed consent	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	cell_enrichment	CD138+	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Plasma cells were separated by positive selection using CD138 coated magnetic beads	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	cell_enrichment	CD138+	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Plasma cells were separated by positive selection using CD138 coated magnetic beads	True
+MGUS5	geo:GSE118900:MGUS5	cell_enrichment	CD138+	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Plasma cells were separated by positive selection using CD138 coated magnetic beads	True
+NDMM3	geo:GSE118900:NDMM3	cell_enrichment	CD138+	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Plasma cells were separated by positive selection using CD138 coated magnetic beads	True
+NDMM5	geo:GSE118900:NDMM5	cell_enrichment	CD138+	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Plasma cells were separated by positive selection using CD138 coated magnetic beads	True
+NDMM6	geo:GSE118900:NDMM6	cell_enrichment	CD138+	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Plasma cells were separated by positive selection using CD138 coated magnetic beads	True
+NDMM7	geo:GSE118900:NDMM7	cell_enrichment	CD138+	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Plasma cells were separated by positive selection using CD138 coated magnetic beads	True
+NDMM8	geo:GSE118900:NDMM8	cell_enrichment	CD138+	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Plasma cells were separated by positive selection using CD138 coated magnetic beads	True
+RRMM1	geo:GSE118900:RRMM1	cell_enrichment	CD138+	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Plasma cells were separated by positive selection using CD138 coated magnetic beads	True
+RRMM2	geo:GSE118900:RRMM2	cell_enrichment	CD138+	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Plasma cells were separated by positive selection using CD138 coated magnetic beads	True
+RRMM4	geo:GSE118900:RRMM4	cell_enrichment	CD138+	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Plasma cells were separated by positive selection using CD138 coated magnetic beads	True
+SMM0	geo:GSE118900:SMM0	cell_enrichment	CD138+	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Plasma cells were separated by positive selection using CD138 coated magnetic beads	True
+SMM2	geo:GSE118900:SMM2	cell_enrichment	CD138+	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Plasma cells were separated by positive selection using CD138 coated magnetic beads	True
+SMM3	geo:GSE118900:SMM3	cell_enrichment	CD138+	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Plasma cells were separated by positive selection using CD138 coated magnetic beads	True
+SMM4	geo:GSE118900:SMM4	cell_enrichment	CD138+	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		Plasma cells were separated by positive selection using CD138 coated magnetic beads	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	cell_enrichment	CD138+	file	evidence/PMC6318319.txt		Plasma cells were separated by positive selection using CD138-coated magnetic beads	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	cell_enrichment	CD138+	file	evidence/PMC6318319.txt		Plasma cells were separated by positive selection using CD138-coated magnetic beads	True
+MGUS5	geo:GSE118900:MGUS5	cell_enrichment	CD138+	file	evidence/PMC6318319.txt		Plasma cells were separated by positive selection using CD138-coated magnetic beads	True
+NDMM3	geo:GSE118900:NDMM3	cell_enrichment	CD138+	file	evidence/PMC6318319.txt		Plasma cells were separated by positive selection using CD138-coated magnetic beads	True
+NDMM5	geo:GSE118900:NDMM5	cell_enrichment	CD138+	file	evidence/PMC6318319.txt		Plasma cells were separated by positive selection using CD138-coated magnetic beads	True
+NDMM6	geo:GSE118900:NDMM6	cell_enrichment	CD138+	file	evidence/PMC6318319.txt		Plasma cells were separated by positive selection using CD138-coated magnetic beads	True
+NDMM7	geo:GSE118900:NDMM7	cell_enrichment	CD138+	file	evidence/PMC6318319.txt		Plasma cells were separated by positive selection using CD138-coated magnetic beads	True
+NDMM8	geo:GSE118900:NDMM8	cell_enrichment	CD138+	file	evidence/PMC6318319.txt		Plasma cells were separated by positive selection using CD138-coated magnetic beads	True
+RRMM1	geo:GSE118900:RRMM1	cell_enrichment	CD138+	file	evidence/PMC6318319.txt		Plasma cells were separated by positive selection using CD138-coated magnetic beads	True
+RRMM2	geo:GSE118900:RRMM2	cell_enrichment	CD138+	file	evidence/PMC6318319.txt		Plasma cells were separated by positive selection using CD138-coated magnetic beads	True
+RRMM4	geo:GSE118900:RRMM4	cell_enrichment	CD138+	file	evidence/PMC6318319.txt		Plasma cells were separated by positive selection using CD138-coated magnetic beads	True
+SMM0	geo:GSE118900:SMM0	cell_enrichment	CD138+	file	evidence/PMC6318319.txt		Plasma cells were separated by positive selection using CD138-coated magnetic beads	True
+SMM2	geo:GSE118900:SMM2	cell_enrichment	CD138+	file	evidence/PMC6318319.txt		Plasma cells were separated by positive selection using CD138-coated magnetic beads	True
+SMM3	geo:GSE118900:SMM3	cell_enrichment	CD138+	file	evidence/PMC6318319.txt		Plasma cells were separated by positive selection using CD138-coated magnetic beads	True
+SMM4	geo:GSE118900:SMM4	cell_enrichment	CD138+	file	evidence/PMC6318319.txt		Plasma cells were separated by positive selection using CD138-coated magnetic beads	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	suspension_type	cell	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	suspension_type	cell	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+MGUS5	geo:GSE118900:MGUS5	suspension_type	cell	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+NDMM3	geo:GSE118900:NDMM3	suspension_type	cell	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+NDMM5	geo:GSE118900:NDMM5	suspension_type	cell	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+NDMM6	geo:GSE118900:NDMM6	suspension_type	cell	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+NDMM7	geo:GSE118900:NDMM7	suspension_type	cell	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+NDMM8	geo:GSE118900:NDMM8	suspension_type	cell	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+RRMM1	geo:GSE118900:RRMM1	suspension_type	cell	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+RRMM2	geo:GSE118900:RRMM2	suspension_type	cell	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+RRMM4	geo:GSE118900:RRMM4	suspension_type	cell	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+SMM0	geo:GSE118900:SMM0	suspension_type	cell	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+SMM2	geo:GSE118900:SMM2	suspension_type	cell	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+SMM3	geo:GSE118900:SMM3	suspension_type	cell	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+SMM4	geo:GSE118900:SMM4	suspension_type	cell	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	suspension_type	cell	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	suspension_type	cell	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+MGUS5	geo:GSE118900:MGUS5	suspension_type	cell	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+NDMM3	geo:GSE118900:NDMM3	suspension_type	cell	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+NDMM5	geo:GSE118900:NDMM5	suspension_type	cell	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+NDMM6	geo:GSE118900:NDMM6	suspension_type	cell	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+NDMM7	geo:GSE118900:NDMM7	suspension_type	cell	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+NDMM8	geo:GSE118900:NDMM8	suspension_type	cell	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+RRMM1	geo:GSE118900:RRMM1	suspension_type	cell	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+RRMM2	geo:GSE118900:RRMM2	suspension_type	cell	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+RRMM4	geo:GSE118900:RRMM4	suspension_type	cell	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+SMM0	geo:GSE118900:SMM0	suspension_type	cell	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+SMM2	geo:GSE118900:SMM2	suspension_type	cell	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+SMM3	geo:GSE118900:SMM3	suspension_type	cell	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+SMM4	geo:GSE118900:SMM4	suspension_type	cell	file	evidence/PMC6318319.txt		597 CD138 positive cells from bone marrow aspirates of 15 patients	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	assay	Fluidigm C1-based SMARTer library preparation	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	assay	Fluidigm C1-based SMARTer library preparation	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+MGUS5	geo:GSE118900:MGUS5	assay	Fluidigm C1-based SMARTer library preparation	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+NDMM3	geo:GSE118900:NDMM3	assay	Fluidigm C1-based SMARTer library preparation	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+NDMM5	geo:GSE118900:NDMM5	assay	Fluidigm C1-based SMARTer library preparation	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+NDMM6	geo:GSE118900:NDMM6	assay	Fluidigm C1-based SMARTer library preparation	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+NDMM7	geo:GSE118900:NDMM7	assay	Fluidigm C1-based SMARTer library preparation	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+NDMM8	geo:GSE118900:NDMM8	assay	Fluidigm C1-based SMARTer library preparation	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+RRMM1	geo:GSE118900:RRMM1	assay	Fluidigm C1-based SMARTer library preparation	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+RRMM2	geo:GSE118900:RRMM2	assay	Fluidigm C1-based SMARTer library preparation	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+RRMM4	geo:GSE118900:RRMM4	assay	Fluidigm C1-based SMARTer library preparation	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+SMM0	geo:GSE118900:SMM0	assay	Fluidigm C1-based SMARTer library preparation	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+SMM2	geo:GSE118900:SMM2	assay	Fluidigm C1-based SMARTer library preparation	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+SMM3	geo:GSE118900:SMM3	assay	Fluidigm C1-based SMARTer library preparation	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+SMM4	geo:GSE118900:SMM4	assay	Fluidigm C1-based SMARTer library preparation	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		A microfluidic mRNA-Seq chip (Fluidigm, CA) was used for capturing cells from each sample	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	assay	Fluidigm C1-based SMARTer library preparation	file	evidence/PMC6318319.txt		run in the Fluidigm C1 system to generate double-stranded cDNA using SMARTer Ultra Low RNA kit for Illumina	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	assay	Fluidigm C1-based SMARTer library preparation	file	evidence/PMC6318319.txt		run in the Fluidigm C1 system to generate double-stranded cDNA using SMARTer Ultra Low RNA kit for Illumina	True
+MGUS5	geo:GSE118900:MGUS5	assay	Fluidigm C1-based SMARTer library preparation	file	evidence/PMC6318319.txt		run in the Fluidigm C1 system to generate double-stranded cDNA using SMARTer Ultra Low RNA kit for Illumina	True
+NDMM3	geo:GSE118900:NDMM3	assay	Fluidigm C1-based SMARTer library preparation	file	evidence/PMC6318319.txt		run in the Fluidigm C1 system to generate double-stranded cDNA using SMARTer Ultra Low RNA kit for Illumina	True
+NDMM5	geo:GSE118900:NDMM5	assay	Fluidigm C1-based SMARTer library preparation	file	evidence/PMC6318319.txt		run in the Fluidigm C1 system to generate double-stranded cDNA using SMARTer Ultra Low RNA kit for Illumina	True
+NDMM6	geo:GSE118900:NDMM6	assay	Fluidigm C1-based SMARTer library preparation	file	evidence/PMC6318319.txt		run in the Fluidigm C1 system to generate double-stranded cDNA using SMARTer Ultra Low RNA kit for Illumina	True
+NDMM7	geo:GSE118900:NDMM7	assay	Fluidigm C1-based SMARTer library preparation	file	evidence/PMC6318319.txt		run in the Fluidigm C1 system to generate double-stranded cDNA using SMARTer Ultra Low RNA kit for Illumina	True
+NDMM8	geo:GSE118900:NDMM8	assay	Fluidigm C1-based SMARTer library preparation	file	evidence/PMC6318319.txt		run in the Fluidigm C1 system to generate double-stranded cDNA using SMARTer Ultra Low RNA kit for Illumina	True
+RRMM1	geo:GSE118900:RRMM1	assay	Fluidigm C1-based SMARTer library preparation	file	evidence/PMC6318319.txt		run in the Fluidigm C1 system to generate double-stranded cDNA using SMARTer Ultra Low RNA kit for Illumina	True
+RRMM2	geo:GSE118900:RRMM2	assay	Fluidigm C1-based SMARTer library preparation	file	evidence/PMC6318319.txt		run in the Fluidigm C1 system to generate double-stranded cDNA using SMARTer Ultra Low RNA kit for Illumina	True
+RRMM4	geo:GSE118900:RRMM4	assay	Fluidigm C1-based SMARTer library preparation	file	evidence/PMC6318319.txt		run in the Fluidigm C1 system to generate double-stranded cDNA using SMARTer Ultra Low RNA kit for Illumina	True
+SMM0	geo:GSE118900:SMM0	assay	Fluidigm C1-based SMARTer library preparation	file	evidence/PMC6318319.txt		run in the Fluidigm C1 system to generate double-stranded cDNA using SMARTer Ultra Low RNA kit for Illumina	True
+SMM2	geo:GSE118900:SMM2	assay	Fluidigm C1-based SMARTer library preparation	file	evidence/PMC6318319.txt		run in the Fluidigm C1 system to generate double-stranded cDNA using SMARTer Ultra Low RNA kit for Illumina	True
+SMM3	geo:GSE118900:SMM3	assay	Fluidigm C1-based SMARTer library preparation	file	evidence/PMC6318319.txt		run in the Fluidigm C1 system to generate double-stranded cDNA using SMARTer Ultra Low RNA kit for Illumina	True
+SMM4	geo:GSE118900:SMM4	assay	Fluidigm C1-based SMARTer library preparation	file	evidence/PMC6318319.txt		run in the Fluidigm C1 system to generate double-stranded cDNA using SMARTer Ultra Low RNA kit for Illumina	True
+IgM-MGUS1	geo:GSE118900:IgM-MGUS1	gene_annotation_version	hg19	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_data_processing = Genome_build: hg19	True
+IgM-MGUS3	geo:GSE118900:IgM-MGUS3	gene_annotation_version	hg19	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_data_processing = Genome_build: hg19	True
+MGUS5	geo:GSE118900:MGUS5	gene_annotation_version	hg19	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_data_processing = Genome_build: hg19	True
+NDMM3	geo:GSE118900:NDMM3	gene_annotation_version	hg19	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_data_processing = Genome_build: hg19	True
+NDMM5	geo:GSE118900:NDMM5	gene_annotation_version	hg19	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_data_processing = Genome_build: hg19	True
+NDMM6	geo:GSE118900:NDMM6	gene_annotation_version	hg19	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_data_processing = Genome_build: hg19	True
+NDMM7	geo:GSE118900:NDMM7	gene_annotation_version	hg19	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_data_processing = Genome_build: hg19	True
+NDMM8	geo:GSE118900:NDMM8	gene_annotation_version	hg19	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_data_processing = Genome_build: hg19	True
+RRMM1	geo:GSE118900:RRMM1	gene_annotation_version	hg19	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_data_processing = Genome_build: hg19	True
+RRMM2	geo:GSE118900:RRMM2	gene_annotation_version	hg19	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_data_processing = Genome_build: hg19	True
+RRMM4	geo:GSE118900:RRMM4	gene_annotation_version	hg19	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_data_processing = Genome_build: hg19	True
+SMM0	geo:GSE118900:SMM0	gene_annotation_version	hg19	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_data_processing = Genome_build: hg19	True
+SMM2	geo:GSE118900:SMM2	gene_annotation_version	hg19	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_data_processing = Genome_build: hg19	True
+SMM3	geo:GSE118900:SMM3	gene_annotation_version	hg19	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_data_processing = Genome_build: hg19	True
+SMM4	geo:GSE118900:SMM4	gene_annotation_version	hg19	file	raw/fp-0d08cf99b511/GSE118900_family.soft.gz		!Sample_data_processing = Genome_build: hg19	True

@@ -1,0 +1,318 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8804962	geo:GSE290061:GSM8804962	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM8804962	geo:GSE290061:GSM8804962	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM8804963	geo:GSE290061:GSM8804963	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM8804963	geo:GSE290061:GSM8804963	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM8804964	geo:GSE290061:GSM8804964	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM8804964	geo:GSE290061:GSM8804964	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM8804965	geo:GSE290061:GSM8804965	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM8804965	geo:GSE290061:GSM8804965	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM8804966	geo:GSE290061:GSM8804966	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM8804966	geo:GSE290061:GSM8804966	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM8804967	geo:GSE290061:GSM8804967	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM8804967	geo:GSE290061:GSM8804967	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM8804968	geo:GSE290061:GSM8804968	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM8804968	geo:GSE290061:GSM8804968	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM8804969	geo:GSE290061:GSM8804969	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM8804969	geo:GSE290061:GSM8804969	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM8804970	geo:GSE290061:GSM8804970	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM8804970	geo:GSE290061:GSM8804970	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM8804971	geo:GSE290061:GSM8804971	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM8804971	geo:GSE290061:GSM8804971	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM8804972	geo:GSE290061:GSM8804972	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM8804972	geo:GSE290061:GSM8804972	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+		organism	Homo sapiens	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8804962	geo:GSE290061:GSM8804962	disease_free_text	multiple myeloma	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		!Series_title = Single-cell multi-omics provide insights into molecular drivers of CAR T Cell Persistence and Function in Multiple Myeloma	True
+GSM8804962	geo:GSE290061:GSM8804962	disease_free_text	multiple myeloma	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells isolated from BM and PB samples of three R/R MM patients and their paired infusion product	True
+GSM8804962	geo:GSE290061:GSM8804962	disease_free_text	multiple myeloma	file	evidence/PMC13101692.txt		persistence in multiple myeloma (MM)	True
+GSM8804962	geo:GSE290061:GSM8804962	disease_free_text	multiple myeloma	file	evidence/PMC13101692.txt		from 3 patients with R/R MM	True
+GSM8804962	geo:GSE290061:GSM8804962	disease_stage	relapsed/refractory	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells isolated from BM and PB samples of three R/R MM patients and their paired infusion product	True
+GSM8804962	geo:GSE290061:GSM8804962	disease_stage	relapsed/refractory	file	evidence/PMC13101692.txt		patients with relapsed/refractory (R/R) disease	True
+GSM8804962	geo:GSE290061:GSM8804962	disease_stage	relapsed/refractory	file	evidence/PMC13101692.txt		from 3 patients with R/R MM	True
+GSM8804962	geo:GSE290061:GSM8804962	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		collected from MM patients treated with BCMA CAR T cells	True
+GSM8804962	geo:GSE290061:GSM8804962	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		enrolled in the CARTBCMA-HCB-01 trial ( NCT04309981 )	True
+GSM8804962	geo:GSE290061:GSM8804962	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		a phase 1 to 2, single-arm, multicenter study assessing ARI0002h in R/R MM	True
+GSM8804962	geo:GSE290061:GSM8804962	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		ARI0002h is a humanized BCMA-targeted CAR with a CD8α hinge and transmembrane region, a 4-1BB costimulatory domain, and a CD3ζ signaling domain	True
+GSM8804962	geo:GSE290061:GSM8804962	assay	10x 5' transcription profiling	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		subjected to scRNA-seq using the Chromium Single Cell 5′ Reagent Kit (10X Genomics)	True
+GSM8804962	geo:GSE290061:GSM8804962	suspension_type	cell	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		FACS-sorted CAR T cells from BM and PB samples of MM patients were subjected to scRNA-seq	True
+GSM8804962	geo:GSE290061:GSM8804962	gene_annotation_version	GRCh38 + ARI002h CAR transgene feature (Cell Ranger v6.0.1)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		aligned to the human reference (GRCh38) and the feature-barcode matrix was quantified using Cell Ranger (v6.0.1)	True
+GSM8804962	geo:GSE290061:GSM8804962	gene_annotation_version	GRCh38 + ARI002h CAR transgene feature (Cell Ranger v6.0.1)	file	work/fp-747fda2b27f9/GSE290061_RAW/GSM8804962_p1_CARTcell_IP_Count_features.tsv.gz		ARI002h ARI002h Gene Expression	True
+GSM8804962	geo:GSE290061:GSM8804962	donor_id	p1	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804962	!Sample_title = p1_IP_sc	True
+GSM8804962	geo:GSE290061:GSM8804962	donor_id	p1	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		three R/R MM patients	True
+GSM8804962	geo:GSE290061:GSM8804962	timepoint	infusion product	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804962	!Sample_characteristics_ch1 = tissue: Infusion Product	True
+GSM8804962	geo:GSE290061:GSM8804962	timepoint	infusion product	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804962	!Sample_characteristics_ch1 = cell type: CAR T infusion product	True
+GSM8804962	geo:GSE290061:GSM8804962	timepoint	infusion product	file	evidence/PMC13101692.txt		collected from IPs as well as paired BM and PB samples at 1 and 3 months after infusion	True
+GSM8804963	geo:GSE290061:GSM8804963	disease_free_text	multiple myeloma	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		!Series_title = Single-cell multi-omics provide insights into molecular drivers of CAR T Cell Persistence and Function in Multiple Myeloma	True
+GSM8804963	geo:GSE290061:GSM8804963	disease_free_text	multiple myeloma	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells isolated from BM and PB samples of three R/R MM patients and their paired infusion product	True
+GSM8804963	geo:GSE290061:GSM8804963	disease_free_text	multiple myeloma	file	evidence/PMC13101692.txt		persistence in multiple myeloma (MM)	True
+GSM8804963	geo:GSE290061:GSM8804963	disease_free_text	multiple myeloma	file	evidence/PMC13101692.txt		from 3 patients with R/R MM	True
+GSM8804963	geo:GSE290061:GSM8804963	disease_stage	relapsed/refractory	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells isolated from BM and PB samples of three R/R MM patients and their paired infusion product	True
+GSM8804963	geo:GSE290061:GSM8804963	disease_stage	relapsed/refractory	file	evidence/PMC13101692.txt		patients with relapsed/refractory (R/R) disease	True
+GSM8804963	geo:GSE290061:GSM8804963	disease_stage	relapsed/refractory	file	evidence/PMC13101692.txt		from 3 patients with R/R MM	True
+GSM8804963	geo:GSE290061:GSM8804963	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		collected from MM patients treated with BCMA CAR T cells	True
+GSM8804963	geo:GSE290061:GSM8804963	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		enrolled in the CARTBCMA-HCB-01 trial ( NCT04309981 )	True
+GSM8804963	geo:GSE290061:GSM8804963	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		a phase 1 to 2, single-arm, multicenter study assessing ARI0002h in R/R MM	True
+GSM8804963	geo:GSE290061:GSM8804963	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		ARI0002h is a humanized BCMA-targeted CAR with a CD8α hinge and transmembrane region, a 4-1BB costimulatory domain, and a CD3ζ signaling domain	True
+GSM8804963	geo:GSE290061:GSM8804963	assay	10x 5' transcription profiling	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		subjected to scRNA-seq using the Chromium Single Cell 5′ Reagent Kit (10X Genomics)	True
+GSM8804963	geo:GSE290061:GSM8804963	suspension_type	cell	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		FACS-sorted CAR T cells from BM and PB samples of MM patients were subjected to scRNA-seq	True
+GSM8804963	geo:GSE290061:GSM8804963	gene_annotation_version	GRCh38 + ARI002h CAR transgene feature (Cell Ranger v6.0.1)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		aligned to the human reference (GRCh38) and the feature-barcode matrix was quantified using Cell Ranger (v6.0.1)	True
+GSM8804963	geo:GSE290061:GSM8804963	gene_annotation_version	GRCh38 + ARI002h CAR transgene feature (Cell Ranger v6.0.1)	file	work/fp-747fda2b27f9/GSE290061_RAW/GSM8804962_p1_CARTcell_IP_Count_features.tsv.gz		ARI002h ARI002h Gene Expression	True
+GSM8804963	geo:GSE290061:GSM8804963	donor_id	p1	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804963	!Sample_title = p1_BM_M3_sc	True
+GSM8804963	geo:GSE290061:GSM8804963	donor_id	p1	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		three R/R MM patients	True
+GSM8804963	geo:GSE290061:GSM8804963	timepoint	month 3 after infusion (M3)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804963	!Sample_title = p1_BM_M3_sc	True
+GSM8804963	geo:GSE290061:GSM8804963	timepoint	month 3 after infusion (M3)	file	evidence/PMC13101692.txt		M1 = month 1, M3 = month 3	True
+GSM8804963	geo:GSE290061:GSM8804963	timepoint	month 3 after infusion (M3)	file	evidence/PMC13101692.txt		at 1 and 3 months after infusion	True
+GSM8804963	geo:GSE290061:GSM8804963	treatment_status	post-treatment	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804963	!Sample_title = p1_BM_M3_sc	True
+GSM8804963	geo:GSE290061:GSM8804963	treatment_status	post-treatment	file	evidence/PMC13101692.txt		at 1 and 3 months after infusion	True
+GSM8804963	geo:GSE290061:GSM8804963	cell_enrichment	CAR+ fraction	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804963	!Sample_characteristics_ch1 = cell fraction_strategy: CAR+ fraction	True
+GSM8804963	geo:GSE290061:GSM8804963	cell_enrichment	CAR+ fraction	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells were then sorted either with BD FACSAria IIu or Moflo ASTRIOS BC	True
+GSM8804963	geo:GSE290061:GSM8804963	tissue_free_text	BM aspirate	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804963	!Sample_characteristics_ch1 = tissue: BM aspirate	True
+GSM8804963	geo:GSE290061:GSM8804963	tissue_type	tissue	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804963	!Sample_characteristics_ch1 = tissue: BM aspirate	True
+GSM8804963	geo:GSE290061:GSM8804963	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804963	!Sample_characteristics_ch1 = tissue: BM aspirate	True
+GSM8804963	geo:GSE290061:GSM8804963	sample_collection_method	bone marrow aspirate	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804963	!Sample_characteristics_ch1 = tissue: BM aspirate	True
+GSM8804964	geo:GSE290061:GSM8804964	disease_free_text	multiple myeloma	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		!Series_title = Single-cell multi-omics provide insights into molecular drivers of CAR T Cell Persistence and Function in Multiple Myeloma	True
+GSM8804964	geo:GSE290061:GSM8804964	disease_free_text	multiple myeloma	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells isolated from BM and PB samples of three R/R MM patients and their paired infusion product	True
+GSM8804964	geo:GSE290061:GSM8804964	disease_free_text	multiple myeloma	file	evidence/PMC13101692.txt		persistence in multiple myeloma (MM)	True
+GSM8804964	geo:GSE290061:GSM8804964	disease_free_text	multiple myeloma	file	evidence/PMC13101692.txt		from 3 patients with R/R MM	True
+GSM8804964	geo:GSE290061:GSM8804964	disease_stage	relapsed/refractory	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells isolated from BM and PB samples of three R/R MM patients and their paired infusion product	True
+GSM8804964	geo:GSE290061:GSM8804964	disease_stage	relapsed/refractory	file	evidence/PMC13101692.txt		patients with relapsed/refractory (R/R) disease	True
+GSM8804964	geo:GSE290061:GSM8804964	disease_stage	relapsed/refractory	file	evidence/PMC13101692.txt		from 3 patients with R/R MM	True
+GSM8804964	geo:GSE290061:GSM8804964	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		collected from MM patients treated with BCMA CAR T cells	True
+GSM8804964	geo:GSE290061:GSM8804964	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		enrolled in the CARTBCMA-HCB-01 trial ( NCT04309981 )	True
+GSM8804964	geo:GSE290061:GSM8804964	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		a phase 1 to 2, single-arm, multicenter study assessing ARI0002h in R/R MM	True
+GSM8804964	geo:GSE290061:GSM8804964	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		ARI0002h is a humanized BCMA-targeted CAR with a CD8α hinge and transmembrane region, a 4-1BB costimulatory domain, and a CD3ζ signaling domain	True
+GSM8804964	geo:GSE290061:GSM8804964	assay	10x 5' transcription profiling	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		subjected to scRNA-seq using the Chromium Single Cell 5′ Reagent Kit (10X Genomics)	True
+GSM8804964	geo:GSE290061:GSM8804964	suspension_type	cell	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		FACS-sorted CAR T cells from BM and PB samples of MM patients were subjected to scRNA-seq	True
+GSM8804964	geo:GSE290061:GSM8804964	gene_annotation_version	GRCh38 + ARI002h CAR transgene feature (Cell Ranger v6.0.1)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		aligned to the human reference (GRCh38) and the feature-barcode matrix was quantified using Cell Ranger (v6.0.1)	True
+GSM8804964	geo:GSE290061:GSM8804964	gene_annotation_version	GRCh38 + ARI002h CAR transgene feature (Cell Ranger v6.0.1)	file	work/fp-747fda2b27f9/GSE290061_RAW/GSM8804962_p1_CARTcell_IP_Count_features.tsv.gz		ARI002h ARI002h Gene Expression	True
+GSM8804964	geo:GSE290061:GSM8804964	donor_id	p1	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804964	!Sample_title = p1_PB_M1_sc	True
+GSM8804964	geo:GSE290061:GSM8804964	donor_id	p1	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		three R/R MM patients	True
+GSM8804964	geo:GSE290061:GSM8804964	timepoint	month 1 after infusion (M1)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804964	!Sample_title = p1_PB_M1_sc	True
+GSM8804964	geo:GSE290061:GSM8804964	timepoint	month 1 after infusion (M1)	file	evidence/PMC13101692.txt		M1 = month 1, M3 = month 3	True
+GSM8804964	geo:GSE290061:GSM8804964	timepoint	month 1 after infusion (M1)	file	evidence/PMC13101692.txt		at 1 and 3 months after infusion	True
+GSM8804964	geo:GSE290061:GSM8804964	treatment_status	post-treatment	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804964	!Sample_title = p1_PB_M1_sc	True
+GSM8804964	geo:GSE290061:GSM8804964	treatment_status	post-treatment	file	evidence/PMC13101692.txt		at 1 and 3 months after infusion	True
+GSM8804964	geo:GSE290061:GSM8804964	cell_enrichment	CAR+ fraction	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804964	!Sample_characteristics_ch1 = cell fraction_strategy: CAR+ fraction	True
+GSM8804964	geo:GSE290061:GSM8804964	cell_enrichment	CAR+ fraction	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells were then sorted either with BD FACSAria IIu or Moflo ASTRIOS BC	True
+GSM8804964	geo:GSE290061:GSM8804964	tissue_free_text	PBMC	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804964	!Sample_characteristics_ch1 = tissue: PBMC	True
+GSM8804964	geo:GSE290061:GSM8804964	tissue_type	tissue	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804964	!Sample_characteristics_ch1 = tissue: PBMC	True
+GSM8804964	geo:GSE290061:GSM8804964	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804964	!Sample_characteristics_ch1 = tissue: PBMC	True
+GSM8804964	geo:GSE290061:GSM8804964	tissue_ontology_term_id	UBERON:0000178	file	evidence/PMC13101692.txt		PB and BM samples were collected at the indicated time points	True
+GSM8804964	geo:GSE290061:GSM8804964	sample_collection_method	blood draw	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804964	!Sample_characteristics_ch1 = tissue: PBMC	True
+GSM8804964	geo:GSE290061:GSM8804964	sample_collection_method	blood draw	file	evidence/PMC13101692.txt		PB and BM samples were collected at the indicated time points	True
+GSM8804965	geo:GSE290061:GSM8804965	disease_free_text	multiple myeloma	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		!Series_title = Single-cell multi-omics provide insights into molecular drivers of CAR T Cell Persistence and Function in Multiple Myeloma	True
+GSM8804965	geo:GSE290061:GSM8804965	disease_free_text	multiple myeloma	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells isolated from BM and PB samples of three R/R MM patients and their paired infusion product	True
+GSM8804965	geo:GSE290061:GSM8804965	disease_free_text	multiple myeloma	file	evidence/PMC13101692.txt		persistence in multiple myeloma (MM)	True
+GSM8804965	geo:GSE290061:GSM8804965	disease_free_text	multiple myeloma	file	evidence/PMC13101692.txt		from 3 patients with R/R MM	True
+GSM8804965	geo:GSE290061:GSM8804965	disease_stage	relapsed/refractory	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells isolated from BM and PB samples of three R/R MM patients and their paired infusion product	True
+GSM8804965	geo:GSE290061:GSM8804965	disease_stage	relapsed/refractory	file	evidence/PMC13101692.txt		patients with relapsed/refractory (R/R) disease	True
+GSM8804965	geo:GSE290061:GSM8804965	disease_stage	relapsed/refractory	file	evidence/PMC13101692.txt		from 3 patients with R/R MM	True
+GSM8804965	geo:GSE290061:GSM8804965	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		collected from MM patients treated with BCMA CAR T cells	True
+GSM8804965	geo:GSE290061:GSM8804965	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		enrolled in the CARTBCMA-HCB-01 trial ( NCT04309981 )	True
+GSM8804965	geo:GSE290061:GSM8804965	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		a phase 1 to 2, single-arm, multicenter study assessing ARI0002h in R/R MM	True
+GSM8804965	geo:GSE290061:GSM8804965	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		ARI0002h is a humanized BCMA-targeted CAR with a CD8α hinge and transmembrane region, a 4-1BB costimulatory domain, and a CD3ζ signaling domain	True
+GSM8804965	geo:GSE290061:GSM8804965	assay	10x 5' transcription profiling	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		subjected to scRNA-seq using the Chromium Single Cell 5′ Reagent Kit (10X Genomics)	True
+GSM8804965	geo:GSE290061:GSM8804965	suspension_type	cell	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		FACS-sorted CAR T cells from BM and PB samples of MM patients were subjected to scRNA-seq	True
+GSM8804965	geo:GSE290061:GSM8804965	gene_annotation_version	GRCh38 + ARI002h CAR transgene feature (Cell Ranger v6.0.1)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		aligned to the human reference (GRCh38) and the feature-barcode matrix was quantified using Cell Ranger (v6.0.1)	True
+GSM8804965	geo:GSE290061:GSM8804965	gene_annotation_version	GRCh38 + ARI002h CAR transgene feature (Cell Ranger v6.0.1)	file	work/fp-747fda2b27f9/GSE290061_RAW/GSM8804962_p1_CARTcell_IP_Count_features.tsv.gz		ARI002h ARI002h Gene Expression	True
+GSM8804965	geo:GSE290061:GSM8804965	donor_id	p1	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804965	!Sample_title = p1_PB_M3_sc	True
+GSM8804965	geo:GSE290061:GSM8804965	donor_id	p1	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		three R/R MM patients	True
+GSM8804965	geo:GSE290061:GSM8804965	timepoint	month 3 after infusion (M3)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804965	!Sample_title = p1_PB_M3_sc	True
+GSM8804965	geo:GSE290061:GSM8804965	timepoint	month 3 after infusion (M3)	file	evidence/PMC13101692.txt		M1 = month 1, M3 = month 3	True
+GSM8804965	geo:GSE290061:GSM8804965	timepoint	month 3 after infusion (M3)	file	evidence/PMC13101692.txt		at 1 and 3 months after infusion	True
+GSM8804965	geo:GSE290061:GSM8804965	treatment_status	post-treatment	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804965	!Sample_title = p1_PB_M3_sc	True
+GSM8804965	geo:GSE290061:GSM8804965	treatment_status	post-treatment	file	evidence/PMC13101692.txt		at 1 and 3 months after infusion	True
+GSM8804965	geo:GSE290061:GSM8804965	cell_enrichment	CAR+ fraction	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804965	!Sample_characteristics_ch1 = cell fraction_strategy: CAR+ fraction	True
+GSM8804965	geo:GSE290061:GSM8804965	cell_enrichment	CAR+ fraction	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells were then sorted either with BD FACSAria IIu or Moflo ASTRIOS BC	True
+GSM8804965	geo:GSE290061:GSM8804965	tissue_free_text	PBMC	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804965	!Sample_characteristics_ch1 = tissue: PBMC	True
+GSM8804965	geo:GSE290061:GSM8804965	tissue_type	tissue	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804965	!Sample_characteristics_ch1 = tissue: PBMC	True
+GSM8804965	geo:GSE290061:GSM8804965	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804965	!Sample_characteristics_ch1 = tissue: PBMC	True
+GSM8804965	geo:GSE290061:GSM8804965	tissue_ontology_term_id	UBERON:0000178	file	evidence/PMC13101692.txt		PB and BM samples were collected at the indicated time points	True
+GSM8804965	geo:GSE290061:GSM8804965	sample_collection_method	blood draw	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804965	!Sample_characteristics_ch1 = tissue: PBMC	True
+GSM8804965	geo:GSE290061:GSM8804965	sample_collection_method	blood draw	file	evidence/PMC13101692.txt		PB and BM samples were collected at the indicated time points	True
+GSM8804966	geo:GSE290061:GSM8804966	disease_free_text	multiple myeloma	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		!Series_title = Single-cell multi-omics provide insights into molecular drivers of CAR T Cell Persistence and Function in Multiple Myeloma	True
+GSM8804966	geo:GSE290061:GSM8804966	disease_free_text	multiple myeloma	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells isolated from BM and PB samples of three R/R MM patients and their paired infusion product	True
+GSM8804966	geo:GSE290061:GSM8804966	disease_free_text	multiple myeloma	file	evidence/PMC13101692.txt		persistence in multiple myeloma (MM)	True
+GSM8804966	geo:GSE290061:GSM8804966	disease_free_text	multiple myeloma	file	evidence/PMC13101692.txt		from 3 patients with R/R MM	True
+GSM8804966	geo:GSE290061:GSM8804966	disease_stage	relapsed/refractory	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells isolated from BM and PB samples of three R/R MM patients and their paired infusion product	True
+GSM8804966	geo:GSE290061:GSM8804966	disease_stage	relapsed/refractory	file	evidence/PMC13101692.txt		patients with relapsed/refractory (R/R) disease	True
+GSM8804966	geo:GSE290061:GSM8804966	disease_stage	relapsed/refractory	file	evidence/PMC13101692.txt		from 3 patients with R/R MM	True
+GSM8804966	geo:GSE290061:GSM8804966	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		collected from MM patients treated with BCMA CAR T cells	True
+GSM8804966	geo:GSE290061:GSM8804966	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		enrolled in the CARTBCMA-HCB-01 trial ( NCT04309981 )	True
+GSM8804966	geo:GSE290061:GSM8804966	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		a phase 1 to 2, single-arm, multicenter study assessing ARI0002h in R/R MM	True
+GSM8804966	geo:GSE290061:GSM8804966	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		ARI0002h is a humanized BCMA-targeted CAR with a CD8α hinge and transmembrane region, a 4-1BB costimulatory domain, and a CD3ζ signaling domain	True
+GSM8804966	geo:GSE290061:GSM8804966	assay	10x 5' transcription profiling	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		subjected to scRNA-seq using the Chromium Single Cell 5′ Reagent Kit (10X Genomics)	True
+GSM8804966	geo:GSE290061:GSM8804966	suspension_type	cell	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		FACS-sorted CAR T cells from BM and PB samples of MM patients were subjected to scRNA-seq	True
+GSM8804966	geo:GSE290061:GSM8804966	gene_annotation_version	GRCh38 + ARI002h CAR transgene feature (Cell Ranger v6.0.1)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		aligned to the human reference (GRCh38) and the feature-barcode matrix was quantified using Cell Ranger (v6.0.1)	True
+GSM8804966	geo:GSE290061:GSM8804966	gene_annotation_version	GRCh38 + ARI002h CAR transgene feature (Cell Ranger v6.0.1)	file	work/fp-747fda2b27f9/GSE290061_RAW/GSM8804962_p1_CARTcell_IP_Count_features.tsv.gz		ARI002h ARI002h Gene Expression	True
+GSM8804966	geo:GSE290061:GSM8804966	donor_id	p2	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804966	!Sample_title = p2_IP_sc	True
+GSM8804966	geo:GSE290061:GSM8804966	donor_id	p2	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		three R/R MM patients	True
+GSM8804966	geo:GSE290061:GSM8804966	timepoint	infusion product	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804966	!Sample_characteristics_ch1 = tissue: Infusion Product	True
+GSM8804966	geo:GSE290061:GSM8804966	timepoint	infusion product	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804966	!Sample_characteristics_ch1 = cell type: CAR T infusion product	True
+GSM8804966	geo:GSE290061:GSM8804966	timepoint	infusion product	file	evidence/PMC13101692.txt		collected from IPs as well as paired BM and PB samples at 1 and 3 months after infusion	True
+GSM8804967	geo:GSE290061:GSM8804967	disease_free_text	multiple myeloma	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		!Series_title = Single-cell multi-omics provide insights into molecular drivers of CAR T Cell Persistence and Function in Multiple Myeloma	True
+GSM8804967	geo:GSE290061:GSM8804967	disease_free_text	multiple myeloma	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells isolated from BM and PB samples of three R/R MM patients and their paired infusion product	True
+GSM8804967	geo:GSE290061:GSM8804967	disease_free_text	multiple myeloma	file	evidence/PMC13101692.txt		persistence in multiple myeloma (MM)	True
+GSM8804967	geo:GSE290061:GSM8804967	disease_free_text	multiple myeloma	file	evidence/PMC13101692.txt		from 3 patients with R/R MM	True
+GSM8804967	geo:GSE290061:GSM8804967	disease_stage	relapsed/refractory	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells isolated from BM and PB samples of three R/R MM patients and their paired infusion product	True
+GSM8804967	geo:GSE290061:GSM8804967	disease_stage	relapsed/refractory	file	evidence/PMC13101692.txt		patients with relapsed/refractory (R/R) disease	True
+GSM8804967	geo:GSE290061:GSM8804967	disease_stage	relapsed/refractory	file	evidence/PMC13101692.txt		from 3 patients with R/R MM	True
+GSM8804967	geo:GSE290061:GSM8804967	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		collected from MM patients treated with BCMA CAR T cells	True
+GSM8804967	geo:GSE290061:GSM8804967	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		enrolled in the CARTBCMA-HCB-01 trial ( NCT04309981 )	True
+GSM8804967	geo:GSE290061:GSM8804967	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		a phase 1 to 2, single-arm, multicenter study assessing ARI0002h in R/R MM	True
+GSM8804967	geo:GSE290061:GSM8804967	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		ARI0002h is a humanized BCMA-targeted CAR with a CD8α hinge and transmembrane region, a 4-1BB costimulatory domain, and a CD3ζ signaling domain	True
+GSM8804967	geo:GSE290061:GSM8804967	assay	10x 5' transcription profiling	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		subjected to scRNA-seq using the Chromium Single Cell 5′ Reagent Kit (10X Genomics)	True
+GSM8804967	geo:GSE290061:GSM8804967	suspension_type	cell	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		FACS-sorted CAR T cells from BM and PB samples of MM patients were subjected to scRNA-seq	True
+GSM8804967	geo:GSE290061:GSM8804967	gene_annotation_version	GRCh38 + ARI002h CAR transgene feature (Cell Ranger v6.0.1)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		aligned to the human reference (GRCh38) and the feature-barcode matrix was quantified using Cell Ranger (v6.0.1)	True
+GSM8804967	geo:GSE290061:GSM8804967	gene_annotation_version	GRCh38 + ARI002h CAR transgene feature (Cell Ranger v6.0.1)	file	work/fp-747fda2b27f9/GSE290061_RAW/GSM8804962_p1_CARTcell_IP_Count_features.tsv.gz		ARI002h ARI002h Gene Expression	True
+GSM8804967	geo:GSE290061:GSM8804967	donor_id	p2	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804967	!Sample_title = p2_BM_M1_sc	True
+GSM8804967	geo:GSE290061:GSM8804967	donor_id	p2	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		three R/R MM patients	True
+GSM8804967	geo:GSE290061:GSM8804967	timepoint	month 1 after infusion (M1)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804967	!Sample_title = p2_BM_M1_sc	True
+GSM8804967	geo:GSE290061:GSM8804967	timepoint	month 1 after infusion (M1)	file	evidence/PMC13101692.txt		M1 = month 1, M3 = month 3	True
+GSM8804967	geo:GSE290061:GSM8804967	timepoint	month 1 after infusion (M1)	file	evidence/PMC13101692.txt		at 1 and 3 months after infusion	True
+GSM8804967	geo:GSE290061:GSM8804967	treatment_status	post-treatment	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804967	!Sample_title = p2_BM_M1_sc	True
+GSM8804967	geo:GSE290061:GSM8804967	treatment_status	post-treatment	file	evidence/PMC13101692.txt		at 1 and 3 months after infusion	True
+GSM8804967	geo:GSE290061:GSM8804967	cell_enrichment	CAR+ fraction	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804967	!Sample_characteristics_ch1 = cell fraction_strategy: CAR+ fraction	True
+GSM8804967	geo:GSE290061:GSM8804967	cell_enrichment	CAR+ fraction	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells were then sorted either with BD FACSAria IIu or Moflo ASTRIOS BC	True
+GSM8804967	geo:GSE290061:GSM8804967	tissue_free_text	BM aspirate	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804967	!Sample_characteristics_ch1 = tissue: BM aspirate	True
+GSM8804967	geo:GSE290061:GSM8804967	tissue_type	tissue	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804967	!Sample_characteristics_ch1 = tissue: BM aspirate	True
+GSM8804967	geo:GSE290061:GSM8804967	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804967	!Sample_characteristics_ch1 = tissue: BM aspirate	True
+GSM8804967	geo:GSE290061:GSM8804967	sample_collection_method	bone marrow aspirate	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804967	!Sample_characteristics_ch1 = tissue: BM aspirate	True
+GSM8804968	geo:GSE290061:GSM8804968	disease_free_text	multiple myeloma	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		!Series_title = Single-cell multi-omics provide insights into molecular drivers of CAR T Cell Persistence and Function in Multiple Myeloma	True
+GSM8804968	geo:GSE290061:GSM8804968	disease_free_text	multiple myeloma	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells isolated from BM and PB samples of three R/R MM patients and their paired infusion product	True
+GSM8804968	geo:GSE290061:GSM8804968	disease_free_text	multiple myeloma	file	evidence/PMC13101692.txt		persistence in multiple myeloma (MM)	True
+GSM8804968	geo:GSE290061:GSM8804968	disease_free_text	multiple myeloma	file	evidence/PMC13101692.txt		from 3 patients with R/R MM	True
+GSM8804968	geo:GSE290061:GSM8804968	disease_stage	relapsed/refractory	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells isolated from BM and PB samples of three R/R MM patients and their paired infusion product	True
+GSM8804968	geo:GSE290061:GSM8804968	disease_stage	relapsed/refractory	file	evidence/PMC13101692.txt		patients with relapsed/refractory (R/R) disease	True
+GSM8804968	geo:GSE290061:GSM8804968	disease_stage	relapsed/refractory	file	evidence/PMC13101692.txt		from 3 patients with R/R MM	True
+GSM8804968	geo:GSE290061:GSM8804968	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		collected from MM patients treated with BCMA CAR T cells	True
+GSM8804968	geo:GSE290061:GSM8804968	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		enrolled in the CARTBCMA-HCB-01 trial ( NCT04309981 )	True
+GSM8804968	geo:GSE290061:GSM8804968	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		a phase 1 to 2, single-arm, multicenter study assessing ARI0002h in R/R MM	True
+GSM8804968	geo:GSE290061:GSM8804968	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		ARI0002h is a humanized BCMA-targeted CAR with a CD8α hinge and transmembrane region, a 4-1BB costimulatory domain, and a CD3ζ signaling domain	True
+GSM8804968	geo:GSE290061:GSM8804968	assay	10x 5' transcription profiling	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		subjected to scRNA-seq using the Chromium Single Cell 5′ Reagent Kit (10X Genomics)	True
+GSM8804968	geo:GSE290061:GSM8804968	suspension_type	cell	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		FACS-sorted CAR T cells from BM and PB samples of MM patients were subjected to scRNA-seq	True
+GSM8804968	geo:GSE290061:GSM8804968	gene_annotation_version	GRCh38 + ARI002h CAR transgene feature (Cell Ranger v6.0.1)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		aligned to the human reference (GRCh38) and the feature-barcode matrix was quantified using Cell Ranger (v6.0.1)	True
+GSM8804968	geo:GSE290061:GSM8804968	gene_annotation_version	GRCh38 + ARI002h CAR transgene feature (Cell Ranger v6.0.1)	file	work/fp-747fda2b27f9/GSE290061_RAW/GSM8804962_p1_CARTcell_IP_Count_features.tsv.gz		ARI002h ARI002h Gene Expression	True
+GSM8804968	geo:GSE290061:GSM8804968	donor_id	p2	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804968	!Sample_title = p2_PB_M1_sc	True
+GSM8804968	geo:GSE290061:GSM8804968	donor_id	p2	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		three R/R MM patients	True
+GSM8804968	geo:GSE290061:GSM8804968	timepoint	month 1 after infusion (M1)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804968	!Sample_title = p2_PB_M1_sc	True
+GSM8804968	geo:GSE290061:GSM8804968	timepoint	month 1 after infusion (M1)	file	evidence/PMC13101692.txt		M1 = month 1, M3 = month 3	True
+GSM8804968	geo:GSE290061:GSM8804968	timepoint	month 1 after infusion (M1)	file	evidence/PMC13101692.txt		at 1 and 3 months after infusion	True
+GSM8804968	geo:GSE290061:GSM8804968	treatment_status	post-treatment	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804968	!Sample_title = p2_PB_M1_sc	True
+GSM8804968	geo:GSE290061:GSM8804968	treatment_status	post-treatment	file	evidence/PMC13101692.txt		at 1 and 3 months after infusion	True
+GSM8804968	geo:GSE290061:GSM8804968	cell_enrichment	CAR+ fraction	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804968	!Sample_characteristics_ch1 = cell fraction_strategy: CAR+ fraction	True
+GSM8804968	geo:GSE290061:GSM8804968	cell_enrichment	CAR+ fraction	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells were then sorted either with BD FACSAria IIu or Moflo ASTRIOS BC	True
+GSM8804968	geo:GSE290061:GSM8804968	tissue_free_text	PBMC	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804968	!Sample_characteristics_ch1 = tissue: PBMC	True
+GSM8804968	geo:GSE290061:GSM8804968	tissue_type	tissue	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804968	!Sample_characteristics_ch1 = tissue: PBMC	True
+GSM8804968	geo:GSE290061:GSM8804968	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804968	!Sample_characteristics_ch1 = tissue: PBMC	True
+GSM8804968	geo:GSE290061:GSM8804968	tissue_ontology_term_id	UBERON:0000178	file	evidence/PMC13101692.txt		PB and BM samples were collected at the indicated time points	True
+GSM8804968	geo:GSE290061:GSM8804968	sample_collection_method	blood draw	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804968	!Sample_characteristics_ch1 = tissue: PBMC	True
+GSM8804968	geo:GSE290061:GSM8804968	sample_collection_method	blood draw	file	evidence/PMC13101692.txt		PB and BM samples were collected at the indicated time points	True
+GSM8804969	geo:GSE290061:GSM8804969	disease_free_text	multiple myeloma	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		!Series_title = Single-cell multi-omics provide insights into molecular drivers of CAR T Cell Persistence and Function in Multiple Myeloma	True
+GSM8804969	geo:GSE290061:GSM8804969	disease_free_text	multiple myeloma	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells isolated from BM and PB samples of three R/R MM patients and their paired infusion product	True
+GSM8804969	geo:GSE290061:GSM8804969	disease_free_text	multiple myeloma	file	evidence/PMC13101692.txt		persistence in multiple myeloma (MM)	True
+GSM8804969	geo:GSE290061:GSM8804969	disease_free_text	multiple myeloma	file	evidence/PMC13101692.txt		from 3 patients with R/R MM	True
+GSM8804969	geo:GSE290061:GSM8804969	disease_stage	relapsed/refractory	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells isolated from BM and PB samples of three R/R MM patients and their paired infusion product	True
+GSM8804969	geo:GSE290061:GSM8804969	disease_stage	relapsed/refractory	file	evidence/PMC13101692.txt		patients with relapsed/refractory (R/R) disease	True
+GSM8804969	geo:GSE290061:GSM8804969	disease_stage	relapsed/refractory	file	evidence/PMC13101692.txt		from 3 patients with R/R MM	True
+GSM8804969	geo:GSE290061:GSM8804969	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		collected from MM patients treated with BCMA CAR T cells	True
+GSM8804969	geo:GSE290061:GSM8804969	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		enrolled in the CARTBCMA-HCB-01 trial ( NCT04309981 )	True
+GSM8804969	geo:GSE290061:GSM8804969	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		a phase 1 to 2, single-arm, multicenter study assessing ARI0002h in R/R MM	True
+GSM8804969	geo:GSE290061:GSM8804969	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		ARI0002h is a humanized BCMA-targeted CAR with a CD8α hinge and transmembrane region, a 4-1BB costimulatory domain, and a CD3ζ signaling domain	True
+GSM8804969	geo:GSE290061:GSM8804969	assay	10x 5' transcription profiling	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		subjected to scRNA-seq using the Chromium Single Cell 5′ Reagent Kit (10X Genomics)	True
+GSM8804969	geo:GSE290061:GSM8804969	suspension_type	cell	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		FACS-sorted CAR T cells from BM and PB samples of MM patients were subjected to scRNA-seq	True
+GSM8804969	geo:GSE290061:GSM8804969	gene_annotation_version	GRCh38 + ARI002h CAR transgene feature (Cell Ranger v6.0.1)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		aligned to the human reference (GRCh38) and the feature-barcode matrix was quantified using Cell Ranger (v6.0.1)	True
+GSM8804969	geo:GSE290061:GSM8804969	gene_annotation_version	GRCh38 + ARI002h CAR transgene feature (Cell Ranger v6.0.1)	file	work/fp-747fda2b27f9/GSE290061_RAW/GSM8804962_p1_CARTcell_IP_Count_features.tsv.gz		ARI002h ARI002h Gene Expression	True
+GSM8804969	geo:GSE290061:GSM8804969	donor_id	p3	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804969	!Sample_title = p3_IP_sc	True
+GSM8804969	geo:GSE290061:GSM8804969	donor_id	p3	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		three R/R MM patients	True
+GSM8804969	geo:GSE290061:GSM8804969	timepoint	infusion product	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804969	!Sample_characteristics_ch1 = tissue: Infusion Product	True
+GSM8804969	geo:GSE290061:GSM8804969	timepoint	infusion product	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804969	!Sample_characteristics_ch1 = cell type: CAR T infusion product	True
+GSM8804969	geo:GSE290061:GSM8804969	timepoint	infusion product	file	evidence/PMC13101692.txt		collected from IPs as well as paired BM and PB samples at 1 and 3 months after infusion	True
+GSM8804970	geo:GSE290061:GSM8804970	disease_free_text	multiple myeloma	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		!Series_title = Single-cell multi-omics provide insights into molecular drivers of CAR T Cell Persistence and Function in Multiple Myeloma	True
+GSM8804970	geo:GSE290061:GSM8804970	disease_free_text	multiple myeloma	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells isolated from BM and PB samples of three R/R MM patients and their paired infusion product	True
+GSM8804970	geo:GSE290061:GSM8804970	disease_free_text	multiple myeloma	file	evidence/PMC13101692.txt		persistence in multiple myeloma (MM)	True
+GSM8804970	geo:GSE290061:GSM8804970	disease_free_text	multiple myeloma	file	evidence/PMC13101692.txt		from 3 patients with R/R MM	True
+GSM8804970	geo:GSE290061:GSM8804970	disease_stage	relapsed/refractory	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells isolated from BM and PB samples of three R/R MM patients and their paired infusion product	True
+GSM8804970	geo:GSE290061:GSM8804970	disease_stage	relapsed/refractory	file	evidence/PMC13101692.txt		patients with relapsed/refractory (R/R) disease	True
+GSM8804970	geo:GSE290061:GSM8804970	disease_stage	relapsed/refractory	file	evidence/PMC13101692.txt		from 3 patients with R/R MM	True
+GSM8804970	geo:GSE290061:GSM8804970	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		collected from MM patients treated with BCMA CAR T cells	True
+GSM8804970	geo:GSE290061:GSM8804970	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		enrolled in the CARTBCMA-HCB-01 trial ( NCT04309981 )	True
+GSM8804970	geo:GSE290061:GSM8804970	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		a phase 1 to 2, single-arm, multicenter study assessing ARI0002h in R/R MM	True
+GSM8804970	geo:GSE290061:GSM8804970	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		ARI0002h is a humanized BCMA-targeted CAR with a CD8α hinge and transmembrane region, a 4-1BB costimulatory domain, and a CD3ζ signaling domain	True
+GSM8804970	geo:GSE290061:GSM8804970	assay	10x 5' transcription profiling	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		subjected to scRNA-seq using the Chromium Single Cell 5′ Reagent Kit (10X Genomics)	True
+GSM8804970	geo:GSE290061:GSM8804970	suspension_type	cell	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		FACS-sorted CAR T cells from BM and PB samples of MM patients were subjected to scRNA-seq	True
+GSM8804970	geo:GSE290061:GSM8804970	gene_annotation_version	GRCh38 + ARI002h CAR transgene feature (Cell Ranger v6.0.1)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		aligned to the human reference (GRCh38) and the feature-barcode matrix was quantified using Cell Ranger (v6.0.1)	True
+GSM8804970	geo:GSE290061:GSM8804970	gene_annotation_version	GRCh38 + ARI002h CAR transgene feature (Cell Ranger v6.0.1)	file	work/fp-747fda2b27f9/GSE290061_RAW/GSM8804962_p1_CARTcell_IP_Count_features.tsv.gz		ARI002h ARI002h Gene Expression	True
+GSM8804970	geo:GSE290061:GSM8804970	donor_id	p3	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804970	!Sample_title = p3_BM_M3_sc	True
+GSM8804970	geo:GSE290061:GSM8804970	donor_id	p3	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		three R/R MM patients	True
+GSM8804970	geo:GSE290061:GSM8804970	timepoint	month 3 after infusion (M3)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804970	!Sample_title = p3_BM_M3_sc	True
+GSM8804970	geo:GSE290061:GSM8804970	timepoint	month 3 after infusion (M3)	file	evidence/PMC13101692.txt		M1 = month 1, M3 = month 3	True
+GSM8804970	geo:GSE290061:GSM8804970	timepoint	month 3 after infusion (M3)	file	evidence/PMC13101692.txt		at 1 and 3 months after infusion	True
+GSM8804970	geo:GSE290061:GSM8804970	treatment_status	post-treatment	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804970	!Sample_title = p3_BM_M3_sc	True
+GSM8804970	geo:GSE290061:GSM8804970	treatment_status	post-treatment	file	evidence/PMC13101692.txt		at 1 and 3 months after infusion	True
+GSM8804970	geo:GSE290061:GSM8804970	cell_enrichment	CAR+ fraction	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804970	!Sample_characteristics_ch1 = cell fraction_strategy: CAR+ fraction	True
+GSM8804970	geo:GSE290061:GSM8804970	cell_enrichment	CAR+ fraction	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells were then sorted either with BD FACSAria IIu or Moflo ASTRIOS BC	True
+GSM8804970	geo:GSE290061:GSM8804970	tissue_free_text	BM aspirate	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804970	!Sample_characteristics_ch1 = tissue: BM aspirate	True
+GSM8804970	geo:GSE290061:GSM8804970	tissue_type	tissue	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804970	!Sample_characteristics_ch1 = tissue: BM aspirate	True
+GSM8804970	geo:GSE290061:GSM8804970	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804970	!Sample_characteristics_ch1 = tissue: BM aspirate	True
+GSM8804970	geo:GSE290061:GSM8804970	sample_collection_method	bone marrow aspirate	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804970	!Sample_characteristics_ch1 = tissue: BM aspirate	True
+GSM8804971	geo:GSE290061:GSM8804971	disease_free_text	multiple myeloma	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		!Series_title = Single-cell multi-omics provide insights into molecular drivers of CAR T Cell Persistence and Function in Multiple Myeloma	True
+GSM8804971	geo:GSE290061:GSM8804971	disease_free_text	multiple myeloma	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells isolated from BM and PB samples of three R/R MM patients and their paired infusion product	True
+GSM8804971	geo:GSE290061:GSM8804971	disease_free_text	multiple myeloma	file	evidence/PMC13101692.txt		persistence in multiple myeloma (MM)	True
+GSM8804971	geo:GSE290061:GSM8804971	disease_free_text	multiple myeloma	file	evidence/PMC13101692.txt		from 3 patients with R/R MM	True
+GSM8804971	geo:GSE290061:GSM8804971	disease_stage	relapsed/refractory	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells isolated from BM and PB samples of three R/R MM patients and their paired infusion product	True
+GSM8804971	geo:GSE290061:GSM8804971	disease_stage	relapsed/refractory	file	evidence/PMC13101692.txt		patients with relapsed/refractory (R/R) disease	True
+GSM8804971	geo:GSE290061:GSM8804971	disease_stage	relapsed/refractory	file	evidence/PMC13101692.txt		from 3 patients with R/R MM	True
+GSM8804971	geo:GSE290061:GSM8804971	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		collected from MM patients treated with BCMA CAR T cells	True
+GSM8804971	geo:GSE290061:GSM8804971	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		enrolled in the CARTBCMA-HCB-01 trial ( NCT04309981 )	True
+GSM8804971	geo:GSE290061:GSM8804971	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		a phase 1 to 2, single-arm, multicenter study assessing ARI0002h in R/R MM	True
+GSM8804971	geo:GSE290061:GSM8804971	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		ARI0002h is a humanized BCMA-targeted CAR with a CD8α hinge and transmembrane region, a 4-1BB costimulatory domain, and a CD3ζ signaling domain	True
+GSM8804971	geo:GSE290061:GSM8804971	assay	10x 5' transcription profiling	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		subjected to scRNA-seq using the Chromium Single Cell 5′ Reagent Kit (10X Genomics)	True
+GSM8804971	geo:GSE290061:GSM8804971	suspension_type	cell	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		FACS-sorted CAR T cells from BM and PB samples of MM patients were subjected to scRNA-seq	True
+GSM8804971	geo:GSE290061:GSM8804971	gene_annotation_version	GRCh38 + ARI002h CAR transgene feature (Cell Ranger v6.0.1)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		aligned to the human reference (GRCh38) and the feature-barcode matrix was quantified using Cell Ranger (v6.0.1)	True
+GSM8804971	geo:GSE290061:GSM8804971	gene_annotation_version	GRCh38 + ARI002h CAR transgene feature (Cell Ranger v6.0.1)	file	work/fp-747fda2b27f9/GSE290061_RAW/GSM8804962_p1_CARTcell_IP_Count_features.tsv.gz		ARI002h ARI002h Gene Expression	True
+GSM8804971	geo:GSE290061:GSM8804971	donor_id	p3	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804971	!Sample_title = p3_PB_M1_sc	True
+GSM8804971	geo:GSE290061:GSM8804971	donor_id	p3	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		three R/R MM patients	True
+GSM8804971	geo:GSE290061:GSM8804971	timepoint	month 1 after infusion (M1)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804971	!Sample_title = p3_PB_M1_sc	True
+GSM8804971	geo:GSE290061:GSM8804971	timepoint	month 1 after infusion (M1)	file	evidence/PMC13101692.txt		M1 = month 1, M3 = month 3	True
+GSM8804971	geo:GSE290061:GSM8804971	timepoint	month 1 after infusion (M1)	file	evidence/PMC13101692.txt		at 1 and 3 months after infusion	True
+GSM8804971	geo:GSE290061:GSM8804971	treatment_status	post-treatment	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804971	!Sample_title = p3_PB_M1_sc	True
+GSM8804971	geo:GSE290061:GSM8804971	treatment_status	post-treatment	file	evidence/PMC13101692.txt		at 1 and 3 months after infusion	True
+GSM8804971	geo:GSE290061:GSM8804971	cell_enrichment	CAR+ fraction	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804971	!Sample_characteristics_ch1 = cell fraction_strategy: CAR+ fraction	True
+GSM8804971	geo:GSE290061:GSM8804971	cell_enrichment	CAR+ fraction	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells were then sorted either with BD FACSAria IIu or Moflo ASTRIOS BC	True
+GSM8804971	geo:GSE290061:GSM8804971	tissue_free_text	PBMC	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804971	!Sample_characteristics_ch1 = tissue: PBMC	True
+GSM8804971	geo:GSE290061:GSM8804971	tissue_type	tissue	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804971	!Sample_characteristics_ch1 = tissue: PBMC	True
+GSM8804971	geo:GSE290061:GSM8804971	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804971	!Sample_characteristics_ch1 = tissue: PBMC	True
+GSM8804971	geo:GSE290061:GSM8804971	tissue_ontology_term_id	UBERON:0000178	file	evidence/PMC13101692.txt		PB and BM samples were collected at the indicated time points	True
+GSM8804971	geo:GSE290061:GSM8804971	sample_collection_method	blood draw	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804971	!Sample_characteristics_ch1 = tissue: PBMC	True
+GSM8804971	geo:GSE290061:GSM8804971	sample_collection_method	blood draw	file	evidence/PMC13101692.txt		PB and BM samples were collected at the indicated time points	True
+GSM8804972	geo:GSE290061:GSM8804972	disease_free_text	multiple myeloma	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		!Series_title = Single-cell multi-omics provide insights into molecular drivers of CAR T Cell Persistence and Function in Multiple Myeloma	True
+GSM8804972	geo:GSE290061:GSM8804972	disease_free_text	multiple myeloma	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells isolated from BM and PB samples of three R/R MM patients and their paired infusion product	True
+GSM8804972	geo:GSE290061:GSM8804972	disease_free_text	multiple myeloma	file	evidence/PMC13101692.txt		persistence in multiple myeloma (MM)	True
+GSM8804972	geo:GSE290061:GSM8804972	disease_free_text	multiple myeloma	file	evidence/PMC13101692.txt		from 3 patients with R/R MM	True
+GSM8804972	geo:GSE290061:GSM8804972	disease_stage	relapsed/refractory	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells isolated from BM and PB samples of three R/R MM patients and their paired infusion product	True
+GSM8804972	geo:GSE290061:GSM8804972	disease_stage	relapsed/refractory	file	evidence/PMC13101692.txt		patients with relapsed/refractory (R/R) disease	True
+GSM8804972	geo:GSE290061:GSM8804972	disease_stage	relapsed/refractory	file	evidence/PMC13101692.txt		from 3 patients with R/R MM	True
+GSM8804972	geo:GSE290061:GSM8804972	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		collected from MM patients treated with BCMA CAR T cells	True
+GSM8804972	geo:GSE290061:GSM8804972	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		enrolled in the CARTBCMA-HCB-01 trial ( NCT04309981 )	True
+GSM8804972	geo:GSE290061:GSM8804972	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		a phase 1 to 2, single-arm, multicenter study assessing ARI0002h in R/R MM	True
+GSM8804972	geo:GSE290061:GSM8804972	treatment	ARI0002h (humanized BCMA-targeted 4-1BB CAR T cells; CARTBCMA-HCB-01, NCT04309981)	file	evidence/PMC13101692.txt		ARI0002h is a humanized BCMA-targeted CAR with a CD8α hinge and transmembrane region, a 4-1BB costimulatory domain, and a CD3ζ signaling domain	True
+GSM8804972	geo:GSE290061:GSM8804972	assay	10x 5' transcription profiling	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		subjected to scRNA-seq using the Chromium Single Cell 5′ Reagent Kit (10X Genomics)	True
+GSM8804972	geo:GSE290061:GSM8804972	suspension_type	cell	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		FACS-sorted CAR T cells from BM and PB samples of MM patients were subjected to scRNA-seq	True
+GSM8804972	geo:GSE290061:GSM8804972	gene_annotation_version	GRCh38 + ARI002h CAR transgene feature (Cell Ranger v6.0.1)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		aligned to the human reference (GRCh38) and the feature-barcode matrix was quantified using Cell Ranger (v6.0.1)	True
+GSM8804972	geo:GSE290061:GSM8804972	gene_annotation_version	GRCh38 + ARI002h CAR transgene feature (Cell Ranger v6.0.1)	file	work/fp-747fda2b27f9/GSE290061_RAW/GSM8804962_p1_CARTcell_IP_Count_features.tsv.gz		ARI002h ARI002h Gene Expression	True
+GSM8804972	geo:GSE290061:GSM8804972	donor_id	p3	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804972	!Sample_title = p3_PB_M3_sc	True
+GSM8804972	geo:GSE290061:GSM8804972	donor_id	p3	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		three R/R MM patients	True
+GSM8804972	geo:GSE290061:GSM8804972	timepoint	month 3 after infusion (M3)	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804972	!Sample_title = p3_PB_M3_sc	True
+GSM8804972	geo:GSE290061:GSM8804972	timepoint	month 3 after infusion (M3)	file	evidence/PMC13101692.txt		M1 = month 1, M3 = month 3	True
+GSM8804972	geo:GSE290061:GSM8804972	timepoint	month 3 after infusion (M3)	file	evidence/PMC13101692.txt		at 1 and 3 months after infusion	True
+GSM8804972	geo:GSE290061:GSM8804972	treatment_status	post-treatment	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804972	!Sample_title = p3_PB_M3_sc	True
+GSM8804972	geo:GSE290061:GSM8804972	treatment_status	post-treatment	file	evidence/PMC13101692.txt		at 1 and 3 months after infusion	True
+GSM8804972	geo:GSE290061:GSM8804972	cell_enrichment	CAR+ fraction	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804972	!Sample_characteristics_ch1 = cell fraction_strategy: CAR+ fraction	True
+GSM8804972	geo:GSE290061:GSM8804972	cell_enrichment	CAR+ fraction	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz		CAR T cells were then sorted either with BD FACSAria IIu or Moflo ASTRIOS BC	True
+GSM8804972	geo:GSE290061:GSM8804972	tissue_free_text	PBMC	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804972	!Sample_characteristics_ch1 = tissue: PBMC	True
+GSM8804972	geo:GSE290061:GSM8804972	tissue_type	tissue	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804972	!Sample_characteristics_ch1 = tissue: PBMC	True
+GSM8804972	geo:GSE290061:GSM8804972	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804972	!Sample_characteristics_ch1 = tissue: PBMC	True
+GSM8804972	geo:GSE290061:GSM8804972	tissue_ontology_term_id	UBERON:0000178	file	evidence/PMC13101692.txt		PB and BM samples were collected at the indicated time points	True
+GSM8804972	geo:GSE290061:GSM8804972	sample_collection_method	blood draw	file	raw/fp-747fda2b27f9/GSE290061_family.soft.gz	GSM8804972	!Sample_characteristics_ch1 = tissue: PBMC	True
+GSM8804972	geo:GSE290061:GSM8804972	sample_collection_method	blood draw	file	evidence/PMC13101692.txt		PB and BM samples were collected at the indicated time points	True

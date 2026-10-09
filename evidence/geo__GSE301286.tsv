@@ -1,0 +1,75 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9080083	geo:GSE301286:GSM9080083	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM9080083	geo:GSE301286:GSM9080083	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM9080083	geo:GSE301286:GSM9080083	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM9080084	geo:GSE301286:GSM9080084	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM9080084	geo:GSE301286:GSM9080084	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM9080084	geo:GSE301286:GSM9080084	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM9080085	geo:GSE301286:GSM9080085	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM9080085	geo:GSE301286:GSM9080085	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM9080085	geo:GSE301286:GSM9080085	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM9080086	geo:GSE301286:GSM9080086	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM9080086	geo:GSE301286:GSM9080086	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM9080086	geo:GSE301286:GSM9080086	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+		organism	Homo sapiens	file	raw/fp-ae591fa7b2a0/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+		organism	Homo sapiens	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9080083	geo:GSE301286:GSM9080083	donor_id	P1695	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_title = Patient_P1695_MM_Pre_Treatment	True
+GSM9080083	geo:GSE301286:GSM9080083	donor_id	P1695	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_description = Library name: P1695_MM	True
+GSM9080083	geo:GSE301286:GSM9080083	tissue_free_text	bone marrow	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM9080083	geo:GSE301286:GSM9080083	tissue_free_text	bone marrow	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_source_name_ch1 = Bone marrow	True
+GSM9080083	geo:GSE301286:GSM9080083	disease_free_text	multiple myeloma	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_characteristics_ch1 = disease state: multiple myeloma	True
+GSM9080083	geo:GSE301286:GSM9080083	sampled_site_condition	diseased	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_characteristics_ch1 = disease state: multiple myeloma	True
+GSM9080083	geo:GSE301286:GSM9080083	sampled_site_condition	diseased	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM9080083	geo:GSE301286:GSM9080083	sample_collection_method	bone marrow aspiration	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM9080083	geo:GSE301286:GSM9080083	tissue_type	tissue	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		Experiments were conducted on primary patient bone marrow samples	True
+GSM9080083	geo:GSE301286:GSM9080083	cell_enrichment	CD138+	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138+	True
+GSM9080083	geo:GSE301286:GSM9080083	cell_enrichment	CD138+	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM9080083	geo:GSE301286:GSM9080083	suspension_type	cell	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		Cells were partitioned into nanoliter-scale Gel Bead-In-Emulsions (GEMs) using 10X GemCode Technology	True
+GSM9080083	geo:GSE301286:GSM9080083	assay	10x 3' transcription profiling	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		were carried out on the Chromium platform (10x Genomics) using the Single Cell 3	True
+GSM9080083	geo:GSE301286:GSM9080083	assay	10x 3' transcription profiling	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM9080083	geo:GSE301286:GSM9080083	gene_annotation_version	GRCh38	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM9080084	geo:GSE301286:GSM9080084	donor_id	P4520	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_title = Patient_P4520_MM_Post_Treatment	True
+GSM9080084	geo:GSE301286:GSM9080084	donor_id	P4520	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_description = Library name: P4520_MM	True
+GSM9080084	geo:GSE301286:GSM9080084	tissue_free_text	bone marrow	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM9080084	geo:GSE301286:GSM9080084	tissue_free_text	bone marrow	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_source_name_ch1 = Bone marrow	True
+GSM9080084	geo:GSE301286:GSM9080084	disease_free_text	multiple myeloma	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_characteristics_ch1 = disease state: multiple myeloma	True
+GSM9080084	geo:GSE301286:GSM9080084	sampled_site_condition	diseased	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_characteristics_ch1 = disease state: multiple myeloma	True
+GSM9080084	geo:GSE301286:GSM9080084	sampled_site_condition	diseased	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM9080084	geo:GSE301286:GSM9080084	sample_collection_method	bone marrow aspiration	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM9080084	geo:GSE301286:GSM9080084	tissue_type	tissue	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		Experiments were conducted on primary patient bone marrow samples	True
+GSM9080084	geo:GSE301286:GSM9080084	cell_enrichment	CD138+	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138+	True
+GSM9080084	geo:GSE301286:GSM9080084	cell_enrichment	CD138+	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM9080084	geo:GSE301286:GSM9080084	suspension_type	cell	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		Cells were partitioned into nanoliter-scale Gel Bead-In-Emulsions (GEMs) using 10X GemCode Technology	True
+GSM9080084	geo:GSE301286:GSM9080084	assay	10x 3' transcription profiling	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		were carried out on the Chromium platform (10x Genomics) using the Single Cell 3	True
+GSM9080084	geo:GSE301286:GSM9080084	assay	10x 3' transcription profiling	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM9080084	geo:GSE301286:GSM9080084	gene_annotation_version	GRCh38	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM9080085	geo:GSE301286:GSM9080085	donor_id	P1858	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_title = Patient_P1858_MM_Pre_Treatment	True
+GSM9080085	geo:GSE301286:GSM9080085	donor_id	P1858	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_description = Library name: P1858_MM	True
+GSM9080085	geo:GSE301286:GSM9080085	tissue_free_text	bone marrow	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM9080085	geo:GSE301286:GSM9080085	tissue_free_text	bone marrow	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_source_name_ch1 = Bone marrow	True
+GSM9080085	geo:GSE301286:GSM9080085	disease_free_text	multiple myeloma	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_characteristics_ch1 = disease state: multiple myeloma	True
+GSM9080085	geo:GSE301286:GSM9080085	sampled_site_condition	diseased	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_characteristics_ch1 = disease state: multiple myeloma	True
+GSM9080085	geo:GSE301286:GSM9080085	sampled_site_condition	diseased	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM9080085	geo:GSE301286:GSM9080085	sample_collection_method	bone marrow aspiration	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM9080085	geo:GSE301286:GSM9080085	tissue_type	tissue	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		Experiments were conducted on primary patient bone marrow samples	True
+GSM9080085	geo:GSE301286:GSM9080085	cell_enrichment	CD138+	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138+	True
+GSM9080085	geo:GSE301286:GSM9080085	cell_enrichment	CD138+	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM9080085	geo:GSE301286:GSM9080085	suspension_type	cell	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		Cells were partitioned into nanoliter-scale Gel Bead-In-Emulsions (GEMs) using 10X GemCode Technology	True
+GSM9080085	geo:GSE301286:GSM9080085	assay	10x 3' transcription profiling	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		were carried out on the Chromium platform (10x Genomics) using the Single Cell 3	True
+GSM9080085	geo:GSE301286:GSM9080085	assay	10x 3' transcription profiling	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM9080085	geo:GSE301286:GSM9080085	gene_annotation_version	GRCh38	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True
+GSM9080086	geo:GSE301286:GSM9080086	donor_id	P4585	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_title = Patient_P4585_MM_Pre_Treatment	True
+GSM9080086	geo:GSE301286:GSM9080086	donor_id	P4585	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_description = Library name: P4585_MM	True
+GSM9080086	geo:GSE301286:GSM9080086	tissue_free_text	bone marrow	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM9080086	geo:GSE301286:GSM9080086	tissue_free_text	bone marrow	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_source_name_ch1 = Bone marrow	True
+GSM9080086	geo:GSE301286:GSM9080086	disease_free_text	multiple myeloma	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_characteristics_ch1 = disease state: multiple myeloma	True
+GSM9080086	geo:GSE301286:GSM9080086	sampled_site_condition	diseased	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_characteristics_ch1 = disease state: multiple myeloma	True
+GSM9080086	geo:GSE301286:GSM9080086	sampled_site_condition	diseased	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM9080086	geo:GSE301286:GSM9080086	sample_collection_method	bone marrow aspiration	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM9080086	geo:GSE301286:GSM9080086	tissue_type	tissue	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		Experiments were conducted on primary patient bone marrow samples	True
+GSM9080086	geo:GSE301286:GSM9080086	cell_enrichment	CD138+	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138+	True
+GSM9080086	geo:GSE301286:GSM9080086	cell_enrichment	CD138+	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM9080086	geo:GSE301286:GSM9080086	suspension_type	cell	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		Cells were partitioned into nanoliter-scale Gel Bead-In-Emulsions (GEMs) using 10X GemCode Technology	True
+GSM9080086	geo:GSE301286:GSM9080086	assay	10x 3' transcription profiling	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		were carried out on the Chromium platform (10x Genomics) using the Single Cell 3	True
+GSM9080086	geo:GSE301286:GSM9080086	assay	10x 3' transcription profiling	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		a 10 bp Unique Molecular Identifier (UMI) and (iv) a poly-dT primer sequence	True
+GSM9080086	geo:GSE301286:GSM9080086	gene_annotation_version	GRCh38	file	raw/fp-ae591fa7b2a0/GSE301286_family.soft.gz		!Sample_data_processing = Assembly: Human referene genome GRCh38	True

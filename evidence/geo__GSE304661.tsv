@@ -1,0 +1,69 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9154923	geo:GSE304661:GSM9154923	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM9154923	geo:GSE304661:GSM9154923	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM9154923	geo:GSE304661:GSM9154923	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM9154924	geo:GSE304661:GSM9154924	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM9154924	geo:GSE304661:GSM9154924	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM9154924	geo:GSE304661:GSM9154924	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM9154925	geo:GSE304661:GSM9154925	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM9154925	geo:GSE304661:GSM9154925	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM9154925	geo:GSE304661:GSM9154925	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+		organism	Homo sapiens	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+		organism	Homo sapiens	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Series_sample_taxid = 9606	True
+GSM9154923	geo:GSE304661:GSM9154923	donor_id	MM patient 1	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Sample_title = BMMCs from MM patient 1, high-dose melphalan following auto-HSCT, RNA, rep1 !Sample_geo_accession = GSM9154923	True
+GSM9154923	geo:GSE304661:GSM9154923	tissue_free_text	bone marrow	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Sample_characteristics_ch1 = tissue: BM	True
+GSM9154923	geo:GSE304661:GSM9154923	tissue_free_text	bone marrow	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		clonal expansion of plasma cells in the bone marrow (BM)	True
+GSM9154923	geo:GSE304661:GSM9154923	tissue_free_text	bone marrow	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Sample_title = BMMCs from MM patient 1, high-dose melphalan following auto-HSCT, RNA, rep1 !Sample_geo_accession = GSM9154923	True
+GSM9154923	geo:GSE304661:GSM9154923	tissue_type	tissue	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		The scRNA-seq was performed on freshly isolated BMMCs from three MM patients	True
+GSM9154923	geo:GSE304661:GSM9154923	tissue_type	tissue	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		Standard density gradient centrifugation was used to isolate Bone Marrow Mononuclear Cells (BMMCs)	True
+GSM9154923	geo:GSE304661:GSM9154923	disease_free_text	multiple myeloma	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Series_title = Identification of immune reconstitution and hematopoiesis restoration in bone marrow of multiple myeloma patients with high-dose melphalan following auto-HSCT by scRNA-seq	True
+GSM9154923	geo:GSE304661:GSM9154923	disease_free_text	multiple myeloma	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		Multiple myeloma (MM) is a hematologic malignancy	True
+GSM9154923	geo:GSE304661:GSM9154923	disease_free_text	multiple myeloma	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Sample_title = BMMCs from MM patient 1, high-dose melphalan following auto-HSCT, RNA, rep1 !Sample_geo_accession = GSM9154923	True
+GSM9154923	geo:GSE304661:GSM9154923	sampled_site_condition	diseased	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		the malignant plasma cells in BM were strongly reduced to 0.09% in the MM group with therapy	True
+GSM9154923	geo:GSE304661:GSM9154923	sampled_site_condition	diseased	file	evidence/PMC12980031.txt		We conclude that the small residual malignant plasma cells were identified by scRNA-seq in the BM of MM patients	True
+GSM9154923	geo:GSE304661:GSM9154923	sampled_site_condition	diseased	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Sample_title = BMMCs from MM patient 1, high-dose melphalan following auto-HSCT, RNA, rep1 !Sample_geo_accession = GSM9154923	True
+GSM9154923	geo:GSE304661:GSM9154923	assay	10x 5' v2	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		Using single cell 5 ′ Library and Gel Bead Kit V2 (10x Genomics, PN-1000263)	True
+GSM9154923	geo:GSE304661:GSM9154923	suspension_type	cell	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		The scRNA-seq was performed on freshly isolated BMMCs	True
+GSM9154923	geo:GSE304661:GSM9154923	suspension_type	cell	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		Using single cell 5 ′ Library and Gel Bead Kit V2 (10x Genomics, PN-1000263) and Chromium Single Cell K Chip Kit (10x Genomics, PN-2000182), the cell suspension was loaded onto the Chromium single cell controller	True
+GSM9154923	geo:GSE304661:GSM9154923	cell_enrichment	CL:0000842+	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Sample_characteristics_ch1 = cell type: mononuclear cells	True
+GSM9154923	geo:GSE304661:GSM9154923	cell_enrichment	CL:0000842+	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		Standard density gradient centrifugation was used to isolate Bone Marrow Mononuclear Cells (BMMCs)	True
+GSM9154923	geo:GSE304661:GSM9154923	gene_annotation_version	GRCh38	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Sample_data_processing = Assembly: GRCh38 reference genome	True
+GSM9154923	geo:GSE304661:GSM9154923	gene_annotation_version	GRCh38	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		Raw data were processed using Cell Ranger v7.2.0 with alignment to the GRCh38 reference genome	True
+GSM9154924	geo:GSE304661:GSM9154924	donor_id	MM patient 2	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Sample_title = BMMCs from MM patient 2, high-dose melphalan following auto-HSCT, RNA, rep2 !Sample_geo_accession = GSM9154924	True
+GSM9154924	geo:GSE304661:GSM9154924	tissue_free_text	bone marrow	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Sample_characteristics_ch1 = tissue: BM	True
+GSM9154924	geo:GSE304661:GSM9154924	tissue_free_text	bone marrow	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		clonal expansion of plasma cells in the bone marrow (BM)	True
+GSM9154924	geo:GSE304661:GSM9154924	tissue_free_text	bone marrow	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Sample_title = BMMCs from MM patient 2, high-dose melphalan following auto-HSCT, RNA, rep2 !Sample_geo_accession = GSM9154924	True
+GSM9154924	geo:GSE304661:GSM9154924	tissue_type	tissue	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		The scRNA-seq was performed on freshly isolated BMMCs from three MM patients	True
+GSM9154924	geo:GSE304661:GSM9154924	tissue_type	tissue	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		Standard density gradient centrifugation was used to isolate Bone Marrow Mononuclear Cells (BMMCs)	True
+GSM9154924	geo:GSE304661:GSM9154924	disease_free_text	multiple myeloma	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Series_title = Identification of immune reconstitution and hematopoiesis restoration in bone marrow of multiple myeloma patients with high-dose melphalan following auto-HSCT by scRNA-seq	True
+GSM9154924	geo:GSE304661:GSM9154924	disease_free_text	multiple myeloma	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		Multiple myeloma (MM) is a hematologic malignancy	True
+GSM9154924	geo:GSE304661:GSM9154924	disease_free_text	multiple myeloma	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Sample_title = BMMCs from MM patient 2, high-dose melphalan following auto-HSCT, RNA, rep2 !Sample_geo_accession = GSM9154924	True
+GSM9154924	geo:GSE304661:GSM9154924	sampled_site_condition	diseased	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		the malignant plasma cells in BM were strongly reduced to 0.09% in the MM group with therapy	True
+GSM9154924	geo:GSE304661:GSM9154924	sampled_site_condition	diseased	file	evidence/PMC12980031.txt		We conclude that the small residual malignant plasma cells were identified by scRNA-seq in the BM of MM patients	True
+GSM9154924	geo:GSE304661:GSM9154924	sampled_site_condition	diseased	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Sample_title = BMMCs from MM patient 2, high-dose melphalan following auto-HSCT, RNA, rep2 !Sample_geo_accession = GSM9154924	True
+GSM9154924	geo:GSE304661:GSM9154924	assay	10x 5' v2	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		Using single cell 5 ′ Library and Gel Bead Kit V2 (10x Genomics, PN-1000263)	True
+GSM9154924	geo:GSE304661:GSM9154924	suspension_type	cell	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		The scRNA-seq was performed on freshly isolated BMMCs	True
+GSM9154924	geo:GSE304661:GSM9154924	suspension_type	cell	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		Using single cell 5 ′ Library and Gel Bead Kit V2 (10x Genomics, PN-1000263) and Chromium Single Cell K Chip Kit (10x Genomics, PN-2000182), the cell suspension was loaded onto the Chromium single cell controller	True
+GSM9154924	geo:GSE304661:GSM9154924	cell_enrichment	CL:0000842+	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Sample_characteristics_ch1 = cell type: mononuclear cells	True
+GSM9154924	geo:GSE304661:GSM9154924	cell_enrichment	CL:0000842+	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		Standard density gradient centrifugation was used to isolate Bone Marrow Mononuclear Cells (BMMCs)	True
+GSM9154924	geo:GSE304661:GSM9154924	gene_annotation_version	GRCh38	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Sample_data_processing = Assembly: GRCh38 reference genome	True
+GSM9154924	geo:GSE304661:GSM9154924	gene_annotation_version	GRCh38	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		Raw data were processed using Cell Ranger v7.2.0 with alignment to the GRCh38 reference genome	True
+GSM9154925	geo:GSE304661:GSM9154925	donor_id	MM patient 3	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Sample_title = BMMCs from MM patient 3, high-dose melphalan following auto-HSCT, RNA, rep3 !Sample_geo_accession = GSM9154925	True
+GSM9154925	geo:GSE304661:GSM9154925	tissue_free_text	bone marrow	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Sample_characteristics_ch1 = tissue: BM	True
+GSM9154925	geo:GSE304661:GSM9154925	tissue_free_text	bone marrow	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		clonal expansion of plasma cells in the bone marrow (BM)	True
+GSM9154925	geo:GSE304661:GSM9154925	tissue_free_text	bone marrow	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Sample_title = BMMCs from MM patient 3, high-dose melphalan following auto-HSCT, RNA, rep3 !Sample_geo_accession = GSM9154925	True
+GSM9154925	geo:GSE304661:GSM9154925	tissue_type	tissue	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		The scRNA-seq was performed on freshly isolated BMMCs from three MM patients	True
+GSM9154925	geo:GSE304661:GSM9154925	tissue_type	tissue	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		Standard density gradient centrifugation was used to isolate Bone Marrow Mononuclear Cells (BMMCs)	True
+GSM9154925	geo:GSE304661:GSM9154925	disease_free_text	multiple myeloma	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Series_title = Identification of immune reconstitution and hematopoiesis restoration in bone marrow of multiple myeloma patients with high-dose melphalan following auto-HSCT by scRNA-seq	True
+GSM9154925	geo:GSE304661:GSM9154925	disease_free_text	multiple myeloma	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		Multiple myeloma (MM) is a hematologic malignancy	True
+GSM9154925	geo:GSE304661:GSM9154925	disease_free_text	multiple myeloma	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Sample_title = BMMCs from MM patient 3, high-dose melphalan following auto-HSCT, RNA, rep3 !Sample_geo_accession = GSM9154925	True
+GSM9154925	geo:GSE304661:GSM9154925	sampled_site_condition	diseased	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		the malignant plasma cells in BM were strongly reduced to 0.09% in the MM group with therapy	True
+GSM9154925	geo:GSE304661:GSM9154925	sampled_site_condition	diseased	file	evidence/PMC12980031.txt		We conclude that the small residual malignant plasma cells were identified by scRNA-seq in the BM of MM patients	True
+GSM9154925	geo:GSE304661:GSM9154925	sampled_site_condition	diseased	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Sample_title = BMMCs from MM patient 3, high-dose melphalan following auto-HSCT, RNA, rep3 !Sample_geo_accession = GSM9154925	True
+GSM9154925	geo:GSE304661:GSM9154925	assay	10x 5' v2	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		Using single cell 5 ′ Library and Gel Bead Kit V2 (10x Genomics, PN-1000263)	True
+GSM9154925	geo:GSE304661:GSM9154925	suspension_type	cell	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		The scRNA-seq was performed on freshly isolated BMMCs	True
+GSM9154925	geo:GSE304661:GSM9154925	suspension_type	cell	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		Using single cell 5 ′ Library and Gel Bead Kit V2 (10x Genomics, PN-1000263) and Chromium Single Cell K Chip Kit (10x Genomics, PN-2000182), the cell suspension was loaded onto the Chromium single cell controller	True
+GSM9154925	geo:GSE304661:GSM9154925	cell_enrichment	CL:0000842+	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Sample_characteristics_ch1 = cell type: mononuclear cells	True
+GSM9154925	geo:GSE304661:GSM9154925	cell_enrichment	CL:0000842+	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		Standard density gradient centrifugation was used to isolate Bone Marrow Mononuclear Cells (BMMCs)	True
+GSM9154925	geo:GSE304661:GSM9154925	gene_annotation_version	GRCh38	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		!Sample_data_processing = Assembly: GRCh38 reference genome	True
+GSM9154925	geo:GSE304661:GSM9154925	gene_annotation_version	GRCh38	file	raw/fp-642e44b59eaa/GSE304661_family.soft.gz		Raw data were processed using Cell Ranger v7.2.0 with alignment to the GRCh38 reference genome	True

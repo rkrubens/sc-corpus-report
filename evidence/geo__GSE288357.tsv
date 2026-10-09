@@ -1,0 +1,853 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+C1	geo:GSE288357:C1	donor_id	<column library>	column	work/fp-3875ef813864/converted/GSE288357_combined_count_matrix.cells.tsv.gz/library			True
+C2	geo:GSE288357:C2	donor_id	<column library>	column	work/fp-3875ef813864/converted/GSE288357_combined_count_matrix.cells.tsv.gz/library			True
+C3	geo:GSE288357:C3	donor_id	<column library>	column	work/fp-3875ef813864/converted/GSE288357_combined_count_matrix.cells.tsv.gz/library			True
+C4	geo:GSE288357:C4	donor_id	<column library>	column	work/fp-3875ef813864/converted/GSE288357_combined_count_matrix.cells.tsv.gz/library			True
+NC1	geo:GSE288357:NC1	donor_id	<column library>	column	work/fp-3875ef813864/converted/GSE288357_combined_count_matrix.cells.tsv.gz/library			True
+NC10	geo:GSE288357:NC10	donor_id	<column library>	column	work/fp-3875ef813864/converted/GSE288357_combined_count_matrix.cells.tsv.gz/library			True
+NC11	geo:GSE288357:NC11	donor_id	<column library>	column	work/fp-3875ef813864/converted/GSE288357_combined_count_matrix.cells.tsv.gz/library			True
+NC12	geo:GSE288357:NC12	donor_id	<column library>	column	work/fp-3875ef813864/converted/GSE288357_combined_count_matrix.cells.tsv.gz/library			True
+NC2	geo:GSE288357:NC2	donor_id	<column library>	column	work/fp-3875ef813864/converted/GSE288357_combined_count_matrix.cells.tsv.gz/library			True
+NC3	geo:GSE288357:NC3	donor_id	<column library>	column	work/fp-3875ef813864/converted/GSE288357_combined_count_matrix.cells.tsv.gz/library			True
+NC4	geo:GSE288357:NC4	donor_id	<column library>	column	work/fp-3875ef813864/converted/GSE288357_combined_count_matrix.cells.tsv.gz/library			True
+NC5	geo:GSE288357:NC5	donor_id	<column library>	column	work/fp-3875ef813864/converted/GSE288357_combined_count_matrix.cells.tsv.gz/library			True
+NC6	geo:GSE288357:NC6	donor_id	<column library>	column	work/fp-3875ef813864/converted/GSE288357_combined_count_matrix.cells.tsv.gz/library			True
+NC7	geo:GSE288357:NC7	donor_id	<column library>	column	work/fp-3875ef813864/converted/GSE288357_combined_count_matrix.cells.tsv.gz/library			True
+NC8	geo:GSE288357:NC8	donor_id	<column library>	column	work/fp-3875ef813864/converted/GSE288357_combined_count_matrix.cells.tsv.gz/library			True
+NC9	geo:GSE288357:NC9	donor_id	<column library>	column	work/fp-3875ef813864/converted/GSE288357_combined_count_matrix.cells.tsv.gz/library			True
+P1	geo:GSE288357:P1	donor_id	<column library>	column	work/fp-3875ef813864/converted/GSE288357_combined_count_matrix.cells.tsv.gz/library			True
+C1	geo:GSE288357:C1	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+C2	geo:GSE288357:C2	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+C3	geo:GSE288357:C3	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+C4	geo:GSE288357:C4	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+NC1	geo:GSE288357:NC1	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+NC10	geo:GSE288357:NC10	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+NC11	geo:GSE288357:NC11	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+NC12	geo:GSE288357:NC12	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+NC2	geo:GSE288357:NC2	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+NC3	geo:GSE288357:NC3	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+NC4	geo:GSE288357:NC4	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+NC5	geo:GSE288357:NC5	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+NC6	geo:GSE288357:NC6	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+NC7	geo:GSE288357:NC7	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+NC8	geo:GSE288357:NC8	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+NC9	geo:GSE288357:NC9	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+P1	geo:GSE288357:P1	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+C1	geo:GSE288357:C1	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+C2	geo:GSE288357:C2	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+C3	geo:GSE288357:C3	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+C4	geo:GSE288357:C4	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+NC1	geo:GSE288357:NC1	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+NC10	geo:GSE288357:NC10	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+NC11	geo:GSE288357:NC11	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+NC12	geo:GSE288357:NC12	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+NC2	geo:GSE288357:NC2	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+NC3	geo:GSE288357:NC3	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+NC4	geo:GSE288357:NC4	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+NC5	geo:GSE288357:NC5	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+NC6	geo:GSE288357:NC6	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+NC7	geo:GSE288357:NC7	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+NC8	geo:GSE288357:NC8	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+NC9	geo:GSE288357:NC9	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+P1	geo:GSE288357:P1	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+C1	geo:GSE288357:C1	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+C2	geo:GSE288357:C2	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+C3	geo:GSE288357:C3	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+C4	geo:GSE288357:C4	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+NC1	geo:GSE288357:NC1	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+NC10	geo:GSE288357:NC10	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+NC11	geo:GSE288357:NC11	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+NC12	geo:GSE288357:NC12	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+NC2	geo:GSE288357:NC2	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+NC3	geo:GSE288357:NC3	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+NC4	geo:GSE288357:NC4	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+NC5	geo:GSE288357:NC5	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+NC6	geo:GSE288357:NC6	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+NC7	geo:GSE288357:NC7	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+NC8	geo:GSE288357:NC8	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+NC9	geo:GSE288357:NC9	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+P1	geo:GSE288357:P1	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+		organism	Homo sapiens	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+		organism	Homo sapiens	file	raw/fp-3875ef813864/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient with disease progression scRNA-seq	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient with disease progression scRNA-seq	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient with disease progression scRNA-seq	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient with disease progression scRNA-seq	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient with disease progression scRNA-seq	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient with disease progression scRNA-seq	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient with disease progression scRNA-seq	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient with disease progression scRNA-seq	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient with disease progression scRNA-seq	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient with disease progression scRNA-seq	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient with disease progression scRNA-seq	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient with disease progression scRNA-seq	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient with disease progression scRNA-seq	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient with disease progression scRNA-seq	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient with disease progression scRNA-seq	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient with disease progression scRNA-seq	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient with disease progression scRNA-seq	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: P1	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: P1	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: P1	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: P1	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: P1	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: P1	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: P1	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: P1	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: P1	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: P1	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: P1	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: P1	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: P1	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: P1	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: P1	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: P1	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: P1	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with no cytopenia scRNA-seq	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with no cytopenia scRNA-seq	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with no cytopenia scRNA-seq	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with no cytopenia scRNA-seq	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with no cytopenia scRNA-seq	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with no cytopenia scRNA-seq	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with no cytopenia scRNA-seq	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with no cytopenia scRNA-seq	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with no cytopenia scRNA-seq	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with no cytopenia scRNA-seq	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with no cytopenia scRNA-seq	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with no cytopenia scRNA-seq	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with no cytopenia scRNA-seq	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with no cytopenia scRNA-seq	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with no cytopenia scRNA-seq	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with no cytopenia scRNA-seq	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with no cytopenia scRNA-seq	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC1	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC1	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC1	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC1	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC1	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC1	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC1	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC1	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC1	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC1	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC1	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC1	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC1	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC1	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC1	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC1	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC1	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with no cytopenia scRNA-seq	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with no cytopenia scRNA-seq	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with no cytopenia scRNA-seq	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with no cytopenia scRNA-seq	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with no cytopenia scRNA-seq	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with no cytopenia scRNA-seq	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with no cytopenia scRNA-seq	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with no cytopenia scRNA-seq	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with no cytopenia scRNA-seq	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with no cytopenia scRNA-seq	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with no cytopenia scRNA-seq	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with no cytopenia scRNA-seq	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with no cytopenia scRNA-seq	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with no cytopenia scRNA-seq	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with no cytopenia scRNA-seq	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with no cytopenia scRNA-seq	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with no cytopenia scRNA-seq	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC2	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC2	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC2	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC2	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC2	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC2	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC2	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC2	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC2	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC2	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC2	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC2	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC2	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC2	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC2	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC2	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC2	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with no cytopenia scRNA-seq	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with no cytopenia scRNA-seq	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with no cytopenia scRNA-seq	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with no cytopenia scRNA-seq	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with no cytopenia scRNA-seq	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with no cytopenia scRNA-seq	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with no cytopenia scRNA-seq	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with no cytopenia scRNA-seq	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with no cytopenia scRNA-seq	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with no cytopenia scRNA-seq	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with no cytopenia scRNA-seq	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with no cytopenia scRNA-seq	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with no cytopenia scRNA-seq	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with no cytopenia scRNA-seq	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with no cytopenia scRNA-seq	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with no cytopenia scRNA-seq	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with no cytopenia scRNA-seq	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC3	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC3	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC3	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC3	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC3	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC3	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC3	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC3	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC3	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC3	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC3	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC3	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC3	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC3	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC3	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC3	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC3	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with no cytopenia scRNA-seq	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with no cytopenia scRNA-seq	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with no cytopenia scRNA-seq	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with no cytopenia scRNA-seq	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with no cytopenia scRNA-seq	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with no cytopenia scRNA-seq	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with no cytopenia scRNA-seq	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with no cytopenia scRNA-seq	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with no cytopenia scRNA-seq	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with no cytopenia scRNA-seq	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with no cytopenia scRNA-seq	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with no cytopenia scRNA-seq	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with no cytopenia scRNA-seq	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with no cytopenia scRNA-seq	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with no cytopenia scRNA-seq	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with no cytopenia scRNA-seq	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with no cytopenia scRNA-seq	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC4	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC4	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC4	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC4	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC4	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC4	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC4	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC4	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC4	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC4	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC4	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC4	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC4	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC4	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC4	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC4	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC4	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 5 with no cytopenia scRNA-seq	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 5 with no cytopenia scRNA-seq	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 5 with no cytopenia scRNA-seq	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 5 with no cytopenia scRNA-seq	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 5 with no cytopenia scRNA-seq	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 5 with no cytopenia scRNA-seq	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 5 with no cytopenia scRNA-seq	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 5 with no cytopenia scRNA-seq	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 5 with no cytopenia scRNA-seq	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 5 with no cytopenia scRNA-seq	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 5 with no cytopenia scRNA-seq	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 5 with no cytopenia scRNA-seq	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 5 with no cytopenia scRNA-seq	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 5 with no cytopenia scRNA-seq	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 5 with no cytopenia scRNA-seq	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 5 with no cytopenia scRNA-seq	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 5 with no cytopenia scRNA-seq	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC5	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC5	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC5	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC5	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC5	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC5	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC5	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC5	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC5	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC5	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC5	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC5	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC5	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC5	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC5	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC5	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC5	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 6 with no cytopenia scRNA-seq	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 6 with no cytopenia scRNA-seq	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 6 with no cytopenia scRNA-seq	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 6 with no cytopenia scRNA-seq	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 6 with no cytopenia scRNA-seq	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 6 with no cytopenia scRNA-seq	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 6 with no cytopenia scRNA-seq	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 6 with no cytopenia scRNA-seq	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 6 with no cytopenia scRNA-seq	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 6 with no cytopenia scRNA-seq	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 6 with no cytopenia scRNA-seq	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 6 with no cytopenia scRNA-seq	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 6 with no cytopenia scRNA-seq	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 6 with no cytopenia scRNA-seq	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 6 with no cytopenia scRNA-seq	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 6 with no cytopenia scRNA-seq	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 6 with no cytopenia scRNA-seq	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC6	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC6	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC6	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC6	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC6	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC6	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC6	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC6	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC6	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC6	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC6	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC6	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC6	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC6	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC6	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC6	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC6	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 7 with no cytopenia scRNA-seq	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 7 with no cytopenia scRNA-seq	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 7 with no cytopenia scRNA-seq	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 7 with no cytopenia scRNA-seq	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 7 with no cytopenia scRNA-seq	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 7 with no cytopenia scRNA-seq	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 7 with no cytopenia scRNA-seq	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 7 with no cytopenia scRNA-seq	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 7 with no cytopenia scRNA-seq	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 7 with no cytopenia scRNA-seq	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 7 with no cytopenia scRNA-seq	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 7 with no cytopenia scRNA-seq	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 7 with no cytopenia scRNA-seq	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 7 with no cytopenia scRNA-seq	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 7 with no cytopenia scRNA-seq	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 7 with no cytopenia scRNA-seq	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 7 with no cytopenia scRNA-seq	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC7	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC7	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC7	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC7	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC7	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC7	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC7	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC7	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC7	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC7	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC7	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC7	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC7	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC7	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC7	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC7	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC7	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 8 with no cytopenia scRNA-seq	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 8 with no cytopenia scRNA-seq	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 8 with no cytopenia scRNA-seq	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 8 with no cytopenia scRNA-seq	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 8 with no cytopenia scRNA-seq	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 8 with no cytopenia scRNA-seq	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 8 with no cytopenia scRNA-seq	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 8 with no cytopenia scRNA-seq	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 8 with no cytopenia scRNA-seq	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 8 with no cytopenia scRNA-seq	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 8 with no cytopenia scRNA-seq	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 8 with no cytopenia scRNA-seq	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 8 with no cytopenia scRNA-seq	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 8 with no cytopenia scRNA-seq	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 8 with no cytopenia scRNA-seq	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 8 with no cytopenia scRNA-seq	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 8 with no cytopenia scRNA-seq	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC8	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC8	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC8	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC8	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC8	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC8	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC8	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC8	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC8	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC8	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC8	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC8	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC8	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC8	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC8	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC8	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC8	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 9 with no cytopenia scRNA-seq	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 9 with no cytopenia scRNA-seq	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 9 with no cytopenia scRNA-seq	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 9 with no cytopenia scRNA-seq	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 9 with no cytopenia scRNA-seq	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 9 with no cytopenia scRNA-seq	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 9 with no cytopenia scRNA-seq	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 9 with no cytopenia scRNA-seq	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 9 with no cytopenia scRNA-seq	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 9 with no cytopenia scRNA-seq	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 9 with no cytopenia scRNA-seq	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 9 with no cytopenia scRNA-seq	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 9 with no cytopenia scRNA-seq	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 9 with no cytopenia scRNA-seq	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 9 with no cytopenia scRNA-seq	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 9 with no cytopenia scRNA-seq	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 9 with no cytopenia scRNA-seq	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC9	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC9	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC9	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC9	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC9	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC9	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC9	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC9	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC9	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC9	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC9	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC9	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC9	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC9	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC9	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC9	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC9	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 10 with no cytopenia scRNA-seq	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 10 with no cytopenia scRNA-seq	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 10 with no cytopenia scRNA-seq	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 10 with no cytopenia scRNA-seq	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 10 with no cytopenia scRNA-seq	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 10 with no cytopenia scRNA-seq	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 10 with no cytopenia scRNA-seq	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 10 with no cytopenia scRNA-seq	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 10 with no cytopenia scRNA-seq	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 10 with no cytopenia scRNA-seq	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 10 with no cytopenia scRNA-seq	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 10 with no cytopenia scRNA-seq	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 10 with no cytopenia scRNA-seq	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 10 with no cytopenia scRNA-seq	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 10 with no cytopenia scRNA-seq	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 10 with no cytopenia scRNA-seq	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 10 with no cytopenia scRNA-seq	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC10	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC10	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC10	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC10	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC10	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC10	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC10	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC10	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC10	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC10	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC10	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC10	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC10	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC10	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC10	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC10	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC10	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 11 with no cytopenia scRNA-seq	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 11 with no cytopenia scRNA-seq	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 11 with no cytopenia scRNA-seq	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 11 with no cytopenia scRNA-seq	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 11 with no cytopenia scRNA-seq	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 11 with no cytopenia scRNA-seq	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 11 with no cytopenia scRNA-seq	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 11 with no cytopenia scRNA-seq	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 11 with no cytopenia scRNA-seq	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 11 with no cytopenia scRNA-seq	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 11 with no cytopenia scRNA-seq	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 11 with no cytopenia scRNA-seq	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 11 with no cytopenia scRNA-seq	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 11 with no cytopenia scRNA-seq	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 11 with no cytopenia scRNA-seq	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 11 with no cytopenia scRNA-seq	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 11 with no cytopenia scRNA-seq	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC11	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC11	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC11	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC11	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC11	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC11	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC11	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC11	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC11	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC11	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC11	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC11	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC11	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC11	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC11	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC11	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC11	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 12 with no cytopenia scRNA-seq	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 12 with no cytopenia scRNA-seq	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 12 with no cytopenia scRNA-seq	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 12 with no cytopenia scRNA-seq	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 12 with no cytopenia scRNA-seq	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 12 with no cytopenia scRNA-seq	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 12 with no cytopenia scRNA-seq	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 12 with no cytopenia scRNA-seq	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 12 with no cytopenia scRNA-seq	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 12 with no cytopenia scRNA-seq	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 12 with no cytopenia scRNA-seq	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 12 with no cytopenia scRNA-seq	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 12 with no cytopenia scRNA-seq	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 12 with no cytopenia scRNA-seq	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 12 with no cytopenia scRNA-seq	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 12 with no cytopenia scRNA-seq	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 12 with no cytopenia scRNA-seq	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC12	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC12	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC12	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC12	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC12	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC12	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC12	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC12	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC12	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC12	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC12	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC12	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC12	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC12	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC12	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC12	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: NC12	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with cytopenia scRNA-seq	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with cytopenia scRNA-seq	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with cytopenia scRNA-seq	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with cytopenia scRNA-seq	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with cytopenia scRNA-seq	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with cytopenia scRNA-seq	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with cytopenia scRNA-seq	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with cytopenia scRNA-seq	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with cytopenia scRNA-seq	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with cytopenia scRNA-seq	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with cytopenia scRNA-seq	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with cytopenia scRNA-seq	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with cytopenia scRNA-seq	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with cytopenia scRNA-seq	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with cytopenia scRNA-seq	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with cytopenia scRNA-seq	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 1 with cytopenia scRNA-seq	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C1	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C1	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C1	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C1	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C1	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C1	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C1	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C1	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C1	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C1	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C1	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C1	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C1	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C1	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C1	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C1	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C1	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with cytopenia scRNA-seq	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with cytopenia scRNA-seq	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with cytopenia scRNA-seq	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with cytopenia scRNA-seq	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with cytopenia scRNA-seq	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with cytopenia scRNA-seq	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with cytopenia scRNA-seq	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with cytopenia scRNA-seq	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with cytopenia scRNA-seq	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with cytopenia scRNA-seq	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with cytopenia scRNA-seq	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with cytopenia scRNA-seq	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with cytopenia scRNA-seq	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with cytopenia scRNA-seq	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with cytopenia scRNA-seq	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with cytopenia scRNA-seq	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 2 with cytopenia scRNA-seq	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C2	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C2	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C2	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C2	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C2	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C2	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C2	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C2	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C2	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C2	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C2	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C2	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C2	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C2	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C2	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C2	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C2	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with cytopenia scRNA-seq	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with cytopenia scRNA-seq	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with cytopenia scRNA-seq	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with cytopenia scRNA-seq	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with cytopenia scRNA-seq	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with cytopenia scRNA-seq	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with cytopenia scRNA-seq	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with cytopenia scRNA-seq	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with cytopenia scRNA-seq	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with cytopenia scRNA-seq	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with cytopenia scRNA-seq	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with cytopenia scRNA-seq	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with cytopenia scRNA-seq	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with cytopenia scRNA-seq	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with cytopenia scRNA-seq	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with cytopenia scRNA-seq	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 3 with cytopenia scRNA-seq	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C3	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C3	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C3	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C3	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C3	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C3	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C3	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C3	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C3	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C3	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C3	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C3	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C3	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C3	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C3	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C3	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C3	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with cytopenia scRNA-seq	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with cytopenia scRNA-seq	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with cytopenia scRNA-seq	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with cytopenia scRNA-seq	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with cytopenia scRNA-seq	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with cytopenia scRNA-seq	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with cytopenia scRNA-seq	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with cytopenia scRNA-seq	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with cytopenia scRNA-seq	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with cytopenia scRNA-seq	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with cytopenia scRNA-seq	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with cytopenia scRNA-seq	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with cytopenia scRNA-seq	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with cytopenia scRNA-seq	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with cytopenia scRNA-seq	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with cytopenia scRNA-seq	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_title = Patient 4 with cytopenia scRNA-seq	True
+C1	geo:GSE288357:C1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C4	True
+C2	geo:GSE288357:C2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C4	True
+C3	geo:GSE288357:C3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C4	True
+C4	geo:GSE288357:C4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C4	True
+NC1	geo:GSE288357:NC1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C4	True
+NC10	geo:GSE288357:NC10	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C4	True
+NC11	geo:GSE288357:NC11	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C4	True
+NC12	geo:GSE288357:NC12	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C4	True
+NC2	geo:GSE288357:NC2	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C4	True
+NC3	geo:GSE288357:NC3	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C4	True
+NC4	geo:GSE288357:NC4	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C4	True
+NC5	geo:GSE288357:NC5	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C4	True
+NC6	geo:GSE288357:NC6	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C4	True
+NC7	geo:GSE288357:NC7	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C4	True
+NC8	geo:GSE288357:NC8	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C4	True
+NC9	geo:GSE288357:NC9	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C4	True
+P1	geo:GSE288357:P1	donor_id	<map of column library>	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_description = Library name: C4	True
+C1	geo:GSE288357:C1	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+C2	geo:GSE288357:C2	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+C3	geo:GSE288357:C3	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+C4	geo:GSE288357:C4	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC1	geo:GSE288357:NC1	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC10	geo:GSE288357:NC10	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC11	geo:GSE288357:NC11	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC12	geo:GSE288357:NC12	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC2	geo:GSE288357:NC2	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC3	geo:GSE288357:NC3	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC4	geo:GSE288357:NC4	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC5	geo:GSE288357:NC5	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC6	geo:GSE288357:NC6	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC7	geo:GSE288357:NC7	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC8	geo:GSE288357:NC8	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC9	geo:GSE288357:NC9	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+P1	geo:GSE288357:P1	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+C1	geo:GSE288357:C1	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_source_name_ch1 = Bone marrow biopsy	True
+C2	geo:GSE288357:C2	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_source_name_ch1 = Bone marrow biopsy	True
+C3	geo:GSE288357:C3	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_source_name_ch1 = Bone marrow biopsy	True
+C4	geo:GSE288357:C4	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_source_name_ch1 = Bone marrow biopsy	True
+NC1	geo:GSE288357:NC1	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_source_name_ch1 = Bone marrow biopsy	True
+NC10	geo:GSE288357:NC10	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_source_name_ch1 = Bone marrow biopsy	True
+NC11	geo:GSE288357:NC11	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_source_name_ch1 = Bone marrow biopsy	True
+NC12	geo:GSE288357:NC12	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_source_name_ch1 = Bone marrow biopsy	True
+NC2	geo:GSE288357:NC2	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_source_name_ch1 = Bone marrow biopsy	True
+NC3	geo:GSE288357:NC3	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_source_name_ch1 = Bone marrow biopsy	True
+NC4	geo:GSE288357:NC4	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_source_name_ch1 = Bone marrow biopsy	True
+NC5	geo:GSE288357:NC5	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_source_name_ch1 = Bone marrow biopsy	True
+NC6	geo:GSE288357:NC6	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_source_name_ch1 = Bone marrow biopsy	True
+NC7	geo:GSE288357:NC7	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_source_name_ch1 = Bone marrow biopsy	True
+NC8	geo:GSE288357:NC8	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_source_name_ch1 = Bone marrow biopsy	True
+NC9	geo:GSE288357:NC9	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_source_name_ch1 = Bone marrow biopsy	True
+P1	geo:GSE288357:P1	tissue_free_text	bone marrow	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_source_name_ch1 = Bone marrow biopsy	True
+C1	geo:GSE288357:C1	tissue_type	tissue	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+C2	geo:GSE288357:C2	tissue_type	tissue	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+C3	geo:GSE288357:C3	tissue_type	tissue	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+C4	geo:GSE288357:C4	tissue_type	tissue	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC1	geo:GSE288357:NC1	tissue_type	tissue	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC10	geo:GSE288357:NC10	tissue_type	tissue	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC11	geo:GSE288357:NC11	tissue_type	tissue	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC12	geo:GSE288357:NC12	tissue_type	tissue	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC2	geo:GSE288357:NC2	tissue_type	tissue	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC3	geo:GSE288357:NC3	tissue_type	tissue	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC4	geo:GSE288357:NC4	tissue_type	tissue	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC5	geo:GSE288357:NC5	tissue_type	tissue	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC6	geo:GSE288357:NC6	tissue_type	tissue	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC7	geo:GSE288357:NC7	tissue_type	tissue	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC8	geo:GSE288357:NC8	tissue_type	tissue	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+NC9	geo:GSE288357:NC9	tissue_type	tissue	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+P1	geo:GSE288357:P1	tissue_type	tissue	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow biopsy	True
+C1	geo:GSE288357:C1	sample_collection_method	bone marrow core biopsy	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Fresh bone marrow core biopsies were isolated from patients, 12 week after CAR-T cell infusion.	True
+C2	geo:GSE288357:C2	sample_collection_method	bone marrow core biopsy	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Fresh bone marrow core biopsies were isolated from patients, 12 week after CAR-T cell infusion.	True
+C3	geo:GSE288357:C3	sample_collection_method	bone marrow core biopsy	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Fresh bone marrow core biopsies were isolated from patients, 12 week after CAR-T cell infusion.	True
+C4	geo:GSE288357:C4	sample_collection_method	bone marrow core biopsy	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Fresh bone marrow core biopsies were isolated from patients, 12 week after CAR-T cell infusion.	True
+NC1	geo:GSE288357:NC1	sample_collection_method	bone marrow core biopsy	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Fresh bone marrow core biopsies were isolated from patients, 12 week after CAR-T cell infusion.	True
+NC10	geo:GSE288357:NC10	sample_collection_method	bone marrow core biopsy	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Fresh bone marrow core biopsies were isolated from patients, 12 week after CAR-T cell infusion.	True
+NC11	geo:GSE288357:NC11	sample_collection_method	bone marrow core biopsy	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Fresh bone marrow core biopsies were isolated from patients, 12 week after CAR-T cell infusion.	True
+NC12	geo:GSE288357:NC12	sample_collection_method	bone marrow core biopsy	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Fresh bone marrow core biopsies were isolated from patients, 12 week after CAR-T cell infusion.	True
+NC2	geo:GSE288357:NC2	sample_collection_method	bone marrow core biopsy	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Fresh bone marrow core biopsies were isolated from patients, 12 week after CAR-T cell infusion.	True
+NC3	geo:GSE288357:NC3	sample_collection_method	bone marrow core biopsy	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Fresh bone marrow core biopsies were isolated from patients, 12 week after CAR-T cell infusion.	True
+NC4	geo:GSE288357:NC4	sample_collection_method	bone marrow core biopsy	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Fresh bone marrow core biopsies were isolated from patients, 12 week after CAR-T cell infusion.	True
+NC5	geo:GSE288357:NC5	sample_collection_method	bone marrow core biopsy	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Fresh bone marrow core biopsies were isolated from patients, 12 week after CAR-T cell infusion.	True
+NC6	geo:GSE288357:NC6	sample_collection_method	bone marrow core biopsy	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Fresh bone marrow core biopsies were isolated from patients, 12 week after CAR-T cell infusion.	True
+NC7	geo:GSE288357:NC7	sample_collection_method	bone marrow core biopsy	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Fresh bone marrow core biopsies were isolated from patients, 12 week after CAR-T cell infusion.	True
+NC8	geo:GSE288357:NC8	sample_collection_method	bone marrow core biopsy	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Fresh bone marrow core biopsies were isolated from patients, 12 week after CAR-T cell infusion.	True
+NC9	geo:GSE288357:NC9	sample_collection_method	bone marrow core biopsy	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Fresh bone marrow core biopsies were isolated from patients, 12 week after CAR-T cell infusion.	True
+P1	geo:GSE288357:P1	sample_collection_method	bone marrow core biopsy	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Fresh bone marrow core biopsies were isolated from patients, 12 week after CAR-T cell infusion.	True
+C1	geo:GSE288357:C1	suspension_type	cell	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Biopsies were mechanically and enzymatically dissociated to isolate single cell solution.	True
+C2	geo:GSE288357:C2	suspension_type	cell	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Biopsies were mechanically and enzymatically dissociated to isolate single cell solution.	True
+C3	geo:GSE288357:C3	suspension_type	cell	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Biopsies were mechanically and enzymatically dissociated to isolate single cell solution.	True
+C4	geo:GSE288357:C4	suspension_type	cell	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Biopsies were mechanically and enzymatically dissociated to isolate single cell solution.	True
+NC1	geo:GSE288357:NC1	suspension_type	cell	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Biopsies were mechanically and enzymatically dissociated to isolate single cell solution.	True
+NC10	geo:GSE288357:NC10	suspension_type	cell	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Biopsies were mechanically and enzymatically dissociated to isolate single cell solution.	True
+NC11	geo:GSE288357:NC11	suspension_type	cell	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Biopsies were mechanically and enzymatically dissociated to isolate single cell solution.	True
+NC12	geo:GSE288357:NC12	suspension_type	cell	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Biopsies were mechanically and enzymatically dissociated to isolate single cell solution.	True
+NC2	geo:GSE288357:NC2	suspension_type	cell	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Biopsies were mechanically and enzymatically dissociated to isolate single cell solution.	True
+NC3	geo:GSE288357:NC3	suspension_type	cell	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Biopsies were mechanically and enzymatically dissociated to isolate single cell solution.	True
+NC4	geo:GSE288357:NC4	suspension_type	cell	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Biopsies were mechanically and enzymatically dissociated to isolate single cell solution.	True
+NC5	geo:GSE288357:NC5	suspension_type	cell	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Biopsies were mechanically and enzymatically dissociated to isolate single cell solution.	True
+NC6	geo:GSE288357:NC6	suspension_type	cell	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Biopsies were mechanically and enzymatically dissociated to isolate single cell solution.	True
+NC7	geo:GSE288357:NC7	suspension_type	cell	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Biopsies were mechanically and enzymatically dissociated to isolate single cell solution.	True
+NC8	geo:GSE288357:NC8	suspension_type	cell	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Biopsies were mechanically and enzymatically dissociated to isolate single cell solution.	True
+NC9	geo:GSE288357:NC9	suspension_type	cell	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Biopsies were mechanically and enzymatically dissociated to isolate single cell solution.	True
+P1	geo:GSE288357:P1	suspension_type	cell	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Biopsies were mechanically and enzymatically dissociated to isolate single cell solution.	True
+C1	geo:GSE288357:C1	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Cell suspension was subject to immunomagnetic depletion of erythrocytes.	True
+C2	geo:GSE288357:C2	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Cell suspension was subject to immunomagnetic depletion of erythrocytes.	True
+C3	geo:GSE288357:C3	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Cell suspension was subject to immunomagnetic depletion of erythrocytes.	True
+C4	geo:GSE288357:C4	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Cell suspension was subject to immunomagnetic depletion of erythrocytes.	True
+NC1	geo:GSE288357:NC1	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Cell suspension was subject to immunomagnetic depletion of erythrocytes.	True
+NC10	geo:GSE288357:NC10	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Cell suspension was subject to immunomagnetic depletion of erythrocytes.	True
+NC11	geo:GSE288357:NC11	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Cell suspension was subject to immunomagnetic depletion of erythrocytes.	True
+NC12	geo:GSE288357:NC12	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Cell suspension was subject to immunomagnetic depletion of erythrocytes.	True
+NC2	geo:GSE288357:NC2	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Cell suspension was subject to immunomagnetic depletion of erythrocytes.	True
+NC3	geo:GSE288357:NC3	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Cell suspension was subject to immunomagnetic depletion of erythrocytes.	True
+NC4	geo:GSE288357:NC4	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Cell suspension was subject to immunomagnetic depletion of erythrocytes.	True
+NC5	geo:GSE288357:NC5	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Cell suspension was subject to immunomagnetic depletion of erythrocytes.	True
+NC6	geo:GSE288357:NC6	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Cell suspension was subject to immunomagnetic depletion of erythrocytes.	True
+NC7	geo:GSE288357:NC7	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Cell suspension was subject to immunomagnetic depletion of erythrocytes.	True
+NC8	geo:GSE288357:NC8	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Cell suspension was subject to immunomagnetic depletion of erythrocytes.	True
+NC9	geo:GSE288357:NC9	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Cell suspension was subject to immunomagnetic depletion of erythrocytes.	True
+P1	geo:GSE288357:P1	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Cell suspension was subject to immunomagnetic depletion of erythrocytes.	True
+C1	geo:GSE288357:C1	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Resulting cell suspension was subject to antibody staining and FACS sorting to adjust proportions of major cell types, which were then pooled and sequenced.	True
+C2	geo:GSE288357:C2	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Resulting cell suspension was subject to antibody staining and FACS sorting to adjust proportions of major cell types, which were then pooled and sequenced.	True
+C3	geo:GSE288357:C3	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Resulting cell suspension was subject to antibody staining and FACS sorting to adjust proportions of major cell types, which were then pooled and sequenced.	True
+C4	geo:GSE288357:C4	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Resulting cell suspension was subject to antibody staining and FACS sorting to adjust proportions of major cell types, which were then pooled and sequenced.	True
+NC1	geo:GSE288357:NC1	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Resulting cell suspension was subject to antibody staining and FACS sorting to adjust proportions of major cell types, which were then pooled and sequenced.	True
+NC10	geo:GSE288357:NC10	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Resulting cell suspension was subject to antibody staining and FACS sorting to adjust proportions of major cell types, which were then pooled and sequenced.	True
+NC11	geo:GSE288357:NC11	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Resulting cell suspension was subject to antibody staining and FACS sorting to adjust proportions of major cell types, which were then pooled and sequenced.	True
+NC12	geo:GSE288357:NC12	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Resulting cell suspension was subject to antibody staining and FACS sorting to adjust proportions of major cell types, which were then pooled and sequenced.	True
+NC2	geo:GSE288357:NC2	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Resulting cell suspension was subject to antibody staining and FACS sorting to adjust proportions of major cell types, which were then pooled and sequenced.	True
+NC3	geo:GSE288357:NC3	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Resulting cell suspension was subject to antibody staining and FACS sorting to adjust proportions of major cell types, which were then pooled and sequenced.	True
+NC4	geo:GSE288357:NC4	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Resulting cell suspension was subject to antibody staining and FACS sorting to adjust proportions of major cell types, which were then pooled and sequenced.	True
+NC5	geo:GSE288357:NC5	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Resulting cell suspension was subject to antibody staining and FACS sorting to adjust proportions of major cell types, which were then pooled and sequenced.	True
+NC6	geo:GSE288357:NC6	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Resulting cell suspension was subject to antibody staining and FACS sorting to adjust proportions of major cell types, which were then pooled and sequenced.	True
+NC7	geo:GSE288357:NC7	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Resulting cell suspension was subject to antibody staining and FACS sorting to adjust proportions of major cell types, which were then pooled and sequenced.	True
+NC8	geo:GSE288357:NC8	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Resulting cell suspension was subject to antibody staining and FACS sorting to adjust proportions of major cell types, which were then pooled and sequenced.	True
+NC9	geo:GSE288357:NC9	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Resulting cell suspension was subject to antibody staining and FACS sorting to adjust proportions of major cell types, which were then pooled and sequenced.	True
+P1	geo:GSE288357:P1	cell_enrichment	erythrocytes depleted (immunomagnetic); major cell types FACS-sorted and pooled in adjusted proportions	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Resulting cell suspension was subject to antibody staining and FACS sorting to adjust proportions of major cell types, which were then pooled and sequenced.	True
+C1	geo:GSE288357:C1	assay	10x 3' v3	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Library was performed according to the manufacter's instructions (single cell 3' v3.1 protocol, 10x Genomics).	True
+C2	geo:GSE288357:C2	assay	10x 3' v3	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Library was performed according to the manufacter's instructions (single cell 3' v3.1 protocol, 10x Genomics).	True
+C3	geo:GSE288357:C3	assay	10x 3' v3	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Library was performed according to the manufacter's instructions (single cell 3' v3.1 protocol, 10x Genomics).	True
+C4	geo:GSE288357:C4	assay	10x 3' v3	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Library was performed according to the manufacter's instructions (single cell 3' v3.1 protocol, 10x Genomics).	True
+NC1	geo:GSE288357:NC1	assay	10x 3' v3	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Library was performed according to the manufacter's instructions (single cell 3' v3.1 protocol, 10x Genomics).	True
+NC10	geo:GSE288357:NC10	assay	10x 3' v3	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Library was performed according to the manufacter's instructions (single cell 3' v3.1 protocol, 10x Genomics).	True
+NC11	geo:GSE288357:NC11	assay	10x 3' v3	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Library was performed according to the manufacter's instructions (single cell 3' v3.1 protocol, 10x Genomics).	True
+NC12	geo:GSE288357:NC12	assay	10x 3' v3	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Library was performed according to the manufacter's instructions (single cell 3' v3.1 protocol, 10x Genomics).	True
+NC2	geo:GSE288357:NC2	assay	10x 3' v3	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Library was performed according to the manufacter's instructions (single cell 3' v3.1 protocol, 10x Genomics).	True
+NC3	geo:GSE288357:NC3	assay	10x 3' v3	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Library was performed according to the manufacter's instructions (single cell 3' v3.1 protocol, 10x Genomics).	True
+NC4	geo:GSE288357:NC4	assay	10x 3' v3	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Library was performed according to the manufacter's instructions (single cell 3' v3.1 protocol, 10x Genomics).	True
+NC5	geo:GSE288357:NC5	assay	10x 3' v3	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Library was performed according to the manufacter's instructions (single cell 3' v3.1 protocol, 10x Genomics).	True
+NC6	geo:GSE288357:NC6	assay	10x 3' v3	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Library was performed according to the manufacter's instructions (single cell 3' v3.1 protocol, 10x Genomics).	True
+NC7	geo:GSE288357:NC7	assay	10x 3' v3	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Library was performed according to the manufacter's instructions (single cell 3' v3.1 protocol, 10x Genomics).	True
+NC8	geo:GSE288357:NC8	assay	10x 3' v3	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Library was performed according to the manufacter's instructions (single cell 3' v3.1 protocol, 10x Genomics).	True
+NC9	geo:GSE288357:NC9	assay	10x 3' v3	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Library was performed according to the manufacter's instructions (single cell 3' v3.1 protocol, 10x Genomics).	True
+P1	geo:GSE288357:P1	assay	10x 3' v3	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		Library was performed according to the manufacter's instructions (single cell 3' v3.1 protocol, 10x Genomics).	True
+C1	geo:GSE288357:C1	gene_annotation_version	Homo_sapiens.GRCh38.99	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_data_processing = Assembly: Homo_sapiens.GRCh38.99	True
+C2	geo:GSE288357:C2	gene_annotation_version	Homo_sapiens.GRCh38.99	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_data_processing = Assembly: Homo_sapiens.GRCh38.99	True
+C3	geo:GSE288357:C3	gene_annotation_version	Homo_sapiens.GRCh38.99	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_data_processing = Assembly: Homo_sapiens.GRCh38.99	True
+C4	geo:GSE288357:C4	gene_annotation_version	Homo_sapiens.GRCh38.99	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_data_processing = Assembly: Homo_sapiens.GRCh38.99	True
+NC1	geo:GSE288357:NC1	gene_annotation_version	Homo_sapiens.GRCh38.99	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_data_processing = Assembly: Homo_sapiens.GRCh38.99	True
+NC10	geo:GSE288357:NC10	gene_annotation_version	Homo_sapiens.GRCh38.99	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_data_processing = Assembly: Homo_sapiens.GRCh38.99	True
+NC11	geo:GSE288357:NC11	gene_annotation_version	Homo_sapiens.GRCh38.99	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_data_processing = Assembly: Homo_sapiens.GRCh38.99	True
+NC12	geo:GSE288357:NC12	gene_annotation_version	Homo_sapiens.GRCh38.99	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_data_processing = Assembly: Homo_sapiens.GRCh38.99	True
+NC2	geo:GSE288357:NC2	gene_annotation_version	Homo_sapiens.GRCh38.99	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_data_processing = Assembly: Homo_sapiens.GRCh38.99	True
+NC3	geo:GSE288357:NC3	gene_annotation_version	Homo_sapiens.GRCh38.99	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_data_processing = Assembly: Homo_sapiens.GRCh38.99	True
+NC4	geo:GSE288357:NC4	gene_annotation_version	Homo_sapiens.GRCh38.99	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_data_processing = Assembly: Homo_sapiens.GRCh38.99	True
+NC5	geo:GSE288357:NC5	gene_annotation_version	Homo_sapiens.GRCh38.99	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_data_processing = Assembly: Homo_sapiens.GRCh38.99	True
+NC6	geo:GSE288357:NC6	gene_annotation_version	Homo_sapiens.GRCh38.99	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_data_processing = Assembly: Homo_sapiens.GRCh38.99	True
+NC7	geo:GSE288357:NC7	gene_annotation_version	Homo_sapiens.GRCh38.99	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_data_processing = Assembly: Homo_sapiens.GRCh38.99	True
+NC8	geo:GSE288357:NC8	gene_annotation_version	Homo_sapiens.GRCh38.99	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_data_processing = Assembly: Homo_sapiens.GRCh38.99	True
+NC9	geo:GSE288357:NC9	gene_annotation_version	Homo_sapiens.GRCh38.99	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_data_processing = Assembly: Homo_sapiens.GRCh38.99	True
+P1	geo:GSE288357:P1	gene_annotation_version	Homo_sapiens.GRCh38.99	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Sample_data_processing = Assembly: Homo_sapiens.GRCh38.99	True
+C1	geo:GSE288357:C1	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		CAR-T cell therapy is an effective treatment for relapsed or refractory multiple myeloma.	True
+C2	geo:GSE288357:C2	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		CAR-T cell therapy is an effective treatment for relapsed or refractory multiple myeloma.	True
+C3	geo:GSE288357:C3	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		CAR-T cell therapy is an effective treatment for relapsed or refractory multiple myeloma.	True
+C4	geo:GSE288357:C4	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		CAR-T cell therapy is an effective treatment for relapsed or refractory multiple myeloma.	True
+NC1	geo:GSE288357:NC1	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		CAR-T cell therapy is an effective treatment for relapsed or refractory multiple myeloma.	True
+NC10	geo:GSE288357:NC10	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		CAR-T cell therapy is an effective treatment for relapsed or refractory multiple myeloma.	True
+NC11	geo:GSE288357:NC11	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		CAR-T cell therapy is an effective treatment for relapsed or refractory multiple myeloma.	True
+NC12	geo:GSE288357:NC12	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		CAR-T cell therapy is an effective treatment for relapsed or refractory multiple myeloma.	True
+NC2	geo:GSE288357:NC2	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		CAR-T cell therapy is an effective treatment for relapsed or refractory multiple myeloma.	True
+NC3	geo:GSE288357:NC3	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		CAR-T cell therapy is an effective treatment for relapsed or refractory multiple myeloma.	True
+NC4	geo:GSE288357:NC4	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		CAR-T cell therapy is an effective treatment for relapsed or refractory multiple myeloma.	True
+NC5	geo:GSE288357:NC5	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		CAR-T cell therapy is an effective treatment for relapsed or refractory multiple myeloma.	True
+NC6	geo:GSE288357:NC6	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		CAR-T cell therapy is an effective treatment for relapsed or refractory multiple myeloma.	True
+NC7	geo:GSE288357:NC7	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		CAR-T cell therapy is an effective treatment for relapsed or refractory multiple myeloma.	True
+NC8	geo:GSE288357:NC8	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		CAR-T cell therapy is an effective treatment for relapsed or refractory multiple myeloma.	True
+NC9	geo:GSE288357:NC9	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		CAR-T cell therapy is an effective treatment for relapsed or refractory multiple myeloma.	True
+P1	geo:GSE288357:P1	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		CAR-T cell therapy is an effective treatment for relapsed or refractory multiple myeloma.	True
+C1	geo:GSE288357:C1	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		we analyzed BM core biopsies of CAR-T cell treated patients (N=24)	True
+C2	geo:GSE288357:C2	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		we analyzed BM core biopsies of CAR-T cell treated patients (N=24)	True
+C3	geo:GSE288357:C3	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		we analyzed BM core biopsies of CAR-T cell treated patients (N=24)	True
+C4	geo:GSE288357:C4	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		we analyzed BM core biopsies of CAR-T cell treated patients (N=24)	True
+NC1	geo:GSE288357:NC1	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		we analyzed BM core biopsies of CAR-T cell treated patients (N=24)	True
+NC10	geo:GSE288357:NC10	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		we analyzed BM core biopsies of CAR-T cell treated patients (N=24)	True
+NC11	geo:GSE288357:NC11	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		we analyzed BM core biopsies of CAR-T cell treated patients (N=24)	True
+NC12	geo:GSE288357:NC12	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		we analyzed BM core biopsies of CAR-T cell treated patients (N=24)	True
+NC2	geo:GSE288357:NC2	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		we analyzed BM core biopsies of CAR-T cell treated patients (N=24)	True
+NC3	geo:GSE288357:NC3	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		we analyzed BM core biopsies of CAR-T cell treated patients (N=24)	True
+NC4	geo:GSE288357:NC4	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		we analyzed BM core biopsies of CAR-T cell treated patients (N=24)	True
+NC5	geo:GSE288357:NC5	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		we analyzed BM core biopsies of CAR-T cell treated patients (N=24)	True
+NC6	geo:GSE288357:NC6	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		we analyzed BM core biopsies of CAR-T cell treated patients (N=24)	True
+NC7	geo:GSE288357:NC7	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		we analyzed BM core biopsies of CAR-T cell treated patients (N=24)	True
+NC8	geo:GSE288357:NC8	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		we analyzed BM core biopsies of CAR-T cell treated patients (N=24)	True
+NC9	geo:GSE288357:NC9	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		we analyzed BM core biopsies of CAR-T cell treated patients (N=24)	True
+P1	geo:GSE288357:P1	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		we analyzed BM core biopsies of CAR-T cell treated patients (N=24)	True
+C1	geo:GSE288357:C1	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Series_title = Single cell transcriptomic atlas of patient bone marrow biopsies after anti-BCMA CAR T cell therapy [scRNA-Seq]	True
+C2	geo:GSE288357:C2	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Series_title = Single cell transcriptomic atlas of patient bone marrow biopsies after anti-BCMA CAR T cell therapy [scRNA-Seq]	True
+C3	geo:GSE288357:C3	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Series_title = Single cell transcriptomic atlas of patient bone marrow biopsies after anti-BCMA CAR T cell therapy [scRNA-Seq]	True
+C4	geo:GSE288357:C4	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Series_title = Single cell transcriptomic atlas of patient bone marrow biopsies after anti-BCMA CAR T cell therapy [scRNA-Seq]	True
+NC1	geo:GSE288357:NC1	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Series_title = Single cell transcriptomic atlas of patient bone marrow biopsies after anti-BCMA CAR T cell therapy [scRNA-Seq]	True
+NC10	geo:GSE288357:NC10	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Series_title = Single cell transcriptomic atlas of patient bone marrow biopsies after anti-BCMA CAR T cell therapy [scRNA-Seq]	True
+NC11	geo:GSE288357:NC11	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Series_title = Single cell transcriptomic atlas of patient bone marrow biopsies after anti-BCMA CAR T cell therapy [scRNA-Seq]	True
+NC12	geo:GSE288357:NC12	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Series_title = Single cell transcriptomic atlas of patient bone marrow biopsies after anti-BCMA CAR T cell therapy [scRNA-Seq]	True
+NC2	geo:GSE288357:NC2	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Series_title = Single cell transcriptomic atlas of patient bone marrow biopsies after anti-BCMA CAR T cell therapy [scRNA-Seq]	True
+NC3	geo:GSE288357:NC3	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Series_title = Single cell transcriptomic atlas of patient bone marrow biopsies after anti-BCMA CAR T cell therapy [scRNA-Seq]	True
+NC4	geo:GSE288357:NC4	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Series_title = Single cell transcriptomic atlas of patient bone marrow biopsies after anti-BCMA CAR T cell therapy [scRNA-Seq]	True
+NC5	geo:GSE288357:NC5	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Series_title = Single cell transcriptomic atlas of patient bone marrow biopsies after anti-BCMA CAR T cell therapy [scRNA-Seq]	True
+NC6	geo:GSE288357:NC6	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Series_title = Single cell transcriptomic atlas of patient bone marrow biopsies after anti-BCMA CAR T cell therapy [scRNA-Seq]	True
+NC7	geo:GSE288357:NC7	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Series_title = Single cell transcriptomic atlas of patient bone marrow biopsies after anti-BCMA CAR T cell therapy [scRNA-Seq]	True
+NC8	geo:GSE288357:NC8	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Series_title = Single cell transcriptomic atlas of patient bone marrow biopsies after anti-BCMA CAR T cell therapy [scRNA-Seq]	True
+NC9	geo:GSE288357:NC9	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Series_title = Single cell transcriptomic atlas of patient bone marrow biopsies after anti-BCMA CAR T cell therapy [scRNA-Seq]	True
+P1	geo:GSE288357:P1	disease_free_text	multiple myeloma	file	raw/fp-3875ef813864/GSE288357_family.soft.gz		!Series_title = Single cell transcriptomic atlas of patient bone marrow biopsies after anti-BCMA CAR T cell therapy [scRNA-Seq]	True

@@ -1,0 +1,143 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM10001168	geo:GSE345302:GSM10001168	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10001168	geo:GSE345302:GSM10001168	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone marrow	True
+GSM10001169	geo:GSE345302:GSM10001169	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10001169	geo:GSE345302:GSM10001169	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone marrow	True
+GSM10001170	geo:GSE345302:GSM10001170	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10001170	geo:GSE345302:GSM10001170	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone marrow	True
+GSM10001171	geo:GSE345302:GSM10001171	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10001171	geo:GSE345302:GSM10001171	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone marrow	True
+GSM10001172	geo:GSE345302:GSM10001172	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10001172	geo:GSE345302:GSM10001172	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone marrow	True
+GSM10001173	geo:GSE345302:GSM10001173	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10001173	geo:GSE345302:GSM10001173	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone marrow	True
+GSM10001174	geo:GSE345302:GSM10001174	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10001174	geo:GSE345302:GSM10001174	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone marrow	True
+GSM10001175	geo:GSE345302:GSM10001175	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10001175	geo:GSE345302:GSM10001175	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		Bone marrow	True
+		organism	Homo sapiens	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+		organism	Homo sapiens	file	raw/fp-7d36a6568ebf/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+GSM10001168	geo:GSE345302:GSM10001168	tissue_type	tissue	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001168	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10001168	geo:GSE345302:GSM10001168	tissue_type	tissue	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001168	Tissue sections were cut at a thickness of 5 µM and placed onto a Xenium slide followed by fixation and permeabilization.	True
+GSM10001168	geo:GSE345302:GSM10001168	sample_collection_method	biopsy	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001168	!Sample_title = NDMM_1_BM_Biopsy	True
+GSM10001168	geo:GSE345302:GSM10001168	suspension_type	na	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001168	Tissue sections were cut at a thickness of 5 µM and placed onto a Xenium slide followed by fixation and permeabilization.	True
+GSM10001168	geo:GSE345302:GSM10001168	suspension_type	na	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Series_overall_design = RNA in situ hybridization, spatial transcriptomics (Xenium, 10x genomics) on sectioned FFPE bone marrow tissues	True
+GSM10001168	geo:GSE345302:GSM10001168	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Series_overall_design = RNA in situ hybridization, spatial transcriptomics (Xenium, 10x genomics) on sectioned FFPE bone marrow tissues	True
+GSM10001168	geo:GSE345302:GSM10001168	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Platform_title = Xenium In Situ Analyzer: Homo sapiens	True
+GSM10001168	geo:GSE345302:GSM10001168	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001168	Data was acquired on the Xenium instrument.	True
+GSM10001168	geo:GSE345302:GSM10001168	sample_preservation	formalin-fixed paraffin-embedded	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001168	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10001168	geo:GSE345302:GSM10001168	tissue_free_text	Bone marrow	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001168	!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM10001168	geo:GSE345302:GSM10001168	disease_free_text	NDMM	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001168	!Sample_characteristics_ch1 = disease: NDMM	True
+GSM10001168	geo:GSE345302:GSM10001168	disease_ontology_term_id	MONDO:0009693	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001168	!Sample_characteristics_ch1 = disease: NDMM	True
+GSM10001168	geo:GSE345302:GSM10001168	disease_ontology_term_id	MONDO:0009693	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001168	!Sample_description = Koops_MM_1_cell_feature_matrix.h5	True
+GSM10001168	geo:GSE345302:GSM10001168	disease_ontology_term_id	MONDO:0009693	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Series_title = Spatial profiling identifies a distinct and topographically-defined tumor microenvironment that emerges during multiple myeloma evolution	True
+GSM10001168	geo:GSE345302:GSM10001168	disease_stage	newly diagnosed	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001168	!Sample_characteristics_ch1 = disease: NDMM	True
+GSM10001168	geo:GSE345302:GSM10001168	disease_stage	newly diagnosed	file	evidence/publications/crossref__10.1158_2643-3230.bcd-26-0080.json		This TME develops during disease evolution and is linked to worse outcomes in newly diagnosed patients.	True
+GSM10001168	geo:GSE345302:GSM10001168	treatment_status	untreated	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001168	!Sample_characteristics_ch1 = treatment: None	True
+GSM10001169	geo:GSE345302:GSM10001169	tissue_type	tissue	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001169	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10001169	geo:GSE345302:GSM10001169	tissue_type	tissue	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001169	Tissue sections were cut at a thickness of 5 µM and placed onto a Xenium slide followed by fixation and permeabilization.	True
+GSM10001169	geo:GSE345302:GSM10001169	sample_collection_method	biopsy	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001169	!Sample_title = NDMM_2_BM_Biopsy	True
+GSM10001169	geo:GSE345302:GSM10001169	suspension_type	na	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001169	Tissue sections were cut at a thickness of 5 µM and placed onto a Xenium slide followed by fixation and permeabilization.	True
+GSM10001169	geo:GSE345302:GSM10001169	suspension_type	na	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Series_overall_design = RNA in situ hybridization, spatial transcriptomics (Xenium, 10x genomics) on sectioned FFPE bone marrow tissues	True
+GSM10001169	geo:GSE345302:GSM10001169	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Series_overall_design = RNA in situ hybridization, spatial transcriptomics (Xenium, 10x genomics) on sectioned FFPE bone marrow tissues	True
+GSM10001169	geo:GSE345302:GSM10001169	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Platform_title = Xenium In Situ Analyzer: Homo sapiens	True
+GSM10001169	geo:GSE345302:GSM10001169	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001169	Data was acquired on the Xenium instrument.	True
+GSM10001169	geo:GSE345302:GSM10001169	sample_preservation	formalin-fixed paraffin-embedded	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001169	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10001169	geo:GSE345302:GSM10001169	tissue_free_text	Bone marrow	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001169	!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM10001169	geo:GSE345302:GSM10001169	disease_free_text	NDMM	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001169	!Sample_characteristics_ch1 = disease: NDMM	True
+GSM10001169	geo:GSE345302:GSM10001169	disease_ontology_term_id	MONDO:0009693	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001169	!Sample_characteristics_ch1 = disease: NDMM	True
+GSM10001169	geo:GSE345302:GSM10001169	disease_ontology_term_id	MONDO:0009693	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001169	!Sample_description = Koops_MM_2_cell_feature_matrix.h5	True
+GSM10001169	geo:GSE345302:GSM10001169	disease_ontology_term_id	MONDO:0009693	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Series_title = Spatial profiling identifies a distinct and topographically-defined tumor microenvironment that emerges during multiple myeloma evolution	True
+GSM10001169	geo:GSE345302:GSM10001169	disease_stage	newly diagnosed	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001169	!Sample_characteristics_ch1 = disease: NDMM	True
+GSM10001169	geo:GSE345302:GSM10001169	disease_stage	newly diagnosed	file	evidence/publications/crossref__10.1158_2643-3230.bcd-26-0080.json		This TME develops during disease evolution and is linked to worse outcomes in newly diagnosed patients.	True
+GSM10001169	geo:GSE345302:GSM10001169	treatment_status	untreated	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001169	!Sample_characteristics_ch1 = treatment: None	True
+GSM10001170	geo:GSE345302:GSM10001170	tissue_type	tissue	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001170	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10001170	geo:GSE345302:GSM10001170	tissue_type	tissue	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001170	Tissue sections were cut at a thickness of 5 µM and placed onto a Xenium slide followed by fixation and permeabilization.	True
+GSM10001170	geo:GSE345302:GSM10001170	sample_collection_method	biopsy	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001170	!Sample_title = CBM_1_BM_Biopsy	True
+GSM10001170	geo:GSE345302:GSM10001170	suspension_type	na	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001170	Tissue sections were cut at a thickness of 5 µM and placed onto a Xenium slide followed by fixation and permeabilization.	True
+GSM10001170	geo:GSE345302:GSM10001170	suspension_type	na	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Series_overall_design = RNA in situ hybridization, spatial transcriptomics (Xenium, 10x genomics) on sectioned FFPE bone marrow tissues	True
+GSM10001170	geo:GSE345302:GSM10001170	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Series_overall_design = RNA in situ hybridization, spatial transcriptomics (Xenium, 10x genomics) on sectioned FFPE bone marrow tissues	True
+GSM10001170	geo:GSE345302:GSM10001170	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Platform_title = Xenium In Situ Analyzer: Homo sapiens	True
+GSM10001170	geo:GSE345302:GSM10001170	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001170	Data was acquired on the Xenium instrument.	True
+GSM10001170	geo:GSE345302:GSM10001170	sample_preservation	formalin-fixed paraffin-embedded	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001170	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10001170	geo:GSE345302:GSM10001170	tissue_free_text	Bone marrow	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001170	!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM10001170	geo:GSE345302:GSM10001170	disease_free_text	CBM	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001170	!Sample_characteristics_ch1 = disease: CBM	True
+GSM10001170	geo:GSE345302:GSM10001170	treatment_status	untreated	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001170	!Sample_characteristics_ch1 = treatment: None	True
+GSM10001171	geo:GSE345302:GSM10001171	tissue_type	tissue	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001171	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10001171	geo:GSE345302:GSM10001171	tissue_type	tissue	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001171	Tissue sections were cut at a thickness of 5 µM and placed onto a Xenium slide followed by fixation and permeabilization.	True
+GSM10001171	geo:GSE345302:GSM10001171	sample_collection_method	biopsy	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001171	!Sample_title = CBM_2_BM_Biopsy	True
+GSM10001171	geo:GSE345302:GSM10001171	suspension_type	na	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001171	Tissue sections were cut at a thickness of 5 µM and placed onto a Xenium slide followed by fixation and permeabilization.	True
+GSM10001171	geo:GSE345302:GSM10001171	suspension_type	na	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Series_overall_design = RNA in situ hybridization, spatial transcriptomics (Xenium, 10x genomics) on sectioned FFPE bone marrow tissues	True
+GSM10001171	geo:GSE345302:GSM10001171	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Series_overall_design = RNA in situ hybridization, spatial transcriptomics (Xenium, 10x genomics) on sectioned FFPE bone marrow tissues	True
+GSM10001171	geo:GSE345302:GSM10001171	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Platform_title = Xenium In Situ Analyzer: Homo sapiens	True
+GSM10001171	geo:GSE345302:GSM10001171	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001171	Data was acquired on the Xenium instrument.	True
+GSM10001171	geo:GSE345302:GSM10001171	sample_preservation	formalin-fixed paraffin-embedded	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001171	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10001171	geo:GSE345302:GSM10001171	tissue_free_text	Bone marrow	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001171	!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM10001171	geo:GSE345302:GSM10001171	disease_free_text	CBM	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001171	!Sample_characteristics_ch1 = disease: CBM	True
+GSM10001171	geo:GSE345302:GSM10001171	treatment_status	untreated	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001171	!Sample_characteristics_ch1 = treatment: None	True
+GSM10001172	geo:GSE345302:GSM10001172	tissue_type	tissue	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001172	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10001172	geo:GSE345302:GSM10001172	tissue_type	tissue	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001172	Tissue sections were cut at a thickness of 5 µM and placed onto a Xenium slide followed by fixation and permeabilization.	True
+GSM10001172	geo:GSE345302:GSM10001172	sample_collection_method	biopsy	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001172	!Sample_title = NDMM_3_BM_Biopsy	True
+GSM10001172	geo:GSE345302:GSM10001172	suspension_type	na	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001172	Tissue sections were cut at a thickness of 5 µM and placed onto a Xenium slide followed by fixation and permeabilization.	True
+GSM10001172	geo:GSE345302:GSM10001172	suspension_type	na	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Series_overall_design = RNA in situ hybridization, spatial transcriptomics (Xenium, 10x genomics) on sectioned FFPE bone marrow tissues	True
+GSM10001172	geo:GSE345302:GSM10001172	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Series_overall_design = RNA in situ hybridization, spatial transcriptomics (Xenium, 10x genomics) on sectioned FFPE bone marrow tissues	True
+GSM10001172	geo:GSE345302:GSM10001172	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Platform_title = Xenium In Situ Analyzer: Homo sapiens	True
+GSM10001172	geo:GSE345302:GSM10001172	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001172	Data was acquired on the Xenium instrument.	True
+GSM10001172	geo:GSE345302:GSM10001172	sample_preservation	formalin-fixed paraffin-embedded	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001172	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10001172	geo:GSE345302:GSM10001172	tissue_free_text	Bone marrow	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001172	!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM10001172	geo:GSE345302:GSM10001172	disease_free_text	NDMM	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001172	!Sample_characteristics_ch1 = disease: NDMM	True
+GSM10001172	geo:GSE345302:GSM10001172	disease_ontology_term_id	MONDO:0009693	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001172	!Sample_characteristics_ch1 = disease: NDMM	True
+GSM10001172	geo:GSE345302:GSM10001172	disease_ontology_term_id	MONDO:0009693	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001172	!Sample_description = Koops_MM_3_cell_feature_matrix.h5	True
+GSM10001172	geo:GSE345302:GSM10001172	disease_ontology_term_id	MONDO:0009693	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Series_title = Spatial profiling identifies a distinct and topographically-defined tumor microenvironment that emerges during multiple myeloma evolution	True
+GSM10001172	geo:GSE345302:GSM10001172	disease_stage	newly diagnosed	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001172	!Sample_characteristics_ch1 = disease: NDMM	True
+GSM10001172	geo:GSE345302:GSM10001172	disease_stage	newly diagnosed	file	evidence/publications/crossref__10.1158_2643-3230.bcd-26-0080.json		This TME develops during disease evolution and is linked to worse outcomes in newly diagnosed patients.	True
+GSM10001172	geo:GSE345302:GSM10001172	treatment_status	untreated	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001172	!Sample_characteristics_ch1 = treatment: None	True
+GSM10001173	geo:GSE345302:GSM10001173	tissue_type	tissue	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001173	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10001173	geo:GSE345302:GSM10001173	tissue_type	tissue	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001173	Tissue sections were cut at a thickness of 5 µM and placed onto a Xenium slide followed by fixation and permeabilization.	True
+GSM10001173	geo:GSE345302:GSM10001173	sample_collection_method	biopsy	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001173	!Sample_title = CBM_3_BM_Biopsy	True
+GSM10001173	geo:GSE345302:GSM10001173	suspension_type	na	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001173	Tissue sections were cut at a thickness of 5 µM and placed onto a Xenium slide followed by fixation and permeabilization.	True
+GSM10001173	geo:GSE345302:GSM10001173	suspension_type	na	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Series_overall_design = RNA in situ hybridization, spatial transcriptomics (Xenium, 10x genomics) on sectioned FFPE bone marrow tissues	True
+GSM10001173	geo:GSE345302:GSM10001173	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Series_overall_design = RNA in situ hybridization, spatial transcriptomics (Xenium, 10x genomics) on sectioned FFPE bone marrow tissues	True
+GSM10001173	geo:GSE345302:GSM10001173	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Platform_title = Xenium In Situ Analyzer: Homo sapiens	True
+GSM10001173	geo:GSE345302:GSM10001173	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001173	Data was acquired on the Xenium instrument.	True
+GSM10001173	geo:GSE345302:GSM10001173	sample_preservation	formalin-fixed paraffin-embedded	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001173	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10001173	geo:GSE345302:GSM10001173	tissue_free_text	Bone marrow	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001173	!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM10001173	geo:GSE345302:GSM10001173	disease_free_text	CBM	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001173	!Sample_characteristics_ch1 = disease: CBM	True
+GSM10001173	geo:GSE345302:GSM10001173	treatment_status	untreated	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001173	!Sample_characteristics_ch1 = treatment: None	True
+GSM10001174	geo:GSE345302:GSM10001174	tissue_type	tissue	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001174	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10001174	geo:GSE345302:GSM10001174	tissue_type	tissue	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001174	Tissue sections were cut at a thickness of 5 µM and placed onto a Xenium slide followed by fixation and permeabilization.	True
+GSM10001174	geo:GSE345302:GSM10001174	sample_collection_method	biopsy	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001174	!Sample_title = SMM_1_BM_Biopsy	True
+GSM10001174	geo:GSE345302:GSM10001174	suspension_type	na	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001174	Tissue sections were cut at a thickness of 5 µM and placed onto a Xenium slide followed by fixation and permeabilization.	True
+GSM10001174	geo:GSE345302:GSM10001174	suspension_type	na	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Series_overall_design = RNA in situ hybridization, spatial transcriptomics (Xenium, 10x genomics) on sectioned FFPE bone marrow tissues	True
+GSM10001174	geo:GSE345302:GSM10001174	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Series_overall_design = RNA in situ hybridization, spatial transcriptomics (Xenium, 10x genomics) on sectioned FFPE bone marrow tissues	True
+GSM10001174	geo:GSE345302:GSM10001174	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Platform_title = Xenium In Situ Analyzer: Homo sapiens	True
+GSM10001174	geo:GSE345302:GSM10001174	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001174	Data was acquired on the Xenium instrument.	True
+GSM10001174	geo:GSE345302:GSM10001174	sample_preservation	formalin-fixed paraffin-embedded	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001174	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10001174	geo:GSE345302:GSM10001174	tissue_free_text	Bone marrow	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001174	!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM10001174	geo:GSE345302:GSM10001174	disease_free_text	SMM	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001174	!Sample_characteristics_ch1 = disease: SMM	True
+GSM10001174	geo:GSE345302:GSM10001174	disease_ontology_term_id	MONDO:0005235	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001174	!Sample_characteristics_ch1 = disease: SMM	True
+GSM10001174	geo:GSE345302:GSM10001174	disease_ontology_term_id	MONDO:0005235	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001174	!Sample_description = Koops_SMM_1_cell_feature_matrix.h5	True
+GSM10001174	geo:GSE345302:GSM10001174	disease_ontology_term_id	MONDO:0005235	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Series_title = Spatial profiling identifies a distinct and topographically-defined tumor microenvironment that emerges during multiple myeloma evolution	True
+GSM10001174	geo:GSE345302:GSM10001174	disease_stage	smoldering	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001174	!Sample_characteristics_ch1 = disease: SMM	True
+GSM10001174	geo:GSE345302:GSM10001174	disease_stage	smoldering	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001174	!Sample_description = Koops_SMM_1_cell_feature_matrix.h5	True
+GSM10001174	geo:GSE345302:GSM10001174	treatment_status	untreated	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001174	!Sample_characteristics_ch1 = treatment: None	True
+GSM10001175	geo:GSE345302:GSM10001175	tissue_type	tissue	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001175	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10001175	geo:GSE345302:GSM10001175	tissue_type	tissue	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001175	Tissue sections were cut at a thickness of 5 µM and placed onto a Xenium slide followed by fixation and permeabilization.	True
+GSM10001175	geo:GSE345302:GSM10001175	sample_collection_method	biopsy	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001175	!Sample_title = Relapse_1_BM_Biopsy	True
+GSM10001175	geo:GSE345302:GSM10001175	suspension_type	na	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001175	Tissue sections were cut at a thickness of 5 µM and placed onto a Xenium slide followed by fixation and permeabilization.	True
+GSM10001175	geo:GSE345302:GSM10001175	suspension_type	na	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Series_overall_design = RNA in situ hybridization, spatial transcriptomics (Xenium, 10x genomics) on sectioned FFPE bone marrow tissues	True
+GSM10001175	geo:GSE345302:GSM10001175	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Series_overall_design = RNA in situ hybridization, spatial transcriptomics (Xenium, 10x genomics) on sectioned FFPE bone marrow tissues	True
+GSM10001175	geo:GSE345302:GSM10001175	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Platform_title = Xenium In Situ Analyzer: Homo sapiens	True
+GSM10001175	geo:GSE345302:GSM10001175	assay	Xenium	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001175	Data was acquired on the Xenium instrument.	True
+GSM10001175	geo:GSE345302:GSM10001175	sample_preservation	formalin-fixed paraffin-embedded	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001175	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10001175	geo:GSE345302:GSM10001175	tissue_free_text	Bone marrow	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001175	!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM10001175	geo:GSE345302:GSM10001175	disease_free_text	RRMM	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001175	!Sample_characteristics_ch1 = disease: RRMM	True
+GSM10001175	geo:GSE345302:GSM10001175	disease_ontology_term_id	MONDO:0009693	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001175	!Sample_characteristics_ch1 = disease: RRMM	True
+GSM10001175	geo:GSE345302:GSM10001175	disease_ontology_term_id	MONDO:0009693	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001175	!Sample_description = Koops_Relapse_1_cell_feature_matrix.h5	True
+GSM10001175	geo:GSE345302:GSM10001175	disease_ontology_term_id	MONDO:0009693	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001175	!Sample_title = Relapse_1_BM_Biopsy	True
+GSM10001175	geo:GSE345302:GSM10001175	disease_ontology_term_id	MONDO:0009693	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz		!Series_title = Spatial profiling identifies a distinct and topographically-defined tumor microenvironment that emerges during multiple myeloma evolution	True
+GSM10001175	geo:GSE345302:GSM10001175	disease_stage	relapsed/refractory	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001175	!Sample_characteristics_ch1 = disease: RRMM	True
+GSM10001175	geo:GSE345302:GSM10001175	disease_stage	relapsed/refractory	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001175	!Sample_title = Relapse_1_BM_Biopsy	True
+GSM10001175	geo:GSE345302:GSM10001175	treatment	Triple class exposed	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001175	!Sample_characteristics_ch1 = treatment: Triple class exposed	True
+GSM10001175	geo:GSE345302:GSM10001175	treatment_status	post-treatment	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001175	!Sample_characteristics_ch1 = treatment: Triple class exposed	True
+GSM10001175	geo:GSE345302:GSM10001175	treatment_status	post-treatment	file	raw/fp-7d36a6568ebf/GSE345302_family.soft.gz	GSM10001175	!Sample_characteristics_ch1 = disease: RRMM	True

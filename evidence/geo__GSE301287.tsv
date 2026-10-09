@@ -1,0 +1,103 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-9d584955cbbd/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+		organism	Homo sapiens	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9080087	geo:GSE301287:GSM9080087	donor_id	MM-10	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_title = Patient_P1695_ATAC_MM_Pre_Treatment	True
+GSM9080087	geo:GSE301287:GSM9080087	donor_id	MM-10	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_description = Library name: P1695_ATAC_MM	True
+GSM9080087	geo:GSE301287:GSM9080087	donor_id	MM-10	file	evidence/PMC13004696_supplementary/41591_2025_4175_MOESM4_ESM.xlsx		Patient_ID WGS_pre WGS_post WGS_normal Exome_post scATAC_pre scATAC_post scRNA_pre scRNA_post	True
+GSM9080087	geo:GSE301287:GSM9080087	donor_id	MM-10	file	evidence/PMC13004696_supplementary/41591_2025_4175_MOESM4_ESM.xlsx		MM-10 P2969T--P1925-N P-4580--P-1925 P1925 P1695 P4520 P1695 P4520	True
+GSM9080087	geo:GSE301287:GSM9080087	donor_id	MM-10	file	evidence/PMC13004696.txt		For patients MM-03, MM-10 and MM-20, pre-therapy and relapse scATAC and/or scRNA-seq were performed in addition to WGS.	True
+GSM9080087	geo:GSE301287:GSM9080087	sex	male	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_title = Patient_P1695_ATAC_MM_Pre_Treatment	True
+GSM9080087	geo:GSE301287:GSM9080087	sex	male	file	evidence/PMC13004696_supplementary/41591_2025_4175_MOESM4_ESM.xlsx		scRNA_post gprc5d_antigen_escape Best response to anti-GPRC5D TCE Progressive disease PFS (months) OS (months) Age Sex R-ISS	True
+GSM9080087	geo:GSE301287:GSM9080087	sex	male	file	evidence/PMC13004696_supplementary/41591_2025_4175_MOESM4_ESM.xlsx		MM-10 P2969T--P1925-N P-4580--P-1925 P1925 P1695 P4520 P1695 P4520 yes sCR yes 24 28 54 M III	True
+GSM9080087	geo:GSE301287:GSM9080087	tissue_free_text	bone marrow	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM9080087	geo:GSE301287:GSM9080087	tissue_free_text	bone marrow	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_source_name_ch1 = Bone marrow	True
+GSM9080087	geo:GSE301287:GSM9080087	disease_free_text	multiple myeloma	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_characteristics_ch1 = disease state: multiple myeloma	True
+GSM9080087	geo:GSE301287:GSM9080087	sampled_site_condition	diseased	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_characteristics_ch1 = disease state: multiple myeloma	True
+GSM9080087	geo:GSE301287:GSM9080087	sampled_site_condition	diseased	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM9080087	geo:GSE301287:GSM9080087	sample_collection_method	bone marrow aspiration	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM9080087	geo:GSE301287:GSM9080087	tissue_type	tissue	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		Experiments were conducted on primary patient bone marrow samples	True
+GSM9080087	geo:GSE301287:GSM9080087	cell_enrichment	CD138+	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138+	True
+GSM9080087	geo:GSE301287:GSM9080087	cell_enrichment	CD138+	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM9080087	geo:GSE301287:GSM9080087	suspension_type	nucleus	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		The resulting nuclei were immediately used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM9080087	geo:GSE301287:GSM9080087	assay	10x scATAC-seq	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		The resulting nuclei were immediately used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM9080087	geo:GSE301287:GSM9080087	assay	10x scATAC-seq	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_library_strategy = ATAC-seq	True
+GSM9080088	geo:GSE301287:GSM9080088	donor_id	MM-10	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_title = Patient_P4520_ATAC_MM_Post_Treatment	True
+GSM9080088	geo:GSE301287:GSM9080088	donor_id	MM-10	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_description = Library name: P4520_ATAC_MM	True
+GSM9080088	geo:GSE301287:GSM9080088	donor_id	MM-10	file	evidence/PMC13004696_supplementary/41591_2025_4175_MOESM4_ESM.xlsx		Patient_ID WGS_pre WGS_post WGS_normal Exome_post scATAC_pre scATAC_post scRNA_pre scRNA_post	True
+GSM9080088	geo:GSE301287:GSM9080088	donor_id	MM-10	file	evidence/PMC13004696_supplementary/41591_2025_4175_MOESM4_ESM.xlsx		MM-10 P2969T--P1925-N P-4580--P-1925 P1925 P1695 P4520 P1695 P4520	True
+GSM9080088	geo:GSE301287:GSM9080088	donor_id	MM-10	file	evidence/PMC13004696.txt		For patients MM-03, MM-10 and MM-20, pre-therapy and relapse scATAC and/or scRNA-seq were performed in addition to WGS.	True
+GSM9080088	geo:GSE301287:GSM9080088	sex	male	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_title = Patient_P4520_ATAC_MM_Post_Treatment	True
+GSM9080088	geo:GSE301287:GSM9080088	sex	male	file	evidence/PMC13004696_supplementary/41591_2025_4175_MOESM4_ESM.xlsx		scRNA_post gprc5d_antigen_escape Best response to anti-GPRC5D TCE Progressive disease PFS (months) OS (months) Age Sex R-ISS	True
+GSM9080088	geo:GSE301287:GSM9080088	sex	male	file	evidence/PMC13004696_supplementary/41591_2025_4175_MOESM4_ESM.xlsx		MM-10 P2969T--P1925-N P-4580--P-1925 P1925 P1695 P4520 P1695 P4520 yes sCR yes 24 28 54 M III	True
+GSM9080088	geo:GSE301287:GSM9080088	tissue_free_text	bone marrow	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM9080088	geo:GSE301287:GSM9080088	tissue_free_text	bone marrow	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_source_name_ch1 = Bone marrow	True
+GSM9080088	geo:GSE301287:GSM9080088	disease_free_text	multiple myeloma	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_characteristics_ch1 = disease state: multiple myeloma	True
+GSM9080088	geo:GSE301287:GSM9080088	sampled_site_condition	diseased	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_characteristics_ch1 = disease state: multiple myeloma	True
+GSM9080088	geo:GSE301287:GSM9080088	sampled_site_condition	diseased	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM9080088	geo:GSE301287:GSM9080088	sample_collection_method	bone marrow aspiration	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM9080088	geo:GSE301287:GSM9080088	tissue_type	tissue	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		Experiments were conducted on primary patient bone marrow samples	True
+GSM9080088	geo:GSE301287:GSM9080088	cell_enrichment	CD138+	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138+	True
+GSM9080088	geo:GSE301287:GSM9080088	cell_enrichment	CD138+	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM9080088	geo:GSE301287:GSM9080088	suspension_type	nucleus	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		The resulting nuclei were immediately used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM9080088	geo:GSE301287:GSM9080088	assay	10x scATAC-seq	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		The resulting nuclei were immediately used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM9080088	geo:GSE301287:GSM9080088	assay	10x scATAC-seq	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_library_strategy = ATAC-seq	True
+GSM9080089	geo:GSE301287:GSM9080089	donor_id	MM-20	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_title = Patient_P1858_ATAC_MM_Pre_Treatment	True
+GSM9080089	geo:GSE301287:GSM9080089	donor_id	MM-20	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_description = Library name: P1858_ATAC_MM	True
+GSM9080089	geo:GSE301287:GSM9080089	donor_id	MM-20	file	evidence/PMC13004696_supplementary/41591_2025_4175_MOESM4_ESM.xlsx		Patient_ID WGS_pre WGS_post WGS_normal Exome_post scATAC_pre scATAC_post scRNA_pre scRNA_post	True
+GSM9080089	geo:GSE301287:GSM9080089	donor_id	MM-20	file	evidence/PMC13004696_supplementary/41591_2025_4175_MOESM4_ESM.xlsx		MM-20 P2222T--P2240-N P-4626--P-2240 P2240 P1858 P4585 P1858 P4585	True
+GSM9080089	geo:GSE301287:GSM9080089	donor_id	MM-20	file	evidence/PMC13004696.txt		For patients MM-03, MM-10 and MM-20, pre-therapy and relapse scATAC and/or scRNA-seq were performed in addition to WGS.	True
+GSM9080089	geo:GSE301287:GSM9080089	sex	female	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_title = Patient_P1858_ATAC_MM_Pre_Treatment	True
+GSM9080089	geo:GSE301287:GSM9080089	sex	female	file	evidence/PMC13004696_supplementary/41591_2025_4175_MOESM4_ESM.xlsx		scRNA_post gprc5d_antigen_escape Best response to anti-GPRC5D TCE Progressive disease PFS (months) OS (months) Age Sex R-ISS	True
+GSM9080089	geo:GSE301287:GSM9080089	sex	female	file	evidence/PMC13004696_supplementary/41591_2025_4175_MOESM4_ESM.xlsx		MM-20 P2222T--P2240-N P-4626--P-2240 P2240 P1858 P4585 P1858 P4585 yes sCR yes 42 42 72 F II	True
+GSM9080089	geo:GSE301287:GSM9080089	tissue_free_text	bone marrow	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM9080089	geo:GSE301287:GSM9080089	tissue_free_text	bone marrow	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_source_name_ch1 = Bone marrow	True
+GSM9080089	geo:GSE301287:GSM9080089	disease_free_text	multiple myeloma	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_characteristics_ch1 = disease state: multiple myeloma	True
+GSM9080089	geo:GSE301287:GSM9080089	sampled_site_condition	diseased	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_characteristics_ch1 = disease state: multiple myeloma	True
+GSM9080089	geo:GSE301287:GSM9080089	sampled_site_condition	diseased	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM9080089	geo:GSE301287:GSM9080089	sample_collection_method	bone marrow aspiration	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM9080089	geo:GSE301287:GSM9080089	tissue_type	tissue	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		Experiments were conducted on primary patient bone marrow samples	True
+GSM9080089	geo:GSE301287:GSM9080089	cell_enrichment	CD138+	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138+	True
+GSM9080089	geo:GSE301287:GSM9080089	cell_enrichment	CD138+	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM9080089	geo:GSE301287:GSM9080089	suspension_type	nucleus	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		The resulting nuclei were immediately used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM9080089	geo:GSE301287:GSM9080089	assay	10x scATAC-seq	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		The resulting nuclei were immediately used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM9080089	geo:GSE301287:GSM9080089	assay	10x scATAC-seq	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_library_strategy = ATAC-seq	True
+GSM9080090	geo:GSE301287:GSM9080090	donor_id	MM-20	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_title = Patient_P4585_ATAC_MM_Pre_Treatment	True
+GSM9080090	geo:GSE301287:GSM9080090	donor_id	MM-20	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_description = Library name: P4585_ATAC_MM	True
+GSM9080090	geo:GSE301287:GSM9080090	donor_id	MM-20	file	evidence/PMC13004696_supplementary/41591_2025_4175_MOESM4_ESM.xlsx		Patient_ID WGS_pre WGS_post WGS_normal Exome_post scATAC_pre scATAC_post scRNA_pre scRNA_post	True
+GSM9080090	geo:GSE301287:GSM9080090	donor_id	MM-20	file	evidence/PMC13004696_supplementary/41591_2025_4175_MOESM4_ESM.xlsx		MM-20 P2222T--P2240-N P-4626--P-2240 P2240 P1858 P4585 P1858 P4585	True
+GSM9080090	geo:GSE301287:GSM9080090	donor_id	MM-20	file	evidence/PMC13004696.txt		For patients MM-03, MM-10 and MM-20, pre-therapy and relapse scATAC and/or scRNA-seq were performed in addition to WGS.	True
+GSM9080090	geo:GSE301287:GSM9080090	sex	female	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_title = Patient_P4585_ATAC_MM_Pre_Treatment	True
+GSM9080090	geo:GSE301287:GSM9080090	sex	female	file	evidence/PMC13004696_supplementary/41591_2025_4175_MOESM4_ESM.xlsx		scRNA_post gprc5d_antigen_escape Best response to anti-GPRC5D TCE Progressive disease PFS (months) OS (months) Age Sex R-ISS	True
+GSM9080090	geo:GSE301287:GSM9080090	sex	female	file	evidence/PMC13004696_supplementary/41591_2025_4175_MOESM4_ESM.xlsx		MM-20 P2222T--P2240-N P-4626--P-2240 P2240 P1858 P4585 P1858 P4585 yes sCR yes 42 42 72 F II	True
+GSM9080090	geo:GSE301287:GSM9080090	tissue_free_text	bone marrow	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM9080090	geo:GSE301287:GSM9080090	tissue_free_text	bone marrow	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_source_name_ch1 = Bone marrow	True
+GSM9080090	geo:GSE301287:GSM9080090	disease_free_text	multiple myeloma	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_characteristics_ch1 = disease state: multiple myeloma	True
+GSM9080090	geo:GSE301287:GSM9080090	sampled_site_condition	diseased	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_characteristics_ch1 = disease state: multiple myeloma	True
+GSM9080090	geo:GSE301287:GSM9080090	sampled_site_condition	diseased	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM9080090	geo:GSE301287:GSM9080090	sample_collection_method	bone marrow aspiration	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM9080090	geo:GSE301287:GSM9080090	tissue_type	tissue	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		Experiments were conducted on primary patient bone marrow samples	True
+GSM9080090	geo:GSE301287:GSM9080090	cell_enrichment	CD138+	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_characteristics_ch1 = cell type: CD138+	True
+GSM9080090	geo:GSE301287:GSM9080090	cell_enrichment	CD138+	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM9080090	geo:GSE301287:GSM9080090	suspension_type	nucleus	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		The resulting nuclei were immediately used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM9080090	geo:GSE301287:GSM9080090	assay	10x scATAC-seq	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		The resulting nuclei were immediately used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM9080090	geo:GSE301287:GSM9080090	assay	10x scATAC-seq	file	raw/fp-9d584955cbbd/GSE301287_family.soft.gz		!Sample_library_strategy = ATAC-seq	True
+GSM9080087	geo:GSE301287:GSM9080087	atac.genome_assembly	GRCh38	column	work/fp-9d584955cbbd/GSE301287_RAW/GSM9080087_P1695_ATAC_MM_filtered_peak_bc_matrix.h5::features/genome			True
+GSM9080088	geo:GSE301287:GSM9080088	atac.genome_assembly	GRCh38	column	work/fp-9d584955cbbd/GSE301287_RAW/GSM9080088_P4520_ATAC_MM_filtered_peak_bc_matrix.h5::features/genome			True
+GSM9080089	geo:GSE301287:GSM9080089	atac.genome_assembly	GRCh38	column	work/fp-9d584955cbbd/GSE301287_RAW/GSM9080089_P1858_ATAC_MM_filtered_peak_bc_matrix.h5::features/genome			True
+GSM9080090	geo:GSE301287:GSM9080090	atac.genome_assembly	GRCh38	column	work/fp-9d584955cbbd/GSE301287_RAW/GSM9080090_P4585_ATAC_MM_filtered_peak_bc_matrix.h5::features/genome			True
+GSM9080087	geo:GSE301287:GSM9080087	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9080087	geo:GSE301287:GSM9080087	assay_ontology_term_id	EFO:0030007	derived	ols:efo		10x scATAC-seq	True
+GSM9080087	geo:GSE301287:GSM9080087	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM9080087	geo:GSE301287:GSM9080087	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM9080088	geo:GSE301287:GSM9080088	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9080088	geo:GSE301287:GSM9080088	assay_ontology_term_id	EFO:0030007	derived	ols:efo		10x scATAC-seq	True
+GSM9080088	geo:GSE301287:GSM9080088	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM9080088	geo:GSE301287:GSM9080088	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM9080089	geo:GSE301287:GSM9080089	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9080089	geo:GSE301287:GSM9080089	assay_ontology_term_id	EFO:0030007	derived	ols:efo		10x scATAC-seq	True
+GSM9080089	geo:GSE301287:GSM9080089	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM9080089	geo:GSE301287:GSM9080089	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM9080090	geo:GSE301287:GSM9080090	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9080090	geo:GSE301287:GSM9080090	assay_ontology_term_id	EFO:0030007	derived	ols:efo		10x scATAC-seq	True
+GSM9080090	geo:GSE301287:GSM9080090	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM9080090	geo:GSE301287:GSM9080090	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True

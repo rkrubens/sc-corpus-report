@@ -1,0 +1,475 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-8e3926ac8592/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+		organism	Homo sapiens	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5968478	geo:GSE199268:GSM5968478	donor_id	P1698	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1698	True
+GSM5968478	geo:GSE199268:GSM5968478	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5968478	geo:GSE199268:GSM5968478	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968478	geo:GSE199268:GSM5968478	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968478	geo:GSE199268:GSM5968478	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5968478	geo:GSE199268:GSM5968478	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968478	geo:GSE199268:GSM5968478	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968478	geo:GSE199268:GSM5968478	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968478	geo:GSE199268:GSM5968478	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968478	geo:GSE199268:GSM5968478	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968478	geo:GSE199268:GSM5968478	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968478	geo:GSE199268:GSM5968478	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968478	geo:GSE199268:GSM5968478	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968478	geo:GSE199268:GSM5968478	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM5968478	geo:GSE199268:GSM5968478	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM5968478	geo:GSE199268:GSM5968478	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM5968478	geo:GSE199268:GSM5968478	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM5968478	geo:GSE199268:GSM5968478	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM5968479	geo:GSE199268:GSM5968479	donor_id	P1555	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1555	True
+GSM5968479	geo:GSE199268:GSM5968479	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5968479	geo:GSE199268:GSM5968479	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968479	geo:GSE199268:GSM5968479	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968479	geo:GSE199268:GSM5968479	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5968479	geo:GSE199268:GSM5968479	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968479	geo:GSE199268:GSM5968479	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968479	geo:GSE199268:GSM5968479	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968479	geo:GSE199268:GSM5968479	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968479	geo:GSE199268:GSM5968479	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968479	geo:GSE199268:GSM5968479	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968479	geo:GSE199268:GSM5968479	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968479	geo:GSE199268:GSM5968479	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968479	geo:GSE199268:GSM5968479	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM5968479	geo:GSE199268:GSM5968479	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM5968479	geo:GSE199268:GSM5968479	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM5968479	geo:GSE199268:GSM5968479	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM5968479	geo:GSE199268:GSM5968479	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM5968480	geo:GSE199268:GSM5968480	donor_id	P1498	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1498	True
+GSM5968480	geo:GSE199268:GSM5968480	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5968480	geo:GSE199268:GSM5968480	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968480	geo:GSE199268:GSM5968480	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968480	geo:GSE199268:GSM5968480	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5968480	geo:GSE199268:GSM5968480	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968480	geo:GSE199268:GSM5968480	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968480	geo:GSE199268:GSM5968480	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968480	geo:GSE199268:GSM5968480	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968480	geo:GSE199268:GSM5968480	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968480	geo:GSE199268:GSM5968480	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968480	geo:GSE199268:GSM5968480	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968480	geo:GSE199268:GSM5968480	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968480	geo:GSE199268:GSM5968480	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM5968480	geo:GSE199268:GSM5968480	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM5968480	geo:GSE199268:GSM5968480	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM5968480	geo:GSE199268:GSM5968480	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM5968480	geo:GSE199268:GSM5968480	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM5968481	geo:GSE199268:GSM5968481	donor_id	P1479	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1479	True
+GSM5968481	geo:GSE199268:GSM5968481	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5968481	geo:GSE199268:GSM5968481	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968481	geo:GSE199268:GSM5968481	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968481	geo:GSE199268:GSM5968481	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5968481	geo:GSE199268:GSM5968481	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968481	geo:GSE199268:GSM5968481	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968481	geo:GSE199268:GSM5968481	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968481	geo:GSE199268:GSM5968481	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968481	geo:GSE199268:GSM5968481	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968481	geo:GSE199268:GSM5968481	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968481	geo:GSE199268:GSM5968481	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968481	geo:GSE199268:GSM5968481	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968481	geo:GSE199268:GSM5968481	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM5968481	geo:GSE199268:GSM5968481	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM5968481	geo:GSE199268:GSM5968481	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM5968481	geo:GSE199268:GSM5968481	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM5968481	geo:GSE199268:GSM5968481	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM5968482	geo:GSE199268:GSM5968482	donor_id	P1438	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1438	True
+GSM5968482	geo:GSE199268:GSM5968482	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5968482	geo:GSE199268:GSM5968482	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968482	geo:GSE199268:GSM5968482	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968482	geo:GSE199268:GSM5968482	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5968482	geo:GSE199268:GSM5968482	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968482	geo:GSE199268:GSM5968482	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968482	geo:GSE199268:GSM5968482	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968482	geo:GSE199268:GSM5968482	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968482	geo:GSE199268:GSM5968482	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968482	geo:GSE199268:GSM5968482	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968482	geo:GSE199268:GSM5968482	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968482	geo:GSE199268:GSM5968482	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968482	geo:GSE199268:GSM5968482	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM5968482	geo:GSE199268:GSM5968482	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM5968482	geo:GSE199268:GSM5968482	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM5968482	geo:GSE199268:GSM5968482	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM5968482	geo:GSE199268:GSM5968482	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM5968483	geo:GSE199268:GSM5968483	donor_id	P1393	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1393	True
+GSM5968483	geo:GSE199268:GSM5968483	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5968483	geo:GSE199268:GSM5968483	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968483	geo:GSE199268:GSM5968483	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968483	geo:GSE199268:GSM5968483	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5968483	geo:GSE199268:GSM5968483	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968483	geo:GSE199268:GSM5968483	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968483	geo:GSE199268:GSM5968483	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968483	geo:GSE199268:GSM5968483	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968483	geo:GSE199268:GSM5968483	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968483	geo:GSE199268:GSM5968483	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968483	geo:GSE199268:GSM5968483	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968483	geo:GSE199268:GSM5968483	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968483	geo:GSE199268:GSM5968483	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM5968483	geo:GSE199268:GSM5968483	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM5968483	geo:GSE199268:GSM5968483	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM5968483	geo:GSE199268:GSM5968483	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM5968483	geo:GSE199268:GSM5968483	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM5968484	geo:GSE199268:GSM5968484	donor_id	P1389	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1389	True
+GSM5968484	geo:GSE199268:GSM5968484	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5968484	geo:GSE199268:GSM5968484	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968484	geo:GSE199268:GSM5968484	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968484	geo:GSE199268:GSM5968484	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5968484	geo:GSE199268:GSM5968484	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968484	geo:GSE199268:GSM5968484	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968484	geo:GSE199268:GSM5968484	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968484	geo:GSE199268:GSM5968484	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968484	geo:GSE199268:GSM5968484	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968484	geo:GSE199268:GSM5968484	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968484	geo:GSE199268:GSM5968484	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968484	geo:GSE199268:GSM5968484	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968484	geo:GSE199268:GSM5968484	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM5968484	geo:GSE199268:GSM5968484	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM5968484	geo:GSE199268:GSM5968484	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM5968484	geo:GSE199268:GSM5968484	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM5968484	geo:GSE199268:GSM5968484	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM5968485	geo:GSE199268:GSM5968485	donor_id	P1217	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1217	True
+GSM5968485	geo:GSE199268:GSM5968485	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5968485	geo:GSE199268:GSM5968485	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968485	geo:GSE199268:GSM5968485	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968485	geo:GSE199268:GSM5968485	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM5968485	geo:GSE199268:GSM5968485	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968485	geo:GSE199268:GSM5968485	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968485	geo:GSE199268:GSM5968485	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968485	geo:GSE199268:GSM5968485	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968485	geo:GSE199268:GSM5968485	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968485	geo:GSE199268:GSM5968485	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968485	geo:GSE199268:GSM5968485	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM5968485	geo:GSE199268:GSM5968485	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM5968485	geo:GSE199268:GSM5968485	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM5968485	geo:GSE199268:GSM5968485	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM5968485	geo:GSE199268:GSM5968485	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM5968485	geo:GSE199268:GSM5968485	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM5968485	geo:GSE199268:GSM5968485	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM7040827	geo:GSE199268:GSM7040827	donor_id	P1723	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1723	True
+GSM7040827	geo:GSE199268:GSM7040827	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040827	geo:GSE199268:GSM7040827	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040827	geo:GSE199268:GSM7040827	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040827	geo:GSE199268:GSM7040827	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040827	geo:GSE199268:GSM7040827	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040827	geo:GSE199268:GSM7040827	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040827	geo:GSE199268:GSM7040827	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040827	geo:GSE199268:GSM7040827	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040827	geo:GSE199268:GSM7040827	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040827	geo:GSE199268:GSM7040827	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040827	geo:GSE199268:GSM7040827	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040827	geo:GSE199268:GSM7040827	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040827	geo:GSE199268:GSM7040827	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040827	geo:GSE199268:GSM7040827	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040827	geo:GSE199268:GSM7040827	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM7040827	geo:GSE199268:GSM7040827	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM7040827	geo:GSE199268:GSM7040827	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM7040827	geo:GSE199268:GSM7040827	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = library preparation: 10X Genomics Single Cell ATACseq v1 Chemistry	True
+GSM7040828	geo:GSE199268:GSM7040828	donor_id	P1608	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1608	True
+GSM7040828	geo:GSE199268:GSM7040828	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040828	geo:GSE199268:GSM7040828	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040828	geo:GSE199268:GSM7040828	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040828	geo:GSE199268:GSM7040828	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040828	geo:GSE199268:GSM7040828	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040828	geo:GSE199268:GSM7040828	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040828	geo:GSE199268:GSM7040828	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040828	geo:GSE199268:GSM7040828	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040828	geo:GSE199268:GSM7040828	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040828	geo:GSE199268:GSM7040828	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040828	geo:GSE199268:GSM7040828	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040828	geo:GSE199268:GSM7040828	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040828	geo:GSE199268:GSM7040828	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040828	geo:GSE199268:GSM7040828	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040828	geo:GSE199268:GSM7040828	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM7040828	geo:GSE199268:GSM7040828	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM7040828	geo:GSE199268:GSM7040828	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM7040828	geo:GSE199268:GSM7040828	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = library preparation: 10X Genomics Single Cell ATACseq v1 Chemistry	True
+GSM7040829	geo:GSE199268:GSM7040829	donor_id	P1675	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1675	True
+GSM7040829	geo:GSE199268:GSM7040829	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040829	geo:GSE199268:GSM7040829	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040829	geo:GSE199268:GSM7040829	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040829	geo:GSE199268:GSM7040829	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040829	geo:GSE199268:GSM7040829	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040829	geo:GSE199268:GSM7040829	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040829	geo:GSE199268:GSM7040829	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040829	geo:GSE199268:GSM7040829	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040829	geo:GSE199268:GSM7040829	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040829	geo:GSE199268:GSM7040829	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040829	geo:GSE199268:GSM7040829	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040829	geo:GSE199268:GSM7040829	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040829	geo:GSE199268:GSM7040829	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040829	geo:GSE199268:GSM7040829	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040829	geo:GSE199268:GSM7040829	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM7040829	geo:GSE199268:GSM7040829	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM7040829	geo:GSE199268:GSM7040829	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM7040829	geo:GSE199268:GSM7040829	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = library preparation: 10X Genomics Single Cell ATACseq v1 Chemistry	True
+GSM7040830	geo:GSE199268:GSM7040830	donor_id	P1299	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1299	True
+GSM7040830	geo:GSE199268:GSM7040830	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040830	geo:GSE199268:GSM7040830	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040830	geo:GSE199268:GSM7040830	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040830	geo:GSE199268:GSM7040830	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040830	geo:GSE199268:GSM7040830	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040830	geo:GSE199268:GSM7040830	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040830	geo:GSE199268:GSM7040830	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040830	geo:GSE199268:GSM7040830	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040830	geo:GSE199268:GSM7040830	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040830	geo:GSE199268:GSM7040830	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040830	geo:GSE199268:GSM7040830	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040830	geo:GSE199268:GSM7040830	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040830	geo:GSE199268:GSM7040830	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040830	geo:GSE199268:GSM7040830	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040830	geo:GSE199268:GSM7040830	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM7040830	geo:GSE199268:GSM7040830	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM7040830	geo:GSE199268:GSM7040830	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM7040830	geo:GSE199268:GSM7040830	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = library preparation: 10X Genomics Single Cell ATACseq v1 Chemistry	True
+GSM7040831	geo:GSE199268:GSM7040831	donor_id	P1345	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1345	True
+GSM7040831	geo:GSE199268:GSM7040831	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040831	geo:GSE199268:GSM7040831	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040831	geo:GSE199268:GSM7040831	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040831	geo:GSE199268:GSM7040831	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040831	geo:GSE199268:GSM7040831	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040831	geo:GSE199268:GSM7040831	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040831	geo:GSE199268:GSM7040831	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040831	geo:GSE199268:GSM7040831	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040831	geo:GSE199268:GSM7040831	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040831	geo:GSE199268:GSM7040831	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040831	geo:GSE199268:GSM7040831	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040831	geo:GSE199268:GSM7040831	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040831	geo:GSE199268:GSM7040831	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040831	geo:GSE199268:GSM7040831	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040831	geo:GSE199268:GSM7040831	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM7040831	geo:GSE199268:GSM7040831	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM7040831	geo:GSE199268:GSM7040831	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM7040831	geo:GSE199268:GSM7040831	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = library preparation: 10X Genomics Single Cell ATACseq v1 Chemistry	True
+GSM7040832	geo:GSE199268:GSM7040832	donor_id	P1643	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1643	True
+GSM7040832	geo:GSE199268:GSM7040832	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040832	geo:GSE199268:GSM7040832	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040832	geo:GSE199268:GSM7040832	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040832	geo:GSE199268:GSM7040832	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040832	geo:GSE199268:GSM7040832	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040832	geo:GSE199268:GSM7040832	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040832	geo:GSE199268:GSM7040832	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040832	geo:GSE199268:GSM7040832	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040832	geo:GSE199268:GSM7040832	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040832	geo:GSE199268:GSM7040832	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040832	geo:GSE199268:GSM7040832	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040832	geo:GSE199268:GSM7040832	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040832	geo:GSE199268:GSM7040832	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040832	geo:GSE199268:GSM7040832	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040832	geo:GSE199268:GSM7040832	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM7040832	geo:GSE199268:GSM7040832	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM7040832	geo:GSE199268:GSM7040832	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM7040832	geo:GSE199268:GSM7040832	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = library preparation: 10X Genomics Single Cell ATACseq v1 Chemistry	True
+GSM7040833	geo:GSE199268:GSM7040833	donor_id	P1752	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1752	True
+GSM7040833	geo:GSE199268:GSM7040833	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040833	geo:GSE199268:GSM7040833	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040833	geo:GSE199268:GSM7040833	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040833	geo:GSE199268:GSM7040833	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040833	geo:GSE199268:GSM7040833	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040833	geo:GSE199268:GSM7040833	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040833	geo:GSE199268:GSM7040833	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040833	geo:GSE199268:GSM7040833	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040833	geo:GSE199268:GSM7040833	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040833	geo:GSE199268:GSM7040833	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040833	geo:GSE199268:GSM7040833	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040833	geo:GSE199268:GSM7040833	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040833	geo:GSE199268:GSM7040833	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040833	geo:GSE199268:GSM7040833	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040833	geo:GSE199268:GSM7040833	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM7040833	geo:GSE199268:GSM7040833	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM7040833	geo:GSE199268:GSM7040833	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM7040833	geo:GSE199268:GSM7040833	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = library preparation: 10X Genomics Single Cell ATACseq v1 Chemistry	True
+GSM7040834	geo:GSE199268:GSM7040834	donor_id	P1680	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1680	True
+GSM7040834	geo:GSE199268:GSM7040834	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040834	geo:GSE199268:GSM7040834	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040834	geo:GSE199268:GSM7040834	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040834	geo:GSE199268:GSM7040834	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040834	geo:GSE199268:GSM7040834	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040834	geo:GSE199268:GSM7040834	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040834	geo:GSE199268:GSM7040834	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040834	geo:GSE199268:GSM7040834	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040834	geo:GSE199268:GSM7040834	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040834	geo:GSE199268:GSM7040834	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040834	geo:GSE199268:GSM7040834	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040834	geo:GSE199268:GSM7040834	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040834	geo:GSE199268:GSM7040834	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040834	geo:GSE199268:GSM7040834	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040834	geo:GSE199268:GSM7040834	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM7040834	geo:GSE199268:GSM7040834	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM7040834	geo:GSE199268:GSM7040834	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM7040834	geo:GSE199268:GSM7040834	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = library preparation: 10X Genomics Single Cell ATACseq v1 Chemistry	True
+GSM7040835	geo:GSE199268:GSM7040835	donor_id	P1388	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1388	True
+GSM7040835	geo:GSE199268:GSM7040835	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040835	geo:GSE199268:GSM7040835	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040835	geo:GSE199268:GSM7040835	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040835	geo:GSE199268:GSM7040835	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040835	geo:GSE199268:GSM7040835	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040835	geo:GSE199268:GSM7040835	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040835	geo:GSE199268:GSM7040835	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040835	geo:GSE199268:GSM7040835	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040835	geo:GSE199268:GSM7040835	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040835	geo:GSE199268:GSM7040835	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040835	geo:GSE199268:GSM7040835	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040835	geo:GSE199268:GSM7040835	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040835	geo:GSE199268:GSM7040835	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040835	geo:GSE199268:GSM7040835	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040835	geo:GSE199268:GSM7040835	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM7040835	geo:GSE199268:GSM7040835	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM7040835	geo:GSE199268:GSM7040835	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM7040835	geo:GSE199268:GSM7040835	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = library preparation: 10X Genomics Single Cell ATACseq v1 Chemistry	True
+GSM7040836	geo:GSE199268:GSM7040836	donor_id	P1751	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1751	True
+GSM7040836	geo:GSE199268:GSM7040836	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040836	geo:GSE199268:GSM7040836	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040836	geo:GSE199268:GSM7040836	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040836	geo:GSE199268:GSM7040836	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040836	geo:GSE199268:GSM7040836	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040836	geo:GSE199268:GSM7040836	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040836	geo:GSE199268:GSM7040836	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040836	geo:GSE199268:GSM7040836	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040836	geo:GSE199268:GSM7040836	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040836	geo:GSE199268:GSM7040836	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040836	geo:GSE199268:GSM7040836	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040836	geo:GSE199268:GSM7040836	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040836	geo:GSE199268:GSM7040836	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040836	geo:GSE199268:GSM7040836	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040836	geo:GSE199268:GSM7040836	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM7040836	geo:GSE199268:GSM7040836	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM7040836	geo:GSE199268:GSM7040836	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM7040836	geo:GSE199268:GSM7040836	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = library preparation: 10X Genomics Single Cell ATACseq v1 Chemistry	True
+GSM7040837	geo:GSE199268:GSM7040837	donor_id	P1809	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1809	True
+GSM7040837	geo:GSE199268:GSM7040837	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040837	geo:GSE199268:GSM7040837	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040837	geo:GSE199268:GSM7040837	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040837	geo:GSE199268:GSM7040837	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040837	geo:GSE199268:GSM7040837	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040837	geo:GSE199268:GSM7040837	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040837	geo:GSE199268:GSM7040837	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040837	geo:GSE199268:GSM7040837	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040837	geo:GSE199268:GSM7040837	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040837	geo:GSE199268:GSM7040837	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040837	geo:GSE199268:GSM7040837	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040837	geo:GSE199268:GSM7040837	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040837	geo:GSE199268:GSM7040837	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040837	geo:GSE199268:GSM7040837	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040837	geo:GSE199268:GSM7040837	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM7040837	geo:GSE199268:GSM7040837	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM7040837	geo:GSE199268:GSM7040837	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM7040837	geo:GSE199268:GSM7040837	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = library preparation: 10X Genomics Single Cell ATACseq v1 Chemistry	True
+GSM7040838	geo:GSE199268:GSM7040838	donor_id	P1396	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1396	True
+GSM7040838	geo:GSE199268:GSM7040838	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040838	geo:GSE199268:GSM7040838	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040838	geo:GSE199268:GSM7040838	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040838	geo:GSE199268:GSM7040838	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040838	geo:GSE199268:GSM7040838	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040838	geo:GSE199268:GSM7040838	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040838	geo:GSE199268:GSM7040838	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040838	geo:GSE199268:GSM7040838	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040838	geo:GSE199268:GSM7040838	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040838	geo:GSE199268:GSM7040838	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040838	geo:GSE199268:GSM7040838	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040838	geo:GSE199268:GSM7040838	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040838	geo:GSE199268:GSM7040838	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040838	geo:GSE199268:GSM7040838	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040838	geo:GSE199268:GSM7040838	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM7040838	geo:GSE199268:GSM7040838	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM7040838	geo:GSE199268:GSM7040838	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM7040838	geo:GSE199268:GSM7040838	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = library preparation: 10X Genomics Single Cell ATACseq v1 Chemistry	True
+GSM7040839	geo:GSE199268:GSM7040839	donor_id	P1461	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1461	True
+GSM7040839	geo:GSE199268:GSM7040839	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040839	geo:GSE199268:GSM7040839	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040839	geo:GSE199268:GSM7040839	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040839	geo:GSE199268:GSM7040839	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040839	geo:GSE199268:GSM7040839	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040839	geo:GSE199268:GSM7040839	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040839	geo:GSE199268:GSM7040839	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040839	geo:GSE199268:GSM7040839	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040839	geo:GSE199268:GSM7040839	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040839	geo:GSE199268:GSM7040839	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040839	geo:GSE199268:GSM7040839	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040839	geo:GSE199268:GSM7040839	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040839	geo:GSE199268:GSM7040839	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040839	geo:GSE199268:GSM7040839	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040839	geo:GSE199268:GSM7040839	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM7040839	geo:GSE199268:GSM7040839	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM7040839	geo:GSE199268:GSM7040839	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM7040839	geo:GSE199268:GSM7040839	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = library preparation: 10X Genomics Single Cell ATACseq v1 Chemistry	True
+GSM7040840	geo:GSE199268:GSM7040840	donor_id	P1395	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1395	True
+GSM7040840	geo:GSE199268:GSM7040840	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040840	geo:GSE199268:GSM7040840	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040840	geo:GSE199268:GSM7040840	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040840	geo:GSE199268:GSM7040840	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040840	geo:GSE199268:GSM7040840	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040840	geo:GSE199268:GSM7040840	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040840	geo:GSE199268:GSM7040840	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040840	geo:GSE199268:GSM7040840	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040840	geo:GSE199268:GSM7040840	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040840	geo:GSE199268:GSM7040840	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040840	geo:GSE199268:GSM7040840	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040840	geo:GSE199268:GSM7040840	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040840	geo:GSE199268:GSM7040840	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040840	geo:GSE199268:GSM7040840	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040840	geo:GSE199268:GSM7040840	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM7040840	geo:GSE199268:GSM7040840	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM7040840	geo:GSE199268:GSM7040840	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM7040840	geo:GSE199268:GSM7040840	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = library preparation: 10X Genomics Single Cell ATACseq v1 Chemistry	True
+GSM7040841	geo:GSE199268:GSM7040841	donor_id	P1606	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1606	True
+GSM7040841	geo:GSE199268:GSM7040841	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040841	geo:GSE199268:GSM7040841	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040841	geo:GSE199268:GSM7040841	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040841	geo:GSE199268:GSM7040841	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040841	geo:GSE199268:GSM7040841	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040841	geo:GSE199268:GSM7040841	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040841	geo:GSE199268:GSM7040841	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040841	geo:GSE199268:GSM7040841	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040841	geo:GSE199268:GSM7040841	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040841	geo:GSE199268:GSM7040841	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040841	geo:GSE199268:GSM7040841	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040841	geo:GSE199268:GSM7040841	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040841	geo:GSE199268:GSM7040841	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040841	geo:GSE199268:GSM7040841	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040841	geo:GSE199268:GSM7040841	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM7040841	geo:GSE199268:GSM7040841	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM7040841	geo:GSE199268:GSM7040841	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM7040841	geo:GSE199268:GSM7040841	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = library preparation: 10X Genomics Single Cell ATACseq v1 Chemistry	True
+GSM7040842	geo:GSE199268:GSM7040842	donor_id	P1722	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = patient number: P1722	True
+GSM7040842	geo:GSE199268:GSM7040842	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040842	geo:GSE199268:GSM7040842	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040842	geo:GSE199268:GSM7040842	disease_free_text	multiple myeloma	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040842	geo:GSE199268:GSM7040842	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The translocation t(11;14) occurs in 20% of multiple myeloma (MM) patients	True
+GSM7040842	geo:GSE199268:GSM7040842	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040842	geo:GSE199268:GSM7040842	disease_ontology_term_id	MONDO:0009693	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040842	geo:GSE199268:GSM7040842	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040842	geo:GSE199268:GSM7040842	sampled_site_condition	diseased	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040842	geo:GSE199268:GSM7040842	tissue_free_text	bone marrow	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040842	geo:GSE199268:GSM7040842	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040842	geo:GSE199268:GSM7040842	sample_collection_method	bone marrow aspiration	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Primary CD138+ MM cells were obtained from the BM aspirates of MM patients	True
+GSM7040842	geo:GSE199268:GSM7040842	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_source_name_ch1 = Primary CD138+ MM cells	True
+GSM7040842	geo:GSE199268:GSM7040842	tissue_type	tissue	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		by integrating ATACseq and RNAseq at the single-cell level in primary MM samples	True
+GSM7040842	geo:GSE199268:GSM7040842	cell_enrichment	CD138+	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		using positive selection with CD138 microbeads (Miltenyi Biotech, Auburn, CA)	True
+GSM7040842	geo:GSE199268:GSM7040842	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		The resulting nuclei were then immediately used to generate scATAC-seq libraries	True
+GSM7040842	geo:GSE199268:GSM7040842	suspension_type	nucleus	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		Nuclei isolation was performed as indicated in the nuclei isolation protocol for Single Cell ATAC Sequencing (10x Genomics)	True
+GSM7040842	geo:GSE199268:GSM7040842	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		used to generate scATAC-seq libraries using the Chromium Single Cell ATAC reagent kit (CG000168, 10x Genomics)	True
+GSM7040842	geo:GSE199268:GSM7040842	assay_ontology_term_id	EFO:0030007	file	raw/fp-8e3926ac8592/GSE199268_family.soft.gz		!Sample_characteristics_ch1 = library preparation: 10X Genomics Single Cell ATACseq v1 Chemistry	True
+GSM5968478	geo:GSE199268:GSM5968478	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM5968478_P1698_Post_filtered_peak_bc_matrix.h5::features/genome			True
+GSM5968479	geo:GSE199268:GSM5968479	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM5968479_P1555_Post_filtered_peak_bc_matrix.h5::features/genome			True
+GSM5968480	geo:GSE199268:GSM5968480	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM5968480_P1498_Pre_filtered_peak_bc_matrix.h5::features/genome			True
+GSM5968481	geo:GSE199268:GSM5968481	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM5968481_P1479_Post_filtered_peak_bc_matrix.h5::features/genome			True
+GSM5968482	geo:GSE199268:GSM5968482	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM5968482_P1438_Post_filtered_peak_bc_matrix.h5::features/genome			True
+GSM5968483	geo:GSE199268:GSM5968483	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM5968483_P1393_Pre_filtered_peak_bc_matrix.h5::features/genome			True
+GSM5968484	geo:GSE199268:GSM5968484	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM5968484_P1389_Pre_filtered_peak_bc_matrix.h5::features/genome			True
+GSM5968485	geo:GSE199268:GSM5968485	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM5968485_P1217_Pre_filtered_peak_bc_matrix.h5::features/genome			True
+GSM7040827	geo:GSE199268:GSM7040827	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM7040827_P1723_Pre_filtered_peak_bc_matrix.h5::features/genome			True
+GSM7040828	geo:GSE199268:GSM7040828	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM7040828_P1608_Pre_filtered_peak_bc_matrix.h5::features/genome			True
+GSM7040829	geo:GSE199268:GSM7040829	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM7040829_P1675_Post_filtered_peak_bc_matrix.h5::features/genome			True
+GSM7040830	geo:GSE199268:GSM7040830	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM7040830_P1299_Pre_filtered_peak_bc_matrix.h5::features/genome			True
+GSM7040831	geo:GSE199268:GSM7040831	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM7040831_P1345_Post_filtered_peak_bc_matrix.h5::features/genome			True
+GSM7040832	geo:GSE199268:GSM7040832	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM7040832_P1643_Pre_filtered_peak_bc_matrix.h5::features/genome			True
+GSM7040833	geo:GSE199268:GSM7040833	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM7040833_P1752_Pre_filtered_peak_bc_matrix.h5::features/genome			True
+GSM7040834	geo:GSE199268:GSM7040834	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM7040834_P1680_Pre_filtered_peak_bc_matrix.h5::features/genome			True
+GSM7040835	geo:GSE199268:GSM7040835	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM7040835_P1388_Pre_filtered_peak_bc_matrix.h5::features/genome			True
+GSM7040836	geo:GSE199268:GSM7040836	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM7040836_P1751_Pre_filtered_peak_bc_matrix.h5::features/genome			True
+GSM7040837	geo:GSE199268:GSM7040837	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM7040837_P1809_Post_filtered_peak_bc_matrix.h5::features/genome			True
+GSM7040838	geo:GSE199268:GSM7040838	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM7040838_P1396_Pre_filtered_peak_bc_matrix.h5::features/genome			True
+GSM7040839	geo:GSE199268:GSM7040839	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM7040839_P1461_Post_filtered_peak_bc_matrix.h5::features/genome			True
+GSM7040840	geo:GSE199268:GSM7040840	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM7040840_P1395_Pre_filtered_peak_bc_matrix.h5::features/genome			True
+GSM7040841	geo:GSE199268:GSM7040841	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM7040841_P1606_Post_filtered_peak_bc_matrix.h5::features/genome			True
+GSM7040842	geo:GSE199268:GSM7040842	atac.genome_assembly	GRCh38	column	work/fp-8e3926ac8592/GSE199268_RAW/GSM7040842_P1722_Pre_filtered_peak_bc_matrix.h5::features/genome			True

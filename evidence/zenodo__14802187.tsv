@@ -1,0 +1,650 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+H21b	zenodo:14802187:H21b	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+H21m	zenodo:14802187:H21m	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+H22b	zenodo:14802187:H22b	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+H22m	zenodo:14802187:H22m	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+H23b	zenodo:14802187:H23b	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+H23m	zenodo:14802187:H23m	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+H24b	zenodo:14802187:H24b	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+H24m	zenodo:14802187:H24m	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+H25b	zenodo:14802187:H25b	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+H25m	zenodo:14802187:H25m	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+H26b	zenodo:14802187:H26b	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+H26m	zenodo:14802187:H26m	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+H27b	zenodo:14802187:H27b	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+H27m	zenodo:14802187:H27m	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+H28b	zenodo:14802187:H28b	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+H28m	zenodo:14802187:H28m	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+H29b	zenodo:14802187:H29b	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+H29m	zenodo:14802187:H29m	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+H30b	zenodo:14802187:H30b	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+T22467b	zenodo:14802187:T22467b	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+T22467m	zenodo:14802187:T22467m	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+T23491b_NK	zenodo:14802187:T23491b_NK	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+T23491m_NK	zenodo:14802187:T23491m_NK	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+T23819b	zenodo:14802187:T23819b	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+T23819m	zenodo:14802187:T23819m	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+T23833b	zenodo:14802187:T23833b	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+T23833m	zenodo:14802187:T23833m	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+T24832b	zenodo:14802187:T24832b	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+T24832m	zenodo:14802187:T24832m	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+T25370b	zenodo:14802187:T25370b	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+T25370m	zenodo:14802187:T25370m	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+T25446b	zenodo:14802187:T25446b	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+T25446m	zenodo:14802187:T25446m	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+T26029b	zenodo:14802187:T26029b	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+T26029m	zenodo:14802187:T26029m	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+T26305b	zenodo:14802187:T26305b	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+T26625b	zenodo:14802187:T26625b	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+T26625m	zenodo:14802187:T26625m	donor_id	<column id>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/id			True
+H21b	zenodo:14802187:H21b	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+H21m	zenodo:14802187:H21m	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+H22b	zenodo:14802187:H22b	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+H22m	zenodo:14802187:H22m	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+H23b	zenodo:14802187:H23b	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+H23m	zenodo:14802187:H23m	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+H24b	zenodo:14802187:H24b	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+H24m	zenodo:14802187:H24m	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+H25b	zenodo:14802187:H25b	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+H25m	zenodo:14802187:H25m	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+H26b	zenodo:14802187:H26b	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+H26m	zenodo:14802187:H26m	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+H27b	zenodo:14802187:H27b	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+H27m	zenodo:14802187:H27m	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+H28b	zenodo:14802187:H28b	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+H28m	zenodo:14802187:H28m	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+H29b	zenodo:14802187:H29b	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+H29m	zenodo:14802187:H29m	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+H30b	zenodo:14802187:H30b	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+T22467b	zenodo:14802187:T22467b	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+T22467m	zenodo:14802187:T22467m	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+T23491b_NK	zenodo:14802187:T23491b_NK	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+T23491m_NK	zenodo:14802187:T23491m_NK	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+T23819b	zenodo:14802187:T23819b	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+T23819m	zenodo:14802187:T23819m	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+T23833b	zenodo:14802187:T23833b	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+T23833m	zenodo:14802187:T23833m	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+T24832b	zenodo:14802187:T24832b	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+T24832m	zenodo:14802187:T24832m	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+T25370b	zenodo:14802187:T25370b	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+T25370m	zenodo:14802187:T25370m	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+T25446b	zenodo:14802187:T25446b	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+T25446m	zenodo:14802187:T25446m	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+T26029b	zenodo:14802187:T26029b	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+T26029m	zenodo:14802187:T26029m	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+T26305b	zenodo:14802187:T26305b	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+T26625b	zenodo:14802187:T26625b	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+T26625m	zenodo:14802187:T26625m	disease_free_text	<column condition>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/condition			True
+H21b	zenodo:14802187:H21b	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+H21m	zenodo:14802187:H21m	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+H22b	zenodo:14802187:H22b	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+H22m	zenodo:14802187:H22m	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+H23b	zenodo:14802187:H23b	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+H23m	zenodo:14802187:H23m	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+H24b	zenodo:14802187:H24b	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+H24m	zenodo:14802187:H24m	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+H25b	zenodo:14802187:H25b	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+H25m	zenodo:14802187:H25m	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+H26b	zenodo:14802187:H26b	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+H26m	zenodo:14802187:H26m	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+H27b	zenodo:14802187:H27b	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+H27m	zenodo:14802187:H27m	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+H28b	zenodo:14802187:H28b	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+H28m	zenodo:14802187:H28m	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+H29b	zenodo:14802187:H29b	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+H29m	zenodo:14802187:H29m	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+H30b	zenodo:14802187:H30b	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+T22467b	zenodo:14802187:T22467b	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+T22467m	zenodo:14802187:T22467m	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+T23491b_NK	zenodo:14802187:T23491b_NK	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+T23491m_NK	zenodo:14802187:T23491m_NK	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+T23819b	zenodo:14802187:T23819b	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+T23819m	zenodo:14802187:T23819m	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+T23833b	zenodo:14802187:T23833b	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+T23833m	zenodo:14802187:T23833m	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+T24832b	zenodo:14802187:T24832b	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+T24832m	zenodo:14802187:T24832m	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+T25370b	zenodo:14802187:T25370b	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+T25370m	zenodo:14802187:T25370m	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+T25446b	zenodo:14802187:T25446b	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+T25446m	zenodo:14802187:T25446m	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+T26029b	zenodo:14802187:T26029b	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+T26029m	zenodo:14802187:T26029m	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+T26305b	zenodo:14802187:T26305b	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+T26625b	zenodo:14802187:T26625b	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+T26625m	zenodo:14802187:T26625m	tissue_free_text	<column source>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/source			True
+H21b	zenodo:14802187:H21b	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+H21m	zenodo:14802187:H21m	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+H22b	zenodo:14802187:H22b	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+H22m	zenodo:14802187:H22m	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+H23b	zenodo:14802187:H23b	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+H23m	zenodo:14802187:H23m	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+H24b	zenodo:14802187:H24b	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+H24m	zenodo:14802187:H24m	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+H25b	zenodo:14802187:H25b	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+H25m	zenodo:14802187:H25m	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+H26b	zenodo:14802187:H26b	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+H26m	zenodo:14802187:H26m	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+H27b	zenodo:14802187:H27b	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+H27m	zenodo:14802187:H27m	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+H28b	zenodo:14802187:H28b	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+H28m	zenodo:14802187:H28m	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+H29b	zenodo:14802187:H29b	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+H29m	zenodo:14802187:H29m	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+H30b	zenodo:14802187:H30b	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+T22467b	zenodo:14802187:T22467b	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+T22467m	zenodo:14802187:T22467m	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+T23491b_NK	zenodo:14802187:T23491b_NK	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+T23491m_NK	zenodo:14802187:T23491m_NK	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+T23819b	zenodo:14802187:T23819b	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+T23819m	zenodo:14802187:T23819m	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+T23833b	zenodo:14802187:T23833b	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+T23833m	zenodo:14802187:T23833m	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+T24832b	zenodo:14802187:T24832b	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+T24832m	zenodo:14802187:T24832m	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+T25370b	zenodo:14802187:T25370b	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+T25370m	zenodo:14802187:T25370m	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+T25446b	zenodo:14802187:T25446b	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+T25446m	zenodo:14802187:T25446m	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+T26029b	zenodo:14802187:T26029b	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+T26029m	zenodo:14802187:T26029m	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+T26305b	zenodo:14802187:T26305b	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+T26625b	zenodo:14802187:T26625b	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+T26625m	zenodo:14802187:T26625m	assay_ontology_term_id	EFO:0009294	derived	ols:efo		CITE-seq	True
+H21b	zenodo:14802187:H21b	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+H21m	zenodo:14802187:H21m	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+H22b	zenodo:14802187:H22b	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+H22m	zenodo:14802187:H22m	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+H23b	zenodo:14802187:H23b	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+H23m	zenodo:14802187:H23m	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+H24b	zenodo:14802187:H24b	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+H24m	zenodo:14802187:H24m	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+H25b	zenodo:14802187:H25b	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+H25m	zenodo:14802187:H25m	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+H26b	zenodo:14802187:H26b	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+H26m	zenodo:14802187:H26m	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+H27b	zenodo:14802187:H27b	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+H27m	zenodo:14802187:H27m	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+H28b	zenodo:14802187:H28b	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+H28m	zenodo:14802187:H28m	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+H29b	zenodo:14802187:H29b	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+H29m	zenodo:14802187:H29m	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+H30b	zenodo:14802187:H30b	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+T22467b	zenodo:14802187:T22467b	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+T22467m	zenodo:14802187:T22467m	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+T23491b_NK	zenodo:14802187:T23491b_NK	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+T23491m_NK	zenodo:14802187:T23491m_NK	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+T23819b	zenodo:14802187:T23819b	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+T23819m	zenodo:14802187:T23819m	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+T23833b	zenodo:14802187:T23833b	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+T23833m	zenodo:14802187:T23833m	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+T24832b	zenodo:14802187:T24832b	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+T24832m	zenodo:14802187:T24832m	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+T25370b	zenodo:14802187:T25370b	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+T25370m	zenodo:14802187:T25370m	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+T25446b	zenodo:14802187:T25446b	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+T25446m	zenodo:14802187:T25446m	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+T26029b	zenodo:14802187:T26029b	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+T26029m	zenodo:14802187:T26029m	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+T26305b	zenodo:14802187:T26305b	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+T26625b	zenodo:14802187:T26625b	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+T26625m	zenodo:14802187:T26625m	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+H21b	zenodo:14802187:H21b	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+H21m	zenodo:14802187:H21m	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+H22b	zenodo:14802187:H22b	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+H22m	zenodo:14802187:H22m	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+H23b	zenodo:14802187:H23b	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+H23m	zenodo:14802187:H23m	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+H24b	zenodo:14802187:H24b	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+H24m	zenodo:14802187:H24m	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+H25b	zenodo:14802187:H25b	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+H25m	zenodo:14802187:H25m	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+H26b	zenodo:14802187:H26b	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+H26m	zenodo:14802187:H26m	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+H27b	zenodo:14802187:H27b	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+H27m	zenodo:14802187:H27m	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+H28b	zenodo:14802187:H28b	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+H28m	zenodo:14802187:H28m	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+H29b	zenodo:14802187:H29b	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+H29m	zenodo:14802187:H29m	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+H30b	zenodo:14802187:H30b	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+T22467b	zenodo:14802187:T22467b	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+T22467m	zenodo:14802187:T22467m	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+T23491b_NK	zenodo:14802187:T23491b_NK	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+T23491m_NK	zenodo:14802187:T23491m_NK	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+T23819b	zenodo:14802187:T23819b	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+T23819m	zenodo:14802187:T23819m	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+T23833b	zenodo:14802187:T23833b	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+T23833m	zenodo:14802187:T23833m	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+T24832b	zenodo:14802187:T24832b	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+T24832m	zenodo:14802187:T24832m	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+T25370b	zenodo:14802187:T25370b	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+T25370m	zenodo:14802187:T25370m	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+T25446b	zenodo:14802187:T25446b	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+T25446m	zenodo:14802187:T25446m	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+T26029b	zenodo:14802187:T26029b	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+T26029m	zenodo:14802187:T26029m	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+T26305b	zenodo:14802187:T26305b	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+T26625b	zenodo:14802187:T26625b	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+T26625m	zenodo:14802187:T26625m	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+H21b	zenodo:14802187:H21b	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+H21m	zenodo:14802187:H21m	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+H22b	zenodo:14802187:H22b	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+H22m	zenodo:14802187:H22m	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+H23b	zenodo:14802187:H23b	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+H23m	zenodo:14802187:H23m	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+H24b	zenodo:14802187:H24b	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+H24m	zenodo:14802187:H24m	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+H25b	zenodo:14802187:H25b	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+H25m	zenodo:14802187:H25m	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+H26b	zenodo:14802187:H26b	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+H26m	zenodo:14802187:H26m	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+H27b	zenodo:14802187:H27b	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+H27m	zenodo:14802187:H27m	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+H28b	zenodo:14802187:H28b	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+H28m	zenodo:14802187:H28m	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+H29b	zenodo:14802187:H29b	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+H29m	zenodo:14802187:H29m	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+H30b	zenodo:14802187:H30b	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+T22467b	zenodo:14802187:T22467b	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+T22467m	zenodo:14802187:T22467m	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+T23491b_NK	zenodo:14802187:T23491b_NK	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+T23491m_NK	zenodo:14802187:T23491m_NK	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+T23819b	zenodo:14802187:T23819b	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+T23819m	zenodo:14802187:T23819m	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+T23833b	zenodo:14802187:T23833b	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+T23833m	zenodo:14802187:T23833m	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+T24832b	zenodo:14802187:T24832b	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+T24832m	zenodo:14802187:T24832m	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+T25370b	zenodo:14802187:T25370b	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+T25370m	zenodo:14802187:T25370m	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+T25446b	zenodo:14802187:T25446b	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+T25446m	zenodo:14802187:T25446m	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+T26029b	zenodo:14802187:T26029b	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+T26029m	zenodo:14802187:T26029m	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+T26305b	zenodo:14802187:T26305b	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+T26625b	zenodo:14802187:T26625b	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+T26625m	zenodo:14802187:T26625m	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+H21b	zenodo:14802187:H21b	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+H21m	zenodo:14802187:H21m	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+H22b	zenodo:14802187:H22b	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+H22m	zenodo:14802187:H22m	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+H23b	zenodo:14802187:H23b	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+H23m	zenodo:14802187:H23m	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+H24b	zenodo:14802187:H24b	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+H24m	zenodo:14802187:H24m	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+H25b	zenodo:14802187:H25b	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+H25m	zenodo:14802187:H25m	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+H26b	zenodo:14802187:H26b	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+H26m	zenodo:14802187:H26m	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+H27b	zenodo:14802187:H27b	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+H27m	zenodo:14802187:H27m	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+H28b	zenodo:14802187:H28b	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+H28m	zenodo:14802187:H28m	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+H29b	zenodo:14802187:H29b	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+H29m	zenodo:14802187:H29m	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+H30b	zenodo:14802187:H30b	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+T22467b	zenodo:14802187:T22467b	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+T22467m	zenodo:14802187:T22467m	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+T23491b_NK	zenodo:14802187:T23491b_NK	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+T23491m_NK	zenodo:14802187:T23491m_NK	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+T23819b	zenodo:14802187:T23819b	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+T23819m	zenodo:14802187:T23819m	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+T23833b	zenodo:14802187:T23833b	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+T23833m	zenodo:14802187:T23833m	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+T24832b	zenodo:14802187:T24832b	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+T24832m	zenodo:14802187:T24832m	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+T25370b	zenodo:14802187:T25370b	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+T25370m	zenodo:14802187:T25370m	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+T25446b	zenodo:14802187:T25446b	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+T25446m	zenodo:14802187:T25446m	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+T26029b	zenodo:14802187:T26029b	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+T26029m	zenodo:14802187:T26029m	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+T26305b	zenodo:14802187:T26305b	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+T26625b	zenodo:14802187:T26625b	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+T26625m	zenodo:14802187:T26625m	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+H21b	zenodo:14802187:H21b	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+H21m	zenodo:14802187:H21m	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+H22b	zenodo:14802187:H22b	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+H22m	zenodo:14802187:H22m	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+H23b	zenodo:14802187:H23b	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+H23m	zenodo:14802187:H23m	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+H24b	zenodo:14802187:H24b	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+H24m	zenodo:14802187:H24m	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+H25b	zenodo:14802187:H25b	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+H25m	zenodo:14802187:H25m	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+H26b	zenodo:14802187:H26b	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+H26m	zenodo:14802187:H26m	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+H27b	zenodo:14802187:H27b	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+H27m	zenodo:14802187:H27m	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+H28b	zenodo:14802187:H28b	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+H28m	zenodo:14802187:H28m	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+H29b	zenodo:14802187:H29b	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+H29m	zenodo:14802187:H29m	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+H30b	zenodo:14802187:H30b	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+T22467b	zenodo:14802187:T22467b	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+T22467m	zenodo:14802187:T22467m	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+T23491b_NK	zenodo:14802187:T23491b_NK	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+T23491m_NK	zenodo:14802187:T23491m_NK	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+T23819b	zenodo:14802187:T23819b	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+T23819m	zenodo:14802187:T23819m	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+T23833b	zenodo:14802187:T23833b	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+T23833m	zenodo:14802187:T23833m	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+T24832b	zenodo:14802187:T24832b	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+T24832m	zenodo:14802187:T24832m	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+T25370b	zenodo:14802187:T25370b	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+T25370m	zenodo:14802187:T25370m	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+T25446b	zenodo:14802187:T25446b	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+T25446m	zenodo:14802187:T25446m	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+T26029b	zenodo:14802187:T26029b	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+T26029m	zenodo:14802187:T26029m	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+T26305b	zenodo:14802187:T26305b	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+T26625b	zenodo:14802187:T26625b	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+T26625m	zenodo:14802187:T26625m	author_cell_type	<column author_cluster_label>	column	work/fp-726dac9cf884/derived/cell_metadata_author_cluster_labels.tsv.gz/author_cluster_label			True
+		organism	Homo sapiens	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		"""descriptorName"":""Humans"""	True
+		organism	Homo sapiens	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		Here, we performed a single-cell RNA sequencing analysis of NK cells from 10 patients with MM and 10 age/sex-matched healthy donors	True
+		organism	Homo sapiens	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		cellranger_counts_human	True
+H21b	zenodo:14802187:H21b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+H21m	zenodo:14802187:H21m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+H22b	zenodo:14802187:H22b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+H22m	zenodo:14802187:H22m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+H23b	zenodo:14802187:H23b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+H23m	zenodo:14802187:H23m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+H24b	zenodo:14802187:H24b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+H24m	zenodo:14802187:H24m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+H25b	zenodo:14802187:H25b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+H25m	zenodo:14802187:H25m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+H26b	zenodo:14802187:H26b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+H26m	zenodo:14802187:H26m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+H27b	zenodo:14802187:H27b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+H27m	zenodo:14802187:H27m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+H28b	zenodo:14802187:H28b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+H28m	zenodo:14802187:H28m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+H29b	zenodo:14802187:H29b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+H29m	zenodo:14802187:H29m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+H30b	zenodo:14802187:H30b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+T22467b	zenodo:14802187:T22467b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+T22467m	zenodo:14802187:T22467m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+T23491b_NK	zenodo:14802187:T23491b_NK	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+T23491m_NK	zenodo:14802187:T23491m_NK	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+T23819b	zenodo:14802187:T23819b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+T23819m	zenodo:14802187:T23819m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+T23833b	zenodo:14802187:T23833b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+T23833m	zenodo:14802187:T23833m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+T24832b	zenodo:14802187:T24832b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+T24832m	zenodo:14802187:T24832m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+T25370b	zenodo:14802187:T25370b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+T25370m	zenodo:14802187:T25370m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+T25446b	zenodo:14802187:T25446b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+T25446m	zenodo:14802187:T25446m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+T26029b	zenodo:14802187:T26029b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+T26029m	zenodo:14802187:T26029m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+T26305b	zenodo:14802187:T26305b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+T26625b	zenodo:14802187:T26625b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+T26625m	zenodo:14802187:T26625m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# HD: Healthy Donor, MM: Multiple Myeloma	True
+H21b	zenodo:14802187:H21b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+H21m	zenodo:14802187:H21m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+H22b	zenodo:14802187:H22b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+H22m	zenodo:14802187:H22m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+H23b	zenodo:14802187:H23b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+H23m	zenodo:14802187:H23m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+H24b	zenodo:14802187:H24b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+H24m	zenodo:14802187:H24m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+H25b	zenodo:14802187:H25b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+H25m	zenodo:14802187:H25m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+H26b	zenodo:14802187:H26b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+H26m	zenodo:14802187:H26m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+H27b	zenodo:14802187:H27b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+H27m	zenodo:14802187:H27m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+H28b	zenodo:14802187:H28b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+H28m	zenodo:14802187:H28m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+H29b	zenodo:14802187:H29b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+H29m	zenodo:14802187:H29m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+H30b	zenodo:14802187:H30b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+T22467b	zenodo:14802187:T22467b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+T22467m	zenodo:14802187:T22467m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+T23491b_NK	zenodo:14802187:T23491b_NK	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+T23491m_NK	zenodo:14802187:T23491m_NK	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+T23819b	zenodo:14802187:T23819b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+T23819m	zenodo:14802187:T23819m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+T23833b	zenodo:14802187:T23833b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+T23833m	zenodo:14802187:T23833m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+T24832b	zenodo:14802187:T24832b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+T24832m	zenodo:14802187:T24832m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+T25370b	zenodo:14802187:T25370b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+T25370m	zenodo:14802187:T25370m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+T25446b	zenodo:14802187:T25446b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+T25446m	zenodo:14802187:T25446m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+T26029b	zenodo:14802187:T26029b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+T26029m	zenodo:14802187:T26029m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+T26305b	zenodo:14802187:T26305b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+T26625b	zenodo:14802187:T26625b	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+T26625m	zenodo:14802187:T26625m	disease_free_text	<map of column condition>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$condition = ifelse(grepl(pattern=""H"", x = name_of_samples[i]), ""HD"", ""MM"")"	True
+H21b	zenodo:14802187:H21b	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+H21m	zenodo:14802187:H21m	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+H22b	zenodo:14802187:H22b	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+H22m	zenodo:14802187:H22m	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+H23b	zenodo:14802187:H23b	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+H23m	zenodo:14802187:H23m	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+H24b	zenodo:14802187:H24b	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+H24m	zenodo:14802187:H24m	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+H25b	zenodo:14802187:H25b	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+H25m	zenodo:14802187:H25m	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+H26b	zenodo:14802187:H26b	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+H26m	zenodo:14802187:H26m	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+H27b	zenodo:14802187:H27b	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+H27m	zenodo:14802187:H27m	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+H28b	zenodo:14802187:H28b	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+H28m	zenodo:14802187:H28m	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+H29b	zenodo:14802187:H29b	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+H29m	zenodo:14802187:H29m	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+H30b	zenodo:14802187:H30b	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+T22467b	zenodo:14802187:T22467b	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+T22467m	zenodo:14802187:T22467m	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+T23491b_NK	zenodo:14802187:T23491b_NK	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+T23491m_NK	zenodo:14802187:T23491m_NK	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+T23819b	zenodo:14802187:T23819b	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+T23819m	zenodo:14802187:T23819m	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+T23833b	zenodo:14802187:T23833b	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+T23833m	zenodo:14802187:T23833m	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+T24832b	zenodo:14802187:T24832b	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+T24832m	zenodo:14802187:T24832m	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+T25370b	zenodo:14802187:T25370b	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+T25370m	zenodo:14802187:T25370m	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+T25446b	zenodo:14802187:T25446b	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+T25446m	zenodo:14802187:T25446m	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+T26029b	zenodo:14802187:T26029b	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+T26029m	zenodo:14802187:T26029m	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+T26305b	zenodo:14802187:T26305b	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+T26625b	zenodo:14802187:T26625b	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+T26625m	zenodo:14802187:T26625m	disease_free_text	<map of column condition>	file	raw/fp-726dac9cf884/portal_metadata.json		8 clusters of NK cells from 10 multiple myeloma patients (n=10) and 10 healthy donors (n=10) (age and sex matched)	True
+H21b	zenodo:14802187:H21b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+H21m	zenodo:14802187:H21m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+H22b	zenodo:14802187:H22b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+H22m	zenodo:14802187:H22m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+H23b	zenodo:14802187:H23b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+H23m	zenodo:14802187:H23m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+H24b	zenodo:14802187:H24b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+H24m	zenodo:14802187:H24m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+H25b	zenodo:14802187:H25b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+H25m	zenodo:14802187:H25m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+H26b	zenodo:14802187:H26b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+H26m	zenodo:14802187:H26m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+H27b	zenodo:14802187:H27b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+H27m	zenodo:14802187:H27m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+H28b	zenodo:14802187:H28b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+H28m	zenodo:14802187:H28m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+H29b	zenodo:14802187:H29b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+H29m	zenodo:14802187:H29m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+H30b	zenodo:14802187:H30b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+T22467b	zenodo:14802187:T22467b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+T22467m	zenodo:14802187:T22467m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+T23491b_NK	zenodo:14802187:T23491b_NK	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+T23491m_NK	zenodo:14802187:T23491m_NK	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+T23819b	zenodo:14802187:T23819b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+T23819m	zenodo:14802187:T23819m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+T23833b	zenodo:14802187:T23833b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+T23833m	zenodo:14802187:T23833m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+T24832b	zenodo:14802187:T24832b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+T24832m	zenodo:14802187:T24832m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+T25370b	zenodo:14802187:T25370b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+T25370m	zenodo:14802187:T25370m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+T25446b	zenodo:14802187:T25446b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+T25446m	zenodo:14802187:T25446m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+T26029b	zenodo:14802187:T26029b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+T26029m	zenodo:14802187:T26029m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+T26305b	zenodo:14802187:T26305b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+T26625b	zenodo:14802187:T26625b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+T26625m	zenodo:14802187:T26625m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		# BMMC: Bone Marrow Mononuclear Cells, PBMC: Peripheral Blood Mononuclear Cells	True
+H21b	zenodo:14802187:H21b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+H21m	zenodo:14802187:H21m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+H22b	zenodo:14802187:H22b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+H22m	zenodo:14802187:H22m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+H23b	zenodo:14802187:H23b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+H23m	zenodo:14802187:H23m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+H24b	zenodo:14802187:H24b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+H24m	zenodo:14802187:H24m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+H25b	zenodo:14802187:H25b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+H25m	zenodo:14802187:H25m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+H26b	zenodo:14802187:H26b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+H26m	zenodo:14802187:H26m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+H27b	zenodo:14802187:H27b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+H27m	zenodo:14802187:H27m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+H28b	zenodo:14802187:H28b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+H28m	zenodo:14802187:H28m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+H29b	zenodo:14802187:H29b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+H29m	zenodo:14802187:H29m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+H30b	zenodo:14802187:H30b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+T22467b	zenodo:14802187:T22467b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+T22467m	zenodo:14802187:T22467m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+T23491b_NK	zenodo:14802187:T23491b_NK	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+T23491m_NK	zenodo:14802187:T23491m_NK	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+T23819b	zenodo:14802187:T23819b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+T23819m	zenodo:14802187:T23819m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+T23833b	zenodo:14802187:T23833b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+T23833m	zenodo:14802187:T23833m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+T24832b	zenodo:14802187:T24832b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+T24832m	zenodo:14802187:T24832m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+T25370b	zenodo:14802187:T25370b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+T25370m	zenodo:14802187:T25370m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+T25446b	zenodo:14802187:T25446b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+T25446m	zenodo:14802187:T25446m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+T26029b	zenodo:14802187:T26029b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+T26029m	zenodo:14802187:T26029m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+T26305b	zenodo:14802187:T26305b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+T26625b	zenodo:14802187:T26625b	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+T26625m	zenodo:14802187:T26625m	tissue_free_text	<map of column source>	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		"tmp$source = ifelse(grepl(pattern=""m"", x = name_of_samples[i]), ""BMMC"", ""PBMC"")"	True
+H21b	zenodo:14802187:H21b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+H21m	zenodo:14802187:H21m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+H22b	zenodo:14802187:H22b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+H22m	zenodo:14802187:H22m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+H23b	zenodo:14802187:H23b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+H23m	zenodo:14802187:H23m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+H24b	zenodo:14802187:H24b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+H24m	zenodo:14802187:H24m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+H25b	zenodo:14802187:H25b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+H25m	zenodo:14802187:H25m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+H26b	zenodo:14802187:H26b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+H26m	zenodo:14802187:H26m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+H27b	zenodo:14802187:H27b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+H27m	zenodo:14802187:H27m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+H28b	zenodo:14802187:H28b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+H28m	zenodo:14802187:H28m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+H29b	zenodo:14802187:H29b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+H29m	zenodo:14802187:H29m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+H30b	zenodo:14802187:H30b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+T22467b	zenodo:14802187:T22467b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+T22467m	zenodo:14802187:T22467m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+T23491b_NK	zenodo:14802187:T23491b_NK	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+T23491m_NK	zenodo:14802187:T23491m_NK	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+T23819b	zenodo:14802187:T23819b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+T23819m	zenodo:14802187:T23819m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+T23833b	zenodo:14802187:T23833b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+T23833m	zenodo:14802187:T23833m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+T24832b	zenodo:14802187:T24832b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+T24832m	zenodo:14802187:T24832m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+T25370b	zenodo:14802187:T25370b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+T25370m	zenodo:14802187:T25370m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+T25446b	zenodo:14802187:T25446b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+T25446m	zenodo:14802187:T25446m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+T26029b	zenodo:14802187:T26029b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+T26029m	zenodo:14802187:T26029m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+T26305b	zenodo:14802187:T26305b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+T26625b	zenodo:14802187:T26625b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+T26625m	zenodo:14802187:T26625m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/doc/RNAseq_figs.Rmd		# CITE-seq markers overlay	True
+H21b	zenodo:14802187:H21b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+H21m	zenodo:14802187:H21m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+H22b	zenodo:14802187:H22b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+H22m	zenodo:14802187:H22m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+H23b	zenodo:14802187:H23b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+H23m	zenodo:14802187:H23m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+H24b	zenodo:14802187:H24b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+H24m	zenodo:14802187:H24m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+H25b	zenodo:14802187:H25b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+H25m	zenodo:14802187:H25m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+H26b	zenodo:14802187:H26b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+H26m	zenodo:14802187:H26m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+H27b	zenodo:14802187:H27b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+H27m	zenodo:14802187:H27m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+H28b	zenodo:14802187:H28b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+H28m	zenodo:14802187:H28m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+H29b	zenodo:14802187:H29b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+H29m	zenodo:14802187:H29m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+H30b	zenodo:14802187:H30b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+T22467b	zenodo:14802187:T22467b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+T22467m	zenodo:14802187:T22467m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+T23491b_NK	zenodo:14802187:T23491b_NK	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+T23491m_NK	zenodo:14802187:T23491m_NK	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+T23819b	zenodo:14802187:T23819b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+T23819m	zenodo:14802187:T23819m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+T23833b	zenodo:14802187:T23833b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+T23833m	zenodo:14802187:T23833m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+T24832b	zenodo:14802187:T24832b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+T24832m	zenodo:14802187:T24832m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+T25370b	zenodo:14802187:T25370b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+T25370m	zenodo:14802187:T25370m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+T25446b	zenodo:14802187:T25446b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+T25446m	zenodo:14802187:T25446m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+T26029b	zenodo:14802187:T26029b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+T26029m	zenodo:14802187:T26029m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+T26305b	zenodo:14802187:T26305b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+T26625b	zenodo:14802187:T26625b	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+T26625m	zenodo:14802187:T26625m	assay	CITE-seq	file	work/fp-726dac9cf884/NKcell_dysfunction_MM_Blood24/NKcell_dysfunction_MM_Blood24/src/data_preparation_and_QC/01_individually_processing_per_emulsion.R		CreateAssayObject(filt.matrix$`Antibody Capture`[, colnames(x = tmp)])	True
+H21b	zenodo:14802187:H21b	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+H21m	zenodo:14802187:H21m	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+H22b	zenodo:14802187:H22b	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+H22m	zenodo:14802187:H22m	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+H23b	zenodo:14802187:H23b	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+H23m	zenodo:14802187:H23m	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+H24b	zenodo:14802187:H24b	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+H24m	zenodo:14802187:H24m	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+H25b	zenodo:14802187:H25b	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+H25m	zenodo:14802187:H25m	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+H26b	zenodo:14802187:H26b	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+H26m	zenodo:14802187:H26m	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+H27b	zenodo:14802187:H27b	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+H27m	zenodo:14802187:H27m	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+H28b	zenodo:14802187:H28b	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+H28m	zenodo:14802187:H28m	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+H29b	zenodo:14802187:H29b	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+H29m	zenodo:14802187:H29m	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+H30b	zenodo:14802187:H30b	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+T22467b	zenodo:14802187:T22467b	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+T22467m	zenodo:14802187:T22467m	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+T23491b_NK	zenodo:14802187:T23491b_NK	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+T23491m_NK	zenodo:14802187:T23491m_NK	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+T23819b	zenodo:14802187:T23819b	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+T23819m	zenodo:14802187:T23819m	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+T23833b	zenodo:14802187:T23833b	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+T23833m	zenodo:14802187:T23833m	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+T24832b	zenodo:14802187:T24832b	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+T24832m	zenodo:14802187:T24832m	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+T25370b	zenodo:14802187:T25370b	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+T25370m	zenodo:14802187:T25370m	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+T25446b	zenodo:14802187:T25446b	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+T25446m	zenodo:14802187:T25446m	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+T26029b	zenodo:14802187:T26029b	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+T26029m	zenodo:14802187:T26029m	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+T26305b	zenodo:14802187:T26305b	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+T26625b	zenodo:14802187:T26625b	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True
+T26625m	zenodo:14802187:T26625m	suspension_type	cell	file	evidence/publications/europepmc__10.1182_blood.2023023529.json		we performed a single-cell RNA sequencing analysis of NK cells	True

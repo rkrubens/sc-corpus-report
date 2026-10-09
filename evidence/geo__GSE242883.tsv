@@ -1,0 +1,382 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM7774340	geo:GSE242883:GSM7774340	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7774340	geo:GSE242883:GSM7774340	author_cell_type	<column T_celltype>	column	work/fp-e4a87408cdb6/h5seurat_converted/GSM7774340_Pt-01_BMNCs.h5ad::obs/T_celltype			True
+GSM7774341	geo:GSE242883:GSM7774341	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7774341	geo:GSE242883:GSM7774341	author_cell_type	<column T_celltype>	column	work/fp-e4a87408cdb6/h5seurat_converted/GSM7774341_Pt-02_BMNCs.h5ad::obs/T_celltype			True
+GSM7774342	geo:GSE242883:GSM7774342	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7774342	geo:GSE242883:GSM7774342	author_cell_type	<column T_celltype>	column	work/fp-e4a87408cdb6/h5seurat_converted/GSM7774342_Pt-03_BMNCs.h5ad::obs/T_celltype			True
+GSM7774343	geo:GSE242883:GSM7774343	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7774343	geo:GSE242883:GSM7774343	author_cell_type	<column T_celltype>	column	work/fp-e4a87408cdb6/h5seurat_converted/GSM7774343_Pt-03_PBMCs.h5ad::obs/T_celltype			True
+GSM7774344	geo:GSE242883:GSM7774344	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7774344	geo:GSE242883:GSM7774344	author_cell_type	<column T_celltype>	column	work/fp-e4a87408cdb6/h5seurat_converted/GSM7774344_Pt-04_BMNCs.h5ad::obs/T_celltype			True
+GSM7774345	geo:GSE242883:GSM7774345	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7774345	geo:GSE242883:GSM7774345	author_cell_type	<column T_celltype>	column	work/fp-e4a87408cdb6/h5seurat_converted/GSM7774345_Pt-05_BMNCs.h5ad::obs/T_celltype			True
+GSM7774346	geo:GSE242883:GSM7774346	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7774346	geo:GSE242883:GSM7774346	author_cell_type	<column T_celltype>	column	work/fp-e4a87408cdb6/h5seurat_converted/GSM7774346_Pt-06_BMNCs.h5ad::obs/T_celltype			True
+GSM7774347	geo:GSE242883:GSM7774347	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7774347	geo:GSE242883:GSM7774347	author_cell_type	<column T_celltype>	column	work/fp-e4a87408cdb6/h5seurat_converted/GSM7774347_Pt-07_BMNCs.h5ad::obs/T_celltype			True
+GSM7774348	geo:GSE242883:GSM7774348	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7774348	geo:GSE242883:GSM7774348	author_cell_type	<column T_celltype>	column	work/fp-e4a87408cdb6/h5seurat_converted/GSM7774348_Pt-07_PBMCs.h5ad::obs/T_celltype			True
+GSM7774349	geo:GSE242883:GSM7774349	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7774349	geo:GSE242883:GSM7774349	author_cell_type	<column T_celltype>	column	work/fp-e4a87408cdb6/h5seurat_converted/GSM7774349_Pt-08_BMNCs.h5ad::obs/T_celltype			True
+GSM7774350	geo:GSE242883:GSM7774350	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7774350	geo:GSE242883:GSM7774350	author_cell_type	<column T_celltype>	column	work/fp-e4a87408cdb6/h5seurat_converted/GSM7774350_Pt-08_PBMCs.h5ad::obs/T_celltype			True
+GSM7774351	geo:GSE242883:GSM7774351	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7774351	geo:GSE242883:GSM7774351	author_cell_type	<column T_celltype>	column	work/fp-e4a87408cdb6/h5seurat_converted/GSM7774351_Pt-09_BMNCs.h5ad::obs/T_celltype			True
+GSM7774352	geo:GSE242883:GSM7774352	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7774352	geo:GSE242883:GSM7774352	author_cell_type	<column T_celltype>	column	work/fp-e4a87408cdb6/h5seurat_converted/GSM7774352_Pt-09_PBMCs.h5ad::obs/T_celltype			True
+GSM7774353	geo:GSE242883:GSM7774353	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7774353	geo:GSE242883:GSM7774353	author_cell_type	<column T_celltype>	column	work/fp-e4a87408cdb6/h5seurat_converted/GSM7774353_Pt-10_BMNCs.h5ad::obs/T_celltype			True
+GSM7774354	geo:GSE242883:GSM7774354	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7774354	geo:GSE242883:GSM7774354	author_cell_type	<column T_celltype>	column	work/fp-e4a87408cdb6/h5seurat_converted/GSM7774354_Pt-10_PBMCs.h5ad::obs/T_celltype			True
+GSM7774355	geo:GSE242883:GSM7774355	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7774355	geo:GSE242883:GSM7774355	author_cell_type	<column T_celltype>	column	work/fp-e4a87408cdb6/h5seurat_converted/GSM7774355_Pt-11_BMNCs.h5ad::obs/T_celltype			True
+GSM7774356	geo:GSE242883:GSM7774356	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7774356	geo:GSE242883:GSM7774356	author_cell_type	<column T_celltype>	column	work/fp-e4a87408cdb6/h5seurat_converted/GSM7774356_Pt-11_PBMCs.h5ad::obs/T_celltype			True
+GSM7774357	geo:GSE242883:GSM7774357	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7774357	geo:GSE242883:GSM7774357	author_cell_type	<column T_celltype>	column	work/fp-e4a87408cdb6/h5seurat_converted/GSM7774357_Pt-12_BMNCs.h5ad::obs/T_celltype			True
+GSM7774358	geo:GSE242883:GSM7774358	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7774358	geo:GSE242883:GSM7774358	author_cell_type	<column T_celltype>	column	work/fp-e4a87408cdb6/h5seurat_converted/GSM7774358_Pt-12_PBMCs.h5ad::obs/T_celltype			True
+		organism	Homo sapiens	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7774340	geo:GSE242883:GSM7774340	donor_id	Pt-01	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = individual: Pt-01	True
+GSM7774340	geo:GSE242883:GSM7774340	donor_id	Pt-01	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-01_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774340	geo:GSE242883:GSM7774340	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-01_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774340	geo:GSE242883:GSM7774340	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774340	geo:GSE242883:GSM7774340	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-01_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774340	geo:GSE242883:GSM7774340	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774340	geo:GSE242883:GSM7774340	tissue_type	tissue	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774340	geo:GSE242883:GSM7774340	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774340	geo:GSE242883:GSM7774340	disease_ontology_term_id	MONDO:0009693	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774340	geo:GSE242883:GSM7774340	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774340	geo:GSE242883:GSM7774340	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_extract_protocol_ch1 = 5' scRNA/TCR-seq	True
+GSM7774340	geo:GSE242883:GSM7774340	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774340	geo:GSE242883:GSM7774340	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM7774340	geo:GSE242883:GSM7774340	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM7774340	geo:GSE242883:GSM7774340	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-01_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774340	geo:GSE242883:GSM7774340	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM7774340	geo:GSE242883:GSM7774340	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+GSM7774340	geo:GSE242883:GSM7774340	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = The demultiplexing, barcoded processing, gene counting and aggregation were made using the Cell Ranger software v7.1.0	True
+GSM7774341	geo:GSE242883:GSM7774341	donor_id	Pt-02	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = individual: Pt-02	True
+GSM7774341	geo:GSE242883:GSM7774341	donor_id	Pt-02	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-02_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774341	geo:GSE242883:GSM7774341	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-02_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774341	geo:GSE242883:GSM7774341	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774341	geo:GSE242883:GSM7774341	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-02_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774341	geo:GSE242883:GSM7774341	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774341	geo:GSE242883:GSM7774341	tissue_type	tissue	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774341	geo:GSE242883:GSM7774341	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774341	geo:GSE242883:GSM7774341	disease_ontology_term_id	MONDO:0009693	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774341	geo:GSE242883:GSM7774341	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774341	geo:GSE242883:GSM7774341	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_extract_protocol_ch1 = 5' scRNA/TCR-seq	True
+GSM7774341	geo:GSE242883:GSM7774341	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774341	geo:GSE242883:GSM7774341	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM7774341	geo:GSE242883:GSM7774341	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM7774341	geo:GSE242883:GSM7774341	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-02_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774341	geo:GSE242883:GSM7774341	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM7774341	geo:GSE242883:GSM7774341	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+GSM7774341	geo:GSE242883:GSM7774341	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = The demultiplexing, barcoded processing, gene counting and aggregation were made using the Cell Ranger software v7.1.0	True
+GSM7774342	geo:GSE242883:GSM7774342	donor_id	Pt-03	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = individual: Pt-03	True
+GSM7774342	geo:GSE242883:GSM7774342	donor_id	Pt-03	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-03_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774342	geo:GSE242883:GSM7774342	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-03_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774342	geo:GSE242883:GSM7774342	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774342	geo:GSE242883:GSM7774342	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-03_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774342	geo:GSE242883:GSM7774342	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774342	geo:GSE242883:GSM7774342	tissue_type	tissue	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774342	geo:GSE242883:GSM7774342	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774342	geo:GSE242883:GSM7774342	disease_ontology_term_id	MONDO:0009693	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774342	geo:GSE242883:GSM7774342	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774342	geo:GSE242883:GSM7774342	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_extract_protocol_ch1 = 5' scRNA/TCR-seq	True
+GSM7774342	geo:GSE242883:GSM7774342	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774342	geo:GSE242883:GSM7774342	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM7774342	geo:GSE242883:GSM7774342	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM7774342	geo:GSE242883:GSM7774342	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-03_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774342	geo:GSE242883:GSM7774342	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM7774342	geo:GSE242883:GSM7774342	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+GSM7774342	geo:GSE242883:GSM7774342	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = The demultiplexing, barcoded processing, gene counting and aggregation were made using the Cell Ranger software v7.1.0	True
+GSM7774343	geo:GSE242883:GSM7774343	donor_id	Pt-03	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = individual: Pt-03	True
+GSM7774343	geo:GSE242883:GSM7774343	donor_id	Pt-03	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-03_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774343	geo:GSE242883:GSM7774343	tissue_free_text	peripheral blood	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-03_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774343	geo:GSE242883:GSM7774343	tissue_free_text	peripheral blood	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human peripheral blood mononuclear cells	True
+GSM7774343	geo:GSE242883:GSM7774343	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-03_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774343	geo:GSE242883:GSM7774343	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human peripheral blood mononuclear cells	True
+GSM7774343	geo:GSE242883:GSM7774343	tissue_type	tissue	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human peripheral blood mononuclear cells	True
+GSM7774343	geo:GSE242883:GSM7774343	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774343	geo:GSE242883:GSM7774343	disease_ontology_term_id	MONDO:0009693	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774343	geo:GSE242883:GSM7774343	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774343	geo:GSE242883:GSM7774343	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_extract_protocol_ch1 = 5' scRNA/TCR-seq	True
+GSM7774343	geo:GSE242883:GSM7774343	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774343	geo:GSE242883:GSM7774343	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM7774343	geo:GSE242883:GSM7774343	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM7774343	geo:GSE242883:GSM7774343	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-03_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774343	geo:GSE242883:GSM7774343	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM7774343	geo:GSE242883:GSM7774343	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+GSM7774343	geo:GSE242883:GSM7774343	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = The demultiplexing, barcoded processing, gene counting and aggregation were made using the Cell Ranger software v7.1.0	True
+GSM7774344	geo:GSE242883:GSM7774344	donor_id	Pt-04	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = individual: Pt-04	True
+GSM7774344	geo:GSE242883:GSM7774344	donor_id	Pt-04	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-04_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774344	geo:GSE242883:GSM7774344	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-04_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774344	geo:GSE242883:GSM7774344	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774344	geo:GSE242883:GSM7774344	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-04_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774344	geo:GSE242883:GSM7774344	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774344	geo:GSE242883:GSM7774344	tissue_type	tissue	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774344	geo:GSE242883:GSM7774344	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774344	geo:GSE242883:GSM7774344	disease_ontology_term_id	MONDO:0009693	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774344	geo:GSE242883:GSM7774344	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774344	geo:GSE242883:GSM7774344	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_extract_protocol_ch1 = 5' scRNA/TCR-seq	True
+GSM7774344	geo:GSE242883:GSM7774344	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774344	geo:GSE242883:GSM7774344	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM7774344	geo:GSE242883:GSM7774344	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM7774344	geo:GSE242883:GSM7774344	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-04_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774344	geo:GSE242883:GSM7774344	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM7774344	geo:GSE242883:GSM7774344	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+GSM7774344	geo:GSE242883:GSM7774344	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = The demultiplexing, barcoded processing, gene counting and aggregation were made using the Cell Ranger software v7.1.0	True
+GSM7774345	geo:GSE242883:GSM7774345	donor_id	Pt-05	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = individual: Pt-05	True
+GSM7774345	geo:GSE242883:GSM7774345	donor_id	Pt-05	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-05_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774345	geo:GSE242883:GSM7774345	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-05_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774345	geo:GSE242883:GSM7774345	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774345	geo:GSE242883:GSM7774345	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-05_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774345	geo:GSE242883:GSM7774345	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774345	geo:GSE242883:GSM7774345	tissue_type	tissue	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774345	geo:GSE242883:GSM7774345	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774345	geo:GSE242883:GSM7774345	disease_ontology_term_id	MONDO:0009693	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774345	geo:GSE242883:GSM7774345	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774345	geo:GSE242883:GSM7774345	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_extract_protocol_ch1 = 5' scRNA/TCR-seq	True
+GSM7774345	geo:GSE242883:GSM7774345	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774345	geo:GSE242883:GSM7774345	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM7774345	geo:GSE242883:GSM7774345	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM7774345	geo:GSE242883:GSM7774345	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-05_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774345	geo:GSE242883:GSM7774345	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM7774345	geo:GSE242883:GSM7774345	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+GSM7774345	geo:GSE242883:GSM7774345	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = The demultiplexing, barcoded processing, gene counting and aggregation were made using the Cell Ranger software v7.1.0	True
+GSM7774346	geo:GSE242883:GSM7774346	donor_id	Pt-06	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = individual: Pt-06	True
+GSM7774346	geo:GSE242883:GSM7774346	donor_id	Pt-06	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-06_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774346	geo:GSE242883:GSM7774346	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-06_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774346	geo:GSE242883:GSM7774346	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774346	geo:GSE242883:GSM7774346	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-06_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774346	geo:GSE242883:GSM7774346	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774346	geo:GSE242883:GSM7774346	tissue_type	tissue	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774346	geo:GSE242883:GSM7774346	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774346	geo:GSE242883:GSM7774346	disease_ontology_term_id	MONDO:0009693	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774346	geo:GSE242883:GSM7774346	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774346	geo:GSE242883:GSM7774346	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_extract_protocol_ch1 = 5' scRNA/TCR-seq	True
+GSM7774346	geo:GSE242883:GSM7774346	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774346	geo:GSE242883:GSM7774346	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM7774346	geo:GSE242883:GSM7774346	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM7774346	geo:GSE242883:GSM7774346	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-06_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774346	geo:GSE242883:GSM7774346	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM7774346	geo:GSE242883:GSM7774346	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+GSM7774346	geo:GSE242883:GSM7774346	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = The demultiplexing, barcoded processing, gene counting and aggregation were made using the Cell Ranger software v7.1.0	True
+GSM7774347	geo:GSE242883:GSM7774347	donor_id	Pt-07	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = individual: Pt-07	True
+GSM7774347	geo:GSE242883:GSM7774347	donor_id	Pt-07	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-07_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774347	geo:GSE242883:GSM7774347	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-07_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774347	geo:GSE242883:GSM7774347	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774347	geo:GSE242883:GSM7774347	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-07_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774347	geo:GSE242883:GSM7774347	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774347	geo:GSE242883:GSM7774347	tissue_type	tissue	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774347	geo:GSE242883:GSM7774347	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774347	geo:GSE242883:GSM7774347	disease_ontology_term_id	MONDO:0009693	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774347	geo:GSE242883:GSM7774347	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774347	geo:GSE242883:GSM7774347	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_extract_protocol_ch1 = 5' scRNA/TCR-seq	True
+GSM7774347	geo:GSE242883:GSM7774347	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774347	geo:GSE242883:GSM7774347	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM7774347	geo:GSE242883:GSM7774347	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM7774347	geo:GSE242883:GSM7774347	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-07_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774347	geo:GSE242883:GSM7774347	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM7774347	geo:GSE242883:GSM7774347	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+GSM7774347	geo:GSE242883:GSM7774347	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = The demultiplexing, barcoded processing, gene counting and aggregation were made using the Cell Ranger software v7.1.0	True
+GSM7774348	geo:GSE242883:GSM7774348	donor_id	Pt-07	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = individual: Pt-07	True
+GSM7774348	geo:GSE242883:GSM7774348	donor_id	Pt-07	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-07_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774348	geo:GSE242883:GSM7774348	tissue_free_text	peripheral blood	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-07_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774348	geo:GSE242883:GSM7774348	tissue_free_text	peripheral blood	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human peripheral blood mononuclear cells	True
+GSM7774348	geo:GSE242883:GSM7774348	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-07_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774348	geo:GSE242883:GSM7774348	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human peripheral blood mononuclear cells	True
+GSM7774348	geo:GSE242883:GSM7774348	tissue_type	tissue	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human peripheral blood mononuclear cells	True
+GSM7774348	geo:GSE242883:GSM7774348	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774348	geo:GSE242883:GSM7774348	disease_ontology_term_id	MONDO:0009693	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774348	geo:GSE242883:GSM7774348	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774348	geo:GSE242883:GSM7774348	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_extract_protocol_ch1 = 5' scRNA/TCR-seq	True
+GSM7774348	geo:GSE242883:GSM7774348	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774348	geo:GSE242883:GSM7774348	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM7774348	geo:GSE242883:GSM7774348	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM7774348	geo:GSE242883:GSM7774348	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-07_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774348	geo:GSE242883:GSM7774348	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM7774348	geo:GSE242883:GSM7774348	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+GSM7774348	geo:GSE242883:GSM7774348	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = The demultiplexing, barcoded processing, gene counting and aggregation were made using the Cell Ranger software v7.1.0	True
+GSM7774349	geo:GSE242883:GSM7774349	donor_id	Pt-08	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = individual: Pt-08	True
+GSM7774349	geo:GSE242883:GSM7774349	donor_id	Pt-08	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-08_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774349	geo:GSE242883:GSM7774349	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-08_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774349	geo:GSE242883:GSM7774349	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774349	geo:GSE242883:GSM7774349	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-08_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774349	geo:GSE242883:GSM7774349	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774349	geo:GSE242883:GSM7774349	tissue_type	tissue	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774349	geo:GSE242883:GSM7774349	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774349	geo:GSE242883:GSM7774349	disease_ontology_term_id	MONDO:0009693	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774349	geo:GSE242883:GSM7774349	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774349	geo:GSE242883:GSM7774349	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_extract_protocol_ch1 = 5' scRNA/TCR-seq	True
+GSM7774349	geo:GSE242883:GSM7774349	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774349	geo:GSE242883:GSM7774349	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM7774349	geo:GSE242883:GSM7774349	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM7774349	geo:GSE242883:GSM7774349	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-08_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774349	geo:GSE242883:GSM7774349	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM7774349	geo:GSE242883:GSM7774349	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+GSM7774349	geo:GSE242883:GSM7774349	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = The demultiplexing, barcoded processing, gene counting and aggregation were made using the Cell Ranger software v7.1.0	True
+GSM7774350	geo:GSE242883:GSM7774350	donor_id	Pt-08	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = individual: Pt-08	True
+GSM7774350	geo:GSE242883:GSM7774350	donor_id	Pt-08	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-08_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774350	geo:GSE242883:GSM7774350	tissue_free_text	peripheral blood	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-08_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774350	geo:GSE242883:GSM7774350	tissue_free_text	peripheral blood	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human peripheral blood mononuclear cells	True
+GSM7774350	geo:GSE242883:GSM7774350	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-08_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774350	geo:GSE242883:GSM7774350	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human peripheral blood mononuclear cells	True
+GSM7774350	geo:GSE242883:GSM7774350	tissue_type	tissue	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human peripheral blood mononuclear cells	True
+GSM7774350	geo:GSE242883:GSM7774350	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774350	geo:GSE242883:GSM7774350	disease_ontology_term_id	MONDO:0009693	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774350	geo:GSE242883:GSM7774350	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774350	geo:GSE242883:GSM7774350	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_extract_protocol_ch1 = 5' scRNA/TCR-seq	True
+GSM7774350	geo:GSE242883:GSM7774350	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774350	geo:GSE242883:GSM7774350	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM7774350	geo:GSE242883:GSM7774350	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM7774350	geo:GSE242883:GSM7774350	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-08_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774350	geo:GSE242883:GSM7774350	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM7774350	geo:GSE242883:GSM7774350	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+GSM7774350	geo:GSE242883:GSM7774350	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = The demultiplexing, barcoded processing, gene counting and aggregation were made using the Cell Ranger software v7.1.0	True
+GSM7774351	geo:GSE242883:GSM7774351	donor_id	Pt-09	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = individual: Pt-09	True
+GSM7774351	geo:GSE242883:GSM7774351	donor_id	Pt-09	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-09_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774351	geo:GSE242883:GSM7774351	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-09_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774351	geo:GSE242883:GSM7774351	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774351	geo:GSE242883:GSM7774351	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-09_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774351	geo:GSE242883:GSM7774351	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774351	geo:GSE242883:GSM7774351	tissue_type	tissue	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774351	geo:GSE242883:GSM7774351	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774351	geo:GSE242883:GSM7774351	disease_ontology_term_id	MONDO:0009693	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774351	geo:GSE242883:GSM7774351	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774351	geo:GSE242883:GSM7774351	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_extract_protocol_ch1 = 5' scRNA/TCR-seq	True
+GSM7774351	geo:GSE242883:GSM7774351	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774351	geo:GSE242883:GSM7774351	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM7774351	geo:GSE242883:GSM7774351	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM7774351	geo:GSE242883:GSM7774351	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-09_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774351	geo:GSE242883:GSM7774351	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM7774351	geo:GSE242883:GSM7774351	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+GSM7774351	geo:GSE242883:GSM7774351	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = The demultiplexing, barcoded processing, gene counting and aggregation were made using the Cell Ranger software v7.1.0	True
+GSM7774352	geo:GSE242883:GSM7774352	donor_id	Pt-09	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = individual: Pt-09	True
+GSM7774352	geo:GSE242883:GSM7774352	donor_id	Pt-09	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-09_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774352	geo:GSE242883:GSM7774352	tissue_free_text	peripheral blood	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-09_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774352	geo:GSE242883:GSM7774352	tissue_free_text	peripheral blood	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human peripheral blood mononuclear cells	True
+GSM7774352	geo:GSE242883:GSM7774352	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-09_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774352	geo:GSE242883:GSM7774352	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human peripheral blood mononuclear cells	True
+GSM7774352	geo:GSE242883:GSM7774352	tissue_type	tissue	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human peripheral blood mononuclear cells	True
+GSM7774352	geo:GSE242883:GSM7774352	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774352	geo:GSE242883:GSM7774352	disease_ontology_term_id	MONDO:0009693	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774352	geo:GSE242883:GSM7774352	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774352	geo:GSE242883:GSM7774352	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_extract_protocol_ch1 = 5' scRNA/TCR-seq	True
+GSM7774352	geo:GSE242883:GSM7774352	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774352	geo:GSE242883:GSM7774352	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM7774352	geo:GSE242883:GSM7774352	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM7774352	geo:GSE242883:GSM7774352	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-09_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774352	geo:GSE242883:GSM7774352	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM7774352	geo:GSE242883:GSM7774352	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+GSM7774352	geo:GSE242883:GSM7774352	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = The demultiplexing, barcoded processing, gene counting and aggregation were made using the Cell Ranger software v7.1.0	True
+GSM7774353	geo:GSE242883:GSM7774353	donor_id	Pt-10	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = individual: Pt-10	True
+GSM7774353	geo:GSE242883:GSM7774353	donor_id	Pt-10	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-10_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774353	geo:GSE242883:GSM7774353	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-10_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774353	geo:GSE242883:GSM7774353	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774353	geo:GSE242883:GSM7774353	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-10_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774353	geo:GSE242883:GSM7774353	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774353	geo:GSE242883:GSM7774353	tissue_type	tissue	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774353	geo:GSE242883:GSM7774353	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774353	geo:GSE242883:GSM7774353	disease_ontology_term_id	MONDO:0009693	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774353	geo:GSE242883:GSM7774353	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774353	geo:GSE242883:GSM7774353	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_extract_protocol_ch1 = 5' scRNA/TCR-seq	True
+GSM7774353	geo:GSE242883:GSM7774353	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774353	geo:GSE242883:GSM7774353	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM7774353	geo:GSE242883:GSM7774353	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM7774353	geo:GSE242883:GSM7774353	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-10_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774353	geo:GSE242883:GSM7774353	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM7774353	geo:GSE242883:GSM7774353	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+GSM7774353	geo:GSE242883:GSM7774353	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = The demultiplexing, barcoded processing, gene counting and aggregation were made using the Cell Ranger software v7.1.0	True
+GSM7774354	geo:GSE242883:GSM7774354	donor_id	Pt-10	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = individual: Pt-10	True
+GSM7774354	geo:GSE242883:GSM7774354	donor_id	Pt-10	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-10_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774354	geo:GSE242883:GSM7774354	tissue_free_text	peripheral blood	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-10_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774354	geo:GSE242883:GSM7774354	tissue_free_text	peripheral blood	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human peripheral blood mononuclear cells	True
+GSM7774354	geo:GSE242883:GSM7774354	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-10_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774354	geo:GSE242883:GSM7774354	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human peripheral blood mononuclear cells	True
+GSM7774354	geo:GSE242883:GSM7774354	tissue_type	tissue	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human peripheral blood mononuclear cells	True
+GSM7774354	geo:GSE242883:GSM7774354	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774354	geo:GSE242883:GSM7774354	disease_ontology_term_id	MONDO:0009693	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774354	geo:GSE242883:GSM7774354	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774354	geo:GSE242883:GSM7774354	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_extract_protocol_ch1 = 5' scRNA/TCR-seq	True
+GSM7774354	geo:GSE242883:GSM7774354	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774354	geo:GSE242883:GSM7774354	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM7774354	geo:GSE242883:GSM7774354	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM7774354	geo:GSE242883:GSM7774354	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-10_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774354	geo:GSE242883:GSM7774354	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM7774354	geo:GSE242883:GSM7774354	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+GSM7774354	geo:GSE242883:GSM7774354	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = The demultiplexing, barcoded processing, gene counting and aggregation were made using the Cell Ranger software v7.1.0	True
+GSM7774355	geo:GSE242883:GSM7774355	donor_id	Pt-11	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = individual: Pt-11	True
+GSM7774355	geo:GSE242883:GSM7774355	donor_id	Pt-11	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-11_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774355	geo:GSE242883:GSM7774355	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-11_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774355	geo:GSE242883:GSM7774355	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774355	geo:GSE242883:GSM7774355	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-11_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774355	geo:GSE242883:GSM7774355	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774355	geo:GSE242883:GSM7774355	tissue_type	tissue	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774355	geo:GSE242883:GSM7774355	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774355	geo:GSE242883:GSM7774355	disease_ontology_term_id	MONDO:0009693	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774355	geo:GSE242883:GSM7774355	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774355	geo:GSE242883:GSM7774355	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_extract_protocol_ch1 = 5' scRNA/TCR-seq	True
+GSM7774355	geo:GSE242883:GSM7774355	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774355	geo:GSE242883:GSM7774355	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM7774355	geo:GSE242883:GSM7774355	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM7774355	geo:GSE242883:GSM7774355	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-11_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774355	geo:GSE242883:GSM7774355	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM7774355	geo:GSE242883:GSM7774355	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+GSM7774355	geo:GSE242883:GSM7774355	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = The demultiplexing, barcoded processing, gene counting and aggregation were made using the Cell Ranger software v7.1.0	True
+GSM7774356	geo:GSE242883:GSM7774356	donor_id	Pt-11	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = individual: Pt-11	True
+GSM7774356	geo:GSE242883:GSM7774356	donor_id	Pt-11	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-11_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774356	geo:GSE242883:GSM7774356	tissue_free_text	peripheral blood	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-11_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774356	geo:GSE242883:GSM7774356	tissue_free_text	peripheral blood	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human peripheral blood mononuclear cells	True
+GSM7774356	geo:GSE242883:GSM7774356	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-11_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774356	geo:GSE242883:GSM7774356	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human peripheral blood mononuclear cells	True
+GSM7774356	geo:GSE242883:GSM7774356	tissue_type	tissue	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human peripheral blood mononuclear cells	True
+GSM7774356	geo:GSE242883:GSM7774356	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774356	geo:GSE242883:GSM7774356	disease_ontology_term_id	MONDO:0009693	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774356	geo:GSE242883:GSM7774356	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774356	geo:GSE242883:GSM7774356	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_extract_protocol_ch1 = 5' scRNA/TCR-seq	True
+GSM7774356	geo:GSE242883:GSM7774356	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774356	geo:GSE242883:GSM7774356	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM7774356	geo:GSE242883:GSM7774356	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM7774356	geo:GSE242883:GSM7774356	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-11_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774356	geo:GSE242883:GSM7774356	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM7774356	geo:GSE242883:GSM7774356	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+GSM7774356	geo:GSE242883:GSM7774356	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = The demultiplexing, barcoded processing, gene counting and aggregation were made using the Cell Ranger software v7.1.0	True
+GSM7774357	geo:GSE242883:GSM7774357	donor_id	Pt-12	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = individual: Pt-12	True
+GSM7774357	geo:GSE242883:GSM7774357	donor_id	Pt-12	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-12_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774357	geo:GSE242883:GSM7774357	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-12_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774357	geo:GSE242883:GSM7774357	tissue_free_text	bone marrow	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774357	geo:GSE242883:GSM7774357	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-12_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774357	geo:GSE242883:GSM7774357	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774357	geo:GSE242883:GSM7774357	tissue_type	tissue	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human bone marrow mononuclear cells	True
+GSM7774357	geo:GSE242883:GSM7774357	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774357	geo:GSE242883:GSM7774357	disease_ontology_term_id	MONDO:0009693	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774357	geo:GSE242883:GSM7774357	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774357	geo:GSE242883:GSM7774357	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_extract_protocol_ch1 = 5' scRNA/TCR-seq	True
+GSM7774357	geo:GSE242883:GSM7774357	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774357	geo:GSE242883:GSM7774357	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM7774357	geo:GSE242883:GSM7774357	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM7774357	geo:GSE242883:GSM7774357	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-12_BMNC sort CD3, T  NK cell subset bmref	True
+GSM7774357	geo:GSE242883:GSM7774357	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM7774357	geo:GSE242883:GSM7774357	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+GSM7774357	geo:GSE242883:GSM7774357	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = The demultiplexing, barcoded processing, gene counting and aggregation were made using the Cell Ranger software v7.1.0	True
+GSM7774358	geo:GSE242883:GSM7774358	donor_id	Pt-12	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = individual: Pt-12	True
+GSM7774358	geo:GSE242883:GSM7774358	donor_id	Pt-12	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-12_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774358	geo:GSE242883:GSM7774358	tissue_free_text	peripheral blood	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-12_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774358	geo:GSE242883:GSM7774358	tissue_free_text	peripheral blood	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human peripheral blood mononuclear cells	True
+GSM7774358	geo:GSE242883:GSM7774358	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-12_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774358	geo:GSE242883:GSM7774358	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human peripheral blood mononuclear cells	True
+GSM7774358	geo:GSE242883:GSM7774358	tissue_type	tissue	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_source_name_ch1 = human peripheral blood mononuclear cells	True
+GSM7774358	geo:GSE242883:GSM7774358	disease_free_text	newly diagnosed multiple myeloma	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774358	geo:GSE242883:GSM7774358	disease_ontology_term_id	MONDO:0009693	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_characteristics_ch1 = disease state: newly diagnosed multiple myeloma	True
+GSM7774358	geo:GSE242883:GSM7774358	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774358	geo:GSE242883:GSM7774358	assay	10x 5' v2	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_extract_protocol_ch1 = 5' scRNA/TCR-seq	True
+GSM7774358	geo:GSE242883:GSM7774358	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		single cell 5’ v2 protocol, 10x Genomics	True
+GSM7774358	geo:GSE242883:GSM7774358	suspension_type	cell	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow mononuclear fractions were isolated through Ficoll density gradients coupled with magnetic sorting of CD3+ T cells.	True
+GSM7774358	geo:GSE242883:GSM7774358	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		magnetic sorting of CD3+ T cells	True
+GSM7774358	geo:GSE242883:GSM7774358	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_title = Pt-12_PBMC sort CD3, T  NK cell subset bmref	True
+GSM7774358	geo:GSE242883:GSM7774358	cell_enrichment	CD3+ T cells (magnetic bead separation)	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		Bone marrow resident CD3 cells were isolated by magnetic bead separation	True
+GSM7774358	geo:GSE242883:GSM7774358	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+GSM7774358	geo:GSE242883:GSM7774358	gene_annotation_version	GRCh38	file	raw/fp-e4a87408cdb6/GSE242883_family.soft.gz		!Sample_data_processing = The demultiplexing, barcoded processing, gene counting and aggregation were made using the Cell Ranger software v7.1.0	True

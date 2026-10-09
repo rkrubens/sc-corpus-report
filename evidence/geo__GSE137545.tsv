@@ -1,0 +1,14 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+P17	geo:GSE137545:P17	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+P17	geo:GSE137545:P17	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+P17	geo:GSE137545:P17	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+		organism	Homo sapiens	file	raw/fp-364bd40c84be/GSE137545_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+P17	geo:GSE137545:P17	donor_id	P17	file	raw/fp-364bd40c84be/GSE137545_family.soft.gz		!Sample_characteristics_ch1 = patient: P17	True
+P17	geo:GSE137545:P17	tissue_free_text	bone marrow	file	raw/fp-364bd40c84be/GSE137545_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+P17	geo:GSE137545:P17	tissue_type	tissue	file	raw/fp-364bd40c84be/GSE137545_family.soft.gz		single myeloma cells derived from bone marrow of a patient with multiple myeloma	True
+P17	geo:GSE137545:P17	sampled_site_condition	diseased	file	raw/fp-364bd40c84be/GSE137545_family.soft.gz		single myeloma cells derived from bone marrow of a patient with multiple myeloma	True
+P17	geo:GSE137545:P17	disease_free_text	multiple myeloma	file	raw/fp-364bd40c84be/GSE137545_family.soft.gz		!Series_overall_design = We perform single cell RNA-seq using Smart-Seq2 for single myeloma cells derived from bone marrow of a patient with multiple myeloma.	True
+P17	geo:GSE137545:P17	assay	Smart-seq2	file	raw/fp-364bd40c84be/GSE137545_family.soft.gz		We perform single cell RNA-seq using Smart-Seq2	True
+P17	geo:GSE137545:P17	assay	Smart-seq2	file	raw/fp-364bd40c84be/GSE137545_family.soft.gz		!Sample_extract_protocol_ch1 = The Smartseq2 protocol was immediately performed to rescue mRNAs from cell lysate	True
+P17	geo:GSE137545:P17	suspension_type	cell	file	raw/fp-364bd40c84be/GSE137545_family.soft.gz		single cell RNA-seq using Smart-Seq2 for single myeloma cells	True
+P17	geo:GSE137545:P17	gene_annotation_version	GENCODE release 25	file	raw/fp-364bd40c84be/GSE137545_family.soft.gz		!Sample_data_processing = Align to gencode (release 25)	True

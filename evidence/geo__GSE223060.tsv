@@ -1,0 +1,886 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM6939028	geo:GSE223060:GSM6939028	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939029	geo:GSE223060:GSM6939029	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939030	geo:GSE223060:GSM6939030	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939031	geo:GSE223060:GSM6939031	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939032	geo:GSE223060:GSM6939032	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939033	geo:GSE223060:GSM6939033	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939034	geo:GSE223060:GSM6939034	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939035	geo:GSE223060:GSM6939035	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939036	geo:GSE223060:GSM6939036	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939037	geo:GSE223060:GSM6939037	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939038	geo:GSE223060:GSM6939038	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939039	geo:GSE223060:GSM6939039	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939040	geo:GSE223060:GSM6939040	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939041	geo:GSE223060:GSM6939041	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939042	geo:GSE223060:GSM6939042	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939043	geo:GSE223060:GSM6939043	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939044	geo:GSE223060:GSM6939044	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939045	geo:GSE223060:GSM6939045	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939046	geo:GSE223060:GSM6939046	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM6939047	geo:GSE223060:GSM6939047	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM6939048	geo:GSE223060:GSM6939048	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM6939049	geo:GSE223060:GSM6939049	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM6939050	geo:GSE223060:GSM6939050	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM6939051	geo:GSE223060:GSM6939051	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM6939052	geo:GSE223060:GSM6939052	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM6939053	geo:GSE223060:GSM6939053	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM6939054	geo:GSE223060:GSM6939054	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM6939055	geo:GSE223060:GSM6939055	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM6939056	geo:GSE223060:GSM6939056	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM6939057	geo:GSE223060:GSM6939057	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM6939058	geo:GSE223060:GSM6939058	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM6939059	geo:GSE223060:GSM6939059	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM6939060	geo:GSE223060:GSM6939060	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM6939061	geo:GSE223060:GSM6939061	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM6939062	geo:GSE223060:GSM6939062	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM6939063	geo:GSE223060:GSM6939063	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM6939064	geo:GSE223060:GSM6939064	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM6939065	geo:GSE223060:GSM6939065	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM6939066	geo:GSE223060:GSM6939066	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM6939067	geo:GSE223060:GSM6939067	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM6939068	geo:GSE223060:GSM6939068	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM6939069	geo:GSE223060:GSM6939069	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939070	geo:GSE223060:GSM6939070	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939071	geo:GSE223060:GSM6939071	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939072	geo:GSE223060:GSM6939072	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939073	geo:GSE223060:GSM6939073	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939074	geo:GSE223060:GSM6939074	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939075	geo:GSE223060:GSM6939075	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939076	geo:GSE223060:GSM6939076	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939077	geo:GSE223060:GSM6939077	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939078	geo:GSE223060:GSM6939078	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939079	geo:GSE223060:GSM6939079	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939080	geo:GSE223060:GSM6939080	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939081	geo:GSE223060:GSM6939081	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939082	geo:GSE223060:GSM6939082	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM6939083	geo:GSE223060:GSM6939083	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM6939084	geo:GSE223060:GSM6939084	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM6939085	geo:GSE223060:GSM6939085	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM6939086	geo:GSE223060:GSM6939086	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939087	geo:GSE223060:GSM6939087	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939088	geo:GSE223060:GSM6939088	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM6939089	geo:GSE223060:GSM6939089	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+		organism	Homo sapiens	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM6939028	geo:GSE223060:GSM6939028	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939028	geo:GSE223060:GSM6939028	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939028	geo:GSE223060:GSM6939028	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939028	geo:GSE223060:GSM6939028	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939028	geo:GSE223060:GSM6939028	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939028	geo:GSE223060:GSM6939028	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939028	geo:GSE223060:GSM6939028	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939028	geo:GSE223060:GSM6939028	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939028	geo:GSE223060:GSM6939028	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939028	geo:GSE223060:GSM6939028	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939028	geo:GSE223060:GSM6939028	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939028	geo:GSE223060:GSM6939028	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939028	geo:GSE223060:GSM6939028	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		MMRF cohort samples were loaded using 10x Genomics Chromium Controller and using the Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.3	True
+GSM6939029	geo:GSE223060:GSM6939029	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939029	geo:GSE223060:GSM6939029	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939029	geo:GSE223060:GSM6939029	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939029	geo:GSE223060:GSM6939029	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939029	geo:GSE223060:GSM6939029	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939029	geo:GSE223060:GSM6939029	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939029	geo:GSE223060:GSM6939029	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939029	geo:GSE223060:GSM6939029	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939029	geo:GSE223060:GSM6939029	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939029	geo:GSE223060:GSM6939029	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939029	geo:GSE223060:GSM6939029	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939029	geo:GSE223060:GSM6939029	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939029	geo:GSE223060:GSM6939029	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		MMRF cohort samples were loaded using 10x Genomics Chromium Controller and using the Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.3	True
+GSM6939030	geo:GSE223060:GSM6939030	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939030	geo:GSE223060:GSM6939030	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939030	geo:GSE223060:GSM6939030	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939030	geo:GSE223060:GSM6939030	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939030	geo:GSE223060:GSM6939030	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939030	geo:GSE223060:GSM6939030	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939030	geo:GSE223060:GSM6939030	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939030	geo:GSE223060:GSM6939030	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939030	geo:GSE223060:GSM6939030	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939030	geo:GSE223060:GSM6939030	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939030	geo:GSE223060:GSM6939030	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939030	geo:GSE223060:GSM6939030	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939030	geo:GSE223060:GSM6939030	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		MMRF cohort samples were loaded using 10x Genomics Chromium Controller and using the Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.3	True
+GSM6939031	geo:GSE223060:GSM6939031	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939031	geo:GSE223060:GSM6939031	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939031	geo:GSE223060:GSM6939031	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939031	geo:GSE223060:GSM6939031	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939031	geo:GSE223060:GSM6939031	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939031	geo:GSE223060:GSM6939031	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939031	geo:GSE223060:GSM6939031	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939031	geo:GSE223060:GSM6939031	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939031	geo:GSE223060:GSM6939031	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939031	geo:GSE223060:GSM6939031	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939031	geo:GSE223060:GSM6939031	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939031	geo:GSE223060:GSM6939031	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939031	geo:GSE223060:GSM6939031	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		MMRF cohort samples were loaded using 10x Genomics Chromium Controller and using the Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.3	True
+GSM6939032	geo:GSE223060:GSM6939032	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939032	geo:GSE223060:GSM6939032	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939032	geo:GSE223060:GSM6939032	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939032	geo:GSE223060:GSM6939032	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939032	geo:GSE223060:GSM6939032	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939032	geo:GSE223060:GSM6939032	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939032	geo:GSE223060:GSM6939032	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939032	geo:GSE223060:GSM6939032	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939032	geo:GSE223060:GSM6939032	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939032	geo:GSE223060:GSM6939032	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939032	geo:GSE223060:GSM6939032	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939032	geo:GSE223060:GSM6939032	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939032	geo:GSE223060:GSM6939032	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		MMRF cohort samples were loaded using 10x Genomics Chromium Controller and using the Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.3	True
+GSM6939033	geo:GSE223060:GSM6939033	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939033	geo:GSE223060:GSM6939033	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939033	geo:GSE223060:GSM6939033	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939033	geo:GSE223060:GSM6939033	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939033	geo:GSE223060:GSM6939033	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939033	geo:GSE223060:GSM6939033	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939033	geo:GSE223060:GSM6939033	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939033	geo:GSE223060:GSM6939033	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939033	geo:GSE223060:GSM6939033	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939033	geo:GSE223060:GSM6939033	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939033	geo:GSE223060:GSM6939033	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939033	geo:GSE223060:GSM6939033	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939033	geo:GSE223060:GSM6939033	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		MMRF cohort samples were loaded using 10x Genomics Chromium Controller and using the Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.3	True
+GSM6939034	geo:GSE223060:GSM6939034	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939034	geo:GSE223060:GSM6939034	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939034	geo:GSE223060:GSM6939034	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939034	geo:GSE223060:GSM6939034	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939034	geo:GSE223060:GSM6939034	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939034	geo:GSE223060:GSM6939034	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939034	geo:GSE223060:GSM6939034	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939034	geo:GSE223060:GSM6939034	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939034	geo:GSE223060:GSM6939034	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939034	geo:GSE223060:GSM6939034	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939034	geo:GSE223060:GSM6939034	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939034	geo:GSE223060:GSM6939034	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939034	geo:GSE223060:GSM6939034	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		MMRF cohort samples were loaded using 10x Genomics Chromium Controller and using the Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.3	True
+GSM6939035	geo:GSE223060:GSM6939035	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939035	geo:GSE223060:GSM6939035	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939035	geo:GSE223060:GSM6939035	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939035	geo:GSE223060:GSM6939035	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939035	geo:GSE223060:GSM6939035	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939035	geo:GSE223060:GSM6939035	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939035	geo:GSE223060:GSM6939035	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939035	geo:GSE223060:GSM6939035	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939035	geo:GSE223060:GSM6939035	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939035	geo:GSE223060:GSM6939035	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939035	geo:GSE223060:GSM6939035	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939035	geo:GSE223060:GSM6939035	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939035	geo:GSE223060:GSM6939035	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		MMRF cohort samples were loaded using 10x Genomics Chromium Controller and using the Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.3	True
+GSM6939036	geo:GSE223060:GSM6939036	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939036	geo:GSE223060:GSM6939036	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939036	geo:GSE223060:GSM6939036	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939036	geo:GSE223060:GSM6939036	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939036	geo:GSE223060:GSM6939036	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939036	geo:GSE223060:GSM6939036	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939036	geo:GSE223060:GSM6939036	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939036	geo:GSE223060:GSM6939036	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939036	geo:GSE223060:GSM6939036	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939036	geo:GSE223060:GSM6939036	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939036	geo:GSE223060:GSM6939036	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939036	geo:GSE223060:GSM6939036	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939036	geo:GSE223060:GSM6939036	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		MMRF cohort samples were loaded using 10x Genomics Chromium Controller and using the Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.3	True
+GSM6939037	geo:GSE223060:GSM6939037	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939037	geo:GSE223060:GSM6939037	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939037	geo:GSE223060:GSM6939037	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939037	geo:GSE223060:GSM6939037	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939037	geo:GSE223060:GSM6939037	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939037	geo:GSE223060:GSM6939037	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939037	geo:GSE223060:GSM6939037	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939037	geo:GSE223060:GSM6939037	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939037	geo:GSE223060:GSM6939037	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939037	geo:GSE223060:GSM6939037	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939037	geo:GSE223060:GSM6939037	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939037	geo:GSE223060:GSM6939037	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939037	geo:GSE223060:GSM6939037	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		MMRF cohort samples were loaded using 10x Genomics Chromium Controller and using the Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.3	True
+GSM6939038	geo:GSE223060:GSM6939038	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939038	geo:GSE223060:GSM6939038	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939038	geo:GSE223060:GSM6939038	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939038	geo:GSE223060:GSM6939038	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939038	geo:GSE223060:GSM6939038	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939038	geo:GSE223060:GSM6939038	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939038	geo:GSE223060:GSM6939038	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939038	geo:GSE223060:GSM6939038	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939038	geo:GSE223060:GSM6939038	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939038	geo:GSE223060:GSM6939038	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939038	geo:GSE223060:GSM6939038	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939038	geo:GSE223060:GSM6939038	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939038	geo:GSE223060:GSM6939038	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		MMRF cohort samples were loaded using 10x Genomics Chromium Controller and using the Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.3	True
+GSM6939039	geo:GSE223060:GSM6939039	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939039	geo:GSE223060:GSM6939039	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939039	geo:GSE223060:GSM6939039	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939039	geo:GSE223060:GSM6939039	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939039	geo:GSE223060:GSM6939039	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939039	geo:GSE223060:GSM6939039	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939039	geo:GSE223060:GSM6939039	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939039	geo:GSE223060:GSM6939039	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939039	geo:GSE223060:GSM6939039	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939039	geo:GSE223060:GSM6939039	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939039	geo:GSE223060:GSM6939039	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939039	geo:GSE223060:GSM6939039	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939039	geo:GSE223060:GSM6939039	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		MMRF cohort samples were loaded using 10x Genomics Chromium Controller and using the Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.3	True
+GSM6939040	geo:GSE223060:GSM6939040	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939040	geo:GSE223060:GSM6939040	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939040	geo:GSE223060:GSM6939040	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939040	geo:GSE223060:GSM6939040	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939040	geo:GSE223060:GSM6939040	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939040	geo:GSE223060:GSM6939040	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939040	geo:GSE223060:GSM6939040	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939040	geo:GSE223060:GSM6939040	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939040	geo:GSE223060:GSM6939040	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939040	geo:GSE223060:GSM6939040	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939040	geo:GSE223060:GSM6939040	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939040	geo:GSE223060:GSM6939040	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939040	geo:GSE223060:GSM6939040	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		MMRF cohort samples were loaded using 10x Genomics Chromium Controller and using the Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.3	True
+GSM6939041	geo:GSE223060:GSM6939041	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939041	geo:GSE223060:GSM6939041	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939041	geo:GSE223060:GSM6939041	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939041	geo:GSE223060:GSM6939041	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939041	geo:GSE223060:GSM6939041	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939041	geo:GSE223060:GSM6939041	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939041	geo:GSE223060:GSM6939041	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939041	geo:GSE223060:GSM6939041	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939041	geo:GSE223060:GSM6939041	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939041	geo:GSE223060:GSM6939041	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939041	geo:GSE223060:GSM6939041	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939041	geo:GSE223060:GSM6939041	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939041	geo:GSE223060:GSM6939041	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		MMRF cohort samples were loaded using 10x Genomics Chromium Controller and using the Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.3	True
+GSM6939042	geo:GSE223060:GSM6939042	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939042	geo:GSE223060:GSM6939042	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939042	geo:GSE223060:GSM6939042	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939042	geo:GSE223060:GSM6939042	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939042	geo:GSE223060:GSM6939042	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939042	geo:GSE223060:GSM6939042	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939042	geo:GSE223060:GSM6939042	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939042	geo:GSE223060:GSM6939042	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939042	geo:GSE223060:GSM6939042	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939042	geo:GSE223060:GSM6939042	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939042	geo:GSE223060:GSM6939042	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939042	geo:GSE223060:GSM6939042	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939042	geo:GSE223060:GSM6939042	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		MMRF cohort samples were loaded using 10x Genomics Chromium Controller and using the Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.3	True
+GSM6939043	geo:GSE223060:GSM6939043	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939043	geo:GSE223060:GSM6939043	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939043	geo:GSE223060:GSM6939043	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939043	geo:GSE223060:GSM6939043	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939043	geo:GSE223060:GSM6939043	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939043	geo:GSE223060:GSM6939043	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939043	geo:GSE223060:GSM6939043	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939043	geo:GSE223060:GSM6939043	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939043	geo:GSE223060:GSM6939043	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939043	geo:GSE223060:GSM6939043	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939043	geo:GSE223060:GSM6939043	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939043	geo:GSE223060:GSM6939043	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939043	geo:GSE223060:GSM6939043	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		MMRF cohort samples were loaded using 10x Genomics Chromium Controller and using the Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.3	True
+GSM6939044	geo:GSE223060:GSM6939044	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939044	geo:GSE223060:GSM6939044	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939044	geo:GSE223060:GSM6939044	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939044	geo:GSE223060:GSM6939044	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939044	geo:GSE223060:GSM6939044	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939044	geo:GSE223060:GSM6939044	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939044	geo:GSE223060:GSM6939044	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939044	geo:GSE223060:GSM6939044	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939044	geo:GSE223060:GSM6939044	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939044	geo:GSE223060:GSM6939044	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939044	geo:GSE223060:GSM6939044	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939044	geo:GSE223060:GSM6939044	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939044	geo:GSE223060:GSM6939044	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		MMRF cohort samples were loaded using 10x Genomics Chromium Controller and using the Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.3	True
+GSM6939045	geo:GSE223060:GSM6939045	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939045	geo:GSE223060:GSM6939045	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939045	geo:GSE223060:GSM6939045	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939045	geo:GSE223060:GSM6939045	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939045	geo:GSE223060:GSM6939045	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939045	geo:GSE223060:GSM6939045	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939045	geo:GSE223060:GSM6939045	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939045	geo:GSE223060:GSM6939045	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939045	geo:GSE223060:GSM6939045	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939045	geo:GSE223060:GSM6939045	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939045	geo:GSE223060:GSM6939045	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939045	geo:GSE223060:GSM6939045	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, MMRF cohort	True
+GSM6939045	geo:GSE223060:GSM6939045	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		MMRF cohort samples were loaded using 10x Genomics Chromium Controller and using the Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.3	True
+GSM6939046	geo:GSE223060:GSM6939046	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939046	geo:GSE223060:GSM6939046	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939046	geo:GSE223060:GSM6939046	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939046	geo:GSE223060:GSM6939046	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939046	geo:GSE223060:GSM6939046	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939046	geo:GSE223060:GSM6939046	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939046	geo:GSE223060:GSM6939046	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939046	geo:GSE223060:GSM6939046	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939046	geo:GSE223060:GSM6939046	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939046	geo:GSE223060:GSM6939046	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939046	geo:GSE223060:GSM6939046	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939046	geo:GSE223060:GSM6939046	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939046	geo:GSE223060:GSM6939046	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		whole BMMCs from WashU cohort 1 were loaded onto the 10X Genomics Chromium Controller using 10x Genomics Chromium Single Cell 3’v2 Library Kits	True
+GSM6939047	geo:GSE223060:GSM6939047	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939047	geo:GSE223060:GSM6939047	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939047	geo:GSE223060:GSM6939047	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939047	geo:GSE223060:GSM6939047	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939047	geo:GSE223060:GSM6939047	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939047	geo:GSE223060:GSM6939047	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939047	geo:GSE223060:GSM6939047	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939047	geo:GSE223060:GSM6939047	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939047	geo:GSE223060:GSM6939047	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939047	geo:GSE223060:GSM6939047	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939047	geo:GSE223060:GSM6939047	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939047	geo:GSE223060:GSM6939047	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939047	geo:GSE223060:GSM6939047	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		whole BMMCs from WashU cohort 1 were loaded onto the 10X Genomics Chromium Controller using 10x Genomics Chromium Single Cell 3’v2 Library Kits	True
+GSM6939048	geo:GSE223060:GSM6939048	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939048	geo:GSE223060:GSM6939048	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939048	geo:GSE223060:GSM6939048	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939048	geo:GSE223060:GSM6939048	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939048	geo:GSE223060:GSM6939048	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939048	geo:GSE223060:GSM6939048	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939048	geo:GSE223060:GSM6939048	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939048	geo:GSE223060:GSM6939048	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939048	geo:GSE223060:GSM6939048	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939048	geo:GSE223060:GSM6939048	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939048	geo:GSE223060:GSM6939048	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939048	geo:GSE223060:GSM6939048	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939048	geo:GSE223060:GSM6939048	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		whole BMMCs from WashU cohort 1 were loaded onto the 10X Genomics Chromium Controller using 10x Genomics Chromium Single Cell 3’v2 Library Kits	True
+GSM6939049	geo:GSE223060:GSM6939049	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939049	geo:GSE223060:GSM6939049	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939049	geo:GSE223060:GSM6939049	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939049	geo:GSE223060:GSM6939049	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939049	geo:GSE223060:GSM6939049	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939049	geo:GSE223060:GSM6939049	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939049	geo:GSE223060:GSM6939049	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939049	geo:GSE223060:GSM6939049	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939049	geo:GSE223060:GSM6939049	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939049	geo:GSE223060:GSM6939049	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939049	geo:GSE223060:GSM6939049	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939049	geo:GSE223060:GSM6939049	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939049	geo:GSE223060:GSM6939049	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		whole BMMCs from WashU cohort 1 were loaded onto the 10X Genomics Chromium Controller using 10x Genomics Chromium Single Cell 3’v2 Library Kits	True
+GSM6939050	geo:GSE223060:GSM6939050	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939050	geo:GSE223060:GSM6939050	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939050	geo:GSE223060:GSM6939050	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939050	geo:GSE223060:GSM6939050	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939050	geo:GSE223060:GSM6939050	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939050	geo:GSE223060:GSM6939050	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939050	geo:GSE223060:GSM6939050	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939050	geo:GSE223060:GSM6939050	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939050	geo:GSE223060:GSM6939050	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939050	geo:GSE223060:GSM6939050	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939050	geo:GSE223060:GSM6939050	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939050	geo:GSE223060:GSM6939050	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939050	geo:GSE223060:GSM6939050	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		whole BMMCs from WashU cohort 1 were loaded onto the 10X Genomics Chromium Controller using 10x Genomics Chromium Single Cell 3’v2 Library Kits	True
+GSM6939051	geo:GSE223060:GSM6939051	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939051	geo:GSE223060:GSM6939051	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939051	geo:GSE223060:GSM6939051	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939051	geo:GSE223060:GSM6939051	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939051	geo:GSE223060:GSM6939051	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939051	geo:GSE223060:GSM6939051	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939051	geo:GSE223060:GSM6939051	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939051	geo:GSE223060:GSM6939051	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939051	geo:GSE223060:GSM6939051	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939051	geo:GSE223060:GSM6939051	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939051	geo:GSE223060:GSM6939051	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939051	geo:GSE223060:GSM6939051	assay	10x 3' transcription profiling	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Chromium Single Cell 3’v2 Library Kits	True
+GSM6939051	geo:GSE223060:GSM6939051	assay	10x 3' transcription profiling	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit	True
+GSM6939052	geo:GSE223060:GSM6939052	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939052	geo:GSE223060:GSM6939052	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939052	geo:GSE223060:GSM6939052	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939052	geo:GSE223060:GSM6939052	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939052	geo:GSE223060:GSM6939052	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939052	geo:GSE223060:GSM6939052	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939052	geo:GSE223060:GSM6939052	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939052	geo:GSE223060:GSM6939052	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939052	geo:GSE223060:GSM6939052	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939052	geo:GSE223060:GSM6939052	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939052	geo:GSE223060:GSM6939052	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939052	geo:GSE223060:GSM6939052	assay	10x 3' transcription profiling	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Chromium Single Cell 3’v2 Library Kits	True
+GSM6939052	geo:GSE223060:GSM6939052	assay	10x 3' transcription profiling	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit	True
+GSM6939053	geo:GSE223060:GSM6939053	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939053	geo:GSE223060:GSM6939053	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939053	geo:GSE223060:GSM6939053	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939053	geo:GSE223060:GSM6939053	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939053	geo:GSE223060:GSM6939053	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939053	geo:GSE223060:GSM6939053	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939053	geo:GSE223060:GSM6939053	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939053	geo:GSE223060:GSM6939053	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939053	geo:GSE223060:GSM6939053	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939053	geo:GSE223060:GSM6939053	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939053	geo:GSE223060:GSM6939053	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939053	geo:GSE223060:GSM6939053	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939053	geo:GSE223060:GSM6939053	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		whole BMMCs from WashU cohort 1 were loaded onto the 10X Genomics Chromium Controller using 10x Genomics Chromium Single Cell 3’v2 Library Kits	True
+GSM6939054	geo:GSE223060:GSM6939054	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939054	geo:GSE223060:GSM6939054	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939054	geo:GSE223060:GSM6939054	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939054	geo:GSE223060:GSM6939054	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939054	geo:GSE223060:GSM6939054	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939054	geo:GSE223060:GSM6939054	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939054	geo:GSE223060:GSM6939054	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939054	geo:GSE223060:GSM6939054	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939054	geo:GSE223060:GSM6939054	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939054	geo:GSE223060:GSM6939054	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939054	geo:GSE223060:GSM6939054	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939054	geo:GSE223060:GSM6939054	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939054	geo:GSE223060:GSM6939054	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		whole BMMCs from WashU cohort 1 were loaded onto the 10X Genomics Chromium Controller using 10x Genomics Chromium Single Cell 3’v2 Library Kits	True
+GSM6939055	geo:GSE223060:GSM6939055	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939055	geo:GSE223060:GSM6939055	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939055	geo:GSE223060:GSM6939055	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939055	geo:GSE223060:GSM6939055	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939055	geo:GSE223060:GSM6939055	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939055	geo:GSE223060:GSM6939055	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939055	geo:GSE223060:GSM6939055	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939055	geo:GSE223060:GSM6939055	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939055	geo:GSE223060:GSM6939055	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939055	geo:GSE223060:GSM6939055	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939055	geo:GSE223060:GSM6939055	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939055	geo:GSE223060:GSM6939055	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939055	geo:GSE223060:GSM6939055	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		whole BMMCs from WashU cohort 1 were loaded onto the 10X Genomics Chromium Controller using 10x Genomics Chromium Single Cell 3’v2 Library Kits	True
+GSM6939056	geo:GSE223060:GSM6939056	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939056	geo:GSE223060:GSM6939056	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939056	geo:GSE223060:GSM6939056	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939056	geo:GSE223060:GSM6939056	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939056	geo:GSE223060:GSM6939056	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939056	geo:GSE223060:GSM6939056	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939056	geo:GSE223060:GSM6939056	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939056	geo:GSE223060:GSM6939056	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939056	geo:GSE223060:GSM6939056	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939056	geo:GSE223060:GSM6939056	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939056	geo:GSE223060:GSM6939056	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939056	geo:GSE223060:GSM6939056	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939056	geo:GSE223060:GSM6939056	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		whole BMMCs from WashU cohort 1 were loaded onto the 10X Genomics Chromium Controller using 10x Genomics Chromium Single Cell 3’v2 Library Kits	True
+GSM6939057	geo:GSE223060:GSM6939057	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939057	geo:GSE223060:GSM6939057	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939057	geo:GSE223060:GSM6939057	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939057	geo:GSE223060:GSM6939057	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939057	geo:GSE223060:GSM6939057	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939057	geo:GSE223060:GSM6939057	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939057	geo:GSE223060:GSM6939057	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939057	geo:GSE223060:GSM6939057	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939057	geo:GSE223060:GSM6939057	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939057	geo:GSE223060:GSM6939057	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939057	geo:GSE223060:GSM6939057	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939057	geo:GSE223060:GSM6939057	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939057	geo:GSE223060:GSM6939057	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		whole BMMCs from WashU cohort 1 were loaded onto the 10X Genomics Chromium Controller using 10x Genomics Chromium Single Cell 3’v2 Library Kits	True
+GSM6939058	geo:GSE223060:GSM6939058	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939058	geo:GSE223060:GSM6939058	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939058	geo:GSE223060:GSM6939058	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939058	geo:GSE223060:GSM6939058	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939058	geo:GSE223060:GSM6939058	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939058	geo:GSE223060:GSM6939058	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939058	geo:GSE223060:GSM6939058	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939058	geo:GSE223060:GSM6939058	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939058	geo:GSE223060:GSM6939058	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939058	geo:GSE223060:GSM6939058	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939058	geo:GSE223060:GSM6939058	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939058	geo:GSE223060:GSM6939058	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939058	geo:GSE223060:GSM6939058	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		whole BMMCs from WashU cohort 1 were loaded onto the 10X Genomics Chromium Controller using 10x Genomics Chromium Single Cell 3’v2 Library Kits	True
+GSM6939059	geo:GSE223060:GSM6939059	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939059	geo:GSE223060:GSM6939059	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939059	geo:GSE223060:GSM6939059	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939059	geo:GSE223060:GSM6939059	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939059	geo:GSE223060:GSM6939059	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939059	geo:GSE223060:GSM6939059	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939059	geo:GSE223060:GSM6939059	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939059	geo:GSE223060:GSM6939059	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939059	geo:GSE223060:GSM6939059	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939059	geo:GSE223060:GSM6939059	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939059	geo:GSE223060:GSM6939059	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939059	geo:GSE223060:GSM6939059	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939059	geo:GSE223060:GSM6939059	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		whole BMMCs from WashU cohort 1 were loaded onto the 10X Genomics Chromium Controller using 10x Genomics Chromium Single Cell 3’v2 Library Kits	True
+GSM6939060	geo:GSE223060:GSM6939060	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939060	geo:GSE223060:GSM6939060	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939060	geo:GSE223060:GSM6939060	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939060	geo:GSE223060:GSM6939060	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939060	geo:GSE223060:GSM6939060	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939060	geo:GSE223060:GSM6939060	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939060	geo:GSE223060:GSM6939060	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939060	geo:GSE223060:GSM6939060	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939060	geo:GSE223060:GSM6939060	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939060	geo:GSE223060:GSM6939060	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939060	geo:GSE223060:GSM6939060	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939060	geo:GSE223060:GSM6939060	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939060	geo:GSE223060:GSM6939060	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		whole BMMCs from WashU cohort 1 were loaded onto the 10X Genomics Chromium Controller using 10x Genomics Chromium Single Cell 3’v2 Library Kits	True
+GSM6939061	geo:GSE223060:GSM6939061	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939061	geo:GSE223060:GSM6939061	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939061	geo:GSE223060:GSM6939061	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939061	geo:GSE223060:GSM6939061	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939061	geo:GSE223060:GSM6939061	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939061	geo:GSE223060:GSM6939061	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939061	geo:GSE223060:GSM6939061	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939061	geo:GSE223060:GSM6939061	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939061	geo:GSE223060:GSM6939061	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939061	geo:GSE223060:GSM6939061	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939061	geo:GSE223060:GSM6939061	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939061	geo:GSE223060:GSM6939061	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939061	geo:GSE223060:GSM6939061	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		whole BMMCs from WashU cohort 1 were loaded onto the 10X Genomics Chromium Controller using 10x Genomics Chromium Single Cell 3’v2 Library Kits	True
+GSM6939062	geo:GSE223060:GSM6939062	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939062	geo:GSE223060:GSM6939062	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939062	geo:GSE223060:GSM6939062	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939062	geo:GSE223060:GSM6939062	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939062	geo:GSE223060:GSM6939062	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939062	geo:GSE223060:GSM6939062	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939062	geo:GSE223060:GSM6939062	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939062	geo:GSE223060:GSM6939062	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939062	geo:GSE223060:GSM6939062	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939062	geo:GSE223060:GSM6939062	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939062	geo:GSE223060:GSM6939062	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939062	geo:GSE223060:GSM6939062	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939062	geo:GSE223060:GSM6939062	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		whole BMMCs from WashU cohort 1 were loaded onto the 10X Genomics Chromium Controller using 10x Genomics Chromium Single Cell 3’v2 Library Kits	True
+GSM6939063	geo:GSE223060:GSM6939063	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939063	geo:GSE223060:GSM6939063	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939063	geo:GSE223060:GSM6939063	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939063	geo:GSE223060:GSM6939063	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939063	geo:GSE223060:GSM6939063	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939063	geo:GSE223060:GSM6939063	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939063	geo:GSE223060:GSM6939063	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939063	geo:GSE223060:GSM6939063	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939063	geo:GSE223060:GSM6939063	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939063	geo:GSE223060:GSM6939063	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939063	geo:GSE223060:GSM6939063	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939063	geo:GSE223060:GSM6939063	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939063	geo:GSE223060:GSM6939063	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		whole BMMCs from WashU cohort 1 were loaded onto the 10X Genomics Chromium Controller using 10x Genomics Chromium Single Cell 3’v2 Library Kits	True
+GSM6939064	geo:GSE223060:GSM6939064	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939064	geo:GSE223060:GSM6939064	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939064	geo:GSE223060:GSM6939064	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939064	geo:GSE223060:GSM6939064	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939064	geo:GSE223060:GSM6939064	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939064	geo:GSE223060:GSM6939064	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939064	geo:GSE223060:GSM6939064	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939064	geo:GSE223060:GSM6939064	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939064	geo:GSE223060:GSM6939064	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939064	geo:GSE223060:GSM6939064	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939064	geo:GSE223060:GSM6939064	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939064	geo:GSE223060:GSM6939064	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939064	geo:GSE223060:GSM6939064	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		whole BMMCs from WashU cohort 1 were loaded onto the 10X Genomics Chromium Controller using 10x Genomics Chromium Single Cell 3’v2 Library Kits	True
+GSM6939065	geo:GSE223060:GSM6939065	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939065	geo:GSE223060:GSM6939065	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939065	geo:GSE223060:GSM6939065	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939065	geo:GSE223060:GSM6939065	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939065	geo:GSE223060:GSM6939065	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939065	geo:GSE223060:GSM6939065	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939065	geo:GSE223060:GSM6939065	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939065	geo:GSE223060:GSM6939065	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939065	geo:GSE223060:GSM6939065	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939065	geo:GSE223060:GSM6939065	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939065	geo:GSE223060:GSM6939065	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939065	geo:GSE223060:GSM6939065	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939065	geo:GSE223060:GSM6939065	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		whole BMMCs from WashU cohort 1 were loaded onto the 10X Genomics Chromium Controller using 10x Genomics Chromium Single Cell 3’v2 Library Kits	True
+GSM6939066	geo:GSE223060:GSM6939066	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939066	geo:GSE223060:GSM6939066	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939066	geo:GSE223060:GSM6939066	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939066	geo:GSE223060:GSM6939066	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939066	geo:GSE223060:GSM6939066	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939066	geo:GSE223060:GSM6939066	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939066	geo:GSE223060:GSM6939066	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939066	geo:GSE223060:GSM6939066	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939066	geo:GSE223060:GSM6939066	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939066	geo:GSE223060:GSM6939066	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939066	geo:GSE223060:GSM6939066	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939066	geo:GSE223060:GSM6939066	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939066	geo:GSE223060:GSM6939066	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		whole BMMCs from WashU cohort 1 were loaded onto the 10X Genomics Chromium Controller using 10x Genomics Chromium Single Cell 3’v2 Library Kits	True
+GSM6939067	geo:GSE223060:GSM6939067	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939067	geo:GSE223060:GSM6939067	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939067	geo:GSE223060:GSM6939067	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939067	geo:GSE223060:GSM6939067	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939067	geo:GSE223060:GSM6939067	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939067	geo:GSE223060:GSM6939067	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939067	geo:GSE223060:GSM6939067	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939067	geo:GSE223060:GSM6939067	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939067	geo:GSE223060:GSM6939067	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939067	geo:GSE223060:GSM6939067	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939067	geo:GSE223060:GSM6939067	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939067	geo:GSE223060:GSM6939067	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939067	geo:GSE223060:GSM6939067	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		whole BMMCs from WashU cohort 1 were loaded onto the 10X Genomics Chromium Controller using 10x Genomics Chromium Single Cell 3’v2 Library Kits	True
+GSM6939068	geo:GSE223060:GSM6939068	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939068	geo:GSE223060:GSM6939068	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939068	geo:GSE223060:GSM6939068	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939068	geo:GSE223060:GSM6939068	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939068	geo:GSE223060:GSM6939068	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939068	geo:GSE223060:GSM6939068	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939068	geo:GSE223060:GSM6939068	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939068	geo:GSE223060:GSM6939068	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939068	geo:GSE223060:GSM6939068	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939068	geo:GSE223060:GSM6939068	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939068	geo:GSE223060:GSM6939068	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939068	geo:GSE223060:GSM6939068	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 1	True
+GSM6939068	geo:GSE223060:GSM6939068	assay	10x 3' v2	file	raw/fp-015956c94654/GSE223060_family.soft.gz		whole BMMCs from WashU cohort 1 were loaded onto the 10X Genomics Chromium Controller using 10x Genomics Chromium Single Cell 3’v2 Library Kits	True
+GSM6939069	geo:GSE223060:GSM6939069	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939069	geo:GSE223060:GSM6939069	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939069	geo:GSE223060:GSM6939069	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939069	geo:GSE223060:GSM6939069	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939069	geo:GSE223060:GSM6939069	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939069	geo:GSE223060:GSM6939069	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939069	geo:GSE223060:GSM6939069	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939069	geo:GSE223060:GSM6939069	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939069	geo:GSE223060:GSM6939069	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939069	geo:GSE223060:GSM6939069	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939069	geo:GSE223060:GSM6939069	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939069	geo:GSE223060:GSM6939069	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939069	geo:GSE223060:GSM6939069	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		WashU Cohort 2 and healthy donor samples were loaded using 10x Genomics Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.2	True
+GSM6939070	geo:GSE223060:GSM6939070	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939070	geo:GSE223060:GSM6939070	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939070	geo:GSE223060:GSM6939070	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939070	geo:GSE223060:GSM6939070	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939070	geo:GSE223060:GSM6939070	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939070	geo:GSE223060:GSM6939070	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939070	geo:GSE223060:GSM6939070	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939070	geo:GSE223060:GSM6939070	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939070	geo:GSE223060:GSM6939070	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939070	geo:GSE223060:GSM6939070	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939070	geo:GSE223060:GSM6939070	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939070	geo:GSE223060:GSM6939070	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939070	geo:GSE223060:GSM6939070	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		WashU Cohort 2 and healthy donor samples were loaded using 10x Genomics Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.2	True
+GSM6939071	geo:GSE223060:GSM6939071	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939071	geo:GSE223060:GSM6939071	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939071	geo:GSE223060:GSM6939071	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939071	geo:GSE223060:GSM6939071	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939071	geo:GSE223060:GSM6939071	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939071	geo:GSE223060:GSM6939071	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939071	geo:GSE223060:GSM6939071	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939071	geo:GSE223060:GSM6939071	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939071	geo:GSE223060:GSM6939071	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939071	geo:GSE223060:GSM6939071	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939071	geo:GSE223060:GSM6939071	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939071	geo:GSE223060:GSM6939071	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939071	geo:GSE223060:GSM6939071	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		WashU Cohort 2 and healthy donor samples were loaded using 10x Genomics Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.2	True
+GSM6939072	geo:GSE223060:GSM6939072	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939072	geo:GSE223060:GSM6939072	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939072	geo:GSE223060:GSM6939072	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939072	geo:GSE223060:GSM6939072	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939072	geo:GSE223060:GSM6939072	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939072	geo:GSE223060:GSM6939072	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939072	geo:GSE223060:GSM6939072	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939072	geo:GSE223060:GSM6939072	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939072	geo:GSE223060:GSM6939072	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939072	geo:GSE223060:GSM6939072	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939072	geo:GSE223060:GSM6939072	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939072	geo:GSE223060:GSM6939072	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939072	geo:GSE223060:GSM6939072	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		WashU Cohort 2 and healthy donor samples were loaded using 10x Genomics Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.2	True
+GSM6939073	geo:GSE223060:GSM6939073	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939073	geo:GSE223060:GSM6939073	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939073	geo:GSE223060:GSM6939073	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939073	geo:GSE223060:GSM6939073	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939073	geo:GSE223060:GSM6939073	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939073	geo:GSE223060:GSM6939073	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939073	geo:GSE223060:GSM6939073	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939073	geo:GSE223060:GSM6939073	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939073	geo:GSE223060:GSM6939073	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939073	geo:GSE223060:GSM6939073	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939073	geo:GSE223060:GSM6939073	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939073	geo:GSE223060:GSM6939073	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939073	geo:GSE223060:GSM6939073	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		WashU Cohort 2 and healthy donor samples were loaded using 10x Genomics Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.2	True
+GSM6939074	geo:GSE223060:GSM6939074	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939074	geo:GSE223060:GSM6939074	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939074	geo:GSE223060:GSM6939074	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939074	geo:GSE223060:GSM6939074	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939074	geo:GSE223060:GSM6939074	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939074	geo:GSE223060:GSM6939074	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939074	geo:GSE223060:GSM6939074	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939074	geo:GSE223060:GSM6939074	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939074	geo:GSE223060:GSM6939074	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939074	geo:GSE223060:GSM6939074	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939074	geo:GSE223060:GSM6939074	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939074	geo:GSE223060:GSM6939074	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939074	geo:GSE223060:GSM6939074	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		WashU Cohort 2 and healthy donor samples were loaded using 10x Genomics Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.2	True
+GSM6939075	geo:GSE223060:GSM6939075	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939075	geo:GSE223060:GSM6939075	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939075	geo:GSE223060:GSM6939075	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939075	geo:GSE223060:GSM6939075	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939075	geo:GSE223060:GSM6939075	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939075	geo:GSE223060:GSM6939075	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939075	geo:GSE223060:GSM6939075	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939075	geo:GSE223060:GSM6939075	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939075	geo:GSE223060:GSM6939075	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939075	geo:GSE223060:GSM6939075	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939075	geo:GSE223060:GSM6939075	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939075	geo:GSE223060:GSM6939075	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939075	geo:GSE223060:GSM6939075	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		WashU Cohort 2 and healthy donor samples were loaded using 10x Genomics Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.2	True
+GSM6939076	geo:GSE223060:GSM6939076	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939076	geo:GSE223060:GSM6939076	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939076	geo:GSE223060:GSM6939076	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939076	geo:GSE223060:GSM6939076	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939076	geo:GSE223060:GSM6939076	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939076	geo:GSE223060:GSM6939076	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939076	geo:GSE223060:GSM6939076	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939076	geo:GSE223060:GSM6939076	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939076	geo:GSE223060:GSM6939076	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939076	geo:GSE223060:GSM6939076	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939076	geo:GSE223060:GSM6939076	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939076	geo:GSE223060:GSM6939076	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939076	geo:GSE223060:GSM6939076	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		WashU Cohort 2 and healthy donor samples were loaded using 10x Genomics Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.2	True
+GSM6939077	geo:GSE223060:GSM6939077	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939077	geo:GSE223060:GSM6939077	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939077	geo:GSE223060:GSM6939077	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939077	geo:GSE223060:GSM6939077	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939077	geo:GSE223060:GSM6939077	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939077	geo:GSE223060:GSM6939077	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939077	geo:GSE223060:GSM6939077	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939077	geo:GSE223060:GSM6939077	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939077	geo:GSE223060:GSM6939077	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939077	geo:GSE223060:GSM6939077	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939077	geo:GSE223060:GSM6939077	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939077	geo:GSE223060:GSM6939077	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939077	geo:GSE223060:GSM6939077	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		WashU Cohort 2 and healthy donor samples were loaded using 10x Genomics Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.2	True
+GSM6939078	geo:GSE223060:GSM6939078	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939078	geo:GSE223060:GSM6939078	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939078	geo:GSE223060:GSM6939078	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939078	geo:GSE223060:GSM6939078	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939078	geo:GSE223060:GSM6939078	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939078	geo:GSE223060:GSM6939078	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939078	geo:GSE223060:GSM6939078	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939078	geo:GSE223060:GSM6939078	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939078	geo:GSE223060:GSM6939078	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939078	geo:GSE223060:GSM6939078	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939078	geo:GSE223060:GSM6939078	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939078	geo:GSE223060:GSM6939078	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939078	geo:GSE223060:GSM6939078	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		WashU Cohort 2 and healthy donor samples were loaded using 10x Genomics Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.2	True
+GSM6939079	geo:GSE223060:GSM6939079	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939079	geo:GSE223060:GSM6939079	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939079	geo:GSE223060:GSM6939079	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939079	geo:GSE223060:GSM6939079	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939079	geo:GSE223060:GSM6939079	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939079	geo:GSE223060:GSM6939079	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939079	geo:GSE223060:GSM6939079	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939079	geo:GSE223060:GSM6939079	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939079	geo:GSE223060:GSM6939079	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939079	geo:GSE223060:GSM6939079	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939079	geo:GSE223060:GSM6939079	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939079	geo:GSE223060:GSM6939079	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939079	geo:GSE223060:GSM6939079	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		WashU Cohort 2 and healthy donor samples were loaded using 10x Genomics Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.2	True
+GSM6939080	geo:GSE223060:GSM6939080	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939080	geo:GSE223060:GSM6939080	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939080	geo:GSE223060:GSM6939080	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939080	geo:GSE223060:GSM6939080	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939080	geo:GSE223060:GSM6939080	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939080	geo:GSE223060:GSM6939080	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939080	geo:GSE223060:GSM6939080	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939080	geo:GSE223060:GSM6939080	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939080	geo:GSE223060:GSM6939080	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939080	geo:GSE223060:GSM6939080	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939080	geo:GSE223060:GSM6939080	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939080	geo:GSE223060:GSM6939080	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939080	geo:GSE223060:GSM6939080	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		WashU Cohort 2 and healthy donor samples were loaded using 10x Genomics Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.2	True
+GSM6939081	geo:GSE223060:GSM6939081	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939081	geo:GSE223060:GSM6939081	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939081	geo:GSE223060:GSM6939081	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939081	geo:GSE223060:GSM6939081	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939081	geo:GSE223060:GSM6939081	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939081	geo:GSE223060:GSM6939081	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939081	geo:GSE223060:GSM6939081	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939081	geo:GSE223060:GSM6939081	disease_free_text	multiple myeloma	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939081	geo:GSE223060:GSM6939081	disease_ontology_term_id	MONDO:0009693	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939081	geo:GSE223060:GSM6939081	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple myeloma (MM)	True
+GSM6939081	geo:GSE223060:GSM6939081	sampled_site_condition	diseased	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939081	geo:GSE223060:GSM6939081	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Patient BMMC, aspirate, scRNAseq, WU cohort 2	True
+GSM6939081	geo:GSE223060:GSM6939081	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		WashU Cohort 2 and healthy donor samples were loaded using 10x Genomics Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.2	True
+GSM6939082	geo:GSE223060:GSM6939082	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939082	geo:GSE223060:GSM6939082	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939082	geo:GSE223060:GSM6939082	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939082	geo:GSE223060:GSM6939082	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939082	geo:GSE223060:GSM6939082	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939082	geo:GSE223060:GSM6939082	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939082	geo:GSE223060:GSM6939082	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939082	geo:GSE223060:GSM6939082	disease_free_text	healthy donor	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939082	geo:GSE223060:GSM6939082	disease_free_text	healthy donor	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939082	geo:GSE223060:GSM6939082	disease_ontology_term_id	PATO:0000461	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939082	geo:GSE223060:GSM6939082	disease_ontology_term_id	PATO:0000461	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939082	geo:GSE223060:GSM6939082	sampled_site_condition	healthy	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939082	geo:GSE223060:GSM6939082	sampled_site_condition	healthy	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939082	geo:GSE223060:GSM6939082	assay	10x 3' transcription profiling	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Chromium Single Cell 3’v2 Library Kits	True
+GSM6939082	geo:GSE223060:GSM6939082	assay	10x 3' transcription profiling	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit	True
+GSM6939083	geo:GSE223060:GSM6939083	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939083	geo:GSE223060:GSM6939083	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939083	geo:GSE223060:GSM6939083	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939083	geo:GSE223060:GSM6939083	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939083	geo:GSE223060:GSM6939083	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939083	geo:GSE223060:GSM6939083	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939083	geo:GSE223060:GSM6939083	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939083	geo:GSE223060:GSM6939083	disease_free_text	healthy donor	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939083	geo:GSE223060:GSM6939083	disease_free_text	healthy donor	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939083	geo:GSE223060:GSM6939083	disease_ontology_term_id	PATO:0000461	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939083	geo:GSE223060:GSM6939083	disease_ontology_term_id	PATO:0000461	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939083	geo:GSE223060:GSM6939083	sampled_site_condition	healthy	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939083	geo:GSE223060:GSM6939083	sampled_site_condition	healthy	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939083	geo:GSE223060:GSM6939083	assay	10x 3' transcription profiling	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Chromium Single Cell 3’v2 Library Kits	True
+GSM6939083	geo:GSE223060:GSM6939083	assay	10x 3' transcription profiling	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit	True
+GSM6939084	geo:GSE223060:GSM6939084	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939084	geo:GSE223060:GSM6939084	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939084	geo:GSE223060:GSM6939084	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939084	geo:GSE223060:GSM6939084	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939084	geo:GSE223060:GSM6939084	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939084	geo:GSE223060:GSM6939084	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939084	geo:GSE223060:GSM6939084	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939084	geo:GSE223060:GSM6939084	disease_free_text	healthy donor	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939084	geo:GSE223060:GSM6939084	disease_free_text	healthy donor	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939084	geo:GSE223060:GSM6939084	disease_ontology_term_id	PATO:0000461	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939084	geo:GSE223060:GSM6939084	disease_ontology_term_id	PATO:0000461	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939084	geo:GSE223060:GSM6939084	sampled_site_condition	healthy	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939084	geo:GSE223060:GSM6939084	sampled_site_condition	healthy	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939084	geo:GSE223060:GSM6939084	assay	10x 3' transcription profiling	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Chromium Single Cell 3’v2 Library Kits	True
+GSM6939084	geo:GSE223060:GSM6939084	assay	10x 3' transcription profiling	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit	True
+GSM6939085	geo:GSE223060:GSM6939085	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939085	geo:GSE223060:GSM6939085	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939085	geo:GSE223060:GSM6939085	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939085	geo:GSE223060:GSM6939085	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939085	geo:GSE223060:GSM6939085	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939085	geo:GSE223060:GSM6939085	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939085	geo:GSE223060:GSM6939085	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939085	geo:GSE223060:GSM6939085	disease_free_text	healthy donor	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939085	geo:GSE223060:GSM6939085	disease_free_text	healthy donor	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939085	geo:GSE223060:GSM6939085	disease_ontology_term_id	PATO:0000461	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939085	geo:GSE223060:GSM6939085	disease_ontology_term_id	PATO:0000461	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939085	geo:GSE223060:GSM6939085	sampled_site_condition	healthy	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939085	geo:GSE223060:GSM6939085	sampled_site_condition	healthy	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939085	geo:GSE223060:GSM6939085	assay	10x 3' transcription profiling	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Chromium Single Cell 3’v2 Library Kits	True
+GSM6939085	geo:GSE223060:GSM6939085	assay	10x 3' transcription profiling	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit	True
+GSM6939086	geo:GSE223060:GSM6939086	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939086	geo:GSE223060:GSM6939086	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939086	geo:GSE223060:GSM6939086	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939086	geo:GSE223060:GSM6939086	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939086	geo:GSE223060:GSM6939086	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939086	geo:GSE223060:GSM6939086	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939086	geo:GSE223060:GSM6939086	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939086	geo:GSE223060:GSM6939086	disease_free_text	healthy donor	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939086	geo:GSE223060:GSM6939086	disease_free_text	healthy donor	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939086	geo:GSE223060:GSM6939086	disease_ontology_term_id	PATO:0000461	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939086	geo:GSE223060:GSM6939086	disease_ontology_term_id	PATO:0000461	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939086	geo:GSE223060:GSM6939086	sampled_site_condition	healthy	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939086	geo:GSE223060:GSM6939086	sampled_site_condition	healthy	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939086	geo:GSE223060:GSM6939086	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939086	geo:GSE223060:GSM6939086	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		WashU Cohort 2 and healthy donor samples were loaded using 10x Genomics Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.2	True
+GSM6939087	geo:GSE223060:GSM6939087	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939087	geo:GSE223060:GSM6939087	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939087	geo:GSE223060:GSM6939087	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939087	geo:GSE223060:GSM6939087	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939087	geo:GSE223060:GSM6939087	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939087	geo:GSE223060:GSM6939087	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939087	geo:GSE223060:GSM6939087	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939087	geo:GSE223060:GSM6939087	disease_free_text	healthy donor	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939087	geo:GSE223060:GSM6939087	disease_free_text	healthy donor	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939087	geo:GSE223060:GSM6939087	disease_ontology_term_id	PATO:0000461	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939087	geo:GSE223060:GSM6939087	disease_ontology_term_id	PATO:0000461	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939087	geo:GSE223060:GSM6939087	sampled_site_condition	healthy	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939087	geo:GSE223060:GSM6939087	sampled_site_condition	healthy	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939087	geo:GSE223060:GSM6939087	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939087	geo:GSE223060:GSM6939087	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		WashU Cohort 2 and healthy donor samples were loaded using 10x Genomics Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.2	True
+GSM6939088	geo:GSE223060:GSM6939088	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939088	geo:GSE223060:GSM6939088	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939088	geo:GSE223060:GSM6939088	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939088	geo:GSE223060:GSM6939088	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939088	geo:GSE223060:GSM6939088	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939088	geo:GSE223060:GSM6939088	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939088	geo:GSE223060:GSM6939088	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939088	geo:GSE223060:GSM6939088	disease_free_text	healthy donor	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939088	geo:GSE223060:GSM6939088	disease_free_text	healthy donor	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939088	geo:GSE223060:GSM6939088	disease_ontology_term_id	PATO:0000461	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939088	geo:GSE223060:GSM6939088	disease_ontology_term_id	PATO:0000461	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939088	geo:GSE223060:GSM6939088	sampled_site_condition	healthy	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939088	geo:GSE223060:GSM6939088	sampled_site_condition	healthy	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939088	geo:GSE223060:GSM6939088	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939088	geo:GSE223060:GSM6939088	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		WashU Cohort 2 and healthy donor samples were loaded using 10x Genomics Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.2	True
+GSM6939089	geo:GSE223060:GSM6939089	tissue_free_text	Bone Marrow	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939089	geo:GSE223060:GSM6939089	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939089	geo:GSE223060:GSM6939089	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM6939089	geo:GSE223060:GSM6939089	tissue_type	tissue	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939089	geo:GSE223060:GSM6939089	cell_enrichment	CL:0000842+	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Bone marrow mononuclear cells (BMMCs) were isolated using Ficoll-Paque purification	True
+GSM6939089	geo:GSE223060:GSM6939089	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_library_source = transcriptomic single cell	True
+GSM6939089	geo:GSE223060:GSM6939089	suspension_type	cell	file	raw/fp-015956c94654/GSE223060_family.soft.gz		Using the 10x Genomics Chromium Single Cell and Chromium instrument, approximately 16,500 to 20,000 cells were partitioned into nanoliter droplets	True
+GSM6939089	geo:GSE223060:GSM6939089	disease_free_text	healthy donor	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939089	geo:GSE223060:GSM6939089	disease_free_text	healthy donor	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939089	geo:GSE223060:GSM6939089	disease_ontology_term_id	PATO:0000461	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939089	geo:GSE223060:GSM6939089	disease_ontology_term_id	PATO:0000461	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939089	geo:GSE223060:GSM6939089	sampled_site_condition	healthy	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939089	geo:GSE223060:GSM6939089	sampled_site_condition	healthy	file	raw/fp-015956c94654/GSE223060_family.soft.gz		BMMCs aliquots from WashU Cohort 2, MMRF, and healthy donors were centrifuged upon thawing	True
+GSM6939089	geo:GSE223060:GSM6939089	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		!Sample_source_name_ch1 = Donor BMMC, aspirate, scRNAseq	True
+GSM6939089	geo:GSE223060:GSM6939089	assay	10x 3' v3	file	raw/fp-015956c94654/GSE223060_family.soft.gz		WashU Cohort 2 and healthy donor samples were loaded using 10x Genomics Chromium Next GEM Single Cell 3’ GEM, Library & Gel Bead Kit v3.2	True

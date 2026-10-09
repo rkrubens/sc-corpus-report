@@ -1,0 +1,38 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4743044	geo:GSE155795:GSM4743044	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM4743044	geo:GSE155795:GSM4743044	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM4743045	geo:GSE155795:GSM4743045	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM4743045	geo:GSE155795:GSM4743045	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM4743046	geo:GSE155795:GSM4743046	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM4743046	geo:GSE155795:GSM4743046	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+		organism	Homo sapiens	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4743044	geo:GSE155795:GSM4743044	donor_id	MM Patient 1	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Sample_title = MM Patient 1	True
+GSM4743044	geo:GSE155795:GSM4743044	donor_id	MM Patient 1	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Series_overall_design = NK cells sorted from 3 MM patients' bone marrow, no replicates	True
+GSM4743044	geo:GSE155795:GSM4743044	tissue_free_text	bone marrow	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM4743044	geo:GSE155795:GSM4743044	disease_free_text	multiple myeloma	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Sample_characteristics_ch1 = disease: multiple myeloma	True
+GSM4743044	geo:GSE155795:GSM4743044	assay	10x 3' v3	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		Sorted single cells were processed using the 10X Chromium Single cell 3’ Reagent Kit v3 (10X genomics)	True
+GSM4743044	geo:GSE155795:GSM4743044	suspension_type	cell	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		Sorted single cells were processed using the 10X Chromium Single cell 3’ Reagent Kit v3 (10X genomics)	True
+GSM4743044	geo:GSE155795:GSM4743044	cell_enrichment	sorted natural killer (NK) cells	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Sample_characteristics_ch1 = cell type: Natural killer (NK) cells	True
+GSM4743044	geo:GSE155795:GSM4743044	cell_enrichment	sorted natural killer (NK) cells	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Series_overall_design = NK cells sorted from 3 MM patients' bone marrow, no replicates	True
+GSM4743044	geo:GSE155795:GSM4743044	tissue_type	tissue	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Series_overall_design = NK cells sorted from 3 MM patients' bone marrow, no replicates	True
+GSM4743044	geo:GSE155795:GSM4743044	disease_ontology_term_id	MONDO:0009693	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Sample_characteristics_ch1 = disease: multiple myeloma	True
+GSM4743045	geo:GSE155795:GSM4743045	donor_id	MM Patient 2	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Sample_title = MM Patient 2	True
+GSM4743045	geo:GSE155795:GSM4743045	donor_id	MM Patient 2	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Series_overall_design = NK cells sorted from 3 MM patients' bone marrow, no replicates	True
+GSM4743045	geo:GSE155795:GSM4743045	tissue_free_text	bone marrow	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM4743045	geo:GSE155795:GSM4743045	disease_free_text	multiple myeloma	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Sample_characteristics_ch1 = disease: multiple myeloma	True
+GSM4743045	geo:GSE155795:GSM4743045	assay	10x 3' v3	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		Sorted single cells were processed using the 10X Chromium Single cell 3’ Reagent Kit v3 (10X genomics)	True
+GSM4743045	geo:GSE155795:GSM4743045	suspension_type	cell	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		Sorted single cells were processed using the 10X Chromium Single cell 3’ Reagent Kit v3 (10X genomics)	True
+GSM4743045	geo:GSE155795:GSM4743045	cell_enrichment	sorted natural killer (NK) cells	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Sample_characteristics_ch1 = cell type: Natural killer (NK) cells	True
+GSM4743045	geo:GSE155795:GSM4743045	cell_enrichment	sorted natural killer (NK) cells	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Series_overall_design = NK cells sorted from 3 MM patients' bone marrow, no replicates	True
+GSM4743045	geo:GSE155795:GSM4743045	tissue_type	tissue	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Series_overall_design = NK cells sorted from 3 MM patients' bone marrow, no replicates	True
+GSM4743045	geo:GSE155795:GSM4743045	disease_ontology_term_id	MONDO:0009693	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Sample_characteristics_ch1 = disease: multiple myeloma	True
+GSM4743046	geo:GSE155795:GSM4743046	donor_id	MM Patient 3	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Sample_title = MM Patient 3	True
+GSM4743046	geo:GSE155795:GSM4743046	donor_id	MM Patient 3	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Series_overall_design = NK cells sorted from 3 MM patients' bone marrow, no replicates	True
+GSM4743046	geo:GSE155795:GSM4743046	tissue_free_text	bone marrow	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone marrow	True
+GSM4743046	geo:GSE155795:GSM4743046	disease_free_text	multiple myeloma	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Sample_characteristics_ch1 = disease: multiple myeloma	True
+GSM4743046	geo:GSE155795:GSM4743046	assay	10x 3' v3	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		Sorted single cells were processed using the 10X Chromium Single cell 3’ Reagent Kit v3 (10X genomics)	True
+GSM4743046	geo:GSE155795:GSM4743046	suspension_type	cell	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		Sorted single cells were processed using the 10X Chromium Single cell 3’ Reagent Kit v3 (10X genomics)	True
+GSM4743046	geo:GSE155795:GSM4743046	cell_enrichment	sorted natural killer (NK) cells	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Sample_characteristics_ch1 = cell type: Natural killer (NK) cells	True
+GSM4743046	geo:GSE155795:GSM4743046	cell_enrichment	sorted natural killer (NK) cells	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Series_overall_design = NK cells sorted from 3 MM patients' bone marrow, no replicates	True
+GSM4743046	geo:GSE155795:GSM4743046	tissue_type	tissue	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Series_overall_design = NK cells sorted from 3 MM patients' bone marrow, no replicates	True
+GSM4743046	geo:GSE155795:GSM4743046	disease_ontology_term_id	MONDO:0009693	file	raw/fp-78bad874ba54/GSE155795_family.soft.gz		!Sample_characteristics_ch1 = disease: multiple myeloma	True

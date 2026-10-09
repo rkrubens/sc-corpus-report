@@ -1,0 +1,218 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5356722	geo:GSE176131:GSM5356722	development_stage_ontology_term_id	HsapDv:0000143	derived	ols:hsapdv		49-year-old stage	True
+GSM5356722	geo:GSE176131:GSM5356722	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5356723	geo:GSE176131:GSM5356723	development_stage_ontology_term_id	HsapDv:0000152	derived	ols:hsapdv		58-year-old stage	True
+GSM5356723	geo:GSE176131:GSM5356723	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5356724	geo:GSE176131:GSM5356724	development_stage_ontology_term_id	HsapDv:0000161	derived	ols:hsapdv		67-year-old stage	True
+GSM5356724	geo:GSE176131:GSM5356724	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5356725	geo:GSE176131:GSM5356725	development_stage_ontology_term_id	HsapDv:0000149	derived	ols:hsapdv		55-year-old stage	True
+GSM5356725	geo:GSE176131:GSM5356725	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5356726	geo:GSE176131:GSM5356726	development_stage_ontology_term_id	HsapDv:0000163	derived	ols:hsapdv		69-year-old stage	True
+GSM5356726	geo:GSE176131:GSM5356726	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5356727	geo:GSE176131:GSM5356727	development_stage_ontology_term_id	HsapDv:0000147	derived	ols:hsapdv		53-year-old stage	True
+GSM5356727	geo:GSE176131:GSM5356727	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5356728	geo:GSE176131:GSM5356728	development_stage_ontology_term_id	HsapDv:0000158	derived	ols:hsapdv		64-year-old stage	True
+GSM5356728	geo:GSE176131:GSM5356728	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5356729	geo:GSE176131:GSM5356729	development_stage_ontology_term_id	HsapDv:0000166	derived	ols:hsapdv		72-year-old stage	True
+GSM5356729	geo:GSE176131:GSM5356729	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5356730	geo:GSE176131:GSM5356730	development_stage_ontology_term_id	HsapDv:0000150	derived	ols:hsapdv		56-year-old stage	True
+GSM5356730	geo:GSE176131:GSM5356730	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5356731	geo:GSE176131:GSM5356731	development_stage_ontology_term_id	HsapDv:0000150	derived	ols:hsapdv		56-year-old stage	True
+GSM5356731	geo:GSE176131:GSM5356731	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5356732	geo:GSE176131:GSM5356732	development_stage_ontology_term_id	HsapDv:0000160	derived	ols:hsapdv		66-year-old stage	True
+GSM5356732	geo:GSE176131:GSM5356732	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+		organism	Homo sapiens	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5356722	geo:GSE176131:GSM5356722	donor_id	CON1	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = normal control rep1 [CON1]	True
+GSM5356722	geo:GSE176131:GSM5356722	donor_id	CON1	file	evidence/PMC9674343.txt		11 BM samples from 9 MM patients (2 R-ISS I, 2 R-ISS II, and 5 R-ISS III stage) and 2 healthy donors (healthy control)	True
+GSM5356722	geo:GSE176131:GSM5356722	tissue_free_text	bone marrow	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM5356722	geo:GSE176131:GSM5356722	tissue_type	tissue	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM5356722	geo:GSE176131:GSM5356722	tissue_type	tissue	file	evidence/PMC9674343.txt		BM aspirates were collected into EDTA-containing tubes	True
+GSM5356722	geo:GSE176131:GSM5356722	suspension_type	cell	file	evidence/PMC9674343.txt		Fresh single-cell suspensions were used for scRNA-seq	True
+GSM5356722	geo:GSE176131:GSM5356722	cell_enrichment	CL:0000842+	file	evidence/PMC9674343.txt		Mononuclear cells were isolated using a Ficoll gradient	True
+GSM5356722	geo:GSE176131:GSM5356722	assay_ontology_term_id	EFO:0009922	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		Single-cell RNA-seq libraries were prepared with Chromium Single cell 3'Reagent v3 Kits	True
+GSM5356722	geo:GSE176131:GSM5356722	development_stage	49-year-old stage	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = age: 49	True
+GSM5356722	geo:GSE176131:GSM5356722	development_stage	49-year-old stage	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = normal control rep1 [CON1]	True
+GSM5356722	geo:GSE176131:GSM5356722	disease_free_text	normal control	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: normal control	True
+GSM5356722	geo:GSE176131:GSM5356722	disease_free_text	normal control	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = normal control rep1 [CON1]	True
+GSM5356722	geo:GSE176131:GSM5356722	disease_ontology_term_id	PATO:0000461	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: normal control	True
+GSM5356722	geo:GSE176131:GSM5356722	disease_ontology_term_id	PATO:0000461	file	evidence/PMC9674343.txt		This study included nine MM patients diagnosed as active MM according to International Myeloma Working Group guideline, and two age-matched normal control (transplant donor)	True
+GSM5356722	geo:GSE176131:GSM5356722	sampled_site_condition	healthy	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: normal control	True
+GSM5356722	geo:GSE176131:GSM5356722	sampled_site_condition	healthy	file	evidence/PMC9674343.txt		This study included nine MM patients diagnosed as active MM according to International Myeloma Working Group guideline, and two age-matched normal control (transplant donor)	True
+GSM5356723	geo:GSE176131:GSM5356723	donor_id	CON2	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = normal control rep2 [CON2]	True
+GSM5356723	geo:GSE176131:GSM5356723	donor_id	CON2	file	evidence/PMC9674343.txt		11 BM samples from 9 MM patients (2 R-ISS I, 2 R-ISS II, and 5 R-ISS III stage) and 2 healthy donors (healthy control)	True
+GSM5356723	geo:GSE176131:GSM5356723	tissue_free_text	bone marrow	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM5356723	geo:GSE176131:GSM5356723	tissue_type	tissue	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM5356723	geo:GSE176131:GSM5356723	tissue_type	tissue	file	evidence/PMC9674343.txt		BM aspirates were collected into EDTA-containing tubes	True
+GSM5356723	geo:GSE176131:GSM5356723	suspension_type	cell	file	evidence/PMC9674343.txt		Fresh single-cell suspensions were used for scRNA-seq	True
+GSM5356723	geo:GSE176131:GSM5356723	cell_enrichment	CL:0000842+	file	evidence/PMC9674343.txt		Mononuclear cells were isolated using a Ficoll gradient	True
+GSM5356723	geo:GSE176131:GSM5356723	assay_ontology_term_id	EFO:0009922	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		Single-cell RNA-seq libraries were prepared with Chromium Single cell 3'Reagent v3 Kits	True
+GSM5356723	geo:GSE176131:GSM5356723	development_stage	58-year-old stage	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = age: 58	True
+GSM5356723	geo:GSE176131:GSM5356723	development_stage	58-year-old stage	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = normal control rep2 [CON2]	True
+GSM5356723	geo:GSE176131:GSM5356723	disease_free_text	normal control	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: normal control	True
+GSM5356723	geo:GSE176131:GSM5356723	disease_free_text	normal control	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = normal control rep2 [CON2]	True
+GSM5356723	geo:GSE176131:GSM5356723	disease_ontology_term_id	PATO:0000461	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: normal control	True
+GSM5356723	geo:GSE176131:GSM5356723	disease_ontology_term_id	PATO:0000461	file	evidence/PMC9674343.txt		This study included nine MM patients diagnosed as active MM according to International Myeloma Working Group guideline, and two age-matched normal control (transplant donor)	True
+GSM5356723	geo:GSE176131:GSM5356723	sampled_site_condition	healthy	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: normal control	True
+GSM5356723	geo:GSE176131:GSM5356723	sampled_site_condition	healthy	file	evidence/PMC9674343.txt		This study included nine MM patients diagnosed as active MM according to International Myeloma Working Group guideline, and two age-matched normal control (transplant donor)	True
+GSM5356724	geo:GSE176131:GSM5356724	donor_id	MM-I-1	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = MM patient stage1 rep1 [MM-I-1]	True
+GSM5356724	geo:GSE176131:GSM5356724	donor_id	MM-I-1	file	evidence/PMC9674343.txt		11 BM samples from 9 MM patients (2 R-ISS I, 2 R-ISS II, and 5 R-ISS III stage) and 2 healthy donors (healthy control)	True
+GSM5356724	geo:GSE176131:GSM5356724	tissue_free_text	bone marrow	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM5356724	geo:GSE176131:GSM5356724	tissue_type	tissue	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM5356724	geo:GSE176131:GSM5356724	tissue_type	tissue	file	evidence/PMC9674343.txt		BM aspirates were collected into EDTA-containing tubes	True
+GSM5356724	geo:GSE176131:GSM5356724	suspension_type	cell	file	evidence/PMC9674343.txt		Fresh single-cell suspensions were used for scRNA-seq	True
+GSM5356724	geo:GSE176131:GSM5356724	cell_enrichment	CL:0000842+	file	evidence/PMC9674343.txt		Mononuclear cells were isolated using a Ficoll gradient	True
+GSM5356724	geo:GSE176131:GSM5356724	assay_ontology_term_id	EFO:0009922	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		Single-cell RNA-seq libraries were prepared with Chromium Single cell 3'Reagent v3 Kits	True
+GSM5356724	geo:GSE176131:GSM5356724	development_stage	67-year-old stage	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = age: 67	True
+GSM5356724	geo:GSE176131:GSM5356724	development_stage	67-year-old stage	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = MM patient stage1 rep1 [MM-I-1]	True
+GSM5356724	geo:GSE176131:GSM5356724	disease_free_text	multiple myeloma	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356724	geo:GSE176131:GSM5356724	disease_free_text	multiple myeloma	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Series_title = Identification of heterogeneous networks and plasma-monocytes crosstalks in multiple myeloma	True
+GSM5356724	geo:GSE176131:GSM5356724	disease_free_text	multiple myeloma	file	evidence/PMC9674343.txt		This study included nine MM patients diagnosed as active MM according to International Myeloma Working Group guideline, and two age-matched normal control (transplant donor)	True
+GSM5356724	geo:GSE176131:GSM5356724	disease_ontology_term_id	MONDO:0009693	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356724	geo:GSE176131:GSM5356724	disease_ontology_term_id	MONDO:0009693	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Series_title = Identification of heterogeneous networks and plasma-monocytes crosstalks in multiple myeloma	True
+GSM5356724	geo:GSE176131:GSM5356724	disease_ontology_term_id	MONDO:0009693	file	evidence/PMC9674343.txt		This study included nine MM patients diagnosed as active MM according to International Myeloma Working Group guideline, and two age-matched normal control (transplant donor)	True
+GSM5356724	geo:GSE176131:GSM5356724	sampled_site_condition	diseased	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356724	geo:GSE176131:GSM5356724	sampled_site_condition	diseased	file	evidence/PMC9674343.txt		Multiple myeloma is a type of bone cancer. It affects the immune cells that make antibodies, known as plasma cells. These immune cells live in the bone marrow.	True
+GSM5356725	geo:GSE176131:GSM5356725	donor_id	MM-I-2	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = MM patient stage1 rep2 [MM-I-2]	True
+GSM5356725	geo:GSE176131:GSM5356725	donor_id	MM-I-2	file	evidence/PMC9674343.txt		11 BM samples from 9 MM patients (2 R-ISS I, 2 R-ISS II, and 5 R-ISS III stage) and 2 healthy donors (healthy control)	True
+GSM5356725	geo:GSE176131:GSM5356725	tissue_free_text	bone marrow	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM5356725	geo:GSE176131:GSM5356725	tissue_type	tissue	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM5356725	geo:GSE176131:GSM5356725	tissue_type	tissue	file	evidence/PMC9674343.txt		BM aspirates were collected into EDTA-containing tubes	True
+GSM5356725	geo:GSE176131:GSM5356725	suspension_type	cell	file	evidence/PMC9674343.txt		Fresh single-cell suspensions were used for scRNA-seq	True
+GSM5356725	geo:GSE176131:GSM5356725	cell_enrichment	CL:0000842+	file	evidence/PMC9674343.txt		Mononuclear cells were isolated using a Ficoll gradient	True
+GSM5356725	geo:GSE176131:GSM5356725	assay_ontology_term_id	EFO:0009922	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		Single-cell RNA-seq libraries were prepared with Chromium Single cell 3'Reagent v3 Kits	True
+GSM5356725	geo:GSE176131:GSM5356725	development_stage	55-year-old stage	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = age: 55	True
+GSM5356725	geo:GSE176131:GSM5356725	development_stage	55-year-old stage	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = MM patient stage1 rep2 [MM-I-2]	True
+GSM5356725	geo:GSE176131:GSM5356725	disease_free_text	multiple myeloma	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356725	geo:GSE176131:GSM5356725	disease_free_text	multiple myeloma	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Series_title = Identification of heterogeneous networks and plasma-monocytes crosstalks in multiple myeloma	True
+GSM5356725	geo:GSE176131:GSM5356725	disease_free_text	multiple myeloma	file	evidence/PMC9674343.txt		This study included nine MM patients diagnosed as active MM according to International Myeloma Working Group guideline, and two age-matched normal control (transplant donor)	True
+GSM5356725	geo:GSE176131:GSM5356725	disease_ontology_term_id	MONDO:0009693	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356725	geo:GSE176131:GSM5356725	disease_ontology_term_id	MONDO:0009693	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Series_title = Identification of heterogeneous networks and plasma-monocytes crosstalks in multiple myeloma	True
+GSM5356725	geo:GSE176131:GSM5356725	disease_ontology_term_id	MONDO:0009693	file	evidence/PMC9674343.txt		This study included nine MM patients diagnosed as active MM according to International Myeloma Working Group guideline, and two age-matched normal control (transplant donor)	True
+GSM5356725	geo:GSE176131:GSM5356725	sampled_site_condition	diseased	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356725	geo:GSE176131:GSM5356725	sampled_site_condition	diseased	file	evidence/PMC9674343.txt		Multiple myeloma is a type of bone cancer. It affects the immune cells that make antibodies, known as plasma cells. These immune cells live in the bone marrow.	True
+GSM5356726	geo:GSE176131:GSM5356726	donor_id	MM-II-1	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = MM patient stage2 rep1 [MM-II-1]	True
+GSM5356726	geo:GSE176131:GSM5356726	donor_id	MM-II-1	file	evidence/PMC9674343.txt		11 BM samples from 9 MM patients (2 R-ISS I, 2 R-ISS II, and 5 R-ISS III stage) and 2 healthy donors (healthy control)	True
+GSM5356726	geo:GSE176131:GSM5356726	tissue_free_text	bone marrow	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM5356726	geo:GSE176131:GSM5356726	tissue_type	tissue	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM5356726	geo:GSE176131:GSM5356726	tissue_type	tissue	file	evidence/PMC9674343.txt		BM aspirates were collected into EDTA-containing tubes	True
+GSM5356726	geo:GSE176131:GSM5356726	suspension_type	cell	file	evidence/PMC9674343.txt		Fresh single-cell suspensions were used for scRNA-seq	True
+GSM5356726	geo:GSE176131:GSM5356726	cell_enrichment	CL:0000842+	file	evidence/PMC9674343.txt		Mononuclear cells were isolated using a Ficoll gradient	True
+GSM5356726	geo:GSE176131:GSM5356726	assay_ontology_term_id	EFO:0009922	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		Single-cell RNA-seq libraries were prepared with Chromium Single cell 3'Reagent v3 Kits	True
+GSM5356726	geo:GSE176131:GSM5356726	development_stage	69-year-old stage	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = age: 69	True
+GSM5356726	geo:GSE176131:GSM5356726	development_stage	69-year-old stage	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = MM patient stage2 rep1 [MM-II-1]	True
+GSM5356726	geo:GSE176131:GSM5356726	disease_free_text	multiple myeloma	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356726	geo:GSE176131:GSM5356726	disease_free_text	multiple myeloma	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Series_title = Identification of heterogeneous networks and plasma-monocytes crosstalks in multiple myeloma	True
+GSM5356726	geo:GSE176131:GSM5356726	disease_free_text	multiple myeloma	file	evidence/PMC9674343.txt		This study included nine MM patients diagnosed as active MM according to International Myeloma Working Group guideline, and two age-matched normal control (transplant donor)	True
+GSM5356726	geo:GSE176131:GSM5356726	disease_ontology_term_id	MONDO:0009693	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356726	geo:GSE176131:GSM5356726	disease_ontology_term_id	MONDO:0009693	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Series_title = Identification of heterogeneous networks and plasma-monocytes crosstalks in multiple myeloma	True
+GSM5356726	geo:GSE176131:GSM5356726	disease_ontology_term_id	MONDO:0009693	file	evidence/PMC9674343.txt		This study included nine MM patients diagnosed as active MM according to International Myeloma Working Group guideline, and two age-matched normal control (transplant donor)	True
+GSM5356726	geo:GSE176131:GSM5356726	sampled_site_condition	diseased	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356726	geo:GSE176131:GSM5356726	sampled_site_condition	diseased	file	evidence/PMC9674343.txt		Multiple myeloma is a type of bone cancer. It affects the immune cells that make antibodies, known as plasma cells. These immune cells live in the bone marrow.	True
+GSM5356727	geo:GSE176131:GSM5356727	donor_id	MM-II-2	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = MM patient stage2 rep2 [MM-II-2]	True
+GSM5356727	geo:GSE176131:GSM5356727	donor_id	MM-II-2	file	evidence/PMC9674343.txt		11 BM samples from 9 MM patients (2 R-ISS I, 2 R-ISS II, and 5 R-ISS III stage) and 2 healthy donors (healthy control)	True
+GSM5356727	geo:GSE176131:GSM5356727	tissue_free_text	bone marrow	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM5356727	geo:GSE176131:GSM5356727	tissue_type	tissue	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM5356727	geo:GSE176131:GSM5356727	tissue_type	tissue	file	evidence/PMC9674343.txt		BM aspirates were collected into EDTA-containing tubes	True
+GSM5356727	geo:GSE176131:GSM5356727	suspension_type	cell	file	evidence/PMC9674343.txt		Fresh single-cell suspensions were used for scRNA-seq	True
+GSM5356727	geo:GSE176131:GSM5356727	cell_enrichment	CL:0000842+	file	evidence/PMC9674343.txt		Mononuclear cells were isolated using a Ficoll gradient	True
+GSM5356727	geo:GSE176131:GSM5356727	assay_ontology_term_id	EFO:0009922	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		Single-cell RNA-seq libraries were prepared with Chromium Single cell 3'Reagent v3 Kits	True
+GSM5356727	geo:GSE176131:GSM5356727	development_stage	53-year-old stage	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = age: 53	True
+GSM5356727	geo:GSE176131:GSM5356727	development_stage	53-year-old stage	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = MM patient stage2 rep2 [MM-II-2]	True
+GSM5356727	geo:GSE176131:GSM5356727	disease_free_text	multiple myeloma	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356727	geo:GSE176131:GSM5356727	disease_free_text	multiple myeloma	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Series_title = Identification of heterogeneous networks and plasma-monocytes crosstalks in multiple myeloma	True
+GSM5356727	geo:GSE176131:GSM5356727	disease_free_text	multiple myeloma	file	evidence/PMC9674343.txt		This study included nine MM patients diagnosed as active MM according to International Myeloma Working Group guideline, and two age-matched normal control (transplant donor)	True
+GSM5356727	geo:GSE176131:GSM5356727	disease_ontology_term_id	MONDO:0009693	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356727	geo:GSE176131:GSM5356727	disease_ontology_term_id	MONDO:0009693	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Series_title = Identification of heterogeneous networks and plasma-monocytes crosstalks in multiple myeloma	True
+GSM5356727	geo:GSE176131:GSM5356727	disease_ontology_term_id	MONDO:0009693	file	evidence/PMC9674343.txt		This study included nine MM patients diagnosed as active MM according to International Myeloma Working Group guideline, and two age-matched normal control (transplant donor)	True
+GSM5356727	geo:GSE176131:GSM5356727	sampled_site_condition	diseased	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356727	geo:GSE176131:GSM5356727	sampled_site_condition	diseased	file	evidence/PMC9674343.txt		Multiple myeloma is a type of bone cancer. It affects the immune cells that make antibodies, known as plasma cells. These immune cells live in the bone marrow.	True
+GSM5356728	geo:GSE176131:GSM5356728	donor_id	MM-III-1	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = MM patient stage3 rep1 [MM-III-1]	True
+GSM5356728	geo:GSE176131:GSM5356728	donor_id	MM-III-1	file	evidence/PMC9674343.txt		11 BM samples from 9 MM patients (2 R-ISS I, 2 R-ISS II, and 5 R-ISS III stage) and 2 healthy donors (healthy control)	True
+GSM5356728	geo:GSE176131:GSM5356728	tissue_free_text	bone marrow	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM5356728	geo:GSE176131:GSM5356728	tissue_type	tissue	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM5356728	geo:GSE176131:GSM5356728	tissue_type	tissue	file	evidence/PMC9674343.txt		BM aspirates were collected into EDTA-containing tubes	True
+GSM5356728	geo:GSE176131:GSM5356728	suspension_type	cell	file	evidence/PMC9674343.txt		Fresh single-cell suspensions were used for scRNA-seq	True
+GSM5356728	geo:GSE176131:GSM5356728	cell_enrichment	CL:0000842+	file	evidence/PMC9674343.txt		Mononuclear cells were isolated using a Ficoll gradient	True
+GSM5356728	geo:GSE176131:GSM5356728	assay_ontology_term_id	EFO:0009922	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		Single-cell RNA-seq libraries were prepared with Chromium Single cell 3'Reagent v3 Kits	True
+GSM5356728	geo:GSE176131:GSM5356728	development_stage	64-year-old stage	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = age: 64	True
+GSM5356728	geo:GSE176131:GSM5356728	development_stage	64-year-old stage	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = MM patient stage3 rep1 [MM-III-1]	True
+GSM5356728	geo:GSE176131:GSM5356728	disease_free_text	multiple myeloma	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356728	geo:GSE176131:GSM5356728	disease_free_text	multiple myeloma	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Series_title = Identification of heterogeneous networks and plasma-monocytes crosstalks in multiple myeloma	True
+GSM5356728	geo:GSE176131:GSM5356728	disease_free_text	multiple myeloma	file	evidence/PMC9674343.txt		This study included nine MM patients diagnosed as active MM according to International Myeloma Working Group guideline, and two age-matched normal control (transplant donor)	True
+GSM5356728	geo:GSE176131:GSM5356728	disease_ontology_term_id	MONDO:0009693	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356728	geo:GSE176131:GSM5356728	disease_ontology_term_id	MONDO:0009693	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Series_title = Identification of heterogeneous networks and plasma-monocytes crosstalks in multiple myeloma	True
+GSM5356728	geo:GSE176131:GSM5356728	disease_ontology_term_id	MONDO:0009693	file	evidence/PMC9674343.txt		This study included nine MM patients diagnosed as active MM according to International Myeloma Working Group guideline, and two age-matched normal control (transplant donor)	True
+GSM5356728	geo:GSE176131:GSM5356728	sampled_site_condition	diseased	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356728	geo:GSE176131:GSM5356728	sampled_site_condition	diseased	file	evidence/PMC9674343.txt		Multiple myeloma is a type of bone cancer. It affects the immune cells that make antibodies, known as plasma cells. These immune cells live in the bone marrow.	True
+GSM5356729	geo:GSE176131:GSM5356729	donor_id	MM-III-2	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = MM patient stage3 rep2 [MM-III-2]	True
+GSM5356729	geo:GSE176131:GSM5356729	donor_id	MM-III-2	file	evidence/PMC9674343.txt		11 BM samples from 9 MM patients (2 R-ISS I, 2 R-ISS II, and 5 R-ISS III stage) and 2 healthy donors (healthy control)	True
+GSM5356729	geo:GSE176131:GSM5356729	tissue_free_text	bone marrow	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM5356729	geo:GSE176131:GSM5356729	tissue_type	tissue	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM5356729	geo:GSE176131:GSM5356729	tissue_type	tissue	file	evidence/PMC9674343.txt		BM aspirates were collected into EDTA-containing tubes	True
+GSM5356729	geo:GSE176131:GSM5356729	suspension_type	cell	file	evidence/PMC9674343.txt		Fresh single-cell suspensions were used for scRNA-seq	True
+GSM5356729	geo:GSE176131:GSM5356729	cell_enrichment	CL:0000842+	file	evidence/PMC9674343.txt		Mononuclear cells were isolated using a Ficoll gradient	True
+GSM5356729	geo:GSE176131:GSM5356729	assay_ontology_term_id	EFO:0009922	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		Single-cell RNA-seq libraries were prepared with Chromium Single cell 3'Reagent v3 Kits	True
+GSM5356729	geo:GSE176131:GSM5356729	development_stage	72-year-old stage	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = age: 72	True
+GSM5356729	geo:GSE176131:GSM5356729	development_stage	72-year-old stage	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = MM patient stage3 rep2 [MM-III-2]	True
+GSM5356729	geo:GSE176131:GSM5356729	disease_free_text	multiple myeloma	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356729	geo:GSE176131:GSM5356729	disease_free_text	multiple myeloma	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Series_title = Identification of heterogeneous networks and plasma-monocytes crosstalks in multiple myeloma	True
+GSM5356729	geo:GSE176131:GSM5356729	disease_free_text	multiple myeloma	file	evidence/PMC9674343.txt		This study included nine MM patients diagnosed as active MM according to International Myeloma Working Group guideline, and two age-matched normal control (transplant donor)	True
+GSM5356729	geo:GSE176131:GSM5356729	disease_ontology_term_id	MONDO:0009693	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356729	geo:GSE176131:GSM5356729	disease_ontology_term_id	MONDO:0009693	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Series_title = Identification of heterogeneous networks and plasma-monocytes crosstalks in multiple myeloma	True
+GSM5356729	geo:GSE176131:GSM5356729	disease_ontology_term_id	MONDO:0009693	file	evidence/PMC9674343.txt		This study included nine MM patients diagnosed as active MM according to International Myeloma Working Group guideline, and two age-matched normal control (transplant donor)	True
+GSM5356729	geo:GSE176131:GSM5356729	sampled_site_condition	diseased	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356729	geo:GSE176131:GSM5356729	sampled_site_condition	diseased	file	evidence/PMC9674343.txt		Multiple myeloma is a type of bone cancer. It affects the immune cells that make antibodies, known as plasma cells. These immune cells live in the bone marrow.	True
+GSM5356730	geo:GSE176131:GSM5356730	donor_id	MM-III-3	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = MM patient stage3 rep3 [MM-III-3]	True
+GSM5356730	geo:GSE176131:GSM5356730	donor_id	MM-III-3	file	evidence/PMC9674343.txt		11 BM samples from 9 MM patients (2 R-ISS I, 2 R-ISS II, and 5 R-ISS III stage) and 2 healthy donors (healthy control)	True
+GSM5356730	geo:GSE176131:GSM5356730	tissue_free_text	bone marrow	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM5356730	geo:GSE176131:GSM5356730	tissue_type	tissue	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM5356730	geo:GSE176131:GSM5356730	tissue_type	tissue	file	evidence/PMC9674343.txt		BM aspirates were collected into EDTA-containing tubes	True
+GSM5356730	geo:GSE176131:GSM5356730	suspension_type	cell	file	evidence/PMC9674343.txt		Fresh single-cell suspensions were used for scRNA-seq	True
+GSM5356730	geo:GSE176131:GSM5356730	cell_enrichment	CL:0000842+	file	evidence/PMC9674343.txt		Mononuclear cells were isolated using a Ficoll gradient	True
+GSM5356730	geo:GSE176131:GSM5356730	assay_ontology_term_id	EFO:0009922	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		Single-cell RNA-seq libraries were prepared with Chromium Single cell 3'Reagent v3 Kits	True
+GSM5356730	geo:GSE176131:GSM5356730	development_stage	56-year-old stage	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = age: 56	True
+GSM5356730	geo:GSE176131:GSM5356730	development_stage	56-year-old stage	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = MM patient stage3 rep3 [MM-III-3]	True
+GSM5356730	geo:GSE176131:GSM5356730	disease_free_text	multiple myeloma	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356730	geo:GSE176131:GSM5356730	disease_free_text	multiple myeloma	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Series_title = Identification of heterogeneous networks and plasma-monocytes crosstalks in multiple myeloma	True
+GSM5356730	geo:GSE176131:GSM5356730	disease_free_text	multiple myeloma	file	evidence/PMC9674343.txt		This study included nine MM patients diagnosed as active MM according to International Myeloma Working Group guideline, and two age-matched normal control (transplant donor)	True
+GSM5356730	geo:GSE176131:GSM5356730	disease_ontology_term_id	MONDO:0009693	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356730	geo:GSE176131:GSM5356730	disease_ontology_term_id	MONDO:0009693	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Series_title = Identification of heterogeneous networks and plasma-monocytes crosstalks in multiple myeloma	True
+GSM5356730	geo:GSE176131:GSM5356730	disease_ontology_term_id	MONDO:0009693	file	evidence/PMC9674343.txt		This study included nine MM patients diagnosed as active MM according to International Myeloma Working Group guideline, and two age-matched normal control (transplant donor)	True
+GSM5356730	geo:GSE176131:GSM5356730	sampled_site_condition	diseased	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356730	geo:GSE176131:GSM5356730	sampled_site_condition	diseased	file	evidence/PMC9674343.txt		Multiple myeloma is a type of bone cancer. It affects the immune cells that make antibodies, known as plasma cells. These immune cells live in the bone marrow.	True
+GSM5356731	geo:GSE176131:GSM5356731	donor_id	MM-III-4	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = MM patient stage3 rep4 [MM-III-4]	True
+GSM5356731	geo:GSE176131:GSM5356731	donor_id	MM-III-4	file	evidence/PMC9674343.txt		11 BM samples from 9 MM patients (2 R-ISS I, 2 R-ISS II, and 5 R-ISS III stage) and 2 healthy donors (healthy control)	True
+GSM5356731	geo:GSE176131:GSM5356731	tissue_free_text	bone marrow	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM5356731	geo:GSE176131:GSM5356731	tissue_type	tissue	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM5356731	geo:GSE176131:GSM5356731	tissue_type	tissue	file	evidence/PMC9674343.txt		BM aspirates were collected into EDTA-containing tubes	True
+GSM5356731	geo:GSE176131:GSM5356731	suspension_type	cell	file	evidence/PMC9674343.txt		Fresh single-cell suspensions were used for scRNA-seq	True
+GSM5356731	geo:GSE176131:GSM5356731	cell_enrichment	CL:0000842+	file	evidence/PMC9674343.txt		Mononuclear cells were isolated using a Ficoll gradient	True
+GSM5356731	geo:GSE176131:GSM5356731	assay_ontology_term_id	EFO:0009922	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		Single-cell RNA-seq libraries were prepared with Chromium Single cell 3'Reagent v3 Kits	True
+GSM5356731	geo:GSE176131:GSM5356731	development_stage	56-year-old stage	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = age: 56	True
+GSM5356731	geo:GSE176131:GSM5356731	development_stage	56-year-old stage	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = MM patient stage3 rep4 [MM-III-4]	True
+GSM5356731	geo:GSE176131:GSM5356731	disease_free_text	multiple myeloma	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356731	geo:GSE176131:GSM5356731	disease_free_text	multiple myeloma	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Series_title = Identification of heterogeneous networks and plasma-monocytes crosstalks in multiple myeloma	True
+GSM5356731	geo:GSE176131:GSM5356731	disease_free_text	multiple myeloma	file	evidence/PMC9674343.txt		This study included nine MM patients diagnosed as active MM according to International Myeloma Working Group guideline, and two age-matched normal control (transplant donor)	True
+GSM5356731	geo:GSE176131:GSM5356731	disease_ontology_term_id	MONDO:0009693	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356731	geo:GSE176131:GSM5356731	disease_ontology_term_id	MONDO:0009693	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Series_title = Identification of heterogeneous networks and plasma-monocytes crosstalks in multiple myeloma	True
+GSM5356731	geo:GSE176131:GSM5356731	disease_ontology_term_id	MONDO:0009693	file	evidence/PMC9674343.txt		This study included nine MM patients diagnosed as active MM according to International Myeloma Working Group guideline, and two age-matched normal control (transplant donor)	True
+GSM5356731	geo:GSE176131:GSM5356731	sampled_site_condition	diseased	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356731	geo:GSE176131:GSM5356731	sampled_site_condition	diseased	file	evidence/PMC9674343.txt		Multiple myeloma is a type of bone cancer. It affects the immune cells that make antibodies, known as plasma cells. These immune cells live in the bone marrow.	True
+GSM5356732	geo:GSE176131:GSM5356732	donor_id	MM-III-5	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = MM patient stage3 rep5 [MM-III-5]	True
+GSM5356732	geo:GSE176131:GSM5356732	donor_id	MM-III-5	file	evidence/PMC9674343.txt		11 BM samples from 9 MM patients (2 R-ISS I, 2 R-ISS II, and 5 R-ISS III stage) and 2 healthy donors (healthy control)	True
+GSM5356732	geo:GSE176131:GSM5356732	tissue_free_text	bone marrow	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM5356732	geo:GSE176131:GSM5356732	tissue_type	tissue	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM5356732	geo:GSE176131:GSM5356732	tissue_type	tissue	file	evidence/PMC9674343.txt		BM aspirates were collected into EDTA-containing tubes	True
+GSM5356732	geo:GSE176131:GSM5356732	suspension_type	cell	file	evidence/PMC9674343.txt		Fresh single-cell suspensions were used for scRNA-seq	True
+GSM5356732	geo:GSE176131:GSM5356732	cell_enrichment	CL:0000842+	file	evidence/PMC9674343.txt		Mononuclear cells were isolated using a Ficoll gradient	True
+GSM5356732	geo:GSE176131:GSM5356732	assay_ontology_term_id	EFO:0009922	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		Single-cell RNA-seq libraries were prepared with Chromium Single cell 3'Reagent v3 Kits	True
+GSM5356732	geo:GSE176131:GSM5356732	development_stage	66-year-old stage	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = age: 66	True
+GSM5356732	geo:GSE176131:GSM5356732	development_stage	66-year-old stage	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_title = MM patient stage3 rep5 [MM-III-5]	True
+GSM5356732	geo:GSE176131:GSM5356732	disease_free_text	multiple myeloma	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356732	geo:GSE176131:GSM5356732	disease_free_text	multiple myeloma	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Series_title = Identification of heterogeneous networks and plasma-monocytes crosstalks in multiple myeloma	True
+GSM5356732	geo:GSE176131:GSM5356732	disease_free_text	multiple myeloma	file	evidence/PMC9674343.txt		This study included nine MM patients diagnosed as active MM according to International Myeloma Working Group guideline, and two age-matched normal control (transplant donor)	True
+GSM5356732	geo:GSE176131:GSM5356732	disease_ontology_term_id	MONDO:0009693	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356732	geo:GSE176131:GSM5356732	disease_ontology_term_id	MONDO:0009693	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Series_title = Identification of heterogeneous networks and plasma-monocytes crosstalks in multiple myeloma	True
+GSM5356732	geo:GSE176131:GSM5356732	disease_ontology_term_id	MONDO:0009693	file	evidence/PMC9674343.txt		This study included nine MM patients diagnosed as active MM according to International Myeloma Working Group guideline, and two age-matched normal control (transplant donor)	True
+GSM5356732	geo:GSE176131:GSM5356732	sampled_site_condition	diseased	file	raw/fp-93ae29655972/GSE176131_family.soft.gz		!Sample_characteristics_ch1 = subject status: MM patient	True
+GSM5356732	geo:GSE176131:GSM5356732	sampled_site_condition	diseased	file	evidence/PMC9674343.txt		Multiple myeloma is a type of bone cancer. It affects the immune cells that make antibodies, known as plasma cells. These immune cells live in the bone marrow.	True

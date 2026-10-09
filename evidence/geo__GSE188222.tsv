@@ -1,0 +1,130 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5672597	geo:GSE188222:GSM5672597	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5672597	geo:GSE188222:GSM5672597	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5672597	geo:GSE188222:GSM5672597	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+GSM5672597	geo:GSE188222:GSM5672597	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5672597	geo:GSE188222:GSM5672597	disease_ontology_term_id	MONDO:0019438	derived	ols:mondo		light chain amyloidosis	True
+GSM5672598	geo:GSE188222:GSM5672598	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5672598	geo:GSE188222:GSM5672598	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5672598	geo:GSE188222:GSM5672598	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+GSM5672598	geo:GSE188222:GSM5672598	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5672598	geo:GSE188222:GSM5672598	disease_ontology_term_id	MONDO:0019438	derived	ols:mondo		light chain amyloidosis	True
+GSM5672599	geo:GSE188222:GSM5672599	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5672599	geo:GSE188222:GSM5672599	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5672599	geo:GSE188222:GSM5672599	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM5672599	geo:GSE188222:GSM5672599	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5672599	geo:GSE188222:GSM5672599	disease_ontology_term_id	MONDO:0019438	derived	ols:mondo		light chain amyloidosis	True
+GSM5672600	geo:GSE188222:GSM5672600	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5672600	geo:GSE188222:GSM5672600	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5672600	geo:GSE188222:GSM5672600	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+GSM5672600	geo:GSE188222:GSM5672600	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5672601	geo:GSE188222:GSM5672601	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5672601	geo:GSE188222:GSM5672601	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5672601	geo:GSE188222:GSM5672601	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM5672601	geo:GSE188222:GSM5672601	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5672602	geo:GSE188222:GSM5672602	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5672602	geo:GSE188222:GSM5672602	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5672602	geo:GSE188222:GSM5672602	development_stage_ontology_term_id	HsapDv:0000129	derived	age_in_years:'35-year-old stage':ols:hsapdv		35	True
+GSM5672602	geo:GSE188222:GSM5672602	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+		organism	Homo sapiens	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+		organism	Homo sapiens	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_taxid_ch1 = 9606	True
+GSM5672597	geo:GSE188222:GSM5672597	donor_id	pALPC1	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_title = pALPC1	True
+GSM5672597	geo:GSE188222:GSM5672597	donor_id	pALPC1	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of patient with light chain amyloidosis	True
+GSM5672597	geo:GSE188222:GSM5672597	donor_id	pALPC1	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = age: 76	True
+GSM5672597	geo:GSE188222:GSM5672597	sex	male	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = Sex: male	True
+GSM5672597	geo:GSE188222:GSM5672597	age	76	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = age: 76	True
+GSM5672597	geo:GSE188222:GSM5672597	disease_free_text	light chain amyloidosis	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = disease: light chain amyloidosis	True
+GSM5672597	geo:GSE188222:GSM5672597	disease_free_text	light chain amyloidosis	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of patient with light chain amyloidosis	True
+GSM5672597	geo:GSE188222:GSM5672597	tissue_free_text	bone marrow	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow cells	True
+GSM5672597	geo:GSE188222:GSM5672597	tissue_free_text	bone marrow	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of patient with light chain amyloidosis	True
+GSM5672597	geo:GSE188222:GSM5672597	tissue_type	tissue	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow cells	True
+GSM5672597	geo:GSE188222:GSM5672597	tissue_type	tissue	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of patient with light chain amyloidosis	True
+GSM5672597	geo:GSE188222:GSM5672597	sample_collection_method	bone marrow aspiration	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		We diluted 5 mL bone marrow aspiration with 5 mL RPMI 1640 culture medium and then separated the lymphocytes with the lymphocyte separation medium.	True
+GSM5672597	geo:GSE188222:GSM5672597	cell_enrichment	CD138+	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		We used magnetic beads conjugated to anti-CD138 antibodies (Miltenyi Biotech, 130-051-301) to enrich the bone marrow plasma cells (BMPCs), and then resuspend the BMPCs.	True
+GSM5672597	geo:GSE188222:GSM5672597	suspension_type	cell	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_extract_protocol_ch1 = 10X Genomics 3' Chromium v2 protocol	True
+GSM5672597	geo:GSE188222:GSM5672597	suspension_type	cell	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		We used magnetic beads conjugated to anti-CD138 antibodies (Miltenyi Biotech, 130-051-301) to enrich the bone marrow plasma cells (BMPCs), and then resuspend the BMPCs.	True
+GSM5672597	geo:GSE188222:GSM5672597	assay	10x 3' v2	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_extract_protocol_ch1 = 10X Genomics 3' Chromium v2 protocol	True
+GSM5672598	geo:GSE188222:GSM5672598	donor_id	pALPC2	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_title = pALPC2	True
+GSM5672598	geo:GSE188222:GSM5672598	donor_id	pALPC2	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of patient with light chain amyloidosis	True
+GSM5672598	geo:GSE188222:GSM5672598	donor_id	pALPC2	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = age: 52	True
+GSM5672598	geo:GSE188222:GSM5672598	sex	male	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = Sex: male	True
+GSM5672598	geo:GSE188222:GSM5672598	age	52	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = age: 52	True
+GSM5672598	geo:GSE188222:GSM5672598	disease_free_text	light chain amyloidosis	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = disease: light chain amyloidosis	True
+GSM5672598	geo:GSE188222:GSM5672598	disease_free_text	light chain amyloidosis	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of patient with light chain amyloidosis	True
+GSM5672598	geo:GSE188222:GSM5672598	tissue_free_text	bone marrow	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow cells	True
+GSM5672598	geo:GSE188222:GSM5672598	tissue_free_text	bone marrow	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of patient with light chain amyloidosis	True
+GSM5672598	geo:GSE188222:GSM5672598	tissue_type	tissue	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow cells	True
+GSM5672598	geo:GSE188222:GSM5672598	tissue_type	tissue	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of patient with light chain amyloidosis	True
+GSM5672598	geo:GSE188222:GSM5672598	sample_collection_method	bone marrow aspiration	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		We diluted 5 mL bone marrow aspiration with 5 mL RPMI 1640 culture medium and then separated the lymphocytes with the lymphocyte separation medium.	True
+GSM5672598	geo:GSE188222:GSM5672598	cell_enrichment	CD138+	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		We used magnetic beads conjugated to anti-CD138 antibodies (Miltenyi Biotech, 130-051-301) to enrich the bone marrow plasma cells (BMPCs), and then resuspend the BMPCs.	True
+GSM5672598	geo:GSE188222:GSM5672598	suspension_type	cell	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_extract_protocol_ch1 = 10X Genomics 3' Chromium v2 protocol	True
+GSM5672598	geo:GSE188222:GSM5672598	suspension_type	cell	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		We used magnetic beads conjugated to anti-CD138 antibodies (Miltenyi Biotech, 130-051-301) to enrich the bone marrow plasma cells (BMPCs), and then resuspend the BMPCs.	True
+GSM5672598	geo:GSE188222:GSM5672598	assay	10x 3' v2	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_extract_protocol_ch1 = 10X Genomics 3' Chromium v2 protocol	True
+GSM5672599	geo:GSE188222:GSM5672599	donor_id	pALPC3	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_title = pALPC3	True
+GSM5672599	geo:GSE188222:GSM5672599	donor_id	pALPC3	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of patient with light chain amyloidosis	True
+GSM5672599	geo:GSE188222:GSM5672599	donor_id	pALPC3	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = age: 65	True
+GSM5672599	geo:GSE188222:GSM5672599	sex	male	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = Sex: male	True
+GSM5672599	geo:GSE188222:GSM5672599	age	65	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = age: 65	True
+GSM5672599	geo:GSE188222:GSM5672599	disease_free_text	light chain amyloidosis	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = disease: light chain amyloidosis	True
+GSM5672599	geo:GSE188222:GSM5672599	disease_free_text	light chain amyloidosis	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of patient with light chain amyloidosis	True
+GSM5672599	geo:GSE188222:GSM5672599	tissue_free_text	bone marrow	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow cells	True
+GSM5672599	geo:GSE188222:GSM5672599	tissue_free_text	bone marrow	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of patient with light chain amyloidosis	True
+GSM5672599	geo:GSE188222:GSM5672599	tissue_type	tissue	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow cells	True
+GSM5672599	geo:GSE188222:GSM5672599	tissue_type	tissue	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of patient with light chain amyloidosis	True
+GSM5672599	geo:GSE188222:GSM5672599	sample_collection_method	bone marrow aspiration	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		We diluted 5 mL bone marrow aspiration with 5 mL RPMI 1640 culture medium and then separated the lymphocytes with the lymphocyte separation medium.	True
+GSM5672599	geo:GSE188222:GSM5672599	cell_enrichment	CD138+	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		We used magnetic beads conjugated to anti-CD138 antibodies (Miltenyi Biotech, 130-051-301) to enrich the bone marrow plasma cells (BMPCs), and then resuspend the BMPCs.	True
+GSM5672599	geo:GSE188222:GSM5672599	suspension_type	cell	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_extract_protocol_ch1 = 10X Genomics 3' Chromium v2 protocol	True
+GSM5672599	geo:GSE188222:GSM5672599	suspension_type	cell	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		We used magnetic beads conjugated to anti-CD138 antibodies (Miltenyi Biotech, 130-051-301) to enrich the bone marrow plasma cells (BMPCs), and then resuspend the BMPCs.	True
+GSM5672599	geo:GSE188222:GSM5672599	assay	10x 3' v2	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_extract_protocol_ch1 = 10X Genomics 3' Chromium v2 protocol	True
+GSM5672600	geo:GSE188222:GSM5672600	donor_id	MGUSPC1	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_title = MGUSPC1	True
+GSM5672600	geo:GSE188222:GSM5672600	donor_id	MGUSPC1	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of patient with monoclonal gammopathy of undetermined significance	True
+GSM5672600	geo:GSE188222:GSM5672600	donor_id	MGUSPC1	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = age: 73	True
+GSM5672600	geo:GSE188222:GSM5672600	sex	male	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = Sex: male	True
+GSM5672600	geo:GSE188222:GSM5672600	age	73	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = age: 73	True
+GSM5672600	geo:GSE188222:GSM5672600	disease_free_text	monoclonal gammopathy of undetermined significance	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = disease: monoclonal gammopathy of undetermined significance	True
+GSM5672600	geo:GSE188222:GSM5672600	disease_free_text	monoclonal gammopathy of undetermined significance	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of patient with monoclonal gammopathy of undetermined significance	True
+GSM5672600	geo:GSE188222:GSM5672600	tissue_free_text	bone marrow	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow cells	True
+GSM5672600	geo:GSE188222:GSM5672600	tissue_free_text	bone marrow	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of patient with monoclonal gammopathy of undetermined significance	True
+GSM5672600	geo:GSE188222:GSM5672600	tissue_type	tissue	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow cells	True
+GSM5672600	geo:GSE188222:GSM5672600	tissue_type	tissue	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of patient with monoclonal gammopathy of undetermined significance	True
+GSM5672600	geo:GSE188222:GSM5672600	sample_collection_method	bone marrow aspiration	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		We diluted 5 mL bone marrow aspiration with 5 mL RPMI 1640 culture medium and then separated the lymphocytes with the lymphocyte separation medium.	True
+GSM5672600	geo:GSE188222:GSM5672600	cell_enrichment	CD138+	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		We used magnetic beads conjugated to anti-CD138 antibodies (Miltenyi Biotech, 130-051-301) to enrich the bone marrow plasma cells (BMPCs), and then resuspend the BMPCs.	True
+GSM5672600	geo:GSE188222:GSM5672600	suspension_type	cell	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_extract_protocol_ch1 = 10X Genomics 3' Chromium v2 protocol	True
+GSM5672600	geo:GSE188222:GSM5672600	suspension_type	cell	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		We used magnetic beads conjugated to anti-CD138 antibodies (Miltenyi Biotech, 130-051-301) to enrich the bone marrow plasma cells (BMPCs), and then resuspend the BMPCs.	True
+GSM5672600	geo:GSE188222:GSM5672600	assay	10x 3' v2	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_extract_protocol_ch1 = 10X Genomics 3' Chromium v2 protocol	True
+GSM5672600	geo:GSE188222:GSM5672600	disease_ontology_term_id	MONDO:0004225	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = disease: monoclonal gammopathy of undetermined significance	True
+GSM5672601	geo:GSE188222:GSM5672601	donor_id	MGUSPC2	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_title = MGUSPC2	True
+GSM5672601	geo:GSE188222:GSM5672601	donor_id	MGUSPC2	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of patient with monoclonal gammopathy of undetermined significance	True
+GSM5672601	geo:GSE188222:GSM5672601	donor_id	MGUSPC2	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = age: 55	True
+GSM5672601	geo:GSE188222:GSM5672601	sex	female	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = Sex: female	True
+GSM5672601	geo:GSE188222:GSM5672601	age	55	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = age: 55	True
+GSM5672601	geo:GSE188222:GSM5672601	disease_free_text	monoclonal gammopathy of undetermined significance	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = disease: monoclonal gammopathy of undetermined significance	True
+GSM5672601	geo:GSE188222:GSM5672601	disease_free_text	monoclonal gammopathy of undetermined significance	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of patient with monoclonal gammopathy of undetermined significance	True
+GSM5672601	geo:GSE188222:GSM5672601	tissue_free_text	bone marrow	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow cells	True
+GSM5672601	geo:GSE188222:GSM5672601	tissue_free_text	bone marrow	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of patient with monoclonal gammopathy of undetermined significance	True
+GSM5672601	geo:GSE188222:GSM5672601	tissue_type	tissue	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow cells	True
+GSM5672601	geo:GSE188222:GSM5672601	tissue_type	tissue	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of patient with monoclonal gammopathy of undetermined significance	True
+GSM5672601	geo:GSE188222:GSM5672601	sample_collection_method	bone marrow aspiration	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		We diluted 5 mL bone marrow aspiration with 5 mL RPMI 1640 culture medium and then separated the lymphocytes with the lymphocyte separation medium.	True
+GSM5672601	geo:GSE188222:GSM5672601	cell_enrichment	CD138+	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		We used magnetic beads conjugated to anti-CD138 antibodies (Miltenyi Biotech, 130-051-301) to enrich the bone marrow plasma cells (BMPCs), and then resuspend the BMPCs.	True
+GSM5672601	geo:GSE188222:GSM5672601	suspension_type	cell	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_extract_protocol_ch1 = 10X Genomics 3' Chromium v2 protocol	True
+GSM5672601	geo:GSE188222:GSM5672601	suspension_type	cell	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		We used magnetic beads conjugated to anti-CD138 antibodies (Miltenyi Biotech, 130-051-301) to enrich the bone marrow plasma cells (BMPCs), and then resuspend the BMPCs.	True
+GSM5672601	geo:GSE188222:GSM5672601	assay	10x 3' v2	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_extract_protocol_ch1 = 10X Genomics 3' Chromium v2 protocol	True
+GSM5672601	geo:GSE188222:GSM5672601	disease_ontology_term_id	MONDO:0004225	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = disease: monoclonal gammopathy of undetermined significance	True
+GSM5672602	geo:GSE188222:GSM5672602	donor_id	normalPC1	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_title = normalPC1	True
+GSM5672602	geo:GSE188222:GSM5672602	donor_id	normalPC1	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of healthy control	True
+GSM5672602	geo:GSE188222:GSM5672602	donor_id	normalPC1	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = age: 35	True
+GSM5672602	geo:GSE188222:GSM5672602	sex	female	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = Sex: female	True
+GSM5672602	geo:GSE188222:GSM5672602	age	35	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = age: 35	True
+GSM5672602	geo:GSE188222:GSM5672602	disease_free_text	healthy control	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = disease: healthy control	True
+GSM5672602	geo:GSE188222:GSM5672602	disease_free_text	healthy control	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of healthy control	True
+GSM5672602	geo:GSE188222:GSM5672602	tissue_free_text	bone marrow	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow cells	True
+GSM5672602	geo:GSE188222:GSM5672602	tissue_free_text	bone marrow	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of healthy control	True
+GSM5672602	geo:GSE188222:GSM5672602	tissue_type	tissue	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = tissue: bone marrow cells	True
+GSM5672602	geo:GSE188222:GSM5672602	tissue_type	tissue	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of healthy control	True
+GSM5672602	geo:GSE188222:GSM5672602	sample_collection_method	bone marrow aspiration	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		We diluted 5 mL bone marrow aspiration with 5 mL RPMI 1640 culture medium and then separated the lymphocytes with the lymphocyte separation medium.	True
+GSM5672602	geo:GSE188222:GSM5672602	cell_enrichment	CD138+	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		We used magnetic beads conjugated to anti-CD138 antibodies (Miltenyi Biotech, 130-051-301) to enrich the bone marrow plasma cells (BMPCs), and then resuspend the BMPCs.	True
+GSM5672602	geo:GSE188222:GSM5672602	suspension_type	cell	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_extract_protocol_ch1 = 10X Genomics 3' Chromium v2 protocol	True
+GSM5672602	geo:GSE188222:GSM5672602	suspension_type	cell	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		We used magnetic beads conjugated to anti-CD138 antibodies (Miltenyi Biotech, 130-051-301) to enrich the bone marrow plasma cells (BMPCs), and then resuspend the BMPCs.	True
+GSM5672602	geo:GSE188222:GSM5672602	assay	10x 3' v2	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_extract_protocol_ch1 = 10X Genomics 3' Chromium v2 protocol	True
+GSM5672602	geo:GSE188222:GSM5672602	disease_ontology_term_id	PATO:0000461	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_characteristics_ch1 = disease: healthy control	True
+GSM5672602	geo:GSE188222:GSM5672602	disease_ontology_term_id	PATO:0000461	file	raw/fp-b6f37dfb8197/GSE188222_family.soft.gz		!Sample_source_name_ch1 = bone marrow cells of healthy control	True

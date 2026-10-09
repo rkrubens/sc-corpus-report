@@ -1,0 +1,574 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM3528753	geo:GSE124310:GSM3528753	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528755	geo:GSE124310:GSM3528755	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528757	geo:GSE124310:GSM3528757	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528759	geo:GSE124310:GSM3528759	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528762	geo:GSE124310:GSM3528762	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528764	geo:GSE124310:GSM3528764	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528767	geo:GSE124310:GSM3528767	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528769	geo:GSE124310:GSM3528769	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528771	geo:GSE124310:GSM3528771	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528773	geo:GSE124310:GSM3528773	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528775	geo:GSE124310:GSM3528775	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528777	geo:GSE124310:GSM3528777	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528779	geo:GSE124310:GSM3528779	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528781	geo:GSE124310:GSM3528781	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528783	geo:GSE124310:GSM3528783	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528785	geo:GSE124310:GSM3528785	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528787	geo:GSE124310:GSM3528787	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528789	geo:GSE124310:GSM3528789	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528791	geo:GSE124310:GSM3528791	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528794	geo:GSE124310:GSM3528794	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528796	geo:GSE124310:GSM3528796	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528798	geo:GSE124310:GSM3528798	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528800	geo:GSE124310:GSM3528800	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528802	geo:GSE124310:GSM3528802	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528804	geo:GSE124310:GSM3528804	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528807	geo:GSE124310:GSM3528807	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528809	geo:GSE124310:GSM3528809	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528810	geo:GSE124310:GSM3528810	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528812	geo:GSE124310:GSM3528812	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528814	geo:GSE124310:GSM3528814	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528816	geo:GSE124310:GSM3528816	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3528818	geo:GSE124310:GSM3528818	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+		organism	Homo sapiens	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM3528753	geo:GSE124310:GSM3528753	donor_id	MGUS-1	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MGUS sample 1, 138N fraction	True
+GSM3528753	geo:GSE124310:GSM3528753	donor_id	MGUS-1	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528753	geo:GSE124310:GSM3528753	donor_id	MGUS-1	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528753	geo:GSE124310:GSM3528753	donor_id	MGUS-1	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528753	geo:GSE124310:GSM3528753	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528753	geo:GSE124310:GSM3528753	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528753	geo:GSE124310:GSM3528753	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528753	geo:GSE124310:GSM3528753	disease_free_text	Monoclonal Gammopathy of Undetermined Significance	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Monoclonal Gammopathy of Undetermined Significance	True
+GSM3528753	geo:GSE124310:GSM3528753	disease_ontology_term_id	MONDO:0004225	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Monoclonal Gammopathy of Undetermined Significance	True
+GSM3528753	geo:GSE124310:GSM3528753	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528753	geo:GSE124310:GSM3528753	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528753	geo:GSE124310:GSM3528753	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MGUS sample 1, 138N fraction	True
+GSM3528753	geo:GSE124310:GSM3528753	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138N	True
+GSM3528753	geo:GSE124310:GSM3528753	cell_enrichment	CD138-	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528753	geo:GSE124310:GSM3528753	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528753	geo:GSE124310:GSM3528753	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528753	geo:GSE124310:GSM3528753	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528755	geo:GSE124310:GSM3528755	donor_id	MGUS-2	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MGUS sample 2, 138N45P fraction	True
+GSM3528755	geo:GSE124310:GSM3528755	donor_id	MGUS-2	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528755	geo:GSE124310:GSM3528755	donor_id	MGUS-2	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528755	geo:GSE124310:GSM3528755	donor_id	MGUS-2	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528755	geo:GSE124310:GSM3528755	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528755	geo:GSE124310:GSM3528755	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528755	geo:GSE124310:GSM3528755	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528755	geo:GSE124310:GSM3528755	disease_free_text	Monoclonal Gammopathy of Undetermined Significance	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Monoclonal Gammopathy of Undetermined Significance	True
+GSM3528755	geo:GSE124310:GSM3528755	disease_ontology_term_id	MONDO:0004225	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Monoclonal Gammopathy of Undetermined Significance	True
+GSM3528755	geo:GSE124310:GSM3528755	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528755	geo:GSE124310:GSM3528755	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528755	geo:GSE124310:GSM3528755	cell_enrichment	CD138- CD45+	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MGUS sample 2, 138N45P fraction	True
+GSM3528755	geo:GSE124310:GSM3528755	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528755	geo:GSE124310:GSM3528755	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		The CD45 + CD138 − subset was isolated using magnetic bead sorting of the BM samples	True
+GSM3528755	geo:GSE124310:GSM3528755	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528755	geo:GSE124310:GSM3528755	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528755	geo:GSE124310:GSM3528755	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528757	geo:GSE124310:GSM3528757	donor_id	MGUS-3	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MGUS sample 3, 138N45P fraction	True
+GSM3528757	geo:GSE124310:GSM3528757	donor_id	MGUS-3	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528757	geo:GSE124310:GSM3528757	donor_id	MGUS-3	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528757	geo:GSE124310:GSM3528757	donor_id	MGUS-3	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528757	geo:GSE124310:GSM3528757	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528757	geo:GSE124310:GSM3528757	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528757	geo:GSE124310:GSM3528757	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528757	geo:GSE124310:GSM3528757	disease_free_text	Monoclonal Gammopathy of Undetermined Significance	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Monoclonal Gammopathy of Undetermined Significance	True
+GSM3528757	geo:GSE124310:GSM3528757	disease_ontology_term_id	MONDO:0004225	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Monoclonal Gammopathy of Undetermined Significance	True
+GSM3528757	geo:GSE124310:GSM3528757	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528757	geo:GSE124310:GSM3528757	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528757	geo:GSE124310:GSM3528757	cell_enrichment	CD138- CD45+	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MGUS sample 3, 138N45P fraction	True
+GSM3528757	geo:GSE124310:GSM3528757	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528757	geo:GSE124310:GSM3528757	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		The CD45 + CD138 − subset was isolated using magnetic bead sorting of the BM samples	True
+GSM3528757	geo:GSE124310:GSM3528757	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528757	geo:GSE124310:GSM3528757	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528757	geo:GSE124310:GSM3528757	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528759	geo:GSE124310:GSM3528759	donor_id	MGUS-4	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MGUS sample 4, 138N45P fraction	True
+GSM3528759	geo:GSE124310:GSM3528759	donor_id	MGUS-4	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528759	geo:GSE124310:GSM3528759	donor_id	MGUS-4	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528759	geo:GSE124310:GSM3528759	donor_id	MGUS-4	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528759	geo:GSE124310:GSM3528759	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528759	geo:GSE124310:GSM3528759	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528759	geo:GSE124310:GSM3528759	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528759	geo:GSE124310:GSM3528759	disease_free_text	Monoclonal Gammopathy of Undetermined Significance	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Monoclonal Gammopathy of Undetermined Significance	True
+GSM3528759	geo:GSE124310:GSM3528759	disease_ontology_term_id	MONDO:0004225	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Monoclonal Gammopathy of Undetermined Significance	True
+GSM3528759	geo:GSE124310:GSM3528759	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528759	geo:GSE124310:GSM3528759	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528759	geo:GSE124310:GSM3528759	cell_enrichment	CD138- CD45+	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MGUS sample 4, 138N45P fraction	True
+GSM3528759	geo:GSE124310:GSM3528759	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528759	geo:GSE124310:GSM3528759	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		The CD45 + CD138 − subset was isolated using magnetic bead sorting of the BM samples	True
+GSM3528759	geo:GSE124310:GSM3528759	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528759	geo:GSE124310:GSM3528759	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528759	geo:GSE124310:GSM3528759	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528762	geo:GSE124310:GSM3528762	donor_id	MGUS-6	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MGUS sample 6, 138N45P fraction	True
+GSM3528762	geo:GSE124310:GSM3528762	donor_id	MGUS-6	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528762	geo:GSE124310:GSM3528762	donor_id	MGUS-6	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528762	geo:GSE124310:GSM3528762	donor_id	MGUS-6	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528762	geo:GSE124310:GSM3528762	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528762	geo:GSE124310:GSM3528762	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528762	geo:GSE124310:GSM3528762	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528762	geo:GSE124310:GSM3528762	disease_free_text	Monoclonal Gammopathy of Undetermined Significance	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Monoclonal Gammopathy of Undetermined Significance	True
+GSM3528762	geo:GSE124310:GSM3528762	disease_ontology_term_id	MONDO:0004225	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Monoclonal Gammopathy of Undetermined Significance	True
+GSM3528762	geo:GSE124310:GSM3528762	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528762	geo:GSE124310:GSM3528762	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528762	geo:GSE124310:GSM3528762	cell_enrichment	CD138- CD45+	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MGUS sample 6, 138N45P fraction	True
+GSM3528762	geo:GSE124310:GSM3528762	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528762	geo:GSE124310:GSM3528762	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		The CD45 + CD138 − subset was isolated using magnetic bead sorting of the BM samples	True
+GSM3528762	geo:GSE124310:GSM3528762	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528762	geo:GSE124310:GSM3528762	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528762	geo:GSE124310:GSM3528762	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528764	geo:GSE124310:GSM3528764	donor_id	MM-1	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MM sample 1, 138N fraction	True
+GSM3528764	geo:GSE124310:GSM3528764	donor_id	MM-1	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528764	geo:GSE124310:GSM3528764	donor_id	MM-1	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528764	geo:GSE124310:GSM3528764	donor_id	MM-1	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528764	geo:GSE124310:GSM3528764	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528764	geo:GSE124310:GSM3528764	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528764	geo:GSE124310:GSM3528764	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528764	geo:GSE124310:GSM3528764	disease_free_text	Multiple Myeloma	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528764	geo:GSE124310:GSM3528764	disease_ontology_term_id	MONDO:0009693	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528764	geo:GSE124310:GSM3528764	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528764	geo:GSE124310:GSM3528764	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528764	geo:GSE124310:GSM3528764	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MM sample 1, 138N fraction	True
+GSM3528764	geo:GSE124310:GSM3528764	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138N	True
+GSM3528764	geo:GSE124310:GSM3528764	cell_enrichment	CD138-	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528764	geo:GSE124310:GSM3528764	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528764	geo:GSE124310:GSM3528764	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528764	geo:GSE124310:GSM3528764	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528767	geo:GSE124310:GSM3528767	donor_id	MM-3	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MM sample 3, 138N45P fraction	True
+GSM3528767	geo:GSE124310:GSM3528767	donor_id	MM-3	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528767	geo:GSE124310:GSM3528767	donor_id	MM-3	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528767	geo:GSE124310:GSM3528767	donor_id	MM-3	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528767	geo:GSE124310:GSM3528767	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528767	geo:GSE124310:GSM3528767	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528767	geo:GSE124310:GSM3528767	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528767	geo:GSE124310:GSM3528767	disease_free_text	Multiple Myeloma	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528767	geo:GSE124310:GSM3528767	disease_ontology_term_id	MONDO:0009693	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528767	geo:GSE124310:GSM3528767	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528767	geo:GSE124310:GSM3528767	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528767	geo:GSE124310:GSM3528767	cell_enrichment	CD138- CD45+	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MM sample 3, 138N45P fraction	True
+GSM3528767	geo:GSE124310:GSM3528767	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528767	geo:GSE124310:GSM3528767	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		The CD45 + CD138 − subset was isolated using magnetic bead sorting of the BM samples	True
+GSM3528767	geo:GSE124310:GSM3528767	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528767	geo:GSE124310:GSM3528767	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528767	geo:GSE124310:GSM3528767	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528769	geo:GSE124310:GSM3528769	donor_id	MM-4	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MM sample 4, 138N45P fraction	True
+GSM3528769	geo:GSE124310:GSM3528769	donor_id	MM-4	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528769	geo:GSE124310:GSM3528769	donor_id	MM-4	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528769	geo:GSE124310:GSM3528769	donor_id	MM-4	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528769	geo:GSE124310:GSM3528769	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528769	geo:GSE124310:GSM3528769	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528769	geo:GSE124310:GSM3528769	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528769	geo:GSE124310:GSM3528769	disease_free_text	Multiple Myeloma	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528769	geo:GSE124310:GSM3528769	disease_ontology_term_id	MONDO:0009693	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528769	geo:GSE124310:GSM3528769	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528769	geo:GSE124310:GSM3528769	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528769	geo:GSE124310:GSM3528769	cell_enrichment	CD138- CD45+	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MM sample 4, 138N45P fraction	True
+GSM3528769	geo:GSE124310:GSM3528769	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528769	geo:GSE124310:GSM3528769	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		The CD45 + CD138 − subset was isolated using magnetic bead sorting of the BM samples	True
+GSM3528769	geo:GSE124310:GSM3528769	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528769	geo:GSE124310:GSM3528769	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528769	geo:GSE124310:GSM3528769	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528771	geo:GSE124310:GSM3528771	donor_id	MM-5	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MM sample 5, 138N45P fraction	True
+GSM3528771	geo:GSE124310:GSM3528771	donor_id	MM-5	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528771	geo:GSE124310:GSM3528771	donor_id	MM-5	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528771	geo:GSE124310:GSM3528771	donor_id	MM-5	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528771	geo:GSE124310:GSM3528771	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528771	geo:GSE124310:GSM3528771	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528771	geo:GSE124310:GSM3528771	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528771	geo:GSE124310:GSM3528771	disease_free_text	Multiple Myeloma	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528771	geo:GSE124310:GSM3528771	disease_ontology_term_id	MONDO:0009693	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528771	geo:GSE124310:GSM3528771	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528771	geo:GSE124310:GSM3528771	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528771	geo:GSE124310:GSM3528771	cell_enrichment	CD138- CD45+	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MM sample 5, 138N45P fraction	True
+GSM3528771	geo:GSE124310:GSM3528771	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528771	geo:GSE124310:GSM3528771	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		The CD45 + CD138 − subset was isolated using magnetic bead sorting of the BM samples	True
+GSM3528771	geo:GSE124310:GSM3528771	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528771	geo:GSE124310:GSM3528771	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528771	geo:GSE124310:GSM3528771	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528773	geo:GSE124310:GSM3528773	donor_id	MM-6	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MM sample 6, 138N45P fraction	True
+GSM3528773	geo:GSE124310:GSM3528773	donor_id	MM-6	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528773	geo:GSE124310:GSM3528773	donor_id	MM-6	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528773	geo:GSE124310:GSM3528773	donor_id	MM-6	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528773	geo:GSE124310:GSM3528773	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528773	geo:GSE124310:GSM3528773	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528773	geo:GSE124310:GSM3528773	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528773	geo:GSE124310:GSM3528773	disease_free_text	Multiple Myeloma	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528773	geo:GSE124310:GSM3528773	disease_ontology_term_id	MONDO:0009693	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528773	geo:GSE124310:GSM3528773	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528773	geo:GSE124310:GSM3528773	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528773	geo:GSE124310:GSM3528773	cell_enrichment	CD138- CD45+	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MM sample 6, 138N45P fraction	True
+GSM3528773	geo:GSE124310:GSM3528773	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528773	geo:GSE124310:GSM3528773	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		The CD45 + CD138 − subset was isolated using magnetic bead sorting of the BM samples	True
+GSM3528773	geo:GSE124310:GSM3528773	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528773	geo:GSE124310:GSM3528773	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528773	geo:GSE124310:GSM3528773	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528775	geo:GSE124310:GSM3528775	donor_id	MM-7	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MM sample 7, 138N45P fraction	True
+GSM3528775	geo:GSE124310:GSM3528775	donor_id	MM-7	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528775	geo:GSE124310:GSM3528775	donor_id	MM-7	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528775	geo:GSE124310:GSM3528775	donor_id	MM-7	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528775	geo:GSE124310:GSM3528775	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528775	geo:GSE124310:GSM3528775	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528775	geo:GSE124310:GSM3528775	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528775	geo:GSE124310:GSM3528775	disease_free_text	Multiple Myeloma	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528775	geo:GSE124310:GSM3528775	disease_ontology_term_id	MONDO:0009693	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528775	geo:GSE124310:GSM3528775	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528775	geo:GSE124310:GSM3528775	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528775	geo:GSE124310:GSM3528775	cell_enrichment	CD138- CD45+	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MM sample 7, 138N45P fraction	True
+GSM3528775	geo:GSE124310:GSM3528775	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528775	geo:GSE124310:GSM3528775	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		The CD45 + CD138 − subset was isolated using magnetic bead sorting of the BM samples	True
+GSM3528775	geo:GSE124310:GSM3528775	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528775	geo:GSE124310:GSM3528775	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528775	geo:GSE124310:GSM3528775	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528777	geo:GSE124310:GSM3528777	donor_id	SMMl-1 & MM-8	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528777	geo:GSE124310:GSM3528777	donor_id	SMMl-1 & MM-8	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MM sample 8, 138N45P fraction	True
+GSM3528777	geo:GSE124310:GSM3528777	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528777	geo:GSE124310:GSM3528777	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528777	geo:GSE124310:GSM3528777	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528777	geo:GSE124310:GSM3528777	disease_free_text	Multiple Myeloma	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528777	geo:GSE124310:GSM3528777	disease_ontology_term_id	MONDO:0009693	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Multiple Myeloma	True
+GSM3528777	geo:GSE124310:GSM3528777	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528777	geo:GSE124310:GSM3528777	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528777	geo:GSE124310:GSM3528777	cell_enrichment	CD138- CD45+	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = MM sample 8, 138N45P fraction	True
+GSM3528777	geo:GSE124310:GSM3528777	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528777	geo:GSE124310:GSM3528777	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		The CD45 + CD138 − subset was isolated using magnetic bead sorting of the BM samples	True
+GSM3528777	geo:GSE124310:GSM3528777	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528777	geo:GSE124310:GSM3528777	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528777	geo:GSE124310:GSM3528777	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528779	geo:GSE124310:GSM3528779	donor_id	NBM-1	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = NBM sample 1, 138N45P fraction	True
+GSM3528779	geo:GSE124310:GSM3528779	donor_id	NBM-1	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528779	geo:GSE124310:GSM3528779	donor_id	NBM-1	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528779	geo:GSE124310:GSM3528779	donor_id	NBM-1	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528779	geo:GSE124310:GSM3528779	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528779	geo:GSE124310:GSM3528779	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528779	geo:GSE124310:GSM3528779	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528779	geo:GSE124310:GSM3528779	disease_free_text	Healthy Donor	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528779	geo:GSE124310:GSM3528779	disease_ontology_term_id	PATO:0000461	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528779	geo:GSE124310:GSM3528779	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528779	geo:GSE124310:GSM3528779	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528779	geo:GSE124310:GSM3528779	cell_enrichment	CD138- CD45+	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = NBM sample 1, 138N45P fraction	True
+GSM3528779	geo:GSE124310:GSM3528779	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528779	geo:GSE124310:GSM3528779	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		The CD45 + CD138 − subset was isolated using magnetic bead sorting of the BM samples	True
+GSM3528779	geo:GSE124310:GSM3528779	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528779	geo:GSE124310:GSM3528779	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528779	geo:GSE124310:GSM3528779	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528781	geo:GSE124310:GSM3528781	donor_id	NBM-10	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = NBM sample 10, 138N fraction	True
+GSM3528781	geo:GSE124310:GSM3528781	donor_id	NBM-10	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528781	geo:GSE124310:GSM3528781	donor_id	NBM-10	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528781	geo:GSE124310:GSM3528781	donor_id	NBM-10	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528781	geo:GSE124310:GSM3528781	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528781	geo:GSE124310:GSM3528781	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528781	geo:GSE124310:GSM3528781	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528781	geo:GSE124310:GSM3528781	disease_free_text	Healthy Donor	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528781	geo:GSE124310:GSM3528781	disease_ontology_term_id	PATO:0000461	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528781	geo:GSE124310:GSM3528781	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528781	geo:GSE124310:GSM3528781	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528781	geo:GSE124310:GSM3528781	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = NBM sample 10, 138N fraction	True
+GSM3528781	geo:GSE124310:GSM3528781	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138N	True
+GSM3528781	geo:GSE124310:GSM3528781	cell_enrichment	CD138-	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528781	geo:GSE124310:GSM3528781	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528781	geo:GSE124310:GSM3528781	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528781	geo:GSE124310:GSM3528781	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528783	geo:GSE124310:GSM3528783	donor_id	NBM-11	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = NBM sample 11, 138N fraction	True
+GSM3528783	geo:GSE124310:GSM3528783	donor_id	NBM-11	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528783	geo:GSE124310:GSM3528783	donor_id	NBM-11	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528783	geo:GSE124310:GSM3528783	donor_id	NBM-11	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528783	geo:GSE124310:GSM3528783	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528783	geo:GSE124310:GSM3528783	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528783	geo:GSE124310:GSM3528783	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528783	geo:GSE124310:GSM3528783	disease_free_text	Healthy Donor	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528783	geo:GSE124310:GSM3528783	disease_ontology_term_id	PATO:0000461	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528783	geo:GSE124310:GSM3528783	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528783	geo:GSE124310:GSM3528783	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528783	geo:GSE124310:GSM3528783	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = NBM sample 11, 138N fraction	True
+GSM3528783	geo:GSE124310:GSM3528783	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138N	True
+GSM3528783	geo:GSE124310:GSM3528783	cell_enrichment	CD138-	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528783	geo:GSE124310:GSM3528783	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528783	geo:GSE124310:GSM3528783	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528783	geo:GSE124310:GSM3528783	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528785	geo:GSE124310:GSM3528785	donor_id	NBM-2	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = NBM sample 2, 138N45P fraction	True
+GSM3528785	geo:GSE124310:GSM3528785	donor_id	NBM-2	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528785	geo:GSE124310:GSM3528785	donor_id	NBM-2	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528785	geo:GSE124310:GSM3528785	donor_id	NBM-2	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528785	geo:GSE124310:GSM3528785	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528785	geo:GSE124310:GSM3528785	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528785	geo:GSE124310:GSM3528785	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528785	geo:GSE124310:GSM3528785	disease_free_text	Healthy Donor	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528785	geo:GSE124310:GSM3528785	disease_ontology_term_id	PATO:0000461	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528785	geo:GSE124310:GSM3528785	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528785	geo:GSE124310:GSM3528785	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528785	geo:GSE124310:GSM3528785	cell_enrichment	CD138- CD45+	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = NBM sample 2, 138N45P fraction	True
+GSM3528785	geo:GSE124310:GSM3528785	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528785	geo:GSE124310:GSM3528785	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		The CD45 + CD138 − subset was isolated using magnetic bead sorting of the BM samples	True
+GSM3528785	geo:GSE124310:GSM3528785	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528785	geo:GSE124310:GSM3528785	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528785	geo:GSE124310:GSM3528785	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528787	geo:GSE124310:GSM3528787	donor_id	NBM-3	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = NBM sample 3, 138N45P fraction	True
+GSM3528787	geo:GSE124310:GSM3528787	donor_id	NBM-3	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528787	geo:GSE124310:GSM3528787	donor_id	NBM-3	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528787	geo:GSE124310:GSM3528787	donor_id	NBM-3	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528787	geo:GSE124310:GSM3528787	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528787	geo:GSE124310:GSM3528787	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528787	geo:GSE124310:GSM3528787	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528787	geo:GSE124310:GSM3528787	disease_free_text	Healthy Donor	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528787	geo:GSE124310:GSM3528787	disease_ontology_term_id	PATO:0000461	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528787	geo:GSE124310:GSM3528787	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528787	geo:GSE124310:GSM3528787	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528787	geo:GSE124310:GSM3528787	cell_enrichment	CD138- CD45+	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = NBM sample 3, 138N45P fraction	True
+GSM3528787	geo:GSE124310:GSM3528787	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528787	geo:GSE124310:GSM3528787	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		The CD45 + CD138 − subset was isolated using magnetic bead sorting of the BM samples	True
+GSM3528787	geo:GSE124310:GSM3528787	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528787	geo:GSE124310:GSM3528787	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528787	geo:GSE124310:GSM3528787	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528789	geo:GSE124310:GSM3528789	donor_id	NBM-4	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = NBM sample 4, 138N fraction	True
+GSM3528789	geo:GSE124310:GSM3528789	donor_id	NBM-4	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528789	geo:GSE124310:GSM3528789	donor_id	NBM-4	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528789	geo:GSE124310:GSM3528789	donor_id	NBM-4	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528789	geo:GSE124310:GSM3528789	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528789	geo:GSE124310:GSM3528789	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528789	geo:GSE124310:GSM3528789	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528789	geo:GSE124310:GSM3528789	disease_free_text	Healthy Donor	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528789	geo:GSE124310:GSM3528789	disease_ontology_term_id	PATO:0000461	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528789	geo:GSE124310:GSM3528789	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528789	geo:GSE124310:GSM3528789	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528789	geo:GSE124310:GSM3528789	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = NBM sample 4, 138N fraction	True
+GSM3528789	geo:GSE124310:GSM3528789	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138N	True
+GSM3528789	geo:GSE124310:GSM3528789	cell_enrichment	CD138-	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528789	geo:GSE124310:GSM3528789	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528789	geo:GSE124310:GSM3528789	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528789	geo:GSE124310:GSM3528789	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528791	geo:GSE124310:GSM3528791	donor_id	NBM-5	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = NBM sample 5, 138N fraction	True
+GSM3528791	geo:GSE124310:GSM3528791	donor_id	NBM-5	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528791	geo:GSE124310:GSM3528791	donor_id	NBM-5	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528791	geo:GSE124310:GSM3528791	donor_id	NBM-5	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528791	geo:GSE124310:GSM3528791	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528791	geo:GSE124310:GSM3528791	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528791	geo:GSE124310:GSM3528791	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528791	geo:GSE124310:GSM3528791	disease_free_text	Healthy Donor	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528791	geo:GSE124310:GSM3528791	disease_ontology_term_id	PATO:0000461	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528791	geo:GSE124310:GSM3528791	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528791	geo:GSE124310:GSM3528791	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528791	geo:GSE124310:GSM3528791	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = NBM sample 5, 138N fraction	True
+GSM3528791	geo:GSE124310:GSM3528791	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138N	True
+GSM3528791	geo:GSE124310:GSM3528791	cell_enrichment	CD138-	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528791	geo:GSE124310:GSM3528791	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528791	geo:GSE124310:GSM3528791	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528791	geo:GSE124310:GSM3528791	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528794	geo:GSE124310:GSM3528794	donor_id	NBM-8	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = NBM sample 8, 138N fraction	True
+GSM3528794	geo:GSE124310:GSM3528794	donor_id	NBM-8	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528794	geo:GSE124310:GSM3528794	donor_id	NBM-8	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528794	geo:GSE124310:GSM3528794	donor_id	NBM-8	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528794	geo:GSE124310:GSM3528794	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528794	geo:GSE124310:GSM3528794	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528794	geo:GSE124310:GSM3528794	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528794	geo:GSE124310:GSM3528794	disease_free_text	Healthy Donor	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528794	geo:GSE124310:GSM3528794	disease_ontology_term_id	PATO:0000461	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528794	geo:GSE124310:GSM3528794	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528794	geo:GSE124310:GSM3528794	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528794	geo:GSE124310:GSM3528794	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = NBM sample 8, 138N fraction	True
+GSM3528794	geo:GSE124310:GSM3528794	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138N	True
+GSM3528794	geo:GSE124310:GSM3528794	cell_enrichment	CD138-	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528794	geo:GSE124310:GSM3528794	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528794	geo:GSE124310:GSM3528794	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528794	geo:GSE124310:GSM3528794	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528796	geo:GSE124310:GSM3528796	donor_id	NBM-9	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = NBM sample 9, 138N fraction	True
+GSM3528796	geo:GSE124310:GSM3528796	donor_id	NBM-9	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528796	geo:GSE124310:GSM3528796	donor_id	NBM-9	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528796	geo:GSE124310:GSM3528796	donor_id	NBM-9	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528796	geo:GSE124310:GSM3528796	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528796	geo:GSE124310:GSM3528796	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528796	geo:GSE124310:GSM3528796	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528796	geo:GSE124310:GSM3528796	disease_free_text	Healthy Donor	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528796	geo:GSE124310:GSM3528796	disease_ontology_term_id	PATO:0000461	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Healthy Donor	True
+GSM3528796	geo:GSE124310:GSM3528796	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528796	geo:GSE124310:GSM3528796	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528796	geo:GSE124310:GSM3528796	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = NBM sample 9, 138N fraction	True
+GSM3528796	geo:GSE124310:GSM3528796	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138N	True
+GSM3528796	geo:GSE124310:GSM3528796	cell_enrichment	CD138-	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528796	geo:GSE124310:GSM3528796	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528796	geo:GSE124310:GSM3528796	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528796	geo:GSE124310:GSM3528796	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528798	geo:GSE124310:GSM3528798	donor_id	SMMh-10	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = SMMh sample 10, 138N45P fraction	True
+GSM3528798	geo:GSE124310:GSM3528798	donor_id	SMMh-10	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528798	geo:GSE124310:GSM3528798	donor_id	SMMh-10	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528798	geo:GSE124310:GSM3528798	donor_id	SMMh-10	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528798	geo:GSE124310:GSM3528798	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528798	geo:GSE124310:GSM3528798	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528798	geo:GSE124310:GSM3528798	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528798	geo:GSE124310:GSM3528798	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528798	geo:GSE124310:GSM3528798	disease_ontology_term_id	MONDO:0005235	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528798	geo:GSE124310:GSM3528798	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528798	geo:GSE124310:GSM3528798	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528798	geo:GSE124310:GSM3528798	cell_enrichment	CD138- CD45+	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = SMMh sample 10, 138N45P fraction	True
+GSM3528798	geo:GSE124310:GSM3528798	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528798	geo:GSE124310:GSM3528798	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		The CD45 + CD138 − subset was isolated using magnetic bead sorting of the BM samples	True
+GSM3528798	geo:GSE124310:GSM3528798	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528798	geo:GSE124310:GSM3528798	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528798	geo:GSE124310:GSM3528798	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528800	geo:GSE124310:GSM3528800	donor_id	SMMh-2	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = SMMh sample 2, 138N45P fraction	True
+GSM3528800	geo:GSE124310:GSM3528800	donor_id	SMMh-2	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528800	geo:GSE124310:GSM3528800	donor_id	SMMh-2	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528800	geo:GSE124310:GSM3528800	donor_id	SMMh-2	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528800	geo:GSE124310:GSM3528800	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528800	geo:GSE124310:GSM3528800	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528800	geo:GSE124310:GSM3528800	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528800	geo:GSE124310:GSM3528800	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528800	geo:GSE124310:GSM3528800	disease_ontology_term_id	MONDO:0005235	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528800	geo:GSE124310:GSM3528800	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528800	geo:GSE124310:GSM3528800	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528800	geo:GSE124310:GSM3528800	cell_enrichment	CD138- CD45+	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = SMMh sample 2, 138N45P fraction	True
+GSM3528800	geo:GSE124310:GSM3528800	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528800	geo:GSE124310:GSM3528800	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		The CD45 + CD138 − subset was isolated using magnetic bead sorting of the BM samples	True
+GSM3528800	geo:GSE124310:GSM3528800	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528800	geo:GSE124310:GSM3528800	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528800	geo:GSE124310:GSM3528800	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528802	geo:GSE124310:GSM3528802	donor_id	SMMh-3	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = SMMh sample 3, 138N fraction	True
+GSM3528802	geo:GSE124310:GSM3528802	donor_id	SMMh-3	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528802	geo:GSE124310:GSM3528802	donor_id	SMMh-3	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528802	geo:GSE124310:GSM3528802	donor_id	SMMh-3	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528802	geo:GSE124310:GSM3528802	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528802	geo:GSE124310:GSM3528802	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528802	geo:GSE124310:GSM3528802	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528802	geo:GSE124310:GSM3528802	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528802	geo:GSE124310:GSM3528802	disease_ontology_term_id	MONDO:0005235	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528802	geo:GSE124310:GSM3528802	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528802	geo:GSE124310:GSM3528802	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528802	geo:GSE124310:GSM3528802	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = SMMh sample 3, 138N fraction	True
+GSM3528802	geo:GSE124310:GSM3528802	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138N	True
+GSM3528802	geo:GSE124310:GSM3528802	cell_enrichment	CD138-	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528802	geo:GSE124310:GSM3528802	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528802	geo:GSE124310:GSM3528802	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528802	geo:GSE124310:GSM3528802	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528804	geo:GSE124310:GSM3528804	donor_id	SMMh-4	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = SMMh sample 4, 138N fraction	True
+GSM3528804	geo:GSE124310:GSM3528804	donor_id	SMMh-4	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528804	geo:GSE124310:GSM3528804	donor_id	SMMh-4	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528804	geo:GSE124310:GSM3528804	donor_id	SMMh-4	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528804	geo:GSE124310:GSM3528804	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528804	geo:GSE124310:GSM3528804	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528804	geo:GSE124310:GSM3528804	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528804	geo:GSE124310:GSM3528804	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528804	geo:GSE124310:GSM3528804	disease_ontology_term_id	MONDO:0005235	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528804	geo:GSE124310:GSM3528804	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528804	geo:GSE124310:GSM3528804	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528804	geo:GSE124310:GSM3528804	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = SMMh sample 4, 138N fraction	True
+GSM3528804	geo:GSE124310:GSM3528804	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138N	True
+GSM3528804	geo:GSE124310:GSM3528804	cell_enrichment	CD138-	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528804	geo:GSE124310:GSM3528804	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528804	geo:GSE124310:GSM3528804	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528804	geo:GSE124310:GSM3528804	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528807	geo:GSE124310:GSM3528807	donor_id	SMMh-6	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = SMMh sample 6, 138N fraction	True
+GSM3528807	geo:GSE124310:GSM3528807	donor_id	SMMh-6	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528807	geo:GSE124310:GSM3528807	donor_id	SMMh-6	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528807	geo:GSE124310:GSM3528807	donor_id	SMMh-6	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528807	geo:GSE124310:GSM3528807	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528807	geo:GSE124310:GSM3528807	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528807	geo:GSE124310:GSM3528807	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528807	geo:GSE124310:GSM3528807	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528807	geo:GSE124310:GSM3528807	disease_ontology_term_id	MONDO:0005235	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528807	geo:GSE124310:GSM3528807	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528807	geo:GSE124310:GSM3528807	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528807	geo:GSE124310:GSM3528807	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = SMMh sample 6, 138N fraction	True
+GSM3528807	geo:GSE124310:GSM3528807	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138N	True
+GSM3528807	geo:GSE124310:GSM3528807	cell_enrichment	CD138-	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528807	geo:GSE124310:GSM3528807	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528807	geo:GSE124310:GSM3528807	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528807	geo:GSE124310:GSM3528807	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528809	geo:GSE124310:GSM3528809	donor_id	SMMh-7	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = SMMh sample 7, 138N fraction	True
+GSM3528809	geo:GSE124310:GSM3528809	donor_id	SMMh-7	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528809	geo:GSE124310:GSM3528809	donor_id	SMMh-7	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528809	geo:GSE124310:GSM3528809	donor_id	SMMh-7	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528809	geo:GSE124310:GSM3528809	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528809	geo:GSE124310:GSM3528809	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528809	geo:GSE124310:GSM3528809	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528809	geo:GSE124310:GSM3528809	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528809	geo:GSE124310:GSM3528809	disease_ontology_term_id	MONDO:0005235	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528809	geo:GSE124310:GSM3528809	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528809	geo:GSE124310:GSM3528809	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528809	geo:GSE124310:GSM3528809	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = SMMh sample 7, 138N fraction	True
+GSM3528809	geo:GSE124310:GSM3528809	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138N	True
+GSM3528809	geo:GSE124310:GSM3528809	cell_enrichment	CD138-	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528809	geo:GSE124310:GSM3528809	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528809	geo:GSE124310:GSM3528809	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528809	geo:GSE124310:GSM3528809	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528810	geo:GSE124310:GSM3528810	donor_id	SMMh-8	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = SMMh sample 8, 138N45P fraction	True
+GSM3528810	geo:GSE124310:GSM3528810	donor_id	SMMh-8	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528810	geo:GSE124310:GSM3528810	donor_id	SMMh-8	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528810	geo:GSE124310:GSM3528810	donor_id	SMMh-8	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528810	geo:GSE124310:GSM3528810	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528810	geo:GSE124310:GSM3528810	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528810	geo:GSE124310:GSM3528810	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528810	geo:GSE124310:GSM3528810	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528810	geo:GSE124310:GSM3528810	disease_ontology_term_id	MONDO:0005235	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528810	geo:GSE124310:GSM3528810	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528810	geo:GSE124310:GSM3528810	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528810	geo:GSE124310:GSM3528810	cell_enrichment	CD138- CD45+	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = SMMh sample 8, 138N45P fraction	True
+GSM3528810	geo:GSE124310:GSM3528810	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528810	geo:GSE124310:GSM3528810	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		The CD45 + CD138 − subset was isolated using magnetic bead sorting of the BM samples	True
+GSM3528810	geo:GSE124310:GSM3528810	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528810	geo:GSE124310:GSM3528810	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528810	geo:GSE124310:GSM3528810	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528812	geo:GSE124310:GSM3528812	donor_id	SMMh-9	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = SMMh sample 9, 138N45P fraction	True
+GSM3528812	geo:GSE124310:GSM3528812	donor_id	SMMh-9	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528812	geo:GSE124310:GSM3528812	donor_id	SMMh-9	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528812	geo:GSE124310:GSM3528812	donor_id	SMMh-9	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528812	geo:GSE124310:GSM3528812	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528812	geo:GSE124310:GSM3528812	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528812	geo:GSE124310:GSM3528812	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528812	geo:GSE124310:GSM3528812	disease_free_text	High Risk Smoldering Myeloma	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528812	geo:GSE124310:GSM3528812	disease_ontology_term_id	MONDO:0005235	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: High Risk Smoldering Myeloma	True
+GSM3528812	geo:GSE124310:GSM3528812	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528812	geo:GSE124310:GSM3528812	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528812	geo:GSE124310:GSM3528812	cell_enrichment	CD138- CD45+	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = SMMh sample 9, 138N45P fraction	True
+GSM3528812	geo:GSE124310:GSM3528812	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528812	geo:GSE124310:GSM3528812	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		The CD45 + CD138 − subset was isolated using magnetic bead sorting of the BM samples	True
+GSM3528812	geo:GSE124310:GSM3528812	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528812	geo:GSE124310:GSM3528812	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528812	geo:GSE124310:GSM3528812	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528814	geo:GSE124310:GSM3528814	donor_id	SMMl-1 & MM-8	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528814	geo:GSE124310:GSM3528814	donor_id	SMMl-1 & MM-8	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = SMMl sample 1, 138N fraction	True
+GSM3528814	geo:GSE124310:GSM3528814	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528814	geo:GSE124310:GSM3528814	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528814	geo:GSE124310:GSM3528814	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528814	geo:GSE124310:GSM3528814	disease_free_text	Low Risk Smoldering Myeloma	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Low Risk Smoldering Myeloma	True
+GSM3528814	geo:GSE124310:GSM3528814	disease_ontology_term_id	MONDO:0005235	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Low Risk Smoldering Myeloma	True
+GSM3528814	geo:GSE124310:GSM3528814	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528814	geo:GSE124310:GSM3528814	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528814	geo:GSE124310:GSM3528814	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = SMMl sample 1, 138N fraction	True
+GSM3528814	geo:GSE124310:GSM3528814	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138N	True
+GSM3528814	geo:GSE124310:GSM3528814	cell_enrichment	CD138-	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528814	geo:GSE124310:GSM3528814	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528814	geo:GSE124310:GSM3528814	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528814	geo:GSE124310:GSM3528814	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528816	geo:GSE124310:GSM3528816	donor_id	SMMl-2	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = SMMl sample 2, 138N fraction	True
+GSM3528816	geo:GSE124310:GSM3528816	donor_id	SMMl-2	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528816	geo:GSE124310:GSM3528816	donor_id	SMMl-2	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528816	geo:GSE124310:GSM3528816	donor_id	SMMl-2	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528816	geo:GSE124310:GSM3528816	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528816	geo:GSE124310:GSM3528816	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528816	geo:GSE124310:GSM3528816	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528816	geo:GSE124310:GSM3528816	disease_free_text	Low Risk Smoldering Myeloma	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Low Risk Smoldering Myeloma	True
+GSM3528816	geo:GSE124310:GSM3528816	disease_ontology_term_id	MONDO:0005235	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Low Risk Smoldering Myeloma	True
+GSM3528816	geo:GSE124310:GSM3528816	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528816	geo:GSE124310:GSM3528816	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528816	geo:GSE124310:GSM3528816	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = SMMl sample 2, 138N fraction	True
+GSM3528816	geo:GSE124310:GSM3528816	cell_enrichment	CD138-	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = marker selection: CD138N	True
+GSM3528816	geo:GSE124310:GSM3528816	cell_enrichment	CD138-	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528816	geo:GSE124310:GSM3528816	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528816	geo:GSE124310:GSM3528816	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528816	geo:GSE124310:GSM3528816	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True
+GSM3528818	geo:GSE124310:GSM3528818	donor_id	SMMl-3	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = SMMl sample 3, 138N45P fraction	True
+GSM3528818	geo:GSE124310:GSM3528818	donor_id	SMMl-3	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		We employed single-cell RNA sequencing on 40.8K immune microenvironmental cells using 32 bone marrow samples from a cohort of 22 patients with varying stages of Multiple Myeloma progression and 9 healthy donors.	True
+GSM3528818	geo:GSE124310:GSM3528818	donor_id	SMMl-3	file	evidence/PMC7785110.txt		from patients with MGUS (n=5 patients), low-risk SMM (SMMl; n=3), high-risk SMM (SMMh; n=8) and newly diagnosed MM (n=7), as well as 9 healthy donors (NBM, n=9;	True
+GSM3528818	geo:GSE124310:GSM3528818	donor_id	SMMl-3	file	evidence/PMC7785110.txt		One patient contributed sequential samples (SMMl-1 & MM-8).	True
+GSM3528818	geo:GSE124310:GSM3528818	tissue_free_text	bone marrow	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528818	geo:GSE124310:GSM3528818	tissue_type	tissue	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone Marrow	True
+GSM3528818	geo:GSE124310:GSM3528818	tissue_type	tissue	file	evidence/PMC7785110.txt		on BM aspirates from patients at varying stages of progression	True
+GSM3528818	geo:GSE124310:GSM3528818	disease_free_text	Low Risk Smoldering Myeloma	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Low Risk Smoldering Myeloma	True
+GSM3528818	geo:GSE124310:GSM3528818	disease_ontology_term_id	MONDO:0005235	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Low Risk Smoldering Myeloma	True
+GSM3528818	geo:GSE124310:GSM3528818	suspension_type	cell	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		Using single-cell RNA sequencing of bone marrow cells	True
+GSM3528818	geo:GSE124310:GSM3528818	suspension_type	cell	file	evidence/PMC7785110.txt		Frozen BM cells were rapidly thawed, washed, counted and resuspended in PBS	True
+GSM3528818	geo:GSE124310:GSM3528818	cell_enrichment	CD138- CD45+	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_title = SMMl sample 3, 138N45P fraction	True
+GSM3528818	geo:GSE124310:GSM3528818	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		CD138-negative or CD45-positive BM cell fractions were isolated using Magnetic Activated Cell Sorting technology	True
+GSM3528818	geo:GSE124310:GSM3528818	cell_enrichment	CD138- CD45+	file	evidence/PMC7785110.txt		The CD45 + CD138 − subset was isolated using magnetic bead sorting of the BM samples	True
+GSM3528818	geo:GSE124310:GSM3528818	assay_ontology_term_id	EFO:0030003	file	evidence/PMC7785110.txt		Single-cell RNA-Seq libraries were prepared using ChromiumTM Single Cell 3’ Library Kit v2 (10x Genomics)	True
+GSM3528818	geo:GSE124310:GSM3528818	assay_ontology_term_id	EFO:0030003	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_extract_protocol_ch1 = Chromium Single Cell 3′ Library & Gel Bead Kit v3	True
+GSM3528818	geo:GSE124310:GSM3528818	gene_annotation_version	hg38	file	raw/fp-ef58ce390b1a/GSE124310_family.soft.gz		!Sample_data_processing = Genome_build: hg38	True

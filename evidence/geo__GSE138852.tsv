@@ -1,0 +1,62 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+AD1_AD2	geo:GSE138852:AD1_AD2	disease_free_text	<column oupSample.batchCond>	column	raw/fp-a5d81521991f/GSE138852_covariates.csv.gz/oupSample.batchCond			True
+AD3_AD4	geo:GSE138852:AD3_AD4	disease_free_text	<column oupSample.batchCond>	column	raw/fp-a5d81521991f/GSE138852_covariates.csv.gz/oupSample.batchCond			True
+AD5_AD6	geo:GSE138852:AD5_AD6	disease_free_text	<column oupSample.batchCond>	column	raw/fp-a5d81521991f/GSE138852_covariates.csv.gz/oupSample.batchCond			True
+Ct1_Ct2	geo:GSE138852:Ct1_Ct2	disease_free_text	<column oupSample.batchCond>	column	raw/fp-a5d81521991f/GSE138852_covariates.csv.gz/oupSample.batchCond			True
+Ct3_Ct4	geo:GSE138852:Ct3_Ct4	disease_free_text	<column oupSample.batchCond>	column	raw/fp-a5d81521991f/GSE138852_covariates.csv.gz/oupSample.batchCond			True
+Ct5_Ct6	geo:GSE138852:Ct5_Ct6	disease_free_text	<column oupSample.batchCond>	column	raw/fp-a5d81521991f/GSE138852_covariates.csv.gz/oupSample.batchCond			True
+AD1_AD2	geo:GSE138852:AD1_AD2	tissue_ontology_term_id	UBERON:0002728	derived	ols:uberon		entorhinal cortex	True
+AD3_AD4	geo:GSE138852:AD3_AD4	tissue_ontology_term_id	UBERON:0002728	derived	ols:uberon		entorhinal cortex	True
+AD5_AD6	geo:GSE138852:AD5_AD6	tissue_ontology_term_id	UBERON:0002728	derived	ols:uberon		entorhinal cortex	True
+Ct1_Ct2	geo:GSE138852:Ct1_Ct2	tissue_ontology_term_id	UBERON:0002728	derived	ols:uberon		entorhinal cortex	True
+Ct3_Ct4	geo:GSE138852:Ct3_Ct4	tissue_ontology_term_id	UBERON:0002728	derived	ols:uberon		entorhinal cortex	True
+Ct5_Ct6	geo:GSE138852:Ct5_Ct6	tissue_ontology_term_id	UBERON:0002728	derived	ols:uberon		entorhinal cortex	True
+AD1_AD2	geo:GSE138852:AD1_AD2	disease_ontology_term_id	MONDO:0004975	derived	ols:mondo		Alzheimer disease	True
+AD3_AD4	geo:GSE138852:AD3_AD4	disease_ontology_term_id	MONDO:0004975	derived	ols:mondo		Alzheimer disease	True
+AD5_AD6	geo:GSE138852:AD5_AD6	disease_ontology_term_id	MONDO:0004975	derived	ols:mondo		Alzheimer disease	True
+Ct1_Ct2	geo:GSE138852:Ct1_Ct2	disease_ontology_term_id	MONDO:0004975	derived	ols:mondo		Alzheimer disease	True
+Ct3_Ct4	geo:GSE138852:Ct3_Ct4	disease_ontology_term_id	MONDO:0004975	derived	ols:mondo		Alzheimer disease	True
+Ct5_Ct6	geo:GSE138852:Ct5_Ct6	disease_ontology_term_id	MONDO:0004975	derived	ols:mondo		Alzheimer disease	True
+AD1_AD2	geo:GSE138852:AD1_AD2	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+AD3_AD4	geo:GSE138852:AD3_AD4	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+AD5_AD6	geo:GSE138852:AD5_AD6	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+Ct1_Ct2	geo:GSE138852:Ct1_Ct2	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+Ct3_Ct4	geo:GSE138852:Ct3_Ct4	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+Ct5_Ct6	geo:GSE138852:Ct5_Ct6	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+AD1_AD2	geo:GSE138852:AD1_AD2	author_cell_type	<column oupSample.cellType>	column	raw/fp-a5d81521991f/GSE138852_covariates.csv.gz/oupSample.cellType			True
+AD3_AD4	geo:GSE138852:AD3_AD4	author_cell_type	<column oupSample.cellType>	column	raw/fp-a5d81521991f/GSE138852_covariates.csv.gz/oupSample.cellType			True
+AD5_AD6	geo:GSE138852:AD5_AD6	author_cell_type	<column oupSample.cellType>	column	raw/fp-a5d81521991f/GSE138852_covariates.csv.gz/oupSample.cellType			True
+Ct1_Ct2	geo:GSE138852:Ct1_Ct2	author_cell_type	<column oupSample.cellType>	column	raw/fp-a5d81521991f/GSE138852_covariates.csv.gz/oupSample.cellType			True
+Ct3_Ct4	geo:GSE138852:Ct3_Ct4	author_cell_type	<column oupSample.cellType>	column	raw/fp-a5d81521991f/GSE138852_covariates.csv.gz/oupSample.cellType			True
+Ct5_Ct6	geo:GSE138852:Ct5_Ct6	author_cell_type	<column oupSample.cellType>	column	raw/fp-a5d81521991f/GSE138852_covariates.csv.gz/oupSample.cellType			True
+		organism	Homo sapiens	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+AD1_AD2	geo:GSE138852:AD1_AD2	disease_free_text	<map of column oupSample.batchCond>	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		contribute to Alzheimer’s disease (AD)	True
+AD3_AD4	geo:GSE138852:AD3_AD4	disease_free_text	<map of column oupSample.batchCond>	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		contribute to Alzheimer’s disease (AD)	True
+AD5_AD6	geo:GSE138852:AD5_AD6	disease_free_text	<map of column oupSample.batchCond>	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		contribute to Alzheimer’s disease (AD)	True
+Ct1_Ct2	geo:GSE138852:Ct1_Ct2	disease_free_text	<map of column oupSample.batchCond>	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		contribute to Alzheimer’s disease (AD)	True
+Ct3_Ct4	geo:GSE138852:Ct3_Ct4	disease_free_text	<map of column oupSample.batchCond>	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		contribute to Alzheimer’s disease (AD)	True
+Ct5_Ct6	geo:GSE138852:Ct5_Ct6	disease_free_text	<map of column oupSample.batchCond>	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		contribute to Alzheimer’s disease (AD)	True
+AD1_AD2	geo:GSE138852:AD1_AD2	disease_free_text	<map of column oupSample.batchCond>	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		!Sample_title = Human Entorhinal Cortex of aged Healthy individuals Ct1-Ct2	True
+AD3_AD4	geo:GSE138852:AD3_AD4	disease_free_text	<map of column oupSample.batchCond>	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		!Sample_title = Human Entorhinal Cortex of aged Healthy individuals Ct1-Ct2	True
+AD5_AD6	geo:GSE138852:AD5_AD6	disease_free_text	<map of column oupSample.batchCond>	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		!Sample_title = Human Entorhinal Cortex of aged Healthy individuals Ct1-Ct2	True
+Ct1_Ct2	geo:GSE138852:Ct1_Ct2	disease_free_text	<map of column oupSample.batchCond>	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		!Sample_title = Human Entorhinal Cortex of aged Healthy individuals Ct1-Ct2	True
+Ct3_Ct4	geo:GSE138852:Ct3_Ct4	disease_free_text	<map of column oupSample.batchCond>	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		!Sample_title = Human Entorhinal Cortex of aged Healthy individuals Ct1-Ct2	True
+Ct5_Ct6	geo:GSE138852:Ct5_Ct6	disease_free_text	<map of column oupSample.batchCond>	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		!Sample_title = Human Entorhinal Cortex of aged Healthy individuals Ct1-Ct2	True
+AD1_AD2	geo:GSE138852:AD1_AD2	tissue_free_text	entorhinal cortex	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		!Sample_characteristics_ch1 = tissue: Entorhinal Cortex	True
+AD3_AD4	geo:GSE138852:AD3_AD4	tissue_free_text	entorhinal cortex	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		!Sample_characteristics_ch1 = tissue: Entorhinal Cortex	True
+AD5_AD6	geo:GSE138852:AD5_AD6	tissue_free_text	entorhinal cortex	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		!Sample_characteristics_ch1 = tissue: Entorhinal Cortex	True
+Ct1_Ct2	geo:GSE138852:Ct1_Ct2	tissue_free_text	entorhinal cortex	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		!Sample_characteristics_ch1 = tissue: Entorhinal Cortex	True
+Ct3_Ct4	geo:GSE138852:Ct3_Ct4	tissue_free_text	entorhinal cortex	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		!Sample_characteristics_ch1 = tissue: Entorhinal Cortex	True
+Ct5_Ct6	geo:GSE138852:Ct5_Ct6	tissue_free_text	entorhinal cortex	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		!Sample_characteristics_ch1 = tissue: Entorhinal Cortex	True
+AD1_AD2	geo:GSE138852:AD1_AD2	suspension_type	nucleus	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		!Sample_characteristics_ch1 = sample type: Single Nuclei	True
+AD3_AD4	geo:GSE138852:AD3_AD4	suspension_type	nucleus	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		!Sample_characteristics_ch1 = sample type: Single Nuclei	True
+AD5_AD6	geo:GSE138852:AD5_AD6	suspension_type	nucleus	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		!Sample_characteristics_ch1 = sample type: Single Nuclei	True
+Ct1_Ct2	geo:GSE138852:Ct1_Ct2	suspension_type	nucleus	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		!Sample_characteristics_ch1 = sample type: Single Nuclei	True
+Ct3_Ct4	geo:GSE138852:Ct3_Ct4	suspension_type	nucleus	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		!Sample_characteristics_ch1 = sample type: Single Nuclei	True
+Ct5_Ct6	geo:GSE138852:Ct5_Ct6	suspension_type	nucleus	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		!Sample_characteristics_ch1 = sample type: Single Nuclei	True
+AD1_AD2	geo:GSE138852:AD1_AD2	assay_ontology_term_id	EFO:0008995	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		Single Nuclei RNA sequencing of 8 10x libraries	True
+AD3_AD4	geo:GSE138852:AD3_AD4	assay_ontology_term_id	EFO:0008995	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		Single Nuclei RNA sequencing of 8 10x libraries	True
+AD5_AD6	geo:GSE138852:AD5_AD6	assay_ontology_term_id	EFO:0008995	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		Single Nuclei RNA sequencing of 8 10x libraries	True
+Ct1_Ct2	geo:GSE138852:Ct1_Ct2	assay_ontology_term_id	EFO:0008995	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		Single Nuclei RNA sequencing of 8 10x libraries	True
+Ct3_Ct4	geo:GSE138852:Ct3_Ct4	assay_ontology_term_id	EFO:0008995	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		Single Nuclei RNA sequencing of 8 10x libraries	True
+Ct5_Ct6	geo:GSE138852:Ct5_Ct6	assay_ontology_term_id	EFO:0008995	file	raw/fp-a5d81521991f/GSE138852_family.soft.gz		Single Nuclei RNA sequencing of 8 10x libraries	True

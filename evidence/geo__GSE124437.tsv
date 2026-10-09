@@ -1,0 +1,90 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM3533224	geo:GSE124437:GSM3533224	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3533224	geo:GSE124437:GSM3533224	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+GSM3533225	geo:GSE124437:GSM3533225	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3533225	geo:GSE124437:GSM3533225	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+GSM3533226	geo:GSE124437:GSM3533226	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM3533226	geo:GSE124437:GSM3533226	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+GSM3533227	geo:GSE124437:GSM3533227	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+GSM3533228	geo:GSE124437:GSM3533228	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+GSM3533229	geo:GSE124437:GSM3533229	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		Multiple Myeloma	True
+		organism	Homo sapiens	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+		organism	Homo sapiens	file	raw/fp-a7c7d77cde22/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+GSM3533224	geo:GSE124437:GSM3533224	donor_id	patient 1	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533224	!Sample_title = Bone marrow clonal plasma cells from patient 1	True
+GSM3533224	geo:GSE124437:GSM3533224	donor_id	patient 1	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		comparing the molecular profile of CTCs with patient-matched BM clonal PCs	True
+GSM3533224	geo:GSE124437:GSM3533224	disease_stage	newly diagnosed	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533224	!Sample_description = Gene expression at single-cell level form bone marrow clonal plasma cells from newly-diagnosed patient	True
+GSM3533224	geo:GSE124437:GSM3533224	suspension_type	cell	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		Cells were in-plate FACSorted and automatically lysed.	True
+GSM3533224	geo:GSE124437:GSM3533224	cell_enrichment	FACS index-sorted bone marrow clonal plasma cells	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533224	!Sample_characteristics_ch1 = cell type: Bone marrow clonal plasma cells	True
+GSM3533224	geo:GSE124437:GSM3533224	cell_enrichment	FACS index-sorted bone marrow clonal plasma cells	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		Cells were in-plate FACSorted and automatically lysed.	True
+GSM3533224	geo:GSE124437:GSM3533224	cell_enrichment	FACS index-sorted bone marrow clonal plasma cells	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		We used index sorting single-cell RNA sequencing (Precise Assay, Becton Dickinson)	True
+GSM3533224	geo:GSE124437:GSM3533224	tissue_free_text	bone marrow	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533224	!Sample_source_name_ch1 = Bone marrow clonal plasma cells	True
+GSM3533224	geo:GSE124437:GSM3533224	tissue_type	tissue	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533224	!Sample_source_name_ch1 = Bone marrow clonal plasma cells	True
+GSM3533224	geo:GSE124437:GSM3533224	tissue_type	tissue	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		comparing the molecular profile of CTCs with patient-matched BM clonal PCs	True
+GSM3533224	geo:GSE124437:GSM3533224	disease_free_text	Multiple Myeloma	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533224	!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True
+GSM3533225	geo:GSE124437:GSM3533225	donor_id	patient 2	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533225	!Sample_title = Bone marrow clonal plasma cells from patient 2	True
+GSM3533225	geo:GSE124437:GSM3533225	donor_id	patient 2	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		comparing the molecular profile of CTCs with patient-matched BM clonal PCs	True
+GSM3533225	geo:GSE124437:GSM3533225	disease_stage	newly diagnosed	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533225	!Sample_description = Gene expression at single-cell level form bone marrow clonal plasma cells from newly-diagnosed patient	True
+GSM3533225	geo:GSE124437:GSM3533225	suspension_type	cell	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		Cells were in-plate FACSorted and automatically lysed.	True
+GSM3533225	geo:GSE124437:GSM3533225	cell_enrichment	FACS index-sorted bone marrow clonal plasma cells	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533225	!Sample_characteristics_ch1 = cell type: Bone marrow clonal plasma cells	True
+GSM3533225	geo:GSE124437:GSM3533225	cell_enrichment	FACS index-sorted bone marrow clonal plasma cells	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		Cells were in-plate FACSorted and automatically lysed.	True
+GSM3533225	geo:GSE124437:GSM3533225	cell_enrichment	FACS index-sorted bone marrow clonal plasma cells	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		We used index sorting single-cell RNA sequencing (Precise Assay, Becton Dickinson)	True
+GSM3533225	geo:GSE124437:GSM3533225	tissue_free_text	bone marrow	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533225	!Sample_source_name_ch1 = Bone marrow clonal plasma cells	True
+GSM3533225	geo:GSE124437:GSM3533225	tissue_type	tissue	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533225	!Sample_source_name_ch1 = Bone marrow clonal plasma cells	True
+GSM3533225	geo:GSE124437:GSM3533225	tissue_type	tissue	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		comparing the molecular profile of CTCs with patient-matched BM clonal PCs	True
+GSM3533225	geo:GSE124437:GSM3533225	disease_free_text	Multiple Myeloma	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533225	!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True
+GSM3533226	geo:GSE124437:GSM3533226	donor_id	patient 3	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533226	!Sample_title = Bone marrow clonal plasma cells from patient 3	True
+GSM3533226	geo:GSE124437:GSM3533226	donor_id	patient 3	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		comparing the molecular profile of CTCs with patient-matched BM clonal PCs	True
+GSM3533226	geo:GSE124437:GSM3533226	disease_stage	newly diagnosed	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533226	!Sample_description = Gene expression at single-cell level form bone marrow clonal plasma cells from newly-diagnosed patient	True
+GSM3533226	geo:GSE124437:GSM3533226	suspension_type	cell	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		Cells were in-plate FACSorted and automatically lysed.	True
+GSM3533226	geo:GSE124437:GSM3533226	cell_enrichment	FACS index-sorted bone marrow clonal plasma cells	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533226	!Sample_characteristics_ch1 = cell type: Bone marrow clonal plasma cells	True
+GSM3533226	geo:GSE124437:GSM3533226	cell_enrichment	FACS index-sorted bone marrow clonal plasma cells	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		Cells were in-plate FACSorted and automatically lysed.	True
+GSM3533226	geo:GSE124437:GSM3533226	cell_enrichment	FACS index-sorted bone marrow clonal plasma cells	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		We used index sorting single-cell RNA sequencing (Precise Assay, Becton Dickinson)	True
+GSM3533226	geo:GSE124437:GSM3533226	tissue_free_text	bone marrow	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533226	!Sample_source_name_ch1 = Bone marrow clonal plasma cells	True
+GSM3533226	geo:GSE124437:GSM3533226	tissue_type	tissue	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533226	!Sample_source_name_ch1 = Bone marrow clonal plasma cells	True
+GSM3533226	geo:GSE124437:GSM3533226	tissue_type	tissue	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		comparing the molecular profile of CTCs with patient-matched BM clonal PCs	True
+GSM3533226	geo:GSE124437:GSM3533226	disease_free_text	Multiple Myeloma	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533226	!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True
+GSM3533227	geo:GSE124437:GSM3533227	donor_id	patient 1	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533227	!Sample_title = Circulating tumor cells from patient 1	True
+GSM3533227	geo:GSE124437:GSM3533227	donor_id	patient 1	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		comparing the molecular profile of CTCs with patient-matched BM clonal PCs	True
+GSM3533227	geo:GSE124437:GSM3533227	disease_stage	newly diagnosed	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533227	!Sample_description = Gene expression at single-cell level form circulating tumor cells from newly-diagnosed patient	True
+GSM3533227	geo:GSE124437:GSM3533227	suspension_type	cell	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		Cells were in-plate FACSorted and automatically lysed.	True
+GSM3533227	geo:GSE124437:GSM3533227	cell_enrichment	FACS index-sorted circulating tumor cells	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533227	!Sample_characteristics_ch1 = cell type: Circulating tumor cells	True
+GSM3533227	geo:GSE124437:GSM3533227	cell_enrichment	FACS index-sorted circulating tumor cells	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		Cells were in-plate FACSorted and automatically lysed.	True
+GSM3533227	geo:GSE124437:GSM3533227	cell_enrichment	FACS index-sorted circulating tumor cells	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		We used index sorting single-cell RNA sequencing (Precise Assay, Becton Dickinson)	True
+GSM3533227	geo:GSE124437:GSM3533227	tissue_free_text	peripheral blood	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533227	!Sample_source_name_ch1 = Circulating tumor cells	True
+GSM3533227	geo:GSE124437:GSM3533227	tissue_free_text	peripheral blood	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		The number of peripheral blood (PB) circulating tumor cells (CTCs) predicts risk of transformation	True
+GSM3533227	geo:GSE124437:GSM3533227	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533227	!Sample_source_name_ch1 = Circulating tumor cells	True
+GSM3533227	geo:GSE124437:GSM3533227	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		The number of peripheral blood (PB) circulating tumor cells (CTCs) predicts risk of transformation	True
+GSM3533227	geo:GSE124437:GSM3533227	tissue_type	tissue	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533227	!Sample_source_name_ch1 = Circulating tumor cells	True
+GSM3533227	geo:GSE124437:GSM3533227	tissue_type	tissue	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		The number of peripheral blood (PB) circulating tumor cells (CTCs) predicts risk of transformation	True
+GSM3533227	geo:GSE124437:GSM3533227	tissue_type	tissue	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		comparing the molecular profile of CTCs with patient-matched BM clonal PCs	True
+GSM3533227	geo:GSE124437:GSM3533227	disease_free_text	Multiple Myeloma	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533227	!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True
+GSM3533228	geo:GSE124437:GSM3533228	donor_id	patient 2	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533228	!Sample_title = Circulating tumor cells from patient 2	True
+GSM3533228	geo:GSE124437:GSM3533228	donor_id	patient 2	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		comparing the molecular profile of CTCs with patient-matched BM clonal PCs	True
+GSM3533228	geo:GSE124437:GSM3533228	disease_stage	newly diagnosed	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533228	!Sample_description = Gene expression at single-cell level form circulating tumor cells from newly-diagnosed patient	True
+GSM3533228	geo:GSE124437:GSM3533228	suspension_type	cell	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		Cells were in-plate FACSorted and automatically lysed.	True
+GSM3533228	geo:GSE124437:GSM3533228	cell_enrichment	FACS index-sorted circulating tumor cells	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533228	!Sample_characteristics_ch1 = cell type: Circulating tumor cells	True
+GSM3533228	geo:GSE124437:GSM3533228	cell_enrichment	FACS index-sorted circulating tumor cells	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		Cells were in-plate FACSorted and automatically lysed.	True
+GSM3533228	geo:GSE124437:GSM3533228	cell_enrichment	FACS index-sorted circulating tumor cells	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		We used index sorting single-cell RNA sequencing (Precise Assay, Becton Dickinson)	True
+GSM3533228	geo:GSE124437:GSM3533228	tissue_free_text	peripheral blood	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533228	!Sample_source_name_ch1 = Circulating tumor cells	True
+GSM3533228	geo:GSE124437:GSM3533228	tissue_free_text	peripheral blood	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		The number of peripheral blood (PB) circulating tumor cells (CTCs) predicts risk of transformation	True
+GSM3533228	geo:GSE124437:GSM3533228	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533228	!Sample_source_name_ch1 = Circulating tumor cells	True
+GSM3533228	geo:GSE124437:GSM3533228	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		The number of peripheral blood (PB) circulating tumor cells (CTCs) predicts risk of transformation	True
+GSM3533228	geo:GSE124437:GSM3533228	tissue_type	tissue	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533228	!Sample_source_name_ch1 = Circulating tumor cells	True
+GSM3533228	geo:GSE124437:GSM3533228	tissue_type	tissue	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		The number of peripheral blood (PB) circulating tumor cells (CTCs) predicts risk of transformation	True
+GSM3533228	geo:GSE124437:GSM3533228	tissue_type	tissue	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		comparing the molecular profile of CTCs with patient-matched BM clonal PCs	True
+GSM3533228	geo:GSE124437:GSM3533228	disease_free_text	Multiple Myeloma	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533228	!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True
+GSM3533229	geo:GSE124437:GSM3533229	donor_id	patient 3	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533229	!Sample_title = Circulating tumor cells from patient 3	True
+GSM3533229	geo:GSE124437:GSM3533229	donor_id	patient 3	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		comparing the molecular profile of CTCs with patient-matched BM clonal PCs	True
+GSM3533229	geo:GSE124437:GSM3533229	disease_stage	newly diagnosed	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533229	!Sample_description = Gene expression at single-cell level form circulating tumor cells from newly-diagnosed patient	True
+GSM3533229	geo:GSE124437:GSM3533229	suspension_type	cell	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		Cells were in-plate FACSorted and automatically lysed.	True
+GSM3533229	geo:GSE124437:GSM3533229	cell_enrichment	FACS index-sorted circulating tumor cells	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533229	!Sample_characteristics_ch1 = cell type: Circulating tumor cells	True
+GSM3533229	geo:GSE124437:GSM3533229	cell_enrichment	FACS index-sorted circulating tumor cells	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		Cells were in-plate FACSorted and automatically lysed.	True
+GSM3533229	geo:GSE124437:GSM3533229	cell_enrichment	FACS index-sorted circulating tumor cells	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		We used index sorting single-cell RNA sequencing (Precise Assay, Becton Dickinson)	True
+GSM3533229	geo:GSE124437:GSM3533229	tissue_free_text	peripheral blood	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533229	!Sample_source_name_ch1 = Circulating tumor cells	True
+GSM3533229	geo:GSE124437:GSM3533229	tissue_free_text	peripheral blood	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		The number of peripheral blood (PB) circulating tumor cells (CTCs) predicts risk of transformation	True
+GSM3533229	geo:GSE124437:GSM3533229	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533229	!Sample_source_name_ch1 = Circulating tumor cells	True
+GSM3533229	geo:GSE124437:GSM3533229	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		The number of peripheral blood (PB) circulating tumor cells (CTCs) predicts risk of transformation	True
+GSM3533229	geo:GSE124437:GSM3533229	tissue_type	tissue	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533229	!Sample_source_name_ch1 = Circulating tumor cells	True
+GSM3533229	geo:GSE124437:GSM3533229	tissue_type	tissue	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		The number of peripheral blood (PB) circulating tumor cells (CTCs) predicts risk of transformation	True
+GSM3533229	geo:GSE124437:GSM3533229	tissue_type	tissue	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz		comparing the molecular profile of CTCs with patient-matched BM clonal PCs	True
+GSM3533229	geo:GSE124437:GSM3533229	disease_free_text	Multiple Myeloma	file	raw/fp-a7c7d77cde22/GSE124437_family.soft.gz	GSM3533229	!Sample_characteristics_ch1 = disease state: Multiple Myeloma	True

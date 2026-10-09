@@ -1,0 +1,187 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5900280	geo:GSE196766:GSM5900280	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5900280	geo:GSE196766:GSM5900280	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5900280	geo:GSE196766:GSM5900280	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5900280	geo:GSE196766:GSM5900280	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5900281	geo:GSE196766:GSM5900281	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5900281	geo:GSE196766:GSM5900281	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5900281	geo:GSE196766:GSM5900281	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5900281	geo:GSE196766:GSM5900281	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5900282	geo:GSE196766:GSM5900282	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5900282	geo:GSE196766:GSM5900282	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5900282	geo:GSE196766:GSM5900282	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5900282	geo:GSE196766:GSM5900282	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5900283	geo:GSE196766:GSM5900283	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5900283	geo:GSE196766:GSM5900283	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5900283	geo:GSE196766:GSM5900283	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5900283	geo:GSE196766:GSM5900283	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5900284	geo:GSE196766:GSM5900284	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5900284	geo:GSE196766:GSM5900284	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5900284	geo:GSE196766:GSM5900284	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5900284	geo:GSE196766:GSM5900284	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+GSM5900285	geo:GSE196766:GSM5900285	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5900285	geo:GSE196766:GSM5900285	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5900285	geo:GSE196766:GSM5900285	tissue_ontology_term_id	UBERON:0002371	derived	ols:uberon		bone marrow	True
+GSM5900285	geo:GSE196766:GSM5900285	disease_ontology_term_id	MONDO:0009693	derived	ols:mondo		multiple myeloma	True
+		organism	Homo sapiens	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+		organism	Homo sapiens	file	raw/fp-125fe63b01ea/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+GSM5900280	geo:GSE196766:GSM5900280	donor_id	RD177	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900280	!Sample_title = purified plasma cells from the myeloma patient RD177 cultured and treated with	True
+GSM5900280	geo:GSE196766:GSM5900280	disease_free_text	multiple myeloma	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900280	!Sample_characteristics_ch1 = cell type: primary myeloma plasma cells	True
+GSM5900280	geo:GSE196766:GSM5900280	disease_free_text	multiple myeloma	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900280	!Sample_title = purified plasma cells from the myeloma patient RD177 cultured and treated with	True
+GSM5900280	geo:GSE196766:GSM5900280	disease_free_text	multiple myeloma	file	evidence/PMC10853245.txt		Primary BM samples from patients with MM relapsed disease after PI-based therapy	True
+GSM5900280	geo:GSE196766:GSM5900280	sampled_site_condition	diseased	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900280	!Sample_characteristics_ch1 = cell type: primary myeloma plasma cells	True
+GSM5900280	geo:GSE196766:GSM5900280	tissue_free_text	bone marrow	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900280	!Sample_source_name_ch1 = BM	True
+GSM5900280	geo:GSE196766:GSM5900280	tissue_free_text	bone marrow	file	evidence/PMC10853245.txt		from the bone marrow (BM)	True
+GSM5900280	geo:GSE196766:GSM5900280	tissue_free_text	bone marrow	file	evidence/PMC10853245.txt		Primary BM mononuclear cells isolated from MM patients or healthy donors were enriched in CD138 + PCs	True
+GSM5900280	geo:GSE196766:GSM5900280	tissue_type	cell culture	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900280	!Sample_title = purified plasma cells from the myeloma patient RD177 cultured and treated with	True
+GSM5900280	geo:GSE196766:GSM5900280	tissue_type	cell culture	file	evidence/PMC10853245.txt		Cells were plated in 48-well plates previously seeded on a layer of human BM-derived mesenchymal cells	True
+GSM5900280	geo:GSE196766:GSM5900280	tissue_type	cell culture	file	evidence/PMC10853245.txt		over a layer of mesenchymal cells	True
+GSM5900280	geo:GSE196766:GSM5900280	cell_enrichment	CD138+	file	evidence/PMC10853245.txt		Primary BM mononuclear cells isolated from MM patients or healthy donors were enriched in CD138 + PCs using magnetic sorting with the CD138 Microbead Kit (Miltenyi Biotec)	True
+GSM5900280	geo:GSE196766:GSM5900280	cell_enrichment	CD138+	file	evidence/PMC10853245.txt		Live cells were sorted by flow cytometry and subjected to scRNA-seq analysis	True
+GSM5900280	geo:GSE196766:GSM5900280	suspension_type	cell	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900280	single cells were lysed and barcoded for reverse transcription	True
+GSM5900280	geo:GSE196766:GSM5900280	assay	10x 3' v3	file	work/fp-125fe63b01ea/GSE196766_RAW/GSM5900280_RD177.h5		Single Cell 3' v3	True
+GSM5900280	geo:GSE196766:GSM5900280	gene_annotation_version	refdata-cellranger-GRCh38-3.0.0	file	evidence/PMC10853245.txt		The raw reads were mapped to the human reference genome (refdata-cellranger-GRCh38-3.0.0) using the cellranger count pipeline	True
+GSM5900280	geo:GSE196766:GSM5900280	sex	male	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		Sample ID Genders	True
+GSM5900280	geo:GSE196766:GSM5900280	sex	male	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		RD177 Male	True
+GSM5900280	geo:GSE196766:GSM5900280	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245.txt		Primary BM samples from patients with MM relapsed disease after PI-based therapy	True
+GSM5900280	geo:GSE196766:GSM5900280	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245.txt		Numbers of live PCs isolated from the BM of MM patients with PI-based therapy failure ( n = 7)	True
+GSM5900280	geo:GSE196766:GSM5900280	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		Sample ID Genders	True
+GSM5900280	geo:GSE196766:GSM5900280	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		RD177 Male	True
+GSM5900280	geo:GSE196766:GSM5900280	treatment_status	post-treatment	file	evidence/PMC10853245.txt		Primary BM samples from patients with MM relapsed disease after PI-based therapy	True
+GSM5900280	geo:GSE196766:GSM5900280	treatment_status	post-treatment	file	evidence/PMC10853245.txt		Numbers of live PCs isolated from the BM of MM patients with PI-based therapy failure ( n = 7)	True
+GSM5900280	geo:GSE196766:GSM5900280	treatment_status	post-treatment	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		Sample ID Genders	True
+GSM5900280	geo:GSE196766:GSM5900280	treatment_status	post-treatment	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		RD177 Male	True
+GSM5900281	geo:GSE196766:GSM5900281	donor_id	RD177	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900281	!Sample_title = purified plasma cells from the myeloma patient RD177 cultured and treated with	True
+GSM5900281	geo:GSE196766:GSM5900281	disease_free_text	multiple myeloma	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900281	!Sample_characteristics_ch1 = cell type: primary myeloma plasma cells	True
+GSM5900281	geo:GSE196766:GSM5900281	disease_free_text	multiple myeloma	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900281	!Sample_title = purified plasma cells from the myeloma patient RD177 cultured and treated with	True
+GSM5900281	geo:GSE196766:GSM5900281	disease_free_text	multiple myeloma	file	evidence/PMC10853245.txt		Primary BM samples from patients with MM relapsed disease after PI-based therapy	True
+GSM5900281	geo:GSE196766:GSM5900281	sampled_site_condition	diseased	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900281	!Sample_characteristics_ch1 = cell type: primary myeloma plasma cells	True
+GSM5900281	geo:GSE196766:GSM5900281	tissue_free_text	bone marrow	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900281	!Sample_source_name_ch1 = BM	True
+GSM5900281	geo:GSE196766:GSM5900281	tissue_free_text	bone marrow	file	evidence/PMC10853245.txt		from the bone marrow (BM)	True
+GSM5900281	geo:GSE196766:GSM5900281	tissue_free_text	bone marrow	file	evidence/PMC10853245.txt		Primary BM mononuclear cells isolated from MM patients or healthy donors were enriched in CD138 + PCs	True
+GSM5900281	geo:GSE196766:GSM5900281	tissue_type	cell culture	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900281	!Sample_title = purified plasma cells from the myeloma patient RD177 cultured and treated with	True
+GSM5900281	geo:GSE196766:GSM5900281	tissue_type	cell culture	file	evidence/PMC10853245.txt		Cells were plated in 48-well plates previously seeded on a layer of human BM-derived mesenchymal cells	True
+GSM5900281	geo:GSE196766:GSM5900281	tissue_type	cell culture	file	evidence/PMC10853245.txt		over a layer of mesenchymal cells	True
+GSM5900281	geo:GSE196766:GSM5900281	cell_enrichment	CD138+	file	evidence/PMC10853245.txt		Primary BM mononuclear cells isolated from MM patients or healthy donors were enriched in CD138 + PCs using magnetic sorting with the CD138 Microbead Kit (Miltenyi Biotec)	True
+GSM5900281	geo:GSE196766:GSM5900281	cell_enrichment	CD138+	file	evidence/PMC10853245.txt		Live cells were sorted by flow cytometry and subjected to scRNA-seq analysis	True
+GSM5900281	geo:GSE196766:GSM5900281	suspension_type	cell	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900281	single cells were lysed and barcoded for reverse transcription	True
+GSM5900281	geo:GSE196766:GSM5900281	assay	10x 3' v3	file	work/fp-125fe63b01ea/GSE196766_RAW/GSM5900281_RD177-NSC.h5		Single Cell 3' v3	True
+GSM5900281	geo:GSE196766:GSM5900281	gene_annotation_version	refdata-cellranger-GRCh38-3.0.0	file	evidence/PMC10853245.txt		The raw reads were mapped to the human reference genome (refdata-cellranger-GRCh38-3.0.0) using the cellranger count pipeline	True
+GSM5900281	geo:GSE196766:GSM5900281	sex	male	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		Sample ID Genders	True
+GSM5900281	geo:GSE196766:GSM5900281	sex	male	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		RD177 Male	True
+GSM5900281	geo:GSE196766:GSM5900281	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245.txt		Primary BM samples from patients with MM relapsed disease after PI-based therapy	True
+GSM5900281	geo:GSE196766:GSM5900281	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245.txt		Numbers of live PCs isolated from the BM of MM patients with PI-based therapy failure ( n = 7)	True
+GSM5900281	geo:GSE196766:GSM5900281	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		Sample ID Genders	True
+GSM5900281	geo:GSE196766:GSM5900281	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		RD177 Male	True
+GSM5900281	geo:GSE196766:GSM5900281	treatment_status	post-treatment	file	evidence/PMC10853245.txt		Primary BM samples from patients with MM relapsed disease after PI-based therapy	True
+GSM5900281	geo:GSE196766:GSM5900281	treatment_status	post-treatment	file	evidence/PMC10853245.txt		Numbers of live PCs isolated from the BM of MM patients with PI-based therapy failure ( n = 7)	True
+GSM5900281	geo:GSE196766:GSM5900281	treatment_status	post-treatment	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		Sample ID Genders	True
+GSM5900281	geo:GSE196766:GSM5900281	treatment_status	post-treatment	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		RD177 Male	True
+GSM5900282	geo:GSE196766:GSM5900282	donor_id	RD192	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900282	!Sample_title = purified plasma cells from the myeloma patient RD192 cultured and treated with	True
+GSM5900282	geo:GSE196766:GSM5900282	disease_free_text	multiple myeloma	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900282	!Sample_characteristics_ch1 = cell type: primary myeloma plasma cells	True
+GSM5900282	geo:GSE196766:GSM5900282	disease_free_text	multiple myeloma	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900282	!Sample_title = purified plasma cells from the myeloma patient RD192 cultured and treated with	True
+GSM5900282	geo:GSE196766:GSM5900282	disease_free_text	multiple myeloma	file	evidence/PMC10853245.txt		Primary BM samples from patients with MM relapsed disease after PI-based therapy	True
+GSM5900282	geo:GSE196766:GSM5900282	sampled_site_condition	diseased	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900282	!Sample_characteristics_ch1 = cell type: primary myeloma plasma cells	True
+GSM5900282	geo:GSE196766:GSM5900282	tissue_free_text	bone marrow	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900282	!Sample_source_name_ch1 = BM	True
+GSM5900282	geo:GSE196766:GSM5900282	tissue_free_text	bone marrow	file	evidence/PMC10853245.txt		from the bone marrow (BM)	True
+GSM5900282	geo:GSE196766:GSM5900282	tissue_free_text	bone marrow	file	evidence/PMC10853245.txt		Primary BM mononuclear cells isolated from MM patients or healthy donors were enriched in CD138 + PCs	True
+GSM5900282	geo:GSE196766:GSM5900282	tissue_type	cell culture	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900282	!Sample_title = purified plasma cells from the myeloma patient RD192 cultured and treated with	True
+GSM5900282	geo:GSE196766:GSM5900282	tissue_type	cell culture	file	evidence/PMC10853245.txt		Cells were plated in 48-well plates previously seeded on a layer of human BM-derived mesenchymal cells	True
+GSM5900282	geo:GSE196766:GSM5900282	tissue_type	cell culture	file	evidence/PMC10853245.txt		over a layer of mesenchymal cells	True
+GSM5900282	geo:GSE196766:GSM5900282	cell_enrichment	CD138+	file	evidence/PMC10853245.txt		Primary BM mononuclear cells isolated from MM patients or healthy donors were enriched in CD138 + PCs using magnetic sorting with the CD138 Microbead Kit (Miltenyi Biotec)	True
+GSM5900282	geo:GSE196766:GSM5900282	cell_enrichment	CD138+	file	evidence/PMC10853245.txt		Live cells were sorted by flow cytometry and subjected to scRNA-seq analysis	True
+GSM5900282	geo:GSE196766:GSM5900282	suspension_type	cell	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900282	single cells were lysed and barcoded for reverse transcription	True
+GSM5900282	geo:GSE196766:GSM5900282	assay	10x 3' v3	file	work/fp-125fe63b01ea/GSE196766_RAW/GSM5900282_RD192.h5		Single Cell 3' v3	True
+GSM5900282	geo:GSE196766:GSM5900282	gene_annotation_version	refdata-cellranger-GRCh38-3.0.0	file	evidence/PMC10853245.txt		The raw reads were mapped to the human reference genome (refdata-cellranger-GRCh38-3.0.0) using the cellranger count pipeline	True
+GSM5900282	geo:GSE196766:GSM5900282	sex	male	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		Sample ID Genders	True
+GSM5900282	geo:GSE196766:GSM5900282	sex	male	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		RD192 Male	True
+GSM5900282	geo:GSE196766:GSM5900282	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245.txt		Primary BM samples from patients with MM relapsed disease after PI-based therapy	True
+GSM5900282	geo:GSE196766:GSM5900282	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245.txt		Numbers of live PCs isolated from the BM of MM patients with PI-based therapy failure ( n = 7)	True
+GSM5900282	geo:GSE196766:GSM5900282	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		Sample ID Genders	True
+GSM5900282	geo:GSE196766:GSM5900282	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		RD192 Male	True
+GSM5900282	geo:GSE196766:GSM5900282	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245.txt		PCs from one MM patient (RD192) with 1q21 amplification, whose disease failed PI-based therapy	True
+GSM5900282	geo:GSE196766:GSM5900282	treatment_status	post-treatment	file	evidence/PMC10853245.txt		Primary BM samples from patients with MM relapsed disease after PI-based therapy	True
+GSM5900282	geo:GSE196766:GSM5900282	treatment_status	post-treatment	file	evidence/PMC10853245.txt		Numbers of live PCs isolated from the BM of MM patients with PI-based therapy failure ( n = 7)	True
+GSM5900282	geo:GSE196766:GSM5900282	treatment_status	post-treatment	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		Sample ID Genders	True
+GSM5900282	geo:GSE196766:GSM5900282	treatment_status	post-treatment	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		RD192 Male	True
+GSM5900282	geo:GSE196766:GSM5900282	treatment_status	post-treatment	file	evidence/PMC10853245.txt		PCs from one MM patient (RD192) with 1q21 amplification, whose disease failed PI-based therapy	True
+GSM5900283	geo:GSE196766:GSM5900283	donor_id	RD192	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900283	!Sample_title = purified plasma cells from the myeloma patient RD192 cultured and treated with	True
+GSM5900283	geo:GSE196766:GSM5900283	disease_free_text	multiple myeloma	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900283	!Sample_characteristics_ch1 = cell type: primary myeloma plasma cells	True
+GSM5900283	geo:GSE196766:GSM5900283	disease_free_text	multiple myeloma	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900283	!Sample_title = purified plasma cells from the myeloma patient RD192 cultured and treated with	True
+GSM5900283	geo:GSE196766:GSM5900283	disease_free_text	multiple myeloma	file	evidence/PMC10853245.txt		Primary BM samples from patients with MM relapsed disease after PI-based therapy	True
+GSM5900283	geo:GSE196766:GSM5900283	sampled_site_condition	diseased	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900283	!Sample_characteristics_ch1 = cell type: primary myeloma plasma cells	True
+GSM5900283	geo:GSE196766:GSM5900283	tissue_free_text	bone marrow	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900283	!Sample_source_name_ch1 = BM	True
+GSM5900283	geo:GSE196766:GSM5900283	tissue_free_text	bone marrow	file	evidence/PMC10853245.txt		from the bone marrow (BM)	True
+GSM5900283	geo:GSE196766:GSM5900283	tissue_free_text	bone marrow	file	evidence/PMC10853245.txt		Primary BM mononuclear cells isolated from MM patients or healthy donors were enriched in CD138 + PCs	True
+GSM5900283	geo:GSE196766:GSM5900283	tissue_type	cell culture	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900283	!Sample_title = purified plasma cells from the myeloma patient RD192 cultured and treated with	True
+GSM5900283	geo:GSE196766:GSM5900283	tissue_type	cell culture	file	evidence/PMC10853245.txt		Cells were plated in 48-well plates previously seeded on a layer of human BM-derived mesenchymal cells	True
+GSM5900283	geo:GSE196766:GSM5900283	tissue_type	cell culture	file	evidence/PMC10853245.txt		over a layer of mesenchymal cells	True
+GSM5900283	geo:GSE196766:GSM5900283	cell_enrichment	CD138+	file	evidence/PMC10853245.txt		Primary BM mononuclear cells isolated from MM patients or healthy donors were enriched in CD138 + PCs using magnetic sorting with the CD138 Microbead Kit (Miltenyi Biotec)	True
+GSM5900283	geo:GSE196766:GSM5900283	cell_enrichment	CD138+	file	evidence/PMC10853245.txt		Live cells were sorted by flow cytometry and subjected to scRNA-seq analysis	True
+GSM5900283	geo:GSE196766:GSM5900283	suspension_type	cell	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900283	single cells were lysed and barcoded for reverse transcription	True
+GSM5900283	geo:GSE196766:GSM5900283	assay	10x 3' v3	file	work/fp-125fe63b01ea/GSE196766_RAW/GSM5900283_RD192-NSC.h5		Single Cell 3' v3	True
+GSM5900283	geo:GSE196766:GSM5900283	gene_annotation_version	refdata-cellranger-GRCh38-3.0.0	file	evidence/PMC10853245.txt		The raw reads were mapped to the human reference genome (refdata-cellranger-GRCh38-3.0.0) using the cellranger count pipeline	True
+GSM5900283	geo:GSE196766:GSM5900283	sex	male	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		Sample ID Genders	True
+GSM5900283	geo:GSE196766:GSM5900283	sex	male	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		RD192 Male	True
+GSM5900283	geo:GSE196766:GSM5900283	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245.txt		Primary BM samples from patients with MM relapsed disease after PI-based therapy	True
+GSM5900283	geo:GSE196766:GSM5900283	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245.txt		Numbers of live PCs isolated from the BM of MM patients with PI-based therapy failure ( n = 7)	True
+GSM5900283	geo:GSE196766:GSM5900283	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		Sample ID Genders	True
+GSM5900283	geo:GSE196766:GSM5900283	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		RD192 Male	True
+GSM5900283	geo:GSE196766:GSM5900283	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245.txt		PCs from one MM patient (RD192) with 1q21 amplification, whose disease failed PI-based therapy	True
+GSM5900283	geo:GSE196766:GSM5900283	treatment_status	post-treatment	file	evidence/PMC10853245.txt		Primary BM samples from patients with MM relapsed disease after PI-based therapy	True
+GSM5900283	geo:GSE196766:GSM5900283	treatment_status	post-treatment	file	evidence/PMC10853245.txt		Numbers of live PCs isolated from the BM of MM patients with PI-based therapy failure ( n = 7)	True
+GSM5900283	geo:GSE196766:GSM5900283	treatment_status	post-treatment	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		Sample ID Genders	True
+GSM5900283	geo:GSE196766:GSM5900283	treatment_status	post-treatment	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		RD192 Male	True
+GSM5900283	geo:GSE196766:GSM5900283	treatment_status	post-treatment	file	evidence/PMC10853245.txt		PCs from one MM patient (RD192) with 1q21 amplification, whose disease failed PI-based therapy	True
+GSM5900284	geo:GSE196766:GSM5900284	donor_id	RP1	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900284	!Sample_title = purified plasma cells from the myeloma patient RP1 cultured and treated with	True
+GSM5900284	geo:GSE196766:GSM5900284	disease_free_text	multiple myeloma	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900284	!Sample_characteristics_ch1 = cell type: primary myeloma plasma cells	True
+GSM5900284	geo:GSE196766:GSM5900284	disease_free_text	multiple myeloma	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900284	!Sample_title = purified plasma cells from the myeloma patient RP1 cultured and treated with	True
+GSM5900284	geo:GSE196766:GSM5900284	disease_free_text	multiple myeloma	file	evidence/PMC10853245.txt		Primary BM samples from patients with MM relapsed disease after PI-based therapy	True
+GSM5900284	geo:GSE196766:GSM5900284	sampled_site_condition	diseased	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900284	!Sample_characteristics_ch1 = cell type: primary myeloma plasma cells	True
+GSM5900284	geo:GSE196766:GSM5900284	tissue_free_text	bone marrow	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900284	!Sample_source_name_ch1 = BM	True
+GSM5900284	geo:GSE196766:GSM5900284	tissue_free_text	bone marrow	file	evidence/PMC10853245.txt		from the bone marrow (BM)	True
+GSM5900284	geo:GSE196766:GSM5900284	tissue_free_text	bone marrow	file	evidence/PMC10853245.txt		Primary BM mononuclear cells isolated from MM patients or healthy donors were enriched in CD138 + PCs	True
+GSM5900284	geo:GSE196766:GSM5900284	tissue_type	cell culture	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900284	!Sample_title = purified plasma cells from the myeloma patient RP1 cultured and treated with	True
+GSM5900284	geo:GSE196766:GSM5900284	tissue_type	cell culture	file	evidence/PMC10853245.txt		Cells were plated in 48-well plates previously seeded on a layer of human BM-derived mesenchymal cells	True
+GSM5900284	geo:GSE196766:GSM5900284	tissue_type	cell culture	file	evidence/PMC10853245.txt		over a layer of mesenchymal cells	True
+GSM5900284	geo:GSE196766:GSM5900284	cell_enrichment	CD138+	file	evidence/PMC10853245.txt		Primary BM mononuclear cells isolated from MM patients or healthy donors were enriched in CD138 + PCs using magnetic sorting with the CD138 Microbead Kit (Miltenyi Biotec)	True
+GSM5900284	geo:GSE196766:GSM5900284	cell_enrichment	CD138+	file	evidence/PMC10853245.txt		Live cells were sorted by flow cytometry and subjected to scRNA-seq analysis	True
+GSM5900284	geo:GSE196766:GSM5900284	suspension_type	cell	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900284	single cells were lysed and barcoded for reverse transcription	True
+GSM5900284	geo:GSE196766:GSM5900284	assay	10x 3' v3	file	work/fp-125fe63b01ea/GSE196766_RAW/GSM5900284_RP1.h5		Single Cell 3' v3	True
+GSM5900284	geo:GSE196766:GSM5900284	gene_annotation_version	refdata-cellranger-GRCh38-3.0.0	file	evidence/PMC10853245.txt		The raw reads were mapped to the human reference genome (refdata-cellranger-GRCh38-3.0.0) using the cellranger count pipeline	True
+GSM5900284	geo:GSE196766:GSM5900284	sex	male	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		Sample ID Genders	True
+GSM5900284	geo:GSE196766:GSM5900284	sex	male	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		RP 1 Male	True
+GSM5900284	geo:GSE196766:GSM5900284	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245.txt		Primary BM samples from patients with MM relapsed disease after PI-based therapy	True
+GSM5900284	geo:GSE196766:GSM5900284	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245.txt		Numbers of live PCs isolated from the BM of MM patients with PI-based therapy failure ( n = 7)	True
+GSM5900284	geo:GSE196766:GSM5900284	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		Sample ID Genders	True
+GSM5900284	geo:GSE196766:GSM5900284	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		RP 1 Male	True
+GSM5900284	geo:GSE196766:GSM5900284	treatment_status	post-treatment	file	evidence/PMC10853245.txt		Primary BM samples from patients with MM relapsed disease after PI-based therapy	True
+GSM5900284	geo:GSE196766:GSM5900284	treatment_status	post-treatment	file	evidence/PMC10853245.txt		Numbers of live PCs isolated from the BM of MM patients with PI-based therapy failure ( n = 7)	True
+GSM5900284	geo:GSE196766:GSM5900284	treatment_status	post-treatment	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		Sample ID Genders	True
+GSM5900284	geo:GSE196766:GSM5900284	treatment_status	post-treatment	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		RP 1 Male	True
+GSM5900285	geo:GSE196766:GSM5900285	donor_id	RP1	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900285	!Sample_title = purified plasma cells from the myeloma patient RP1 cultured and treated with	True
+GSM5900285	geo:GSE196766:GSM5900285	disease_free_text	multiple myeloma	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900285	!Sample_characteristics_ch1 = cell type: primary myeloma plasma cells	True
+GSM5900285	geo:GSE196766:GSM5900285	disease_free_text	multiple myeloma	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900285	!Sample_title = purified plasma cells from the myeloma patient RP1 cultured and treated with	True
+GSM5900285	geo:GSE196766:GSM5900285	disease_free_text	multiple myeloma	file	evidence/PMC10853245.txt		Primary BM samples from patients with MM relapsed disease after PI-based therapy	True
+GSM5900285	geo:GSE196766:GSM5900285	sampled_site_condition	diseased	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900285	!Sample_characteristics_ch1 = cell type: primary myeloma plasma cells	True
+GSM5900285	geo:GSE196766:GSM5900285	tissue_free_text	bone marrow	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900285	!Sample_source_name_ch1 = BM	True
+GSM5900285	geo:GSE196766:GSM5900285	tissue_free_text	bone marrow	file	evidence/PMC10853245.txt		from the bone marrow (BM)	True
+GSM5900285	geo:GSE196766:GSM5900285	tissue_free_text	bone marrow	file	evidence/PMC10853245.txt		Primary BM mononuclear cells isolated from MM patients or healthy donors were enriched in CD138 + PCs	True
+GSM5900285	geo:GSE196766:GSM5900285	tissue_type	cell culture	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900285	!Sample_title = purified plasma cells from the myeloma patient RP1 cultured and treated with	True
+GSM5900285	geo:GSE196766:GSM5900285	tissue_type	cell culture	file	evidence/PMC10853245.txt		Cells were plated in 48-well plates previously seeded on a layer of human BM-derived mesenchymal cells	True
+GSM5900285	geo:GSE196766:GSM5900285	tissue_type	cell culture	file	evidence/PMC10853245.txt		over a layer of mesenchymal cells	True
+GSM5900285	geo:GSE196766:GSM5900285	cell_enrichment	CD138+	file	evidence/PMC10853245.txt		Primary BM mononuclear cells isolated from MM patients or healthy donors were enriched in CD138 + PCs using magnetic sorting with the CD138 Microbead Kit (Miltenyi Biotec)	True
+GSM5900285	geo:GSE196766:GSM5900285	cell_enrichment	CD138+	file	evidence/PMC10853245.txt		Live cells were sorted by flow cytometry and subjected to scRNA-seq analysis	True
+GSM5900285	geo:GSE196766:GSM5900285	suspension_type	cell	file	raw/fp-125fe63b01ea/GSE196766_family.soft.gz	GSM5900285	single cells were lysed and barcoded for reverse transcription	True
+GSM5900285	geo:GSE196766:GSM5900285	assay	10x 3' v3	file	work/fp-125fe63b01ea/GSE196766_RAW/GSM5900285_RP1-NSC.h5		Single Cell 3' v3	True
+GSM5900285	geo:GSE196766:GSM5900285	gene_annotation_version	refdata-cellranger-GRCh38-3.0.0	file	evidence/PMC10853245.txt		The raw reads were mapped to the human reference genome (refdata-cellranger-GRCh38-3.0.0) using the cellranger count pipeline	True
+GSM5900285	geo:GSE196766:GSM5900285	sex	male	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		Sample ID Genders	True
+GSM5900285	geo:GSE196766:GSM5900285	sex	male	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		RP 1 Male	True
+GSM5900285	geo:GSE196766:GSM5900285	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245.txt		Primary BM samples from patients with MM relapsed disease after PI-based therapy	True
+GSM5900285	geo:GSE196766:GSM5900285	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245.txt		Numbers of live PCs isolated from the BM of MM patients with PI-based therapy failure ( n = 7)	True
+GSM5900285	geo:GSE196766:GSM5900285	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		Sample ID Genders	True
+GSM5900285	geo:GSE196766:GSM5900285	disease_stage	relapsed after PI-based therapy	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		RP 1 Male	True
+GSM5900285	geo:GSE196766:GSM5900285	treatment_status	post-treatment	file	evidence/PMC10853245.txt		Primary BM samples from patients with MM relapsed disease after PI-based therapy	True
+GSM5900285	geo:GSE196766:GSM5900285	treatment_status	post-treatment	file	evidence/PMC10853245.txt		Numbers of live PCs isolated from the BM of MM patients with PI-based therapy failure ( n = 7)	True
+GSM5900285	geo:GSE196766:GSM5900285	treatment_status	post-treatment	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		Sample ID Genders	True
+GSM5900285	geo:GSE196766:GSM5900285	treatment_status	post-treatment	file	evidence/PMC10853245_supplementary/41467_2024_45350_MOESM6_ESM.xlsx		RP 1 Male	True
